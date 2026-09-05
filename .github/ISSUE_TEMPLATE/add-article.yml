@@ -1,0 +1,34 @@
+name: Add article
+description: Add a single article to the reading library by DOI, PMID, or URL.
+title: "[add] "
+labels: ["add-article"]
+body:
+  - type: input
+    id: identifier
+    attributes:
+      label: DOI, PMID, or URL
+      description: A DOI (10.xxxx/...), a PubMed ID, or a URL that resolves to one.
+      placeholder: "10.1056/NEJMoa2312266"
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - ECMO
+        - Respiratory/ARDS
+        - Shock & Sepsis
+        - Neurocritical Care
+        - Cardiac CC
+        - Renal
+        - Misc
+    validations:
+      required: true
+  - type: textarea
+    id: take
+    attributes:
+      label: One-line take
+      description: Optional one-sentence note on why this article matters.
+    validations:
+      required: false

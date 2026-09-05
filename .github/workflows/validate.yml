@@ -1,0 +1,107 @@
+name: Validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run validate.py
+        run: python3 scripts/validate.py
+
+      - name: Run unit tests
+        run: python3 -m unittest discover -s tests -p 'test_*.py'
+
+      - name: No tracked PDFs
+        run: |
+          MATCHES=$(git ls-files | grep -i '\.pdf$' || true)
+          if [ -n "$MATCHES" ]; then
+            echo "Tracked PDF files found (this repo is metadata-only):"
+            echo "$MATCHES"
+            exit 1
+          fi
+          echo "OK no tracked PDFs"
+
+      - name: New DOIs resolve
+        if: github.event_name == 'pull_request'
+        run: |
+          set -e
+          BASE_REF="origin/${{ github.base_ref }}"
+          git fetch origin "${{ github.base_ref }}" --depth=1 2>/dev/null || true
+
+          python3 - "$BASE_REF" <<'PYEOF'
+          import json
+          import subprocess
+          import sys
+
+          base_ref = sys.argv[1]
+
+          def load_dois(text):
+              try:
+                  data = json.loads(text)
+              except Exception:
+                  return set()
+              return {rec.get("doi") for rec in data if isinstance(rec, dict) and rec.get("doi")}
+
+          with open("data/catalog.json", encoding="utf-8") as f:
+              head_dois = load_dois(f.read())
+
+          try:
+              base_text = subprocess.check_output(
+                  ["git", "show", f"{base_ref}:data/catalog.json"],
+                  stderr=subprocess.DEVNULL,
+              ).decode("utf-8")
+              base_dois = load_dois(base_text)
+          except subprocess.CalledProcessError:
+              base_dois = set()
+
+          new_dois = sorted(head_dois - base_dois)
+          with open("/tmp/new_dois.txt", "w", encoding="utf-8") as f:
+              f.write("\n".join(new_dois))
+          print(f"{len(new_dois)} new DOI(s) found")
+          PYEOF
+
+          COUNT=$(wc -l < /tmp/new_dois.txt | tr -d ' ')
+          if [ -z "$(cat /tmp/new_dois.txt)" ]; then
+            echo "No new DOIs to check."
+            exit 0
+          fi
+
+          TOTAL=$(grep -c . /tmp/new_dois.txt || true)
+          LIMIT=20
+          if [ "$TOTAL" -gt "$LIMIT" ]; then
+            echo "More than $LIMIT new DOIs ($TOTAL) — checking the first $LIMIT only."
+          fi
+
+          FAILED=0
+          i=0
+          while IFS= read -r doi; do
+            [ -z "$doi" ] && continue
+            i=$((i + 1))
+            if [ "$i" -gt "$LIMIT" ]; then
+              break
+            fi
+            CODE=$(curl -sIL -o /dev/null -w '%{http_code}' "https://doi.org/$doi" || echo "000")
+            if [[ "$CODE" =~ ^[23] ]]; then
+              echo "OK $doi -> $CODE"
+            else
+              echo "FAIL $doi -> $CODE"
+              FAILED=1
+            fi
+            sleep 0.5
+          done < /tmp/new_dois.txt
+
+          exit $FAILED
