@@ -147,12 +147,15 @@ def strip_transient_fields(records: dict) -> None:
 def register_digest(digests: list, id: str, kind: str, date: str, title: str,
                      dois: list, source_file: str) -> list:
     """Idempotent: replaces any existing entry with the same id."""
+    prev = next((d for d in digests if d.get("id") == id), None)
     entry = {
         "id": id,
         "kind": kind,
         "date": date,
         "title": title,
         "dois": sorted(set(norm_doi(d) for d in dois)),
+        # preserve build.py's computed counts so a re-ingest is byte-identical
+        "counts": (prev or {}).get("counts", {}),
         "source_file": source_file,
     }
     out = [d for d in digests if d.get("id") != id]

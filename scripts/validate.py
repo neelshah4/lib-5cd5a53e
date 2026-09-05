@@ -16,7 +16,7 @@ CATALOG_KEYS = {
     "doi": str, "pmid": (str, type(None)), "title": str, "authors": list,
     "journal": (str, type(None)), "year": (int, type(None)), "pub_date": (str, type(None)),
     "pub_types": list, "section": str, "subtopic": (str, type(None)), "tags": list,
-    "take": str, "impact": (int, float, type(None)), "digests": list,
+    "take": str, "impact": (str, type(None)), "digests": list,
     "first_seen": (str, type(None)), "source": (str, type(None)), "confidence": (int, float, type(None)),
     "verified": bool, "oa": bool, "has_abstract": bool, "url": (str, type(None)),
 }

@@ -114,8 +114,10 @@ class TempCatalogTestCase(unittest.TestCase):
         self.tmp = tempfile.mkdtemp(prefix="ccrl_test_")
         self.tmp_data = Path(self.tmp) / "data"
         self.tmp_local = Path(self.tmp) / "local"
-        shutil.copytree(REPO / "data", self.tmp_data)
-        shutil.copytree(REPO / "local", self.tmp_local)
+        # Start from an EMPTY catalog so fixture DOIs (real DOIs) never collide with live data.
+        self.tmp_data.mkdir(); self.tmp_local.mkdir()
+        (self.tmp_data / "catalog.json").write_text("[]"); (self.tmp_local / "unverified.json").write_text("[]")
+        (self.tmp_data / "digests.json").write_text("[]"); (self.tmp_data / "zotero_state.json").write_text("{}")
 
         self._orig_pub = catalog_io.PUB
         self._orig_loc = catalog_io.LOC
