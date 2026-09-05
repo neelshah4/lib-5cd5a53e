@@ -105,6 +105,60 @@ KW  - AKI
 ER  - 
 
 TY  - JOUR
+TI  - Neonatal Survival After Serial Amnioinfusions for Anhydramnios Due to Fetal Kidney Failure: The RAFT Clinical Trial
+AU  - Miller JL
+AU  - Baschat AA
+AU  - Johnson A
+AU  - Blumenfeld YJ
+AU  - Schenone MH
+AU  - Gebb JS
+AU  - Moldenhauer JS
+AU  - Zaretsky MV
+AU  - Chmait RH
+AU  - Gonzalez JM
+AU  - Miller RS
+AU  - Krispin E
+AU  - Shamshirsaz A
+AU  - Bligard KH
+AU  - Kalan AM
+AU  - Sanz Cortes M
+AU  - Moon-Grady AJ
+AU  - Bendel-Stenzel E
+AU  - Menon S
+AU  - Wong C
+AU  - Grimm P
+AU  - Kwak C
+AU  - Gallup J
+AU  - McKenna KJ
+AU  - Marron L
+AU  - Hanna C
+AU  - Tran CL
+AU  - Behrendt NJ
+AU  - Galan HL
+AU  - Samuels J
+AU  - Swinford R
+AU  - Keiser AM
+AU  - Rosner M
+AU  - Kush ML
+AU  - Nasr I
+AU  - Vasu S
+AU  - Boss RD
+AU  - Jelin AC
+AU  - Thompson RE
+AU  - Davis JM
+AU  - Warren DS
+AU  - Hanley DF
+AU  - Atkinson MA
+JO  - JAMA
+PY  - 2026
+DO  - 10.1001/jama.2026.8568
+AN  - 42384373
+UR  - https://jamanetwork.com/journals/jama/fullarticle/2850820
+KW  - Renal
+KW  - 2026-W34
+ER  - 
+
+TY  - JOUR
 TI  - Correction Rates and Clinical Outcomes in Hospitalized Adults With Severe Hyponatremia
 AU  - Ayus, Juan Carlos
 AU  - Moritz, Michael L.
@@ -1188,6 +1242,23 @@ KW  - AKI
 ER  - 
 
 TY  - JOUR
+TI  - Acute Kidney Injury After Pediatric Heart Transplant: The Impact of Intraoperative Hemodynamics Using High-Fidelity Data
+AU  - Cummins M
+AU  - Madden B
+AU  - Thrush PT
+AU  - Basu R
+AU  - Loomba RS
+JO  - Pediatric Cardiology
+PY  - 2026
+DO  - 10.1007/s00246-026-04377-y
+AN  - 42461379
+UR  - https://link.springer.com/10.1007/s00246-026-04377-y
+KW  - Renal
+KW  - 2026-W29
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
 TI  - Molecular adsorbent recirculating system (MARS®) and continuous renal replacement therapy for the treatment of paediatric acute liver failure — two-centre retrospective cohort study
 AU  - Saxena, Romit
 AU  - Alexander, Emma C.
@@ -1203,6 +1274,39 @@ DO  - 10.1007/s00431-025-06013-y
 UR  - https://link.springer.com/article/10.1007/s00431-025-06013-y?s=09
 KW  - Renal
 KW  - CRRT
+ER  - 
+
+TY  - JOUR
+TI  - Fluid balance and acute lung injury in children and young adults receiving continuous renal replacement therapy: a report from the Worldwide Exploration of Renal Replacement Outcomes Collaborative in Kidney Disease (WE-ROCK)
+AU  - Rumlow ZA
+AU  - Seo J
+AU  - Strong A
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07285-8
+AN  - 42550275
+UR  - https://link.springer.com/10.1007/s00431-026-07285-8
+KW  - Renal
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Incidence and factors associated with acute kidney injury after the bidirectional Glenn procedure in patients with functional single ventricle
+AU  - Li L
+AU  - Yin Y
+AU  - Song L
+AU  - Feng Z
+AU  - Ma J
+AU  - Luo D
+AU  - Liu S
+AU  - Li S
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07336-0
+AN  - 42587182
+UR  - https://link.springer.com/10.1007/s00431-026-07336-0
+KW  - Renal
+KW  - 2026-W34
 ER  - 
 
 TY  - JOUR
@@ -1709,6 +1813,35 @@ KW  - CRRT
 ER  - 
 
 TY  - JOUR
+TI  - Development and Internal Validation of Machine Learning in Predicting Prognosis of Acute Kidney Injury Patients in Resource-Limited Setting
+AU  - Lertussavavivat T
+AU  - Sriswasdi S
+AU  - Faisatjatham S
+AU  - (Srisawat N; Southeast Asia AKI cohort
+AU  - 6 countries)
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155479
+AN  - 41655404
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126000572
+KW  - Renal
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - Association of Timing of Vasopressin Initiation With Renal Replacement Therapy in Septic Shock Patients](https://pubmed.ncbi.nlm.nih.gov/42617219/) ([DOI
+AU  - Lee JK
+AU  - Vaughan LE
+AU  - Cureton KD
+AU  - Kashani KB.
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155713)
+KW  - Renal
+KW  - 2026-W35
+ER  - 
+
+TY  - JOUR
 TI  - Risk of OvercorrecStion in Rapid Intermittent Bolus vs Slow Continuous Infusion Therapies of Hypertonic Saline for Patients with Symptomatic Hyponatremia: The SALSA Randomized Clinical Trial
 AU  - Wagner, Benjamin Robert
 AU  - Lewis, Zachary B.
@@ -1791,6 +1924,21 @@ KW  - CRRT
 ER  - 
 
 TY  - JOUR
+TI  - Prognostic Performance of Plasma and Urinary Biomarkers of Kidney Injury and Function After Out-Of-Hospital Cardiac Arrest
+AU  - Lim SL
+AU  - Woo KL
+AU  - Au AY
+AU  - (Pickering JW; National University Heart Centre Singapore / University of Otago)
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111163
+AN  - 42264173
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226002108
+KW  - Renal
+KW  - 2026-W24
+ER  - 
+
+TY  - JOUR
 TI  - From Surviving Sepsis to Surviving Sepsis-Associated Acute Kidney Injury: Focusing on Risk Stratification of Acute Kidney Injury / Acute Kidney Disease After Sepsis
 AU  - Kothari, Niraj R.
 AU  - Gipson, Graham T.
@@ -1855,6 +2003,186 @@ DO  - 10.1016/s0140-6736(21)00350-0
 UR  - https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00350-0/fulltext
 KW  - Renal
 KW  - AKI
+ER  - 
+
+TY  - JOUR
+TI  - Benzylpenicillin versus flucloxacillin or cloxacillin for the treatment of penicillin-susceptible Staphylococcus aureus bacteraemia (SNAP): an international, multicentre, open-label, non-inferiority randomised controlled trial
+AU  - Davis JS
+AU  - Robinson OJ
+AU  - Walls G
+AU  - Cheng MP
+AU  - Yahav D
+AU  - Hensgens MPM
+AU  - Goodman AL
+AU  - Lye DC
+AU  - Boyles T
+AU  - Barina LA
+AU  - Goulding SR
+AU  - Ekkelenkamp MB
+AU  - Henderson A
+AU  - Jager NGL
+AU  - Kaasch AJ
+AU  - Kouijzer IJE
+AU  - McKew G
+AU  - McMullan BJ
+AU  - Ghanem-Zoubi N
+AU  - Lewis RJ
+AU  - Lumley T
+AU  - McLean ARD
+AU  - Snelling TL
+AU  - Turner RM
+AU  - Tverring J
+AU  - Webb SA
+AU  - Ali SS
+AU  - Anagnostou NA
+AU  - Anpalagan K
+AU  - Archuleta S
+AU  - Athan E
+AU  - Barber BE
+AU  - Baskaran A
+AU  - Best EJ
+AU  - Bloomfield MG
+AU  - Borrie MD
+AU  - Bostock J
+AU  - Boswell MT
+AU  - Boyd MA
+AU  - Bradshaw SME
+AU  - Britton PN
+AU  - Campbell AJ
+AU  - Chancellor JA
+AU  - Chen K
+AU  - Chew KL
+AU  - Chomba R
+AU  - Chong BSW
+AU  - Clews CJN
+AU  - Cohen JM
+AU  - Daley P
+AU  - Daneman N
+AU  - Daniel DS
+AU  - Davies J
+AU  - De P
+AU  - Denholm JT
+AU  - Di Virgilio M
+AU  - Easom N
+AU  - Eliakim Raz N
+AU  - Findlater AR
+AU  - Flanagan KL
+AU  - Foo EZJ
+AU  - Giulieri SG
+AU  - Grant JM
+AU  - Gregson D
+AU  - Grimwade KC
+AU  - Guy SD
+AU  - Gwee A
+AU  - van Hal SJ
+AU  - Hardy EJ
+AU  - Harrison EM
+AU  - Hatcher J
+AU  - Hobbs MR
+AU  - Holmes NE
+AU  - Howden BP
+AU  - Huggan PJ
+AU  - Johnstone J
+AU  - de Jongh F
+AU  - Kalimuddin S
+AU  - Kelly MJ
+AU  - Kiers YE
+AU  - Kleinnijenhuis J
+AU  - Lee IR
+AU  - Llewelyn MJ
+AU  - Lother SA
+AU  - Mahony AA
+AU  - Malhamé I
+AU  - Manning LA
+AU  - Marks M
+AU  - McDonald EG
+AU  - McMahon JH
+AU  - McNally J
+AU  - Meyer MP
+AU  - Mora JM
+AU  - Moran E
+AU  - Morpeth SC
+AU  - Muller MP
+AU  - Munro APS
+AU  - Murray FA
+AU  - Murthy S
+AU  - Nel H
+AU  - New DWJ
+AU  - Nguyen V
+AU  - Norton G
+AU  - Nourse CB
+AU  - Ong SWX
+AU  - O'Callaghan K
+AU  - Olchowski J
+AU  - O'Sullivan MVN
+AU  - Outhred AC
+AU  - Papenburg J
+AU  - Parkes LO
+AU  - Petersiel N
+AU  - Petrella L
+AU  - Pett SL
+AU  - Piazzese CJ
+AU  - Poulin S
+AU  - Rehak R
+AU  - Rennert-May E
+AU  - Rogers BA
+AU  - Sahng E
+AU  - Scheuerman O
+AU  - Schulz TR
+AU  - Schwartz KL
+AU  - Shirin N
+AU  - Stabholz Y
+AU  - Sinkeler FS
+AU  - Somayaji R
+AU  - Sommerville C
+AU  - Stark MJ
+AU  - Stone NRH
+AU  - Strunk T
+AU  - Sud A
+AU  - Sutjipto S
+AU  - Symons CR
+AU  - Tan YE
+AU  - Teo TSP
+AU  - Thien SY
+AU  - Thomas A
+AU  - Trad MA
+AU  - Tsang JLY
+AU  - Underwood J
+AU  - Verberk JDM
+AU  - Voss LM
+AU  - Ward D
+AU  - Webb RH
+AU  - Webb-Harvey ZJ
+AU  - Wilson HL
+AU  - Wong She K
+AU  - Wu S
+AU  - Wuerz T
+AU  - Yamamura DL
+AU  - Yelin D
+AU  - Arias CA
+AU  - Bonten M
+AU  - Bowen AC
+AU  - Heriot GS
+AU  - McQuilten ZK
+AU  - ten Oever J
+AU  - Paterson DL
+AU  - Roberts JA
+AU  - Saito H
+AU  - Scarborough M
+AU  - Whiteway LM
+AU  - Dymock M
+AU  - Mahar RK
+AU  - McGlothlin A
+AU  - Marsh JA
+AU  - Tong SYC
+AU  - Lee TC
+JO  - Lancet
+PY  - 2026
+DO  - 10.1016/s0140-6736(26)00761-0
+AN  - 42309115
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0140673626007610
+KW  - Renal
+KW  - 2026-W28
 ER  - 
 
 TY  - JOUR
@@ -1977,6 +2305,50 @@ DO  - 10.1053/j.ajkd.2025.11.012
 UR  - https://www.ajkd.org/article/S0272-6386(26)00051-X/fulltext
 KW  - Renal
 KW  - AKI
+ER  - 
+
+TY  - JOUR
+TI  - Low-Dose Postoperative Amino Acid Infusion and Kidney Protection After Cardiac Surgery: A Before-and-After Observational Cohort Study
+AU  - Ajello V
+AU  - Franceschini G
+AU  - Lorini A
+AU  - Deiana C
+AU  - Abate D
+AU  - Cecili A
+AU  - Gatta M
+AU  - Farinaccio A
+AU  - De Felice L
+AU  - Nardi P
+AU  - D’Onofrio A
+JO  - J Cardiothorac Vasc Anesth
+PY  - 2026
+DO  - 10.1053/j.jvca.2026.03.044
+AN  - 42062166
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1053077026002764
+KW  - Renal
+KW  - 2026-W27
+ER  - 
+
+TY  - JOUR
+TI  - Vasopressin and Major Adverse Kidney Events in Patients Requiring Vasopressor Support After Cardiac Surgery: A Multicenter Retrospective Cohort Study
+AU  - White KC
+AU  - Coulson TG
+AU  - Serpa-Neto A
+AU  - Ramanan M
+AU  - Burrell A
+AU  - McCullough J
+AU  - Shekar K
+AU  - Costa-Pinto R
+AU  - Whebell S
+AU  - Blank S
+AU  - Udy A
+JO  - J Cardiothorac Vasc Anesth
+PY  - 2026
+DO  - 10.1053/j.jvca.2026.04.011
+AN  - 42070933
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1053077026003010
+KW  - Renal
+KW  - 2026-W27
 ER  - 
 
 TY  - JOUR
@@ -2152,6 +2524,24 @@ KW  - electrolytes
 ER  - 
 
 TY  - JOUR
+TI  - Sodium Bicarbonate for Critically Ill Adults with Metabolic Acidosis and Shock
+AU  - Serpa Neto A
+AU  - McNamara M
+AU  - White K
+AU  - (Bellomo R
+AU  - Udy A; ANZICRC — 55 ICUs
+AU  - 7 countries)
+JO  - New England Journal of Medicine
+PY  - 2026
+DO  - 10.1056/nejmoa2600526
+AN  - 42283370
+UR  - http://www.nejm.org/doi/10.1056/NEJMoa2600526
+KW  - Renal
+KW  - 2026-W24
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
 TI  - Effects of prophylactic antibiotics before peritoneal dialysis catheter implantation on the clinical outcomes of peritoneal dialysis patients
 AU  - Liu, Xihui
 AU  - Zuo, Xiaoyan
@@ -2314,6 +2704,88 @@ KW  - AKI
 ER  - 
 
 TY  - JOUR
+TI  - Divergence Between Net Fluid and Weight-Based Evaluation in Calculating Cumulative Fluid Balance
+AU  - Shinnick FJ
+AU  - Hasson DC
+AU  - Kothari U
+AU  - (Dziorny AC; 4 pediatric academic centers
+AU  - 6 PICUs/PCICUs)
+JO  - Critical Care Explorations
+PY  - 2026
+DO  - 10.1097/cce.0000000000001411
+AN  - 42267872
+UR  - https://journals.lww.com/10.1097/CCE.0000000000001411
+KW  - Renal
+KW  - 2026-W24
+KW  - 2026-06
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Amino Acid Deficiency Secondary to Continuous Venovenous Hemofiltration in Acute Decompensation of Organic Acidemias: An Anabolic Dead End?
+AU  - Grosyeux C
+AU  - Cammiciotto N
+AU  - Jeannesson E
+JO  - Crit Care Explor
+PY  - 2026
+DO  - 10.1097/cce.0000000000001413
+AN  - 42538737
+UR  - https://www.ovid.com/10.1097/CCE.0000000000001413
+KW  - Renal
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - External Validation, Recalibration, and Extension of a Prediction Model of Early Acute Kidney Injury in Critically Ill Children Using Multicenter Data
+AU  - Dziorny AC
+AU  - Drury S
+AU  - Clark A
+AU  - (Shah N
+AU  - Sanchez-Pinto LN; PEDSnet-VPS + PICU Data Collaborative — 8 institutions)
+JO  - Crit Care Explor
+PY  - 2026
+DO  - 10.1097/cce.0000000000001425
+AN  - 42183744
+UR  - https://journals.lww.com/10.1097/CCE.0000000000001425
+KW  - Renal
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - Drug Clearance and Dosing During CytoSorb Hemoadsorption: A Systematic Review
+AU  - Klaus T
+AU  - Honoré PM
+AU  - Bottari G
+AU  - De Rosa S
+AU  - Kindgen-Milles D
+AU  - Schneider A
+AU  - Marczin N
+AU  - Adamson H
+AU  - Scheier J
+AU  - Deliargyris EN
+AU  - Nolin TD
+JO  - Critical Care Explorations
+PY  - 2026
+DO  - 10.1097/cce.0000000000001444
+AN  - 42453077
+UR  - https://www.ovid.com/10.1097/CCE.0000000000001444
+KW  - Renal
+KW  - 2026-W29
+ER  - 
+
+TY  - JOUR
+TI  - Clinical Subphenotypes and Short-Term Outcomes in PICU Patients Receiving Continuous Blood Purification](https://pubmed.ncbi.nlm.nih.gov/42608963/) ([DOI
+AU  - Huang K
+AU  - Ke J
+AU  - Wang Z
+JO  - Crit Care Explor
+PY  - 2026
+DO  - 10.1097/cce.0000000000001460)
+KW  - Renal
+KW  - 2026-W35
+ER  - 
+
+TY  - JOUR
 TI  - Mediators of the Impact of Hourly Net Ultrafiltration Rate on Mortality in Critically Ill Patients Receiving Continuous Renal Replacement Therapy
 AU  - Naorungroj, Thummaporn
 AU  - Neto, Ary Serpa
@@ -2431,6 +2903,50 @@ DO  - 10.1097/ccm.0000000000005836
 UR  - https://journals.lww.com/ccmjournal/Abstract/2023/06000/Fluid_Overload_Precedes_and_Masks_Cryptic_Kidney.7.aspx
 KW  - Renal
 KW  - AKI
+ER  - 
+
+TY  - JOUR
+TI  - Sodium Bicarbonate for Acute Metabolic Acidosis in Critically Ill Adults: A Meta-Analysis of Randomized Clinical Trials
+AU  - Chen JJ
+AU  - Lee TH
+AU  - Chang CH
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007179
+AN  - 42171427
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007179
+KW  - Renal
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Diagnostic and Prognostic Value of the Venous Excess Ultrasound Grading System: A Systematic Review and Meta-Analysis
+AU  - Klompmaker P
+AU  - Opschoor K
+AU  - Dalen JT
+AU  - (Tuinman PR; Amsterdam UMC)
+JO  - Critical Care Medicine
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007219
+AN  - 42262338
+UR  - https://journals.lww.com/10.1097/CCM.0000000000007219
+KW  - Renal
+KW  - 2026-W24
+ER  - 
+
+TY  - JOUR
+TI  - Heterogeneous Treatment Effects of Renal Replacement Therapy in Critically Ill Patients: A Multicenter Observational Study Using a Japanese ICU Registry
+AU  - Nakamura S
+AU  - Inoue K
+AU  - Takahashi K
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007282
+AN  - 42573413
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007282
+KW  - Renal
+KW  - 2026-W33
+KW  - 2026-W34
 ER  - 
 
 TY  - JOUR
@@ -2629,6 +3145,27 @@ KW  - AKI
 ER  - 
 
 TY  - JOUR
+TI  - Pre-Emptive Initiation of Continuous Renal Replacement Therapy in Patients With Acute Liver Failure With Cerebral Edema Improves Outcomes: A Randomized Controlled Trial
+AU  - Maiwall R
+AU  - Bajpai M
+AU  - Pasupuleti SSR
+AU  - Chauhan N
+AU  - Prajapati M
+AU  - Prasad M
+AU  - Agarwal P
+AU  - Mathur RP
+AU  - Thomas S
+AU  - Sarin SK
+JO  - Alimentary Pharmacology & Therapeutics
+PY  - 2026
+DO  - 10.1111/apt.70794
+AN  - 42332991
+UR  - https://onlinelibrary.wiley.com/doi/10.1111/apt.70794
+KW  - Renal
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
 TI  - Fluid overload deteriorate chylothorax: evaluation in a canine model
 AU  - Honda, M.
 AU  - Hori, Y.
@@ -2654,6 +3191,20 @@ DO  - 10.1111/nep.14132
 UR  - https://onlinelibrary.wiley.com/doi/10.1111/nep.14132
 KW  - Renal
 KW  - AKI
+ER  - 
+
+TY  - JOUR
+TI  - Early treatment with rasburicase and risk of kidney replacement therapy and death in adults with tumour lysis syndrome: emulated target trial
+AU  - Shenoy T
+AU  - Sanchez-Almanzar D
+AU  - Dias JA
+JO  - BMJ
+PY  - 2026
+DO  - 10.1136/bmj-2026-100040
+AN  - 42492944
+UR  - https://www.bmj.com/lookup/doi/10.1136/bmj-2026-100040
+KW  - Renal
+KW  - 2026-W31
 ER  - 
 
 TY  - JOUR
@@ -2751,6 +3302,20 @@ DO  - 10.1136/bmjpo-2023-002094
 UR  - https://bmjpaedsopen.bmj.com/content/7/1/e002094
 KW  - Renal
 KW  - fluid-overload
+ER  - 
+
+TY  - JOUR
+TI  - Renal injury and hypocalcaemia in newborns with birth asphyxia at a tertiary care centre: a prospective observational study
+AU  - Tard SC
+AU  - Tanwar GS
+AU  - Berwal PK
+JO  - BMJ Paediatrics Open
+PY  - 2026
+DO  - 10.1136/bmjpo-2025-003982
+AN  - 42457390
+UR  - https://bmjpaedsopen.bmj.com/lookup/doi/10.1136/bmjpo-2025-003982
+KW  - Renal
+KW  - 2026-W29
 ER  - 
 
 TY  - JOUR
@@ -2882,6 +3447,20 @@ DO  - 10.1161/circulationaha.123.066012
 UR  - https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.123.066012
 KW  - Renal
 KW  - AKI
+ER  - 
+
+TY  - JOUR
+TI  - Acute Kidney Injury After Intensive Blood Pressure Lowering Following Successful Endovascular Thrombectomy
+AU  - Jung JW
+AU  - Koh HB
+AU  - Kim YD
+JO  - Stroke
+PY  - 2026
+DO  - 10.1161/strokeaha.126.056127
+AN  - 42495732
+UR  - https://www.ahajournals.org/doi/10.1161/STROKEAHA.126.056127
+KW  - Renal
+KW  - 2026-W31
 ER  - 
 
 TY  - JOUR
@@ -3086,6 +3665,30 @@ DO  - 10.1186/s12882-022-03009-w
 UR  - https://bmcnephrol.biomedcentral.com/articles/10.1186/s12882-022-03009-w
 KW  - Renal
 KW  - electrolytes
+ER  - 
+
+TY  - JOUR
+TI  - Timing of renal-replacement therapy in patients with acute kidney injury and sepsis: a systematic review and meta-analysis
+AU  - Bin Sahaq Z
+AU  - Alotaibi SMA
+AU  - Ali MAM
+AU  - Alanzi RK
+AU  - AlHayki G
+AU  - Almalki F
+AU  - Alshehri AM
+AU  - Dandal F
+AU  - Al Kassih M
+AU  - Alshanqiti AI
+AU  - AlOtaibi HF
+AU  - Elaraby A
+AU  - Alrashidi FS
+JO  - BMC Nephrology
+PY  - 2026
+DO  - 10.1186/s12882-026-05132-4
+AN  - 42316052
+UR  - https://link.springer.com/10.1186/s12882-026-05132-4
+KW  - Renal
+KW  - 2026-06
 ER  - 
 
 TY  - JOUR
@@ -3608,6 +4211,101 @@ KW  - AKI
 ER  - 
 
 TY  - JOUR
+TI  - Metabolic complications of citrate anticoagulation in continuous renal replacement therapy (CRRT): a Delphi consensus on indications, monitoring and management
+AU  - Jacobs R
+AU  - Schneider A
+AU  - Hoste E
+AU  - (29-expert international panel; Ostermann M
+AU  - Prowle J
+AU  - Palevsky P)
+JO  - Crit Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06066-x
+AN  - 42129846
+UR  - https://link.springer.com/10.1186/s13054-026-06066-x
+KW  - Renal
+KW  - 2026-W21
+ER  - 
+
+TY  - JOUR
+TI  - Hyperlactatemia in sepsis and shock: a renal metabolic perspective
+AU  - Payen D
+AU  - Rimmele T
+AU  - Gomez H (University of Pittsburgh / CHU Nice)
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06095-6
+AN  - 42237139
+UR  - https://link.springer.com/10.1186/s13054-026-06095-6
+KW  - Renal
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - Intraoperative hemoadsorption and cardiac surgery-associated acute kidney injury: an updated systematic review and meta-analysis with trial sequential analysis
+AU  - Liu M
+AU  - Lin D
+AU  - Zhou R.
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06099-2
+AN  - 42498964
+UR  - https://link.springer.com/10.1186/s13054-026-06099-2
+KW  - Renal
+KW  - 2026-W31
+ER  - 
+
+TY  - JOUR
+TI  - Acute Kidney Injury Among Intensive Care Unit Patients in Denmark: Temporal Changes in Mortality and Kidney Outcomes from 2010 to 2024
+AU  - Christiansen SH
+AU  - Gammelager H
+AU  - Jensen SK
+AU  - Christiansen CF (Aarhus University Hospital
+AU  - Denmark)
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06125-3
+AN  - 42271512
+UR  - https://link.springer.com/10.1186/s13054-026-06125-3
+KW  - Renal
+KW  - 2026-W24
+ER  - 
+
+TY  - JOUR
+TI  - Implementation of the Kidney Protection Strategy in Critically Ill Patients With Acute Kidney Injury: A Multi-Center Prospective Cohort Study
+AU  - [First author not listed in section metadata]
+AU  - (European multicenter ICU cohort; N=258 adult ICU patients with KDIGO stage 2–3 AKI requiring vasopressors or MV)
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06144-0
+AN  - 42321935
+UR  - https://link.springer.com/10.1186/s13054-026-06144-0
+KW  - Renal
+KW  - 2026-W25
+ER  - 
+
+TY  - JOUR
+TI  - Sodium bicarbonate therapy in severe metabolic acidemia: an individual patient data meta-analysis of the BICAR-ICU and BICAR-ICU2 trials
+AU  - Fosset M
+AU  - Pensier J
+AU  - Jabaudon M
+AU  - Bitker L
+AU  - De Jong A
+AU  - Chanques G
+AU  - Huguet H
+AU  - Molinari N
+AU  - Jaber S
+AU  - Jung B
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06206-3
+AN  - 42472834
+UR  - https://link.springer.com/10.1186/s13054-026-06206-3
+KW  - Renal
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
 TI  - Impact of dexamethasone in severe COVID-19-induced acute kidney injury: a multicenter cohort study
 AU  - Rubin, Sébastien
 AU  - Orieux, Arthur
@@ -3910,6 +4608,28 @@ KW  - AKI
 ER  - 
 
 TY  - JOUR
+TI  - Balanced crystalloids vs. 0.9% saline in pediatric diabetic ketoacidosis: a systematic review and meta-analysis of randomized controlled trials
+AU  - Alkhairi Z
+AU  - Kajo C
+AU  - Zadeh AA
+AU  - Khaja D
+AU  - Alqaryuti M
+AU  - Alsaleh NK
+AU  - Alibrahim R
+AU  - Almuhannadi F
+AU  - Al Hammad S
+AU  - Alqanea F
+AU  - Alfehaid A
+JO  - Frontiers in Pediatrics
+PY  - 2026
+DO  - 10.3389/fped.2026.1879829
+AN  - 42495261
+UR  - https://www.frontiersin.org/articles/10.3389/fped.2026.1879829/full
+KW  - Renal
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
 TI  - Decreased Intraoperative Renal Tissue Oxygenation after Cardiopulmonary Bypass Predicts Cardiac Surgery-Associated Acute Kidney Injury in Neonates.
 AU  - Condit PE
 AU  - Gorski DP
@@ -4047,6 +4767,19 @@ DO  - 10.5492/wjccm.v13.i2.89644
 UR  - https://www.wjgnet.com/2220-3141/full/v13/i2/89644.htm
 KW  - Renal
 KW  - AKI
+ER  - 
+
+TY  - JOUR
+TI  - Critical care considerations in rhabdomyolysis-associated acute kidney injury and kidney replacement therapy
+AU  - Wong FHA
+AU  - See KC
+JO  - World Journal of Nephrology
+PY  - 2026
+DO  - 10.5527/wjn.v15.i2.118309
+AN  - 42395677
+UR  - https://www.wjgnet.com/2220-6124/full/v15/i2/118309.htm
+KW  - Renal
+KW  - 2026-07
 ER  - 
 
 TY  - JOUR

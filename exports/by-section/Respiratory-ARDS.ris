@@ -227,6 +227,56 @@ KW  - general
 ER  - 
 
 TY  - JOUR
+TI  - Prone Positioning in Infants With Acute Bronchiolitis: The PROPOSITIS Randomized Clinical Trial
+AU  - Baudin F
+AU  - Pouyau R
+AU  - Subtil F
+AU  - Jarrasse C
+AU  - Tochon M
+AU  - Afanetti M
+AU  - Milési C
+AU  - Piloquet JE
+AU  - Mortamet G
+AU  - Nallet Amate M
+AU  - Launay V
+AU  - Cour Andlauer F
+AU  - Roche S
+AU  - Levy M
+AU  - Rambaud J
+AU  - Portefaix A
+AU  - Javouhey E
+AU  - PROPOSITIS Investigators
+AU  - BROSSIER D
+AU  - CHANTREUIL J
+AU  - FERNANDES M
+AU  - PAGET C
+AU  - PATURAL H
+AU  - RENOLLEAU S
+AU  - WIEDEMANN A
+JO  - JAMA
+PY  - 2026
+DO  - 10.1001/jama.2026.11078
+AN  - 42307570
+UR  - https://jamanetwork.com/journals/jama/fullarticle/2850558
+KW  - Respiratory/ARDS
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Prone Positioning in Viral Bronchiolitis—Back to the Back?
+AU  - Kohne JG
+AU  - Conway SR
+AU  - Shein SL
+JO  - JAMA
+PY  - 2026
+DO  - 10.1001/jama.2026.11742
+AN  - 42307574
+UR  - https://jamanetwork.com/journals/jama/fullarticle/2850559
+KW  - Respiratory/ARDS
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
 TI  - Readmission Rates After Acute Respiratory Distress Syndrome in Children
 AU  - Keim, Garrett
 AU  - Hsu, Jesse Y.
@@ -356,6 +406,22 @@ KW  - general
 ER  - 
 
 TY  - JOUR
+TI  - Acute Respiratory Tract Infections and Severe Disease Among Hospitalized Children
+AU  - Mtaweh H
+AU  - Kaziev CL
+AU  - Feinstein CA
+AU  - (Gill PJ; Hospital for Sick Children and BC Children's Hospital)
+JO  - JAMA Network Open
+PY  - 2026
+DO  - 10.1001/jamanetworkopen.2026.17575
+AN  - 42262751
+UR  - https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2850063
+KW  - Respiratory/ARDS
+KW  - 2026-W24
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
 TI  - Association of Early vs Late Tracheostomy Placement With Pneumonia and Ventilator Days in Critically Ill Patients
 AU  - Chorath, Kevin
 AU  - Hoang, Ansel
@@ -423,6 +489,21 @@ KW  - general
 ER  - 
 
 TY  - JOUR
+TI  - Prophylactic versus selective use of surfactant for preventing morbidity and mortality in preterm infants at risk of respiratory distress syndrome
+AU  - Beijers RJ
+AU  - Alonso-Fernández S
+AU  - Soll RF
+AU  - Rojas-Reyes MX.
+JO  - Cochrane Database Syst Rev
+PY  - 2026
+DO  - 10.1002/14651858.cd000510.pub3
+AN  - 42483935
+UR  - http://doi.wiley.com/10.1002/14651858.CD000510.pub3
+KW  - Respiratory/ARDS
+KW  - 2026-W31
+ER  - 
+
+TY  - JOUR
 TI  - Non-invasive positive pressure ventilation for acute asthma in children
 AU  - Korang, Steven Kwasi
 AU  - Baker, Matthew
@@ -436,6 +517,21 @@ DO  - 10.1002/14651858.cd012067.pub3
 UR  - https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012067.pub3/full
 KW  - Respiratory/ARDS
 KW  - PARDS
+ER  - 
+
+TY  - JOUR
+TI  - Convalescent plasma for people with COVID-19 (Cochrane update)
+AU  - Iannizzi C
+AU  - Chai KL
+AU  - Piechotta V
+JO  - Cochrane Database Syst Rev
+PY  - 2026
+DO  - 10.1002/14651858.cd013600.pub7
+AN  - 42117444
+UR  - http://doi.wiley.com/10.1002/14651858.CD013600.pub7
+KW  - Respiratory/ARDS
+KW  - 2026-W20
+KW  - 2026-W21
 ER  - 
 
 TY  - JOUR
@@ -590,6 +686,20 @@ DO  - 10.1002/ppul.71086
 UR  - https://journals.lww.com/ccmjournal/Abstract/9000/Improved_Oxygenation_After_Prone_Positioning_May.95493.aspx
 KW  - Respiratory/ARDS
 KW  - prone
+ER  - 
+
+TY  - JOUR
+TI  - Comparison of Efficacy Between Non-Invasive Ventilation and High-Flow Nasal Cannula Oxygen Therapy in Treating Acute Pulmonary Edema
+AU  - Huang Q
+AU  - Niu J
+AU  - Zha S
+JO  - Respirology
+PY  - 2026
+DO  - 10.1002/resp.70304
+AN  - 42644455
+UR  - https://onlinelibrary.wiley.com/doi/10.1002/resp.70304
+KW  - Respiratory/ARDS
+KW  - 2026-W36
 ER  - 
 
 TY  - JOUR
@@ -3259,6 +3369,20 @@ KW  - driving-pressure
 ER  - 
 
 TY  - JOUR
+TI  - Update on acute respiratory failure
+AU  - Hernandez G
+AU  - Muñiz Albaiceta G
+AU  - Thille AW
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08308-6
+AN  - 41603916
+UR  - https://link.springer.com/10.1007/s00134-026-08308-6
+KW  - Respiratory/ARDS
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
 TI  - Ventilation/perfusion mismatch measured by electrical impedance tomography at the bedside: potentialities and challenges
 AU  - Leali, Marco
 AU  - Fujitani, Shigeki
@@ -3269,6 +3393,20 @@ DO  - 10.1007/s00134-026-08310-y
 UR  - https://link.springer.com/article/10.1007/s00134-026-08310-y?utm_source=springer_etoc&utm_medium=email&utm_campaign=CONR_00134_AWA1_GL_DTEC_054CI_TOC-310326&utm_content=etoc_springer_20260331
 KW  - Respiratory/ARDS
 KW  - general
+ER  - 
+
+TY  - JOUR
+TI  - Ventilator-induced lung injury: between tidal recruitment, overdistension, and the baby lung paradigm
+AU  - Plens GM
+AU  - Costa ELV
+AU  - Amato MBP
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08313-9
+AN  - 41848838
+UR  - https://link.springer.com/10.1007/s00134-026-08313-9
+KW  - Respiratory/ARDS
+KW  - 2026-07
 ER  - 
 
 TY  - JOUR
@@ -3305,6 +3443,30 @@ DO  - 10.1007/s00134-026-08341-5
 UR  - https://link.springer.com/article/10.1007/s00134-026-08341-5
 KW  - Respiratory/ARDS
 KW  - general
+ER  - 
+
+TY  - JOUR
+TI  - Effects of prone positioning on recruitment-to-inflation ratio in patients with acute respiratory distress syndrome: a physiological study
+AU  - Morand L
+AU  - Bitker L
+AU  - Jozwiak M
+AU  - on behalf of the PRONE study group
+AU  - Tizi-Oualou N
+AU  - Dei C
+AU  - Laghlam D
+AU  - Bele N
+AU  - Goury A
+AU  - Bousquet G
+AU  - Bertrand PM
+AU  - Saccheri C
+AU  - Dellamonica J
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08395-5
+AN  - 41944858
+UR  - https://link.springer.com/10.1007/s00134-026-08395-5
+KW  - Respiratory/ARDS
+KW  - 2026-06
 ER  - 
 
 TY  - JOUR
@@ -3365,6 +3527,259 @@ DO  - 10.1007/s00134-026-08397-3
 UR  - https://link.springer.com/article/10.1007/s00134-026-08397-3
 KW  - Respiratory/ARDS
 KW  - general
+ER  - 
+
+TY  - JOUR
+TI  - Reproducible clinical archetypes in acute respiratory failure: a multi-cohort trajectory analysis
+AU  - Marshall DC
+AU  - Green AD
+AU  - Komorowski M
+AU  - Patel BV
+AU  - Parbhoo S
+AU  - Antcliffe DB
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08441-2
+AN  - 42149243
+UR  - https://link.springer.com/10.1007/s00134-026-08441-2
+KW  - Respiratory/ARDS
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Effects of out-of-bed armchair positioning on oxygenation in spontaneously breathing ICU patients receiving respiratory support: a randomized controlled trial
+AU  - Fossat G
+AU  - Muller L
+AU  - Seguin A
+AU  - Mathonnet A
+AU  - Pinos S
+AU  - Kamel T
+AU  - Barbier F
+AU  - Loiseau C
+AU  - Guemann M
+AU  - Courtes L
+AU  - Fossat C
+AU  - Muller G
+AU  - Nay MA
+AU  - Boulain T
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08453-y
+AN  - 42149248
+UR  - https://link.springer.com/10.1007/s00134-026-08453-y
+KW  - Respiratory/ARDS
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Airway management in critically ill patients with obesity
+AU  - Russotto V
+AU  - Casey JD
+AU  - Myatra SN
+AU  - Semler MW
+AU  - Driver BE
+AU  - El-Boghdadly K
+AU  - Jaber S
+AU  - De Jong A
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08454-x
+AN  - 42126552
+UR  - https://link.springer.com/10.1007/s00134-026-08454-x
+KW  - Respiratory/ARDS
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - When the ventilator and the patient disagree: a Delphi roadmap to clarity
+AU  - Salgado da Costa V
+AU  - Kneyber MCJ
+AU  - Thille AW
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08468-5
+AN  - 42120622
+UR  - https://link.springer.com/10.1007/s00134-026-08468-5
+KW  - Respiratory/ARDS
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Is acute respiratory distress syndrome a preventable disease?
+AU  - Yadav H
+AU  - Marini JJ
+AU  - Gajic O
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08493-4
+AN  - 42257879
+UR  - https://link.springer.com/10.1007/s00134-026-08493-4
+KW  - Respiratory/ARDS
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Balancing lung recruitment and venous congestion in ARDS: rethinking the systemic effects of PEEP
+AU  - Benites MH
+AU  - Papazian L
+AU  - Retamal J
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08530-2
+AN  - 42329249
+UR  - https://link.springer.com/10.1007/s00134-026-08530-2
+KW  - Respiratory/ARDS
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Lung- and diaphragm-protective mechanical ventilation in acute respiratory distress syndrome
+AU  - Plens GM
+AU  - Morris IS
+AU  - Greendyk R
+AU  - Castellví-Font A
+AU  - Jonkman AH
+AU  - Grieco DL
+AU  - Alcala GC
+AU  - Dianti J
+AU  - Amato MBP
+AU  - Dres M
+AU  - Bihari S
+AU  - Khemani RG
+AU  - Brochard L
+AU  - Itagaki T
+AU  - Goligher EC
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08535-x
+AN  - 42412219
+UR  - https://link.springer.com/10.1007/s00134-026-08535-x
+KW  - Respiratory/ARDS
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - ARDS 60th anniversary: spontaneous breathing in ARDS
+AU  - Richard JCM
+AU  - Mauri T
+AU  - Richard JC
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08542-y
+AN  - 42440108
+UR  - https://link.springer.com/10.1007/s00134-026-08542-y
+KW  - Respiratory/ARDS
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Prone positioning in ARDS
+AU  - Ehrmann S
+AU  - Li J
+AU  - Liu L
+AU  - Guérin C.
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08543-x
+AN  - 42474726
+UR  - https://link.springer.com/10.1007/s00134-026-08543-x
+KW  - Respiratory/ARDS
+KW  - 2026-W31
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - High-flow nasal cannula oxygen during breaks from noninvasive ventilation after extubation: an observational study
+AU  - Thille AW
+AU  - Chamblet L
+AU  - Ragot S
+AU  - Gacouin A
+AU  - Nay MA
+AU  - Ehrmann S
+AU  - Girault C
+AU  - Dangers L
+AU  - Labro G
+AU  - Canet E
+AU  - Quenot JP
+AU  - Decavele M
+AU  - Guitton C
+AU  - Prat G
+AU  - Saccheri C
+AU  - Contou D
+AU  - Rouze A
+AU  - Azais MA
+AU  - Romen A
+AU  - Lacave G
+AU  - Lautrette A
+AU  - Sedillot N
+AU  - Sonneville R
+AU  - Vivier E
+AU  - Hoppe MA
+AU  - Bourenne J
+AU  - Beloncle F
+AU  - Coudroy R
+AU  - Frat JP
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08544-w
+AN  - 42440109
+UR  - https://link.springer.com/10.1007/s00134-026-08544-w
+KW  - Respiratory/ARDS
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Electrical impedance tomography in ARDS: from improved ventilator settings to uncovering a pressure paradigm?
+AU  - Mulier JP
+AU  - van Egmond J
+AU  - Schepens T.
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08559-3
+AN  - 42474725
+UR  - https://link.springer.com/10.1007/s00134-026-08559-3
+KW  - Respiratory/ARDS
+KW  - 2026-W31
+ER  - 
+
+TY  - JOUR
+TI  - ARDS management in trauma patients
+AU  - Lassola S
+AU  - Cipulli F
+AU  - Balzani E
+JO  - Intensive Care Med
+PY  - 2026
+DO  - 10.1007/s00134-026-08581-5
+AN  - 42645559
+UR  - https://link.springer.com/10.1007/s00134-026-08581-5
+KW  - Respiratory/ARDS
+KW  - 2026-W36
+ER  - 
+
+TY  - JOUR
+TI  - Impact of Multiplex PCR on Targeted Antibiotic Therapy for Suspected VAP/HAP Requiring Mechanical Ventilation: a Randomized Trial](https://pubmed.ncbi.nlm.nih.gov/42622675/) ([DOI
+AU  - Millot G
+AU  - Rouze A
+AU  - Wallet F
+JO  - Intensive Care Med
+PY  - 2026
+DO  - 10.1007/s00134-026-08591-3)
+KW  - Respiratory/ARDS
+KW  - 2026-W35
+ER  - 
+
+TY  - JOUR
+TI  - Balancing lung and brain: physiological strategies for ARDS management in acute brain injury
+AU  - Robba C
+AU  - Romero-García N
+AU  - Taran S
+JO  - Intensive Care Med
+PY  - 2026
+DO  - 10.1007/s00134-026-08595-z
+AN  - 42658259
+UR  - https://link.springer.com/10.1007/s00134-026-08595-z
+KW  - Respiratory/ARDS
+KW  - 2026-W36
 ER  - 
 
 TY  - JOUR
@@ -3448,9 +3863,108 @@ AU  - Ceylan, Gokhan
 JO  - European Journal of Pediatrics
 PY  - 2026
 DO  - 10.1007/s00431-026-07048-5
+AN  - 42133083
 UR  - https://link.springer.com/article/10.1007/s00431-026-07048-5
 KW  - Respiratory/ARDS
 KW  - driving-pressure
+KW  - 2026-W20
+ER  - 
+
+TY  - JOUR
+TI  - Comparison of LISA and INSURE techniques for surfactant administration: a multicentre retrospective study
+AU  - Panza R
+AU  - Caravita R
+AU  - Valenzano L
+AU  - (Laforgia N; 3 Southern Italy NICUs)
+JO  - European Journal of Pediatrics
+PY  - 2026
+DO  - 10.1007/s00431-026-07118-8
+AN  - 42230381
+UR  - https://link.springer.com/10.1007/s00431-026-07118-8
+KW  - Respiratory/ARDS
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - Correlation between diaphragmatic electrical activity and clinical respiratory distress in infants: a prospective observational study
+AU  - Kulkarni A
+AU  - Choudhary R
+AU  - Mohmmed B
+AU  - Tolentino D
+AU  - Richards J
+AU  - Shetty S
+JO  - European Journal of Pediatrics
+PY  - 2026
+DO  - 10.1007/s00431-026-07184-y
+AN  - 42340429
+UR  - https://link.springer.com/10.1007/s00431-026-07184-y
+KW  - Respiratory/ARDS
+KW  - 2026-W27
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Safely developing respiratory care during emergency neonatal transport through systematic collection and analysis of detailed ventilator data
+AU  - Lantos L
+AU  - Szell A
+AU  - Szanto G
+AU  - Somogyvari Z
+AU  - Belteki G
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07220-x
+AN  - 42390585
+UR  - https://link.springer.com/10.1007/s00431-026-07220-x
+KW  - Respiratory/ARDS
+KW  - 2026-W27
+ER  - 
+
+TY  - JOUR
+TI  - Diaphragm Ultrasound Parameters and RSBI for Predicting Weaning Failure in Mechanically Ventilated Infants](https://pubmed.ncbi.nlm.nih.gov/42613466/) ([DOI
+AU  - Abdelrazic MI
+AU  - Mokhtar RM
+AU  - Ahmed AH
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07319-1)
+KW  - Respiratory/ARDS
+KW  - 2026-W35
+ER  - 
+
+TY  - JOUR
+TI  - Initial CPAP of 5 versus 8 cmH2O During Delivery Room Stabilisation of Very Preterm Infants: the PHILODENDROOM Pilot RCT](https://pubmed.ncbi.nlm.nih.gov/42608615/) ([DOI
+AU  - Cavigioli F
+AU  - Bresesti I
+AU  - Castoldi F
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07322-6)
+KW  - Respiratory/ARDS
+KW  - 2026-W35
+ER  - 
+
+TY  - JOUR
+TI  - Lung ultrasound aeration score as a predictor of extubation failure in neonates: an updated systematic review with meta-analysis and meta-regression
+AU  - Cuandra KN
+AU  - Karyana DNN
+AU  - Saputri AYF
+AU  - Putra HH
+AU  - Besari AR
+AU  - Karera AD
+AU  - Gusvania AA
+AU  - Syahroni MA
+AU  - Soekiono CJ
+AU  - Mahyoniariasih NKS
+AU  - Pratiwi RD
+AU  - Ulhaq MD
+AU  - Bulan DSP
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07324-4
+AN  - 42576035
+UR  - https://link.springer.com/10.1007/s00431-026-07324-4
+KW  - Respiratory/ARDS
+KW  - 2026-W34
 ER  - 
 
 TY  - JOUR
@@ -4134,6 +4648,146 @@ KW  - general
 ER  - 
 
 TY  - JOUR
+TI  - Diaphragm Thickening Fraction for Predicting Esophageal Pressure and Ventilator Weaning in Children
+AU  - Chang DJ
+AU  - Elkhunovich M
+AU  - Hotz JC
+JO  - Chest
+PY  - 2026
+DO  - 10.1016/j.chest.2026.01.032
+AN  - 41881144
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0012369226003788
+KW  - Respiratory/ARDS
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Anti-C5a antibody STSA-1002 for ARDS due to viral pneumonia: a phase 1b/2, multicenter, randomized, double-blind, placebo-controlled trial
+AU  - Wang Y
+AU  - Huang X
+AU  - Cheng Z
+JO  - Chest
+PY  - 2026
+DO  - 10.1016/j.chest.2026.04.052
+AN  - 42142803
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0012369226006380
+KW  - Respiratory/ARDS
+KW  - 2026-W21
+ER  - 
+
+TY  - JOUR
+TI  - The ARDS, Pneumonia, and Sepsis (APS) Consortium: rationale, design, and feasibility of a national platform for phenotyping critical illness syndromes
+AU  - Self WH
+AU  - Calfee CS
+AU  - Brown SM
+AU  - Moss M
+AU  - Ware LB
+AU  - Hyzy RC
+AU  - Meyer NJ
+AU  - Reilly JP
+AU  - Harhay MO
+AU  - Shashaty MGS
+AU  - Sandsmark DK
+AU  - Auriemma CL
+AU  - Jones TK
+AU  - Prescott HC
+AU  - Dickson RP
+AU  - Nelson K
+AU  - McSparron JI
+AU  - Lagina M
+AU  - Denstaedt SJ
+AU  - Admon AJ
+AU  - Patel BK
+AU  - Wolfe KS
+AU  - Hite RD
+AU  - Hudock KM
+AU  - Bastarache JA
+AU  - Koyama T
+AU  - Kerchberger VE
+AU  - Ely EW
+AU  - Jackson JC
+AU  - Sinha P
+AU  - Mudd PA
+AU  - Kraft BD
+AU  - Fremont RD
+AU  - Singh R
+AU  - Aggarwal NR
+AU  - Jolley SE
+AU  - Burnham EL
+AU  - Mantelli RA
+AU  - Janssen WJ
+AU  - Moore CM
+AU  - Douglas IS
+AU  - Peterson R
+AU  - Peltan ID
+AU  - Barkauskas CE
+AU  - Pratt EH
+AU  - Harris ES
+AU  - Scharfstein DO
+AU  - Needham DM
+AU  - Sahetya SK
+AU  - Parker AM
+AU  - Iwashyna TJ
+AU  - Shenderov K
+AU  - Matthay MA
+AU  - Alipanah-Lechner N
+AU  - Magee L
+AU  - Shwartzman T
+AU  - Lin C
+AU  - Weingart MF
+AU  - Langelier CR
+AU  - Chao O
+AU  - Hendrickson CM
+AU  - Kornblith LZ
+AU  - Chak S
+AU  - Bardillon K
+AU  - Rodriguez KH
+AU  - Rogers AJ
+AU  - Moore AR
+AU  - Levitt JE
+AU  - Vojnik R
+AU  - Perez C
+AU  - Lindsell CJ
+AU  - Shotwell MS
+AU  - Blette BS
+AU  - Imhoff BW
+AU  - Rice TW
+AU  - Rhoads JP
+AU  - Womack KN
+AU  - Merkel AR
+AU  - Ahmad LN
+AU  - Zhao X
+AU  - Grandon IE
+AU  - Gong MN
+JO  - Chest
+PY  - 2026
+DO  - 10.1016/j.chest.2026.05.053
+AN  - 42442528
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0012369226009591
+KW  - Respiratory/ARDS
+KW  - 2026-W29
+ER  - 
+
+TY  - JOUR
+TI  - Crossover to Noninvasive Ventilation After High-Flow Nasal Cannula Failure: Insights from the RENOVATE Trial
+AU  - Bianchini L
+AU  - Tramujas L
+AU  - Peron R
+AU  - Cavalcanti AB
+AU  - Maia IS (Hcor Research Institute
+AU  - São Paulo / BRICNet)
+JO  - Chest
+PY  - 2026
+DO  - 10.1016/j.chest.2026.06.003
+AN  - 42276207
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0012369226007816
+KW  - Respiratory/ARDS
+KW  - 2026-W25
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
 TI  - Circulating Biomarkers of Endothelial Dysfunction Associated With Ventilatory Ratio and Mortality in ARDS Resulting From SARS-CoV-2 Infection Treated With Antiinflammatory Therapies
 AU  - Alladina, Jehan W.
 AU  - Giacona, Francesca L.
@@ -4350,6 +5004,38 @@ KW  - general
 ER  - 
 
 TY  - JOUR
+TI  - Primary Graft Dysfunction after Lung Transplant in Mechanically Ventilated versus Extubated Patients
+AU  - Petrovic M
+AU  - Auner S
+AU  - Dörflinger AB
+AU  - Tiller F
+AU  - Adjei E
+AU  - Eidson C
+AU  - Le L
+AU  - Boyce W
+AU  - Schweiger T
+AU  - Muraközy G
+AU  - Aigner C
+AU  - Jaksch P
+AU  - Demarest CT
+AU  - Trindade AJ
+AU  - Shaver CM
+AU  - Stokes JW
+AU  - Wilkins A
+AU  - Bacchetta M
+AU  - Benazzo A
+AU  - Hoetzenecker K
+AU  - Schwarz S
+JO  - J Heart Lung Transplant
+PY  - 2026
+DO  - 10.1016/j.healun.2026.07.002
+AN  - 42431560
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1053249826019832
+KW  - Respiratory/ARDS
+KW  - 2026-W28
+ER  - 
+
+TY  - JOUR
 TI  - Mortality of right ventricular dysfunction in patients with acute respiratory distress syndrome subjected to lung protective ventilation: A systematic review and meta-analysis
 AU  - Dong, Daoran
 AU  - Zong, Yuan
@@ -4408,6 +5094,23 @@ DO  - 10.1016/j.jclinane.2025.111906
 UR  - https://www.sciencedirect.com/science/article/pii/S0952818025001679?via%3Dihub
 KW  - Respiratory/ARDS
 KW  - general
+ER  - 
+
+TY  - JOUR
+TI  - One-lung ventilation in pediatric patients: A clinically focused narrative review
+AU  - Smith LD
+AU  - Templeton TW
+AU  - Prakash A
+AU  - Templeton LB
+AU  - Pecorella SH
+AU  - Downard MG
+JO  - Journal of Clinical Anesthesia
+PY  - 2026
+DO  - 10.1016/j.jclinane.2026.112273
+AN  - 42470836
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0952818026001510
+KW  - Respiratory/ARDS
+KW  - 2026-07
 ER  - 
 
 TY  - JOUR
@@ -4549,6 +5252,86 @@ DO  - 10.1016/j.jcrc.2026.155617
 UR  - https://www.sciencedirect.com/science/article/abs/pii/S0883944126001954?via%3Dihub
 KW  - Respiratory/ARDS
 KW  - general
+ER  - 
+
+TY  - JOUR
+TI  - Impact of higher versus lower PEEP on mortality in mechanically ventilated patients with Sepsis - A multicenter, multi-cohort observational analysis
+AU  - Rehn P
+AU  - Koos B
+AU  - Witowski A
+AU  - Wappler F
+AU  - Henzler D
+AU  - Seidlitz S
+AU  - Maier-Hein L
+AU  - Katzenschlager S
+AU  - von Garrel A
+AU  - Hölzl K
+AU  - Hölle T
+AU  - Full P
+AU  - Theobald V
+AU  - Niehaus B
+AU  - Hölzer HT
+AU  - Vekla C
+AU  - Pätzold I
+AU  - Thome S
+AU  - Bösing C
+AU  - Krebs J
+AU  - Decker S
+AU  - Fischer D
+AU  - Schmitt FCF
+AU  - Weigand MA
+AU  - Adamzik M
+AU  - Nowak H
+AU  - Dietrich M
+JO  - Journal of Critical Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155645
+AN  - 42242063
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126002236
+KW  - Respiratory/ARDS
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Interventions with a significant mortality difference in acute respiratory distress syndrome: A systematic review and comparison with Guidelines
+AU  - Sartini C
+AU  - Stati R
+AU  - Belletti A
+AU  - Maimeri N
+AU  - Asiller OO
+AU  - Baiardo Redaelli M
+AU  - Landoni G
+AU  - Grasselli G
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155703
+AN  - 42580157
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126002819
+KW  - Respiratory/ARDS
+KW  - 2026-W34
+ER  - 
+
+TY  - JOUR
+TI  - Closed-loop versus conventional synchronization in spontaneously breathing adult patients — a randomized controlled study
+AU  - Guven R
+AU  - Kirakli C
+AU  - Revely JP
+AU  - Colak M
+AU  - Dogan T
+AU  - Novotni D
+AU  - Aurucci V
+AU  - Altug E
+AU  - Yildirim S
+AU  - Sunecli O
+AU  - Agin H
+AU  - Ceylan G
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155705
+AN  - 42600333
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126002832
+KW  - Respiratory/ARDS
+KW  - 2026-W34
 ER  - 
 
 TY  - JOUR
@@ -5080,6 +5863,545 @@ KW  - general
 ER  - 
 
 TY  - JOUR
+TI  - Biological subphenotypes in severe acute hypoxaemic respiratory failure and ARDS using rapid prospective classification (SPARC)
+AU  - Files DC
+AU  - Matthay MA
+AU  - Chapple AG
+AU  - (ISPY COVID Network
+AU  - 17 US hospitals)
+JO  - Lancet Respir Med
+PY  - 2026
+DO  - 10.1016/s2213-2600(26
+AN  - 42140220
+KW  - Respiratory/ARDS
+KW  - 2026-W21
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - Bedside identification of subphenotypes in acute respiratory failure (PHIND): a multicentre, observational cohort study
+AU  - Reddy K
+AU  - Sinha P
+AU  - Antcliffe DB
+AU  - McDowell C
+AU  - Bradley PA
+AU  - Black L
+AU  - Murphy L
+AU  - Barbaras J
+AU  - Conlon J
+AU  - Camporota L
+AU  - Ostermann M
+AU  - Hopkins P
+AU  - Szakmany T
+AU  - Cherian S
+AU  - Welters I
+AU  - Brealey D
+AU  - Parekh D
+AU  - Rostron AJ
+AU  - Bos LDJ
+AU  - Nichol A
+AU  - Shankar-Hari M
+AU  - Gordon AC
+AU  - Delucchi K
+AU  - O'Kane CM
+AU  - Matthay MA
+AU  - Calfee CS
+AU  - McAuley DF
+AU  - Williams B
+AU  - Young D
+AU  - O'Kane M
+AU  - McNally C
+AU  - Thompson J
+AU  - McRory J
+AU  - Devlin K
+AU  - Dougan LA
+AU  - Hannaway N
+AU  - Rafferty P
+AU  - Verghis R
+AU  - Thompson R
+AU  - Reid S
+AU  - Fitzgerald P
+AU  - Bothwell A
+AU  - McGreevy A
+AU  - Vaughan C
+AU  - Fortugno C
+AU  - Stacey H
+AU  - Parker J
+AU  - Lamont J
+AU  - Slater L
+AU  - Robinson P
+AU  - McKeown S
+AU  - McColgan S
+AU  - Curley G
+AU  - Smyth M
+AU  - Keil S
+AU  - Perkins G
+AU  - Maliaykal C
+AU  - Reeves E
+AU  - Taylor H
+AU  - Gresty J
+AU  - Horton L
+AU  - Melody T
+AU  - Leach W
+AU  - Nikitas N
+AU  - Stowe B
+AU  - Freeman E
+AU  - Lang H
+AU  - McMillan H
+AU  - Spencer K
+AU  - Kimpton L
+AU  - Stapleton L
+AU  - Gillies M
+AU  - Faulds M
+AU  - Puxty K
+AU  - Hurst A
+AU  - Taylor C
+AU  - Rimmer D
+AU  - Amaro de Jesus B
+AU  - Cendreda B
+AU  - Engelhard C
+AU  - Kosifidou E
+AU  - Hendrie E
+AU  - D'Amato F
+AU  - Arbane G
+AU  - Morera K
+AU  - Fordyce S
+AU  - Lorah S
+AU  - Matin T
+AU  - O'Dwyer C
+AU  - Templeton M
+AU  - Rojo R
+AU  - Sousa Arias S
+AU  - Fernandez de Pinedo Artaraz Z
+AU  - Henning J
+AU  - Vergara B
+AU  - Finney C
+AU  - O'Reilly K
+AU  - Smith J
+AU  - Bannard-Smith J
+AU  - Taylor C
+AU  - Paripoorani D
+AU  - Wylie K
+AU  - Quayle R
+AU  - Clark R
+AU  - Innes R
+AU  - Groves A
+AU  - Thomas A
+AU  - Chikhani M
+AU  - Gibbins A
+AU  - Baddeley A
+AU  - Morris A
+AU  - Thomas A
+AU  - Walton C
+AU  - Peters C
+AU  - Ford D
+AU  - Sampson J
+AU  - McKechnie S
+AU  - Polley G
+AU  - Wilson J
+AU  - Davidson N
+AU  - Beer S
+AU  - Sloan B
+AU  - Crew A
+AU  - Metcalfe A
+AU  - Major A
+AU  - Buckley S
+AU  - Pogson D
+AU  - Walden A
+AU  - Waqar Uddin H
+AU  - Kazi A
+AU  - Fitchett J
+AU  - Truman N
+AU  - Spivey M
+AU  - Richards C
+AU  - Barker Kirby C
+AU  - Fletcher E
+AU  - Burt K
+AU  - Ralph K
+AU  - Chapman R
+AU  - Bean S
+AU  - Clark T
+AU  - Carins A
+AU  - Mahiya A
+AU  - Shaw D
+AU  - Williams K
+AU  - Lopez Martinez M
+AU  - Norris M
+AU  - Ali S
+AU  - Waugh V
+AU  - Thomas Z
+AU  - O'Neill A
+AU  - Wright C
+AU  - Turley C
+AU  - Collins E
+AU  - Green J
+AU  - Ward K
+AU  - Pereira P
+AU  - Cusack R
+AU  - Harrison A
+AU  - Lingwood A
+AU  - Baker A
+AU  - Roberts B
+AU  - Summerton E
+AU  - Biss J
+AU  - Salmon K
+AU  - Paramasivam E
+AU  - Wilby L
+AU  - Trott S
+AU  - Friar Z
+AU  - Thomas B
+AU  - Brickell K
+AU  - Murphy L
+AU  - Mahon N
+AU  - Woods L
+AU  - Cornell S
+AU  - Zapata A
+AU  - Reyes AR
+AU  - Smyth D
+AU  - Bercades G
+AU  - Martir G
+AU  - Hass I
+AU  - Gallagher L
+AU  - Dooley C
+AU  - Smith H
+AU  - Moody L
+AU  - Wise M
+AU  - Swindell A
+AU  - Hawkins C
+AU  - Ward G
+AU  - Laffey J
+AU  - Ferguson L
+AU  - Carey M
+AU  - Negi R
+AU  - Strachan D
+AU  - Moar K
+AU  - Clements S
+AU  - Page V
+AU  - Hoxha E
+AU  - Zhao XB
+AU  - Bentley A
+JO  - Lancet Respir Med
+PY  - 2026
+DO  - 10.1016/s2213-2600(26)00040-8
+AN  - 41887245
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2213260026000408
+KW  - Respiratory/ARDS
+KW  - 2026-W27
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - Epidemiology, ventilation management, and clinical outcomes in children (PRoVENT-PED): first results from the 10-year, investigator-initiated, international, multicentre, prospective cohort study
+AU  - van Vliet R
+AU  - Melger JWJ
+AU  - Bem RA
+AU  - Blokpoel RGT
+AU  - Schultz MJ
+AU  - Paulus F
+AU  - Kneyber MCJ
+AU  - van Meenen DMP
+AU  - Agin H
+AU  - Bem RA
+AU  - Blackwood B
+AU  - Blokpoel RGT
+AU  - Cardona F
+AU  - De Luca DM
+AU  - González-Dambrauskas S
+AU  - Lee JH
+AU  - Melger JWJ
+AU  - van Meenen DMP
+AU  - Paulus F
+AU  - Pisani L
+AU  - Schultz MJ
+AU  - Serpa Neto A
+AU  - Tingay D
+AU  - van Vliet R
+AU  - Lopez Fernandez YM
+AU  - Abbas A
+AU  - Al Abdwani R
+AU  - Abidin ASZ
+AU  - Acevedo L
+AU  - Ackah A
+AU  - Adam A
+AU  - Adasme R
+AU  - Aguilera-Avendaño V
+AU  - Agyekum L
+AU  - Aissaoui O
+AU  - Akçay N
+AU  - Alakaya M
+AU  - Albert B
+AU  - Alemayehu A
+AU  - Alghobaishi A
+AU  - Alhaj AE
+AU  - Alhashemi HE
+AU  - Ali NA
+AU  - Alotaibi SA
+AU  - Alzadjali Aa
+AU  - Angadi VM
+AU  - Angurana SKK
+AU  - Appel I
+AU  - Appelberg E
+AU  - Appiah JA
+AU  - Arslan D
+AU  - Arslan G
+AU  - Asik A
+AU  - Wösten-van Asperen RM
+AU  - Atakul G
+AU  - Atay G
+AU  - Avent Y
+AU  - Aversa M
+AU  - Aydoğdu F
+AU  - de Azagra AM
+AU  - Bacha T
+AU  - Baena LP
+AU  - Balderrama JPV
+AU  - Beer A
+AU  - Bem RA
+AU  - Benström M
+AU  - Berdai A
+AU  - Biedermann R
+AU  - Blackwood B
+AU  - Blokpoel RGT
+AU  - Boillat L
+AU  - Bonanomi E
+AU  - Borgman MA
+AU  - Brado L
+AU  - Brenner S
+AU  - Briassoulis G
+AU  - Bruns N
+AU  - Burren JM
+AU  - Caino F
+AU  - Camilo C
+AU  - Camporesi A
+AU  - Campos FJ
+AU  - Cardona F
+AU  - Carreazo NY
+AU  - Casson N
+AU  - de Carvalho WB
+AU  - Cena J
+AU  - Ceylan G
+AU  - Charaya S
+AU  - Chatzimanouil MT
+AU  - Chidini G
+AU  - Chiusolo F
+AU  - Chochliourou E
+AU  - Christakou E
+AU  - Cipowicz H
+AU  - Coopoosamy L
+AU  - Colak M
+AU  - Connelly A
+AU  - Copana-Olmos R
+AU  - de Carvalho PB
+AU  - de Carvalho LFA
+AU  - Cury VF
+AU  - Danso AM
+AU  - Dardamani E
+AU  - Darouich H
+AU  - Dhande NR
+AU  - Dorado VV
+AU  - Durán BG
+AU  - Dursun O
+AU  - Doedens LG
+AU  - Dublish S
+AU  - Duval ELIM
+AU  - Duyu M
+AU  - Dziekpor S
+AU  - Ellersich S
+AU  - Enemuo EJ
+AU  - Fernandez YML
+AU  - Esche MS
+AU  - Fernández-Sarmiento J
+AU  - Ferry T
+AU  - Fitria L
+AU  - de Lima LFP
+AU  - Foronda FK
+AU  - Fuenmayor F
+AU  - de la Fuente AML
+AU  - Galani A
+AU  - de Gaudenzi M
+AU  - Gertz SJ
+AU  - Godson E
+AU  - Goh CY
+AU  - González-Dambrauskas S
+AU  - Graham R
+AU  - Grinko K
+AU  - Cesar RG
+AU  - Gupta S
+AU  - da Fonseca JG
+AU  - Fuchs H
+AU  - Han Hj
+AU  - Han YJ
+AU  - Hassan WM
+AU  - Heisterkamp SGJ
+AU  - Herraiz PS
+AU  - Horvath K
+AU  - Huat HH
+AU  - Ilia S
+AU  - Ilmoja ML
+AU  - Jae CML
+AU  - Jeyapalan AS
+AU  - Jindal A
+AU  - Johnston C
+AU  - Min PK
+AU  - Kalamees R
+AU  - Kangin M
+AU  - Karaarslan U
+AU  - Karimullah M
+AU  - Kawaguchi A
+AU  - Khan AB
+AU  - Kazzaz Y
+AU  - Khiami M
+AU  - Killien EY
+AU  - Kim KW
+AU  - Kim SY
+AU  - Kim K
+AU  - Kiptum D
+AU  - Kneyber MCJ
+AU  - Kocaoğlu Ç
+AU  - Koker A
+AU  - Korulmaz A
+AU  - Kota Y
+AU  - Krishnamurthy K
+AU  - van ‘t Kruys K
+AU  - Landolfo F
+AU  - Lang HJ
+AU  - Lee JH
+AU  - Leoz Gordillo I
+AU  - van der Lei LS
+AU  - Lobo VBC
+AU  - Lodha R
+AU  - Xiang L
+AU  - Lopez-Herce J
+AU  - De Luca DM
+AU  - Machaira M
+AU  - Malisie RF
+AU  - Manchikalapati A
+AU  - Mantovani A
+AU  - Mantzafleri EP
+AU  - Maria M
+AU  - Martey EK
+AU  - Martín PC
+AU  - Martínez AR
+AU  - Batista CM
+AU  - McArthur JA
+AU  - van Meenen DMP
+AU  - Melger JWJ
+AU  - Menentoglu ME
+AU  - Mensink HA
+AU  - Metsvaht T
+AU  - Mikaszewska-Sokolewicz M
+AU  - Misirlioglu M
+AU  - Miura S
+AU  - Mondardini MC
+AU  - Moniz MR
+AU  - Moreira A
+AU  - Morrow BM
+AU  - Muralidharan J
+AU  - Murphy S
+AU  - Nallasamy K
+AU  - Naidoo KD
+AU  - Di Nardo M
+AU  - Nares MA
+AU  - Navarro PM
+AU  - Neto AS
+AU  - Nnajekwu U
+AU  - Nyindi NM
+AU  - Obando E
+AU  - Okpey SN
+AU  - Al Othmani F
+AU  - Ounci ES
+AU  - Ödek Ç
+AU  - Padari H
+AU  - Pamacheche TM
+AU  - Paulus F
+AU  - Pessina M
+AU  - Phuc PH
+AU  - Pinto CR
+AU  - Pisani L
+AU  - Plante V
+AU  - Procter C
+AU  - Qaitoon H
+AU  - Rakrak A
+AU  - Ravichandrajah H
+AU  - Reel B
+AU  - Reiter K
+AU  - Reyes-Tellez M
+AU  - Ricciardi E
+AU  - Riedel T
+AU  - Ruggiero E
+AU  - Saez OO
+AU  - Rowjee V
+AU  - Safitri A
+AU  - Saggers RT
+AU  - Sahoo MR
+AU  - Salie S
+AU  - Samransamruajkit R
+AU  - Sandal ÖS
+AU  - Santschi M
+AU  - Sasso T
+AU  - Schlapbach J
+AU  - Schnur J
+AU  - Schroeder L
+AU  - Schultz MJ
+AU  - Sdougka M
+AU  - Serafim AP
+AU  - Sevketoglu E
+AU  - Silver L
+AU  - Shimoyama S
+AU  - Silvero P
+AU  - Simon M
+AU  - Singer T
+AU  - de Souza LCVF
+AU  - Soydan E
+AU  - Straka K
+AU  - Taffache P
+AU  - Tan EB
+AU  - Tang X
+AU  - Tawiah EA
+AU  - Taylor MD
+AU  - Tekerek NU
+AU  - Tarquini R
+AU  - Azevedo RT
+AU  - Telhan L
+AU  - Tingay D
+AU  - Tosun D
+AU  - Trepatchayakorn S
+AU  - Trautmann V
+AU  - Urbano J
+AU  - Vasanthan P
+AU  - Vasilakopoulou C
+AU  - Vassilopoulou M
+AU  - Vásquez-Hoyos P
+AU  - Veronese G
+AU  - Villanueva DA
+AU  - van Vliet R
+AU  - Costa L
+AU  - Volpon LC
+AU  - Wah LS
+AU  - Wiedemann-Fode A
+AU  - Wiggelinkhuizen M
+AU  - Willems A
+AU  - Wong JJM
+AU  - Yee CC
+AU  - Yeshidenber A
+AU  - Younous S
+AU  - Yuliarto S
+AU  - Zakariah S
+AU  - Zampini G
+AU  - Zhang W
+AU  - Zimmermann E
+JO  - Lancet Respir Med
+PY  - 2026
+DO  - 10.1016/s2213-2600(26)00044-5
+AN  - 42081907
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2213260026000445
+KW  - Respiratory/ARDS
+KW  - 2026-W27
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
 TI  - Effects of inflammatory phenotypes in acute respiratory distress syndrome on mortality and partitioning of lung and chest wall mechanics in patients in the USA and Canada: a retrospective cohort study
 AU  - Pensier, Joris
 AU  - Fosset, Maxime
@@ -5281,6 +6603,22 @@ KW  - general
 ER  - 
 
 TY  - JOUR
+TI  - Open dataset and deep learning model for intelligent diagnosis of neonatal respiratory distress syndrome and aspiration syndrome in newborns
+AU  - Wu J
+AU  - Xu Z
+AU  - Yang R
+AU  - Zhu B
+AU  - Zhan Y
+JO  - Scientific Reports
+PY  - 2026
+DO  - 10.1038/s41598-026-40740-y
+AN  - 42443230
+UR  - https://www.nature.com/articles/s41598-026-40740-y
+KW  - Respiratory/ARDS
+KW  - 2026-W29
+ER  - 
+
+TY  - JOUR
 TI  - Utilizing machine learning to improve clinical trial design for acute respiratory distress syndrome
 AU  - Schwager, E.
 AU  - Jansson, K.
@@ -5356,6 +6694,23 @@ DO  - 10.1053/j.jvca.2024.12.005
 UR  - https://www.sciencedirect.com/science/article/pii/S1053077024009431?dgcid=author
 KW  - Respiratory/ARDS
 KW  - general
+ER  - 
+
+TY  - JOUR
+TI  - Regional Anesthesia Combined With Respiratory Physiotherapy Improves Postoperative PaO2:FiO2 Ratio and Pulmonary Atelectasis in Thoracolaparoscopic Esophagectomy: A Randomized Controlled Trial
+AU  - Lin J
+AU  - Yang J
+AU  - He Y
+AU  - Chang Y
+AU  - Zuo Y (Affiliated Hospital of North Sichuan Medical College
+AU  - China)
+JO  - Journal of Cardiothoracic and Vascular Anesthesia
+PY  - 2026
+DO  - 10.1053/j.jvca.2026.01.039
+AN  - 41724652
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1053077026000960
+KW  - Respiratory/ARDS
+KW  - 2026-W23
 ER  - 
 
 TY  - JOUR
@@ -5881,6 +7236,21 @@ KW  - NIV-HFNC
 ER  - 
 
 TY  - JOUR
+TI  - Carbocisteine or Hypertonic Saline for Acute Respiratory Failure (MARCH Trial)
+AU  - [First author not listed in section metadata]
+AU  - (multicenter; N=1
+AU  - 956 MV adults)
+JO  - New England Journal of Medicine
+PY  - 2026
+DO  - 10.1056/nejmoa2603406
+AN  - 42267821
+UR  - http://www.nejm.org/doi/10.1056/NEJMoa2603406
+KW  - Respiratory/ARDS
+KW  - 2026-W25
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
 TI  - Systematic Search: Pediatric Ventilator Liberation and Spontaneous Breathing Trials (CINAHL).
 AU  - Whipple, Elizabeth C.
 AU  - Craven, Hannah J.
@@ -5995,6 +7365,23 @@ KW  - PARDS
 ER  - 
 
 TY  - JOUR
+TI  - Electrical impedance tomography guided single lung ventilation in a pediatric patient with ARDS
+AU  - Leeds H
+AU  - Deakers T
+AU  - Khemani RG
+AU  - Bhalla A
+AU  - Chang D
+AU  - Newth CJ
+JO  - American Journal of Respiratory and Critical Care Medicine
+PY  - 2026
+DO  - 10.1093/ajrccm/aamaf107
+AN  - 41738139
+UR  - https://academic.oup.com/ajrccm/article/212/3/526/8435566
+KW  - Respiratory/ARDS
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
 TI  - Lung stress mapping: an innovative technology to visualize the hidden risk of ventilator-induced lung injury
 AU  - Maezawa, Takashi
 AU  - Hoshino, Taiki
@@ -6020,6 +7407,57 @@ KW  - general
 ER  - 
 
 TY  - JOUR
+TI  - The Long-term Pneumonia Mortality Index: An International Multicenter Derivation and Validation Study for Patients with Community-Acquired Pneumonia
+AU  - Mendez R
+AU  - Gonzalez-Jimenez P
+AU  - Latorre A
+AU  - (Menendez R; La Fe University Hospital
+AU  - Valencia + CAPNETZ
+AU  - USA)
+JO  - American Journal of Respiratory and Critical Care Medicine
+PY  - 2026
+DO  - 10.1093/ajrccm/aamag060
+AN  - 41738235
+UR  - https://academic.oup.com/ajrccm/article/212/6/1305/8494304
+KW  - Respiratory/ARDS
+KW  - 2026-W24
+ER  - 
+
+TY  - JOUR
+TI  - Relative contribution of driving pressure and respiratory rate to mortality in ARDS depends on age
+AU  - Papoutsi E
+AU  - Gkirgkiris K
+AU  - Dimopoulou I
+AU  - Kotanidou A
+AU  - Siempos II
+JO  - American Journal of Respiratory and Critical Care Medicine
+PY  - 2026
+DO  - 10.1093/ajrccm/aamag136
+AN  - 42085260
+UR  - https://academic.oup.com/ajrccm/article/212/7/1639/8533202
+KW  - Respiratory/ARDS
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Early changes of lung mechanics after positive end-expiratory pressure reduction in acute respiratory distress syndrome: a four-dimensional computed tomography study
+AU  - Katayama S
+AU  - Tonai K
+AU  - Imahase H
+AU  - Saito S
+AU  - Nakayama R
+AU  - Iotti GA
+AU  - Shono A
+JO  - American Journal of Respiratory and Critical Care Medicine
+PY  - 2026
+DO  - 10.1093/ajrccm/aamag137
+AN  - 42085245
+UR  - https://academic.oup.com/ajrccm/article/212/6/1253/8532517
+KW  - Respiratory/ARDS
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
 TI  - Determinants of tidal recruitment/derecruitment assessed by electrical impedance tomography in spontaneously breathing ARDS patients
 AU  - Perez, Joaquin
 AU  - Leali, Marco
@@ -6039,6 +7477,74 @@ DO  - 10.1093/ajrccm/aamag246
 UR  - https://academic.oup.com/ajrccm/advance-article/doi/10.1093/ajrccm/aamag246/8692045
 KW  - Respiratory/ARDS
 KW  - general
+ER  - 
+
+TY  - JOUR
+TI  - Airway Occlusions to Measure Inspiratory Effort, Respiratory Drive, and Lung Mechanics During Noninvasive Ventilation
+AU  - [First author not listed in section metadata]
+AU  - (multicenter; N=60 post-extubation hypoxemic patients)
+JO  - American Journal of Respiratory and Critical Care Medicine
+PY  - 2026
+DO  - 10.1093/ajrccm/aamag293
+AN  - 42287717
+UR  - https://academic.oup.com/ajrccm/advance-article/doi/10.1093/ajrccm/aamag293/8707626
+KW  - Respiratory/ARDS
+KW  - 2026-W25
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Early Safety/Therapeutic Results of ALT-100 eNAMPT mAb Impact in the PUERTA Phase 2A ARDS Trial
+AU  - Garcia JGN
+AU  - Juan Guardela B
+AU  - Howard C
+AU  - Douglas I
+AU  - Miele S
+AU  - Song JH
+AU  - Gao H
+AU  - Li Y
+AU  - Bime C
+AU  - Wu SS (Aqualung Therapeutics / University of Florida / Tampa General / Baylor / NY Medical College / Banner Health; published 2026-06-20)
+JO  - American Journal of Respiratory and Critical Care Medicine
+PY  - 2026
+DO  - 10.1093/ajrccm/aamag305
+AN  - 42323861
+UR  - https://academic.oup.com/ajrccm/article/212/9/2251/8712715
+KW  - Respiratory/ARDS
+KW  - 2026-W25
+ER  - 
+
+TY  - JOUR
+TI  - Sequential Likelihood Ratios and E-processes in the Analysis of the RENOVATE Trial
+AU  - Zampieri FG
+AU  - Cavalcanti AB
+AU  - Cahusac PMB
+AU  - (Harhay MO; Hospital do Coracao / University of Pennsylvania)
+JO  - Annals of the American Thoracic Society
+PY  - 2026
+DO  - 10.1093/annalsats/aaoag042
+AN  - 41734013
+UR  - https://academic.oup.com/annalsats/article/23/6/941/8496146
+KW  - Respiratory/ARDS
+KW  - 2026-W24
+ER  - 
+
+TY  - JOUR
+TI  - Respiratory Muscle Activity and Weaning from Mechanical Ventilation After Spinal Trauma: The ACCESSIT Study
+AU  - Schreiber AF
+AU  - Vieira F
+AU  - Madotto F
+AU  - (Brochard LJ; St. Michael's Hospital
+AU  - Toronto)
+JO  - Annals of the American Thoracic Society
+PY  - 2026
+DO  - 10.1093/annalsats/aaoag046
+AN  - 41723830
+UR  - https://academic.oup.com/annalsats/article/23/6/927/8494540
+KW  - Respiratory/ARDS
+KW  - 2026-W24
+KW  - borderline
+KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -6173,6 +7679,27 @@ KW  - general
 ER  - 
 
 TY  - JOUR
+TI  - Mechanical Power and Energy in Invasively Ventilated Newborn Infants
+AU  - De La Rubia S
+AU  - Loi B
+AU  - Vivalda L
+AU  - Dellacà R
+AU  - Piastra M
+AU  - Conti G
+AU  - Antonelli M
+AU  - Grieco DL
+AU  - Di Nardo M
+AU  - De Luca D
+JO  - Anesthesiology
+PY  - 2026
+DO  - 10.1097/aln.0000000000006128
+AN  - 42101008
+UR  - https://www.ovid.com/10.1097/ALN.0000000000006128
+KW  - Respiratory/ARDS
+KW  - 2026-W29
+ER  - 
+
+TY  - JOUR
 TI  - Comparison of Mechanical Power During Adaptive Support Ventilation Versus Nonautomated Pressure-Controlled Ventilation—A Pilot Study
 AU  - Buiteman-Kruizinga, Laura A.
 AU  - Mkadmi, Hassan E.
@@ -6271,6 +7798,61 @@ DO  - 10.1097/cce.0000000000000856
 UR  - https://journals.lww.com/ccejournal/Fulltext/2023/02000/Nutritional_Support_in_Children_Meeting_the.6.aspx
 KW  - Respiratory/ARDS
 KW  - PARDS
+ER  - 
+
+TY  - JOUR
+TI  - Early Prone Positioning After Acute Type A Aortic Dissection Surgery for Moderate-to-Severe ARDS Is Safe and Shortens Duration of Mechanical Ventilation
+AU  - [First author not listed in section metadata]
+JO  - Critical Care Explorations
+PY  - 2026
+DO  - 10.1097/cce.0000000000001420
+AN  - 42249540
+UR  - https://journals.lww.com/10.1097/CCE.0000000000001420
+KW  - Respiratory/ARDS
+KW  - 2026-W25
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - Safety and Feasibility of Bedside Electrical Impedance Tomography With Hypertonic Saline Contrast for Assessing Pulmonary Perfusion in Mechanically Ventilated Children With Acute Respiratory Distress Syndrome: A Pilot Study
+AU  - Zhang J
+AU  - Liu S
+AU  - Li N
+JO  - Crit Care Explor
+PY  - 2026
+DO  - 10.1097/cce.0000000000001445
+AN  - 42545870
+UR  - https://www.ovid.com/10.1097/CCE.0000000000001445
+KW  - Respiratory/ARDS
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - High-Flow Nasal Cannula Versus Noninvasive Ventilation for Prevention of Reintubation in High-Risk Critically Ill Patients (HIGH-FLOW OXY): An Informative Systematic Review and Meta-Analysis
+AU  - Nguyen N
+AU  - Alves de Barros E Lyra N
+AU  - Downes D
+JO  - Crit Care Explor
+PY  - 2026
+DO  - 10.1097/cce.0000000000001452
+AN  - 42554971
+UR  - https://www.ovid.com/10.1097/CCE.0000000000001452
+KW  - Respiratory/ARDS
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Genetic Regulation of Protein Biomarkers in Pediatric ARDS](https://pubmed.ncbi.nlm.nih.gov/42610802/) ([DOI
+AU  - Helman G
+AU  - Feng R
+AU  - Motelow JE
+AU  - Yehya N.
+JO  - Crit Care Explor
+PY  - 2026
+DO  - 10.1097/cce.0000000000001468)
+KW  - Respiratory/ARDS
+KW  - 2026-W35
 ER  - 
 
 TY  - JOUR
@@ -6728,6 +8310,203 @@ DO  - 10.1097/ccm.0000000000006187
 UR  - https://journals.lww.com/ccmjournal/fulltext/2024/05000/recovery_trajectories_in_children_requiring_3_or.11.aspx
 KW  - Respiratory/ARDS
 KW  - PARDS
+ER  - 
+
+TY  - JOUR
+TI  - Association Between Noninvasive Positive Pressure Ventilation Use and Clinical Outcomes During a Severe Asthma Exacerbation: A Cohort Study
+AU  - Abbott MR
+AU  - Carpenter KP
+AU  - Razi S
+AU  - Goss CW
+AU  - Buss J
+AU  - Keller M
+AU  - Lyons PG
+AU  - Castro M
+AU  - Krings JG
+JO  - Critical Care Medicine
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007025
+AN  - 41532815
+UR  - https://journals.lww.com/10.1097/CCM.0000000000007025
+KW  - Respiratory/ARDS
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Effects of High-Flow Nasal Cannula and Helmet Continuous Positive Airway Pressure in Acute Hypoxemic Respiratory Failure
+AU  - Coppola S
+AU  - Pellicchia M
+AU  - Pozzi T
+AU  - (Chiumello D; San Paolo University Hospital
+AU  - Milan)
+JO  - Critical Care Medicine
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007116
+AN  - 41925582
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007116
+KW  - Respiratory/ARDS
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - Effect of a Lower Vs. Higher Positive End-Expiratory Pressure Strategy on Clinically Relevant Outcomes in ICU Patients Without Acute Respiratory Distress Syndrome: Bayesian Re-analysis of the RELAx RCT
+AU  - Caroli A
+AU  - Algera AG
+AU  - van Meenen D
+AU  - (Schultz MJ
+AU  - Neto AS; Amsterdam UMC / Austin Hospital
+AU  - Melbourne)
+JO  - Critical Care Medicine
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007117
+AN  - 41914828
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007117
+KW  - Respiratory/ARDS
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - Technology-Enhanced Strategies to Optimize Positive End-Expiratory Pressure in Patients Receiving Invasive Mechanical Ventilation: A Systematic Review and Meta-Analysis
+AU  - Boulton AJ
+AU  - Elfeky A
+AU  - Court R
+AU  - (Goligher EC
+AU  - Scholefield BR; University of Warwick / University of Toronto)
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007144
+AN  - 42207935
+UR  - https://journals.lww.com/10.1097/CCM.0000000000007144
+KW  - Respiratory/ARDS
+KW  - 2026-W23
+KW  - 2026-W27
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Prone Positioning in a North American Cohort of Hypoxemic Patients on Mechanical Ventilation
+AU  - Barker AK
+AU  - Nishimura A
+AU  - Nuppnau M
+AU  - Buell KG
+AU  - Lyons PG
+AU  - Liao WT
+AU  - Park-Egan B
+AU  - Schmid BE
+AU  - Ingraham NE
+AU  - Chaudhari V
+AU  - Gao CA
+AU  - Ortiz AC
+AU  - Weissman GE
+AU  - Chhikara K
+AU  - Rojas JC
+AU  - Amaral ACKB
+AU  - Parker WF
+AU  - Iwashyna TJ
+AU  - Hager DN
+AU  - Sjoding MW
+AU  - Hochberg CH
+AU  - on behalf of the Common Longitudinal ICU data Format (CLIF) Consortium
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007148
+AN  - 42171428
+UR  - https://journals.lww.com/10.1097/CCM.0000000000007148
+KW  - Respiratory/ARDS
+KW  - 2026-W27
+ER  - 
+
+TY  - JOUR
+TI  - Nebulized Heparin in Adults With Acute Respiratory Failure: A Meta-Analysis of Randomized Trials
+AU  - Fresilli S
+AU  - Belletti A
+AU  - Labanca R
+AU  - Monti G
+AU  - Schultz MJ
+AU  - Corbo F
+AU  - Luciano AP
+AU  - Ferrara B
+AU  - Turi S
+AU  - Landoni G
+AU  - for the Nebulized Heparin Study Group
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007161
+AN  - 42148826
+UR  - https://journals.lww.com/10.1097/CCM.0000000000007161
+KW  - Respiratory/ARDS
+KW  - 2026-W27
+ER  - 
+
+TY  - JOUR
+TI  - Efficacy and Safety of Systemic Prophylactic Antibacterials in Mechanically Ventilated Patients: Systematic Review and Meta-Analysis
+AU  - Yu Q
+AU  - Wu Z
+AU  - Ge Q
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007183
+AN  - 42223318
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007183
+KW  - Respiratory/ARDS
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Health-Economic Value of Transvenous Diaphragm Neurostimulation in Ventilator Weaning
+AU  - Pietzsch JB
+AU  - Ryschon AM
+AU  - Mehta N
+JO  - Critical Care Medicine
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007262
+AN  - 42479503
+UR  - https://journals.lww.com/10.1097/CCM.0000000000007262
+KW  - Respiratory/ARDS
+KW  - 2026-W31
+ER  - 
+
+TY  - JOUR
+TI  - Effects of Abdominal Electrical Stimulation Combined With Airway Clearance Techniques in Tracheotomized Patients With Neurological Disorders: A Randomized, Controlled Trial
+AU  - Huo F
+AU  - Xu H
+AU  - Shao S
+AU  - Sun Y
+AU  - Zhang H
+AU  - Jia W
+AU  - Zhang Q
+AU  - Zhang Y
+AU  - Zou G
+AU  - Chen Y
+AU  - Wang Y
+AU  - Wang H
+AU  - Li X
+JO  - Critical Care Medicine
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007267
+AN  - 42467907
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007267
+KW  - Respiratory/ARDS
+KW  - 2026-W29
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Epidemiology, Ventilatory Patterns, and Outcomes in Acute Hypoxemic Respiratory Failure Among ICU Patients Requiring Respiratory Support: A Registry-Based Cohort Study
+AU  - von Düring S
+AU  - Goligher E
+AU  - Amaral ACK
+AU  - Rubenfeld GD
+AU  - Ferguson ND
+AU  - Urner M
+AU  - Fan E
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007284
+AN  - 42584185
+UR  - https://doi.org/10.1097/ccm.0000000000007284
+KW  - Respiratory/ARDS
+KW  - 2026-W34
 ER  - 
 
 TY  - JOUR
@@ -7497,6 +9276,90 @@ KW  - PARDS
 ER  - 
 
 TY  - JOUR
+TI  - REstrictive versus StandarD FlUid Management in Mechanically Ventilated ChildrEn Admitted to PICU: a pilot randomized controlled trial (REDUCE-1)
+AU  - Raman S
+AU  - Rahiman S
+AU  - Kennedy M
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000003969
+AN  - 42417586
+UR  - https://www.ovid.com/10.1097/PCC.0000000000003969
+KW  - Respiratory/ARDS
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Child Opportunity Index and 30-Day Readmission Among Children Discharged With New Long-Term Mechanical Ventilation via Tracheostomy: A Pediatric Health Information System Database Study, 2014–2023
+AU  - [First author not listed in section metadata]
+AU  - (PHIS database; N=5
+AU  - 927)
+JO  - Pediatric Critical Care Medicine
+PY  - 2026
+DO  - 10.1097/pcc.0000000000003989
+AN  - 42307269
+UR  - https://www.ovid.com/10.1097/PCC.0000000000003989
+KW  - Respiratory/ARDS
+KW  - 2026-W25
+KW  - 2026-W33
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Lung Recruitment Maneuvers During Invasive Mechanical Ventilation: Single-Center Retrospective PICU Cohort Study, 2016-2023
+AU  - Beauchamp FO
+AU  - Thériault J
+AU  - Emeriaud G
+AU  - Sauthier M
+JO  - Pediatric Critical Care Medicine
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004002
+AN  - 42383786
+UR  - https://journals.lww.com/10.1097/PCC.0000000000004002
+KW  - Respiratory/ARDS
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Lung Superimposed Pressure in Pediatric Acute Respiratory Distress Syndrome: Single-Center Study, 2014-2024
+AU  - Ball L
+AU  - Maxenti M
+AU  - Giardina A
+AU  - Serafini SC
+AU  - Damasio MB
+AU  - Grillo R
+AU  - Patroniti N
+AU  - Cereda M
+AU  - Yehya N
+AU  - Moscatelli A
+JO  - Pediatric Critical Care Medicine
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004003
+AN  - 42378455
+UR  - https://journals.lww.com/10.1097/PCC.0000000000004003
+KW  - Respiratory/ARDS
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - The Association Between Obesity and ICU Duration in Pediatric Critical Asthma
+AU  - Kingdon TC
+AU  - Klein MJ
+AU  - Carroll CL
+AU  - White BR
+AU  - Grunwell JR
+AU  - Ross PA
+AU  - Bhalla AK
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004032
+AN  - 42584187
+UR  - https://doi.org/10.1097/pcc.0000000000004032
+KW  - Respiratory/ARDS
+KW  - 2026-W34
+ER  - 
+
+TY  - JOUR
 TI  - Cleaved caspase-3 in lung epithelium of children who died with acute respiratory distress syndrome.
 AU  - Bem RA
 AU  - van der Loos CM
@@ -7527,6 +9390,22 @@ DO  - 10.1097/pcc.0b013e3181dbaeb3
 UR  - https://journals.lww.com/pccmjournal/Fulltext/2011/03000/Daily_practice_of_mechanical_ventilation_in.3.aspx
 KW  - Respiratory/ARDS
 KW  - PARDS
+ER  - 
+
+TY  - JOUR
+TI  - Impact of Oxygen Targets on Sepsis Outcome: A Randomized Controlled Trial
+AU  - Chen X
+AU  - Wen W
+AU  - Zheng L
+JO  - Shock
+PY  - 2026
+DO  - 10.1097/shk.0000000000002865
+AN  - 42337386
+UR  - https://www.ovid.com/10.1097/SHK.0000000000002865
+KW  - Respiratory/ARDS
+KW  - 2026-W27
+KW  - borderline
+KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -7768,6 +9647,33 @@ KW  - prone
 ER  - 
 
 TY  - JOUR
+TI  - Validation of a web-based clinical tool for predicting the risk of bronchopulmonary dysplasia in extremely preterm infants: a retrospective cohort study
+AU  - Abuzaid A
+AU  - Garrada SN
+AU  - Alsaihati HSA
+JO  - BMJ Paediatrics Open
+PY  - 2026
+DO  - 10.1136/bmjpo-2025-003609
+AN  - 42476748
+UR  - https://bmjpaedsopen.bmj.com/lookup/doi/10.1136/bmjpo-2025-003609
+KW  - Respiratory/ARDS
+KW  - 2026-W31
+ER  - 
+
+TY  - JOUR
+TI  - Prevalence of dysglycemia following paediatric cardiac surgery: a systematic review and meta-analysis
+AU  - Abera EG
+AU  - Sime H
+JO  - BMJ Paediatr Open
+PY  - 2026
+DO  - 10.1136/bmjpo-2025-004193
+AN  - 42128542
+UR  - https://bmjpaedsopen.bmj.com/lookup/doi/10.1136/bmjpo-2025-004193
+KW  - Respiratory/ARDS
+KW  - 2026-W20
+ER  - 
+
+TY  - JOUR
 TI  - Pleural and transpulmonary pressures to tailor protective ventilation in children
 AU  - Vedrenne-Cloquet, Meryl
 AU  - Khirani, Sonia
@@ -7810,6 +9716,20 @@ DO  - 10.1136/thorax-2023-220292
 UR  - https://thorax.bmj.com/content/79/3/227
 KW  - Respiratory/ARDS
 KW  - general
+ER  - 
+
+TY  - JOUR
+TI  - Prognostic impact and safety of early adjunctive corticosteroid therapy in HIV-negative severe Pneumocystis pneumonia: a propensity-matched multicentre study
+AU  - Reizine F
+AU  - Stiegler V
+AU  - Lecuyer R
+JO  - Thorax
+PY  - 2026
+DO  - 10.1136/thorax-2025-223504
+AN  - 41371766
+UR  - https://thorax.bmj.com/lookup/doi/10.1136/thorax-2025-223504
+KW  - Respiratory/ARDS
+KW  - 2026-W20
 ER  - 
 
 TY  - JOUR
@@ -10414,6 +12334,151 @@ KW  - prone
 ER  - 
 
 TY  - JOUR
+TI  - Electrical Impedance Tomography Accurately Reflects Regional Ventilation Distribution Compared With Computed Tomography in Non-Intubated Subjects
+AU  - Morais CCA
+AU  - Rattes C
+AU  - Rocha T
+JO  - Respir Care
+PY  - 2026
+DO  - 10.1177/19433654261425212
+AN  - 41847919
+UR  - https://journals.sagepub.com/doi/10.1177/19433654261425212
+KW  - Respiratory/ARDS
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Femoral Muscle Volume Change and Postextubation Respiratory Support in Infants After Cardiac Surgery
+AU  - Yamamoto N
+AU  - Tani M
+AU  - Mihara T
+JO  - Respir Care
+PY  - 2026
+DO  - 10.1177/19433654261427695
+AN  - 41834298
+UR  - https://journals.sagepub.com/doi/10.1177/19433654261427695
+KW  - Respiratory/ARDS
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Effects of Heat-Moisture Exchangers and Dead Space Compensation on CO2 Clearance and Mechanical Power in Critically Ill Intubated Subjects
+AU  - Dorado JH
+AU  - Perez J
+AU  - Steinberg D
+AU  - Plotnikow GA
+AU  - Bertozzi M
+AU  - Accoce M
+JO  - Respiratory Care
+PY  - 2026
+DO  - 10.1177/19433654261427702
+AN  - 41847924
+UR  - https://journals.sagepub.com/doi/10.1177/19433654261427702
+KW  - Respiratory/ARDS
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Reverse Triggering With and Without Breath Stacking During Pressure-Controlled Ventilation: Exposure Burden and Associations With Ventilation Outcomes
+AU  - Zhang S
+AU  - Yuan S
+AU  - Baedorf Kassis E
+AU  - (Talmor D
+AU  - Su L
+AU  - Long Y; PUMCH + Harvard/Beth Israel Deaconess)
+JO  - Respir Care
+PY  - 2026
+DO  - 10.1177/19433654261447873
+AN  - 42200607
+UR  - https://journals.sagepub.com/doi/10.1177/19433654261447873
+KW  - Respiratory/ARDS
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - The Accuracy of Plateau and Driving Pressures During Assisted and Spontaneous Ventilation Depends on the Degree of Inspiratory Effort and Duration of the Inspiratory Hold
+AU  - [First author not listed in section metadata]
+AU  - (ASL-5000 simulator + pediatric ARDS trial waveforms)
+JO  - Respiratory Care
+PY  - 2026
+DO  - 10.1177/19433654261450212
+AN  - 42273925
+UR  - https://journals.sagepub.com/doi/10.1177/19433654261450212
+KW  - Respiratory/ARDS
+KW  - 2026-W25
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Association of Extubation Timing and Treatment Failure After Successful Extubation Readiness Trial in Pediatric Patients
+AU  - [First author not listed in section metadata]
+AU  - (single quaternary PICU; N=261)
+JO  - Respiratory Care
+PY  - 2026
+DO  - 10.1177/19433654261450551
+AN  - 42273962
+UR  - https://journals.sagepub.com/doi/10.1177/19433654261450551
+KW  - Respiratory/ARDS
+KW  - 2026-W25
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Effect of High-Flow Nasal Cannula on Expiratory Muscle Activity in Critically Ill Subjects
+AU  - [First author not listed in section metadata]
+AU  - (single ICU; N=30)
+JO  - Respiratory Care
+PY  - 2026
+DO  - 10.1177/19433654261453032
+AN  - 42273964
+UR  - https://journals.sagepub.com/doi/10.1177/19433654261453032
+KW  - Respiratory/ARDS
+KW  - 2026-W25
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Ventilator Liberation for Hospitalized Patients With Tracheostomy
+AU  - [First author not listed in section metadata]
+AU  - (Cleveland Clinic)
+JO  - Respiratory Care
+PY  - 2026
+DO  - 10.1177/19433654261453039
+AN  - 42300997
+UR  - https://journals.sagepub.com/doi/10.1177/19433654261453039
+KW  - Respiratory/ARDS
+KW  - 2026-W25
+KW  - 2026-06
+KW  - borderline
+ER  - 
+
+TY  - JOUR
+TI  - Automated Detection of Trigger Asynchronies During Initiation of Noninvasive Nocturnal Ventilation
+AU  - Soleimani F
+AU  - Warnaar R
+AU  - Hazenberg A
+JO  - Respir Care
+PY  - 2026
+DO  - 10.1177/19433654261469634
+AN  - 42522703
+UR  - https://journals.sagepub.com/doi/10.1177/19433654261469634
+KW  - Respiratory/ARDS
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Noninvasive Respiratory Support in Pediatric ARDS](https://pubmed.ncbi.nlm.nih.gov/42615311/) ([DOI
+AU  - Deacon A
+AU  - Wilson PT
+AU  - Smith ME.
+JO  - Respir Care
+PY  - 2026
+DO  - 10.1177/19433654261475735)
+KW  - Respiratory/ARDS
+KW  - 2026-W35
+ER  - 
+
+TY  - JOUR
 TI  - Physical manoeuvres in patients with ARDS and low compliance: bedside approaches to detect lung hyperinflation and optimise mechanical ventilation
 AU  - Rezoagli, Emanuele
 AU  - Bastia, Luca
@@ -10654,6 +12719,36 @@ DO  - 10.1186/isrctn94827278
 UR  - https://journals.lww.com/pccmjournal/abstract/9900/extubation_failure_in_neonates_following.435.aspx
 KW  - Respiratory/ARDS
 KW  - weaning-extubation
+ER  - 
+
+TY  - JOUR
+TI  - Fluid responsiveness in ARDS: current evidence, knowledge gaps, and future directions - a scoping review of the literature
+AU  - Alvarado-Sánchez JI
+AU  - Caicedo-Ruiz JD
+AU  - Torres-Martínez MJ
+AU  - Diaztagle-Fernández JJ
+JO  - BMC Anesthesiology
+PY  - 2026
+DO  - 10.1186/s12871-026-03910-z
+AN  - 42143226
+UR  - https://link.springer.com/10.1186/s12871-026-03910-z
+KW  - Respiratory/ARDS
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Efficacy and safety of high-flow nasal cannula versus continuous positive airway pressure and conventional oxygen therapies in pediatric acute respiratory failure: a systematic review and meta-analysis
+AU  - Memar EHE
+AU  - Shirzadi R
+AU  - Rahsepar NS
+AU  - Ashtari S
+JO  - BMC Pediatrics
+PY  - 2026
+DO  - 10.1186/s12887-026-07220-8
+AN  - 42387462
+UR  - https://link.springer.com/10.1186/s12887-026-07220-8
+KW  - Respiratory/ARDS
+KW  - 2026-07
 ER  - 
 
 TY  - JOUR
@@ -14295,9 +16390,11 @@ AU  - Pelosi, Paolo
 JO  - Critical Care
 PY  - 2024
 DO  - 10.1186/s13054-024-04950-y
+AN  - 38796447
 UR  - https://ccforum.biomedcentral.com/articles/10.1186/s13054-024-04950-y
 KW  - Respiratory/ARDS
 KW  - driving-pressure
+KW  - 2026-06
 ER  - 
 
 TY  - JOUR
@@ -15421,6 +17518,22 @@ KW  - general
 ER  - 
 
 TY  - JOUR
+TI  - Elastance as a determinant of the effect of prone positioning on mortality in ARDS: a post hoc analysis of the PROSEVA trial
+AU  - Zalucky AA
+AU  - Goligher EC
+AU  - Dianti J
+AU  - (Guerin C
+AU  - Calfee CS)
+JO  - Crit Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06060-3
+AN  - 42143375
+UR  - https://link.springer.com/10.1186/s13054-026-06060-3
+KW  - Respiratory/ARDS
+KW  - 2026-W21
+ER  - 
+
+TY  - JOUR
 TI  - Definition and prognostic value of response to prone positioning in ARDS: a systematic review and meta-analysis
 AU  - Caccioppola, Alessio
 AU  - Ippolito, Mariachiara
@@ -15430,9 +17543,91 @@ AU  - Grasselli, Giacomo
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06081-y
+AN  - 42141498
 UR  - https://link.springer.com/article/10.1186/s13054-026-06081-y
 KW  - Respiratory/ARDS
 KW  - prone
+KW  - 2026-W21
+ER  - 
+
+TY  - JOUR
+TI  - Electrical Impedance Tomography-Derived Flow Index During Spontaneous Breathing Trial Stratifies the Risk of Reintubation Within 48 h After Extubation
+AU  - Zhang R
+AU  - Xu J
+AU  - Wu J
+AU  - (Qu H
+AU  - Zhao Z
+AU  - Liu J; Ruijin Hospital / PUMCH — 5 ICUs
+AU  - China)
+JO  - Crit Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06098-3
+AN  - 42219497
+UR  - https://link.springer.com/10.1186/s13054-026-06098-3
+KW  - Respiratory/ARDS
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - Discomfort of Noninvasive Ventilation, High Flow Nasal Cannula Oxygen, and Conventional Oxygen Implemented After Extubation in Non-COPD Patients
+AU  - Rouby JJ
+AU  - Quenot JP
+AU  - Zhang M
+AU  - (Constantin JM
+AU  - Pereira B; Pitie-Salpetriere + multicenter international)
+JO  - Crit Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06104-8
+AN  - 42218528
+UR  - https://link.springer.com/10.1186/s13054-026-06104-8
+KW  - Respiratory/ARDS
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - Impact of ultra-low tidal volume ventilation on 1-year functional outcome in COVID-19 ARDS patients: a long-term follow-up analysis of a randomized controlled trial
+AU  - Richard JC
+AU  - Chorfa F
+AU  - Terzi N
+AU  - Yonis H
+AU  - Wallet F
+AU  - Dupuis C
+AU  - Argaud L
+AU  - Delannoy B
+AU  - Thiery G
+AU  - Bourdin G
+AU  - Rimmele T
+AU  - Muller M
+AU  - Sigaud F
+AU  - Rigault G
+AU  - Joffredo E
+AU  - Mezidi M
+AU  - Souweine B
+AU  - Baboi L
+AU  - Serrier H
+AU  - Rabilloud M
+AU  - Bitker L
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06195-3
+AN  - 42449426
+UR  - https://link.springer.com/10.1186/s13054-026-06195-3
+KW  - Respiratory/ARDS
+KW  - 2026-W29
+ER  - 
+
+TY  - JOUR
+TI  - The impact of an intensive care telemedicine program on weaning from invasive ventilation: a secondary analysis of the ERIC trial
+AU  - Adam MF
+AU  - Grunow JJ
+AU  - Edel A
+JO  - Crit Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06234-z
+AN  - 42568095
+UR  - https://link.springer.com/10.1186/s13054-026-06234-z
+KW  - Respiratory/ARDS
+KW  - 2026-W33
 ER  - 
 
 TY  - JOUR
@@ -17237,6 +19432,19 @@ DO  - 10.3389/fmed.2026.1789457
 UR  - https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1789457/full
 KW  - Respiratory/ARDS
 KW  - general
+ER  - 
+
+TY  - JOUR
+TI  - Positive end-expiratory pressure titration in acute respiratory distress syndrome—a practical bedside algorithm
+AU  - Melo L
+AU  - Mendes JJ
+JO  - Frontiers in Medicine
+PY  - 2026
+DO  - 10.3389/fmed.2026.1807478
+AN  - 42422844
+UR  - https://www.frontiersin.org/articles/10.3389/fmed.2026.1807478/full
+KW  - Respiratory/ARDS
+KW  - 2026-06
 ER  - 
 
 TY  - JOUR

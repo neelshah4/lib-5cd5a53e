@@ -195,6 +195,22 @@ KW  - arrest-CPR
 ER  - 
 
 TY  - JOUR
+TI  - Sodium Bicarbonate for In-Hospital Cardiac Arrest: A Randomized Clinical Trial
+AU  - Granfeldt A
+AU  - Kirkegaard BL
+AU  - Vallentin MF
+AU  - (BIHCA Investigators)
+JO  - JAMA
+PY  - 2026
+DO  - 10.1001/jama.2026.10628
+AN  - 42273960
+UR  - https://jamanetwork.com/journals/jama/fullarticle/2850405
+KW  - Cardiac CC
+KW  - 2026-W36
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
 TI  - Device-Assisted vs Standard Valsalva Maneuver for Terminating Supraventricular Tachycardia
 AU  - Huang, Lihong
 AU  - Sang, Caihua
@@ -1462,6 +1478,36 @@ KW  - general
 ER  - 
 
 TY  - JOUR
+TI  - Demonstration of the acute hemodynamic effects of dynamic left ventricular outflow obstruction
+AU  - Yao RJR
+AU  - Jiang M
+AU  - Lee R
+AU  - Donaldson C
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08379-5
+AN  - 41954745
+UR  - https://link.springer.com/10.1007/s00134-026-08379-5
+KW  - Cardiac CC
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Early High-Dose Vitamin C for Out-of-Hospital Cardiac Arrest: The VITaCCA Randomized Clinical Trial
+AU  - Rozemeijer S
+AU  - (multicenter; N=273: 93 placebo
+AU  - 91 vitamin C 3g
+AU  - 89 vitamin C 10g IV post-OHCA)
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08492-5
+AN  - 42301311
+UR  - https://link.springer.com/10.1007/s00134-026-08492-5
+KW  - Cardiac CC
+KW  - 2026-W25
+ER  - 
+
+TY  - JOUR
 TI  - Implementation of a Regional Oxygen Saturation Thought Algorithm and Association with Clinical Outcomes in Pediatric Patients Following Cardiac Surgery
 AU  - Spaeder, Michael C.
 AU  - Keller, Jacqueline M.
@@ -1477,6 +1523,28 @@ DO  - 10.1007/s00246-022-03071-z
 UR  - https://link.springer.com/article/10.1007/s00246-022-03071-z
 KW  - Cardiac CC
 KW  - CHD-postop
+ER  - 
+
+TY  - JOUR
+TI  - Nonlinear Association of Serum Sodium with Urine Output in Postoperative Pediatric Cardiac Patients Receiving Furosemide: A Retrospective Study
+AU  - Gilad D
+AU  - Jacover A
+AU  - Levy S
+AU  - Lerner RK
+AU  - Keizman E
+AU  - Mishali D
+AU  - Skourikhin Y
+AU  - Katz U
+AU  - Wagner TT
+AU  - Pessach IM
+AU  - Hubara E
+JO  - Pediatric Cardiology
+PY  - 2026
+DO  - 10.1007/s00246-026-04341-w
+AN  - 42360430
+UR  - https://link.springer.com/10.1007/s00246-026-04341-w
+KW  - Cardiac CC
+KW  - 2026-06
 ER  - 
 
 TY  - JOUR
@@ -1571,6 +1639,23 @@ DO  - 10.1016/0300-9572(91)90093-e
 UR  - https://journals.lww.com/pccmjournal/abstract/2024/10000/etwittertracorporeal_cardiopulmonary_resuscitation_use.21.aspx?s=09
 KW  - Cardiac CC
 KW  - arrest-CPR
+ER  - 
+
+TY  - JOUR
+TI  - Capillary refill time changes are associated with Vascular Waterfall response in post-cardiac surgery patients
+AU  - Andrei S
+AU  - Bar S
+AU  - Nguyen M
+AU  - Bouhemad B
+AU  - Longrois D
+AU  - Guinot PG
+JO  - Annals of Intensive Care
+PY  - 2026
+DO  - 10.1016/j.aicoj.2026.100105
+AN  - 42403524
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2110582026001408
+KW  - Cardiac CC
+KW  - 2026-06
 ER  - 
 
 TY  - JOUR
@@ -1718,6 +1803,25 @@ DO  - 10.1016/j.athoracsur.2026.01.006
 UR  - https://www.annalsthoracicsurgery.org/article/S0003-4975(26)00083-4/fulltext
 KW  - Cardiac CC
 KW  - CHD-postop
+ER  - 
+
+TY  - JOUR
+TI  - Randomized Clinical Trial Comparing Effects of Pulsatile vs Nonpulsatile Cardiopulmonary Bypass on Neurologic Outcomes
+AU  - Rajesh S
+AU  - Dayi K
+AU  - Lussier MJ
+AU  - McKeone DJ
+AU  - Halstead ES
+AU  - Kunselman AR
+AU  - Myers JL
+AU  - Ündar A
+JO  - The Annals of Thoracic Surgery
+PY  - 2026
+DO  - 10.1016/j.athoracsur.2026.04.046
+AN  - 42119757
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0003497526004352
+KW  - Cardiac CC
+KW  - 2026-06
 ER  - 
 
 TY  - JOUR
@@ -1904,6 +2008,26 @@ KW  - arrest-CPR
 ER  - 
 
 TY  - JOUR
+TI  - The Effects of Targeted Mild Hypercapnia on Right Ventricular Function After Out-of-Hospital Cardiac Arrest: A Substudy of the Targeted Therapeutic Mild Hypercapnia After Resuscitated Cardiac Arrest Trial
+AU  - Melberg MB
+AU  - Rootwelt SD
+AU  - Flaa A
+AU  - Andersen GØ
+AU  - Sunde K
+AU  - Eastwood G
+AU  - Bellomo R
+AU  - Olasveengen TM
+AU  - Qvigstad E
+JO  - CHEST
+PY  - 2026
+DO  - 10.1016/j.chest.2025.11.017
+AN  - 41297587
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0012369225057964
+KW  - Cardiac CC
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
 TI  - Efficacy of inhaled hydrogen on neurological outcome following brain ischaemia during post-cardiac arrest care (HYBRID II): a multi-centre, randomised, double-blind, placebo-controlled trial
 AU  - Tamura, Tomoyoshi
 AU  - Suzuki, Masaru
@@ -2003,6 +2127,78 @@ KW  - HF-VAD
 ER  - 
 
 TY  - JOUR
+TI  - Hybrid durable biventricular assist device implantation with Berlin Heart EXCOR pulsatile RVAD and a continuous flow LVAD
+AU  - Meyer AL
+AU  - Bernhardt AM
+AU  - Garbade J
+AU  - Eifert S
+AU  - Schmitto JD
+AU  - Nozdrzykowski M
+AU  - Assar YA
+AU  - Kremer J
+AU  - Dimitriu A
+AU  - Dashkevich A
+AU  - Schmack B
+JO  - J Heart Lung Transplant
+PY  - 2026
+DO  - 10.1016/j.healun.2026.02.1674
+AN  - 41765060
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1053249826017328
+KW  - Cardiac CC
+KW  - 2026-W27
+ER  - 
+
+TY  - JOUR
+TI  - Prognostic Implications of the Updated ISHLT Definition for Severe Graft Dysfunction: An Analysis from the International PGD Consortium and UNOS Databases
+AU  - Dhingra NK
+AU  - Devore AD
+AU  - Hall SA
+AU  - (Moayedi Y; University Health Network
+AU  - Toronto + UNOS)
+JO  - Journal of Heart and Lung Transplantation
+PY  - 2026
+DO  - 10.1016/j.healun.2026.05.032
+AN  - 42263895
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1053249826019431
+KW  - Cardiac CC
+KW  - 2026-W24
+ER  - 
+
+TY  - JOUR
+TI  - Persistent Primary Graft Dysfunction Stratifies Risk After Heart Transplantation With Lower Mortality Among Recipients of Donation-After-Circulatory-Death Hearts
+AU  - Berg AR
+AU  - Krishnan A
+AU  - Heng EE
+AU  - Zhou A
+AU  - Maskos A
+AU  - Rajaram V
+AU  - Alnasir DI
+AU  - Khush KK
+AU  - Teuteberg J
+AU  - Woo YJ
+AU  - MacArthur JW
+JO  - Journal of Heart and Lung Transplantation
+PY  - 2026
+DO  - 10.1016/j.healun.2026.07.007
+AN  - 42468790
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1053249826019868
+KW  - Cardiac CC
+KW  - 2026-W29
+ER  - 
+
+TY  - JOUR
+TI  - "Not A Candidate" Becomes a Verdict: Reframing Intensive Care for Patients with Advanced Heart Failure
+AU  - Gomes DO
+JO  - Journal of Heart and Lung Transplantation
+PY  - 2026
+DO  - 10.1016/j.healun.2026.07.023
+AN  - 42501876
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1053249826020085
+KW  - Cardiac CC
+KW  - 2026-W31
+ER  - 
+
+TY  - JOUR
 TI  - Sotalol versus amiodarone for postoperative junctional tachycardia after congenital heart surgery.
 AU  - Rochelson E
 AU  - Valdés SO
@@ -2020,6 +2216,65 @@ AN  - 34801734
 UR  - https://pubmed.ncbi.nlm.nih.gov/34801734/
 KW  - Cardiac CC
 KW  - arrhythmia
+ER  - 
+
+TY  - JOUR
+TI  - Functional Status and Health-Related Quality of Life Among Survivors of Cardiogenic Shock
+AU  - Hall EJ
+AU  - Agarwal S
+AU  - Ayers CR
+AU  - Canga S
+AU  - Gavrila EI
+AU  - Saplicki RJ
+AU  - Gee EP
+AU  - Khan M
+AU  - Zhang J
+AU  - Dewanjee A
+AU  - Kim HW
+AU  - Grubb CS
+AU  - Hendren NS
+AU  - Schaffert J
+AU  - Das SR
+AU  - Cullum CM
+AU  - Ely EW
+AU  - de Lemos JA
+AU  - Farr MA
+JO  - JACC Heart Failure
+PY  - 2026
+DO  - 10.1016/j.jchf.2026.103229
+AN  - 42470413
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2213177926003306
+KW  - Cardiac CC
+KW  - 2026-W29
+ER  - 
+
+TY  - JOUR
+TI  - Payer-Driven Disparities in Cardiogenic Shock: Technology Access and Survival from 2023 National Analysis
+AU  - Sharma NR
+AU  - Lamichhane S
+AU  - Khanal P
+JO  - JACC Heart Fail
+PY  - 2026
+DO  - 10.1016/j.jchf.2026.103307
+AN  - 42663336
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2213177926004105
+KW  - Cardiac CC
+KW  - 2026-W36
+ER  - 
+
+TY  - JOUR
+TI  - Current Perspectives in Cardiogenic Shock
+AU  - Es-Saad O
+AU  - Ng W
+AU  - Messina A
+AU  - Chew MS
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155471
+AN  - 41655405
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126000493
+KW  - Cardiac CC
+KW  - 2026-W23
 ER  - 
 
 TY  - JOUR
@@ -2157,6 +2412,27 @@ DO  - 10.1016/j.resplu.2025.100997
 UR  - https://www.sciencedirect.com/science/article/pii/S2666520425001341
 KW  - Cardiac CC
 KW  - arrest-CPR
+ER  - 
+
+TY  - JOUR
+TI  - Pediatric cardiopulmonary resuscitation quality in crib versus standard hospital bed model at a single center
+AU  - Wilstead AR
+AU  - Tegtmeyer K
+AU  - Collins K
+AU  - Meisman AR
+AU  - James K
+AU  - Zhang B
+AU  - Sahay RD
+AU  - Zackoff MW
+AU  - Loeb DA
+AU  - Dewan ML
+JO  - Resuscitation Plus
+PY  - 2026
+DO  - 10.1016/j.resplu.2026.101395
+AN  - 42434100
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2666520426001803
+KW  - Cardiac CC
+KW  - 2026-06
 ER  - 
 
 TY  - JOUR
@@ -2803,6 +3079,180 @@ KW  - arrest-CPR
 ER  - 
 
 TY  - JOUR
+TI  - Duration of Emergency Medical Services-Initiated Prehospital Cardiopulmonary Resuscitation Efforts and Survival for Pediatric Patients With Out-of-Hospital Cardiac Arrest
+AU  - Okubo M
+AU  - Komukai S
+AU  - Izawa J
+AU  - (Callaway CW
+AU  - Berg RA; ROC Epistry registry
+AU  - 10 US/Canadian sites)
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111028
+AN  - 41759813
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226000742
+KW  - Cardiac CC
+KW  - 2026-W23
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Healthcare Costs of Expedited Transport After Out-of-Hospital Cardiac Arrest: Results From the EVIDENCE RCT
+AU  - Jang K
+AU  - Morton RL
+AU  - Burns B
+AU  - (Tran AD; EVIDENCE trial
+AU  - Sydney)
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111083
+AN  - 41967757
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226001292
+KW  - Cardiac CC
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - Effect of Vascular Access Strategy on Long-Term Outcomes in Patients With Out-of-Hospital Cardiac Arrest: A Randomised Clinical Trial
+AU  - Vallentin MF
+AU  - Holmberg MJ
+AU  - Granfeldt A
+AU  - (Andersen LW; IVIO trial
+AU  - Denmark)
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111087
+AN  - 41967754
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226001334
+KW  - Cardiac CC
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - Between-Hospital Variability in Outcomes After Cardiac Arrest in a Large Clinical Trial Network
+AU  - Elmer J
+AU  - Roy A
+AU  - Silbergleit R
+AU  - (Meurer W; ICECAP trial network
+AU  - 69 US hospitals)
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111090
+AN  - 41974222
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S030095722600136X
+KW  - Cardiac CC
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - DeepCRI: real-time EEG-based prognostication after cardiac arrest
+AU  - van Putten MJAM
+AU  - Keijzer HM
+AU  - Hofmeijer J
+AU  - Buscher-Jungerhans P
+AU  - Gaspard N
+AU  - Caroyer S
+AU  - Beishuizen A
+AU  - Tjepkema-Cloostermans MC
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111102
+AN  - 42000027
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226001486
+KW  - Cardiac CC
+KW  - 2026-W27
+ER  - 
+
+TY  - JOUR
+TI  - A randomised controlled trial of defibrillation with manual pressure augmentation during out-of-hospital cardiac arrest
+AU  - Nehme Z
+AU  - Mahony E
+AU  - Nehme E
+AU  - Anderson D
+AU  - Okyere D
+AU  - McManamny T
+AU  - Ball J
+AU  - Delardes B
+AU  - Smith K
+AU  - Kistler PM
+AU  - Bloom J
+AU  - Stub D
+AU  - Voskoboinik A
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111121
+AN  - 42092447
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226001681
+KW  - Cardiac CC
+KW  - 2026-W27
+ER  - 
+
+TY  - JOUR
+TI  - Temporal Trends in Treatment and Outcomes of Patients with Cardiac Arrest Due to Pulmonary Embolism: A Nationwide Inpatient Database Study
+AU  - Ishida K
+AU  - Nishimoto Y
+AU  - Ohbe H
+AU  - (Yasunaga H; nationwide Japan inpatient database)
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111167
+AN  - 42264174
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226002145
+KW  - Cardiac CC
+KW  - 2026-W24
+ER  - 
+
+TY  - JOUR
+TI  - Diastolic blood pressure and end-tidal carbon dioxide during adult ICU cardiopulmonary resuscitation: association with return of spontaneous circulation
+AU  - Singh A
+AU  - Kataria S
+AU  - John G
+AU  - Wosser T
+AU  - Ray S
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111177
+AN  - 42331277
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226002248
+KW  - Cardiac CC
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Comparison of Intraosseous Line Placement Location and Rates of Return of Spontaneous Circulation and Survival to Discharge Among Patients with Out-of-Hospital Cardiac Arrest
+AU  - Witherell A
+AU  - (single-county EMS registry; N=1
+AU  - 920 OHCA)
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111179
+AN  - 42314896
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226002261
+KW  - Cardiac CC
+KW  - 2026-W25
+ER  - 
+
+TY  - JOUR
+TI  - Association of Emergency Physician Critical Care Training on Outcomes after Non-traumatic Out-of-Hospital Cardiac Arrest
+AU  - Kreutz J
+AU  - Betz S
+AU  - Hof F
+AU  - Markus B
+AU  - Mihali K
+AU  - Gruebl T
+AU  - Sassen MC
+AU  - Schieffer B
+AU  - Jerrentrup A
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111264
+AN  - 42600766
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226003114
+KW  - Cardiac CC
+KW  - 2026-W34
+ER  - 
+
+TY  - JOUR
 TI  - Invited commentary on Kowalewski M, Pasierski M, Makhoul M, et al. Topical vancomycin for sternal wound infection prophylaxis. A systematic review and updated meta-analysis of over 40,000 cardiac surgery patients
 AU  - Sellke, Frank W.
 JO  - Surgery
@@ -2979,6 +3429,32 @@ KW  - CHD-postop
 ER  - 
 
 TY  - JOUR
+TI  - Preoperative, operative, and immediate postoperative predictors of the onset of low cardiac output syndrome in CHD
+AU  - Akbasli IT
+AU  - Tandon A
+AU  - Cassedy AE
+AU  - Allan CK
+AU  - Madugula N
+AU  - Dickey S
+AU  - Du S
+AU  - Nemer G
+AU  - Bora G
+AU  - Das A
+AU  - Norel R
+AU  - Barra N
+AU  - Najm H
+AU  - Marino B
+AU  - Latifi S
+AU  - Baloglu O
+JO  - Cardiology in the Young
+PY  - 2026
+DO  - 10.1017/s1047951126113833
+UR  - https://www.cambridge.org/core/product/identifier/S1047951126113833/type/journal_article
+KW  - Cardiac CC
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
 TI  - Computing the Effects of SARS-CoV-2 on Respiration Regulatory Mechanisms in COVID-19
 AU  - Baig, Abdul Mannan
 JO  - ACS Chemical Neuroscience
@@ -3086,6 +3562,34 @@ KW  - HF-VAD
 ER  - 
 
 TY  - JOUR
+TI  - A case of artificial intelligence-enhanced diagnostics leading to heart transplantation
+AU  - Hartman HS
+AU  - Finer J
+AU  - Hartzel D
+AU  - Kelsey C
+AU  - Long A
+AU  - Rocha D
+AU  - Ruhl JA
+AU  - vanMaanen D
+AU  - Malta PP
+AU  - Castillo M
+AU  - Roedan Oliver FA
+AU  - Daniels B
+AU  - Hughes JW
+AU  - Leon MB
+AU  - Probst MA
+AU  - Poterucha TJ
+AU  - Elias P
+JO  - Nature Medicine
+PY  - 2026
+DO  - 10.1038/s41591-026-04454-y
+AN  - 42332144
+UR  - https://www.nature.com/articles/s41591-026-04454-y
+KW  - Cardiac CC
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
 TI  - Individual variation in unfractionated heparin dosing after pediatric cardiac surgery
 AU  - Hikino, Keiko
 AU  - Koido, Masaru
@@ -3100,6 +3604,23 @@ DO  - 10.1038/s41598-020-76547-8
 UR  - https://journals.lww.com/pccmjournal/fulltext/9900/unfractionated_heparin_dosing_in_pediatric.602.aspx?LatestEmailToken=sWwNVJ4pwBx50o4a4FDS1yjiLQVs6gAXzgnPQ3ehF1ewSX_-zFwQIfC3UqLyn1OBF7X3cl3G0stM2Bc2IZ4saQ
 KW  - Cardiac CC
 KW  - CHD-postop
+ER  - 
+
+TY  - JOUR
+TI  - Methylprednisolone for heart surgery in pediatric patients: a meta-analysis of randomized trials
+AU  - Barboza JJ
+AU  - Rivera-Lozada O
+AU  - Bonilla-Asalde C
+AU  - Morales-Olivera JA
+AU  - Álvarez JF
+AU  - Flores-Palacios R
+JO  - Scientific Reports
+PY  - 2026
+DO  - 10.1038/s41598-026-57085-1
+AN  - 42321304
+UR  - https://www.nature.com/articles/s41598-026-57085-1
+KW  - Cardiac CC
+KW  - 2026-06
 ER  - 
 
 TY  - JOUR
@@ -3275,6 +3796,25 @@ DO  - 10.1053/j.jvca.2026.05.023
 UR  - https://www.sciencedirect.com/science/article/pii/S1053077026003915?via%3Dihub
 KW  - Cardiac CC
 KW  - CHD-postop
+ER  - 
+
+TY  - JOUR
+TI  - Milrinone versus Dobutamine as Supportive Agent for Right Ventricular Dysfunction after Cardiopulmonary Bypass: A Randomized Comparative Study
+AU  - Hegazy MA
+AU  - Abdelbaser I
+AU  - Abdellatif A
+AU  - Mamdouh M
+AU  - Atallah A
+AU  - Farid A
+AU  - Elsayed HM
+AU  - Alseoudy M
+JO  - Journal of Cardiothoracic and Vascular Anesthesia
+PY  - 2026
+DO  - 10.1053/j.jvca.2026.07.015
+AN  - 42538243
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1053077026005732
+KW  - Cardiac CC
+KW  - 2026-07
 ER  - 
 
 TY  - JOUR
@@ -4082,6 +4622,38 @@ KW  - arrest-CPR
 ER  - 
 
 TY  - JOUR
+TI  - Ventricular free-wall rupture, ventricular pseudoaneurysm, and papillary muscle rupture complicating acute myocardial infarction
+AU  - Lorusso R
+AU  - Matteucci M
+AU  - Ronco D
+AU  - (multi-society European consortium; Price S)
+JO  - Eur Heart J
+PY  - 2026
+DO  - 10.1093/eurheartj/ehag164
+AN  - 42112704
+UR  - https://academic.oup.com/eurheartj/article/47/31/4188/8675017
+KW  - Cardiac CC
+KW  - 2026-W21
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - Adrenomedullin system dysregulation predicts cardiogenic shock and mortality in acute coronary syndromes
+AU  - Wang Y
+AU  - Danchin N
+AU  - Simon T
+AU  - (SPUM-ACS and FAST-MI investigators)
+JO  - Eur Heart J
+PY  - 2026
+DO  - 10.1093/eurheartj/ehag636
+AN  - 42668424
+UR  - https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag636/8772908
+KW  - Cardiac CC
+KW  - 2026-W36
+ER  - 
+
+TY  - JOUR
 TI  - The PARAGON-HF trial: the sacubitril/valsartan in heart failure with preserved ejection fraction
 AU  - Gronda, Edoardo
 AU  - Vanoli, Emilio
@@ -4239,6 +4811,143 @@ DO  - 10.1097/ccm.0000000000006964
 UR  - https://journals.lww.com/ccmjournal/fulltext/9900/does_time_to_achieve_a_targeted_body_temperature.669.aspx
 KW  - Cardiac CC
 KW  - arrest-CPR
+ER  - 
+
+TY  - JOUR
+TI  - Temporal Trends in Outcomes After Out-of-Hospital Cardiac Arrest Transported to Critical Care Medical Centers in Japan, 2014-2022: A Nationwide Retrospective Observational Study
+AU  - Shiozumi T
+AU  - Matsuyama T
+AU  - Imamura T
+AU  - (Iwami T; JAAM-OHCA registry
+AU  - Japan)
+JO  - Critical Care Medicine
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007104
+AN  - 41848362
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007104
+KW  - Cardiac CC
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - Hemodynamic Ramp Test in Cardiogenic Shock Supported by Microaxial Flow Pump: Protocol Description, Feasibility, and Hemodynamic Response
+AU  - Ikeda Y
+AU  - Iikura S
+AU  - Nakahara S
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002555
+AN  - 40981641
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002555
+KW  - Cardiac CC
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Preoperative Use of Venoarterial Extracorporeal Membrane Oxygenation in Postinfarct Ventricular Septal Rupture: Insights From the Extracorporeal Life Support Organization Registry
+AU  - Gemelli M
+AU  - Ronco D
+AU  - Matteucci M
+AU  - (Lorusso R; ELSO Registry multicenter
+AU  - 2000-2025)
+JO  - ASAIO Journal
+PY  - 2026
+DO  - 10.1097/mat.0000000000002710
+AN  - 41975568
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002710
+KW  - Cardiac CC
+KW  - 2026-W24
+ER  - 
+
+TY  - JOUR
+TI  - Early Experience of a Fully Magnetically Levitated Temporary Ventricular Assist Device in China: A Multicenter Single-Arm Study
+AU  - Li P
+AU  - Wu T
+AU  - Wang IW
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002711
+AN  - 42485400
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002711
+KW  - Cardiac CC
+KW  - 2026-W31
+ER  - 
+
+TY  - JOUR
+TI  - Impact of Delayed Heparin Bridging on Bleeding and Stroke After Left Ventricular Assist Device Implantation
+AU  - Jahangiri P
+AU  - Luo Y
+AU  - Sjatskig J
+AU  - (Caliskan K; Erasmus MC)
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002731
+AN  - 42133752
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002731
+KW  - Cardiac CC
+KW  - 2026-W21
+ER  - 
+
+TY  - JOUR
+TI  - Incidence and Outcomes of Late Right Heart Failure Following Left Ventricular Assist Device Implantation
+AU  - Wang Y
+AU  - Vu T
+AU  - Farag J
+AU  - Zhu MZL
+AU  - McLean J
+AU  - Rix J
+AU  - Taylor AJ
+AU  - Marasco SF
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002788
+AN  - 42424123
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002788
+KW  - Cardiac CC
+KW  - 2026-W28
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Outcomes of Temporary Right Ventricular Assist Device at the Time of Durable Left Ventricular Assist Device Implantation
+AU  - Usman AA
+AU  - Cevasco M
+AU  - Bermudez C
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002795
+AN  - 42497296
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002795
+KW  - Cardiac CC
+KW  - 2026-W31
+ER  - 
+
+TY  - JOUR
+TI  - Venoarterial Extracorporeal Membrane Oxygenation Timing in Infarct-Related Cardiogenic Shock: Before Versus After Primary Percutaneous Coronary Intervention
+AU  - Pan C
+AU  - Zhao J
+AU  - Bai N
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002798
+AN  - 42497244
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002798
+KW  - Cardiac CC
+KW  - 2026-W31
+ER  - 
+
+TY  - JOUR
+TI  - Repositioning Axillary Intra-Aortic Balloon Pumps in Patients Awaiting Heart Transplantation Is Associated With Complications
+AU  - Fatima S
+AU  - Hammad TA
+AU  - Li J
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002814
+AN  - 42574590
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002814
+KW  - Cardiac CC
+KW  - 2026-W33
 ER  - 
 
 TY  - JOUR
@@ -4770,6 +5479,27 @@ KW  - CHD-postop
 ER  - 
 
 TY  - JOUR
+TI  - Quality improvement: prevention of cardiac arrest in children with heart disease on the paediatric intensive care unit
+AU  - Russell MJ
+AU  - Jones A
+AU  - Burlton S
+AU  - Morrison R
+AU  - Ellis D
+AU  - Jones T
+AU  - Khan N
+AU  - Krishnan H
+AU  - Botha P
+JO  - BMJ Paediatrics Open
+PY  - 2026
+DO  - 10.1136/bmjpo-2026-004840
+AN  - 42448611
+UR  - https://bmjpaedsopen.bmj.com/lookup/doi/10.1136/bmjpo-2026-004840
+KW  - Cardiac CC
+KW  - 2026-W29
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
 TI  - Duration of prehospital and in-hospital cardiopulmonary resuscitation and neurological outcome in paediatric out-of-hospital cardiac arrest
 AU  - Yasuda, Masato
 AU  - Amagasa, Shunsuke
@@ -4833,6 +5563,20 @@ DO  - 10.1161/cir.0000000000001369
 UR  - https://www.ahajournals.org/doi/pdf/10.1161/CIR.0000000000001369
 KW  - Cardiac CC
 KW  - arrest-CPR
+ER  - 
+
+TY  - JOUR
+TI  - Surviving Pediatric Cardiogenic Shock: Clinical Approach, Improving Outcomes, and Future Directions: A Scientific Statement From the American Heart Association
+AU  - Puri K
+AU  - Allen K
+AU  - Jentzer J
+JO  - Circulation
+PY  - 2026
+DO  - 10.1161/cir.0000000000001461
+AN  - 42558062
+UR  - https://www.ahajournals.org/doi/10.1161/CIR.0000000000001461
+KW  - Cardiac CC
+KW  - 2026-W33
 ER  - 
 
 TY  - JOUR
@@ -5156,6 +5900,18 @@ DO  - 10.1177/17562848231192144
 UR  - https://journals.sagepub.com/doi/10.1177/17562848231192144
 KW  - Cardiac CC
 KW  - arrest-CPR
+ER  - 
+
+TY  - JOUR
+TI  - Evaluating the Association of Extubation Readiness Testing Performance Variables With Reintubation After Pediatric Cardiac Surgery](https://pubmed.ncbi.nlm.nih.gov/42606138/) ([DOI
+AU  - Foglia MJ
+AU  - Thompson EJ
+AU  - Sherwin JI
+JO  - Respir Care
+PY  - 2026
+DO  - 10.1177/19433654261475779)
+KW  - Cardiac CC
+KW  - 2026-W35
 ER  - 
 
 TY  - JOUR
@@ -6042,6 +6798,51 @@ DO  - 10.1186/s13054-025-05794-w
 UR  - https://link.springer.com/article/10.1186/s13054-025-05794-w?utm_source=bmc_etoc&utm_medium=email&utm_campaign=CONR_13054_AWA1_GL_DTEC_054CI_TOC-260101
 KW  - Cardiac CC
 KW  - arrest-CPR
+ER  - 
+
+TY  - JOUR
+TI  - VExUS and right ventricular to pulmonary artery uncoupling
+AU  - Rola P
+AU  - Souligny WB
+AU  - Haycock K
+AU  - Spiegel R
+AU  - Denault A
+JO  - Critical Care
+PY  - 2025
+DO  - 10.1186/s13054-025-05806-9
+AN  - 41430734
+UR  - https://link.springer.com/10.1186/s13054-025-05806-9
+KW  - Cardiac CC
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Echocardiographic assessment of left ventricular longitudinal function in critically ill patients
+AU  - Cavefors O
+AU  - Bech-Hanssen O
+AU  - Redfors B
+AU  - Oras J
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06193-5
+AN  - 42432793
+UR  - https://link.springer.com/10.1186/s13054-026-06193-5
+KW  - Cardiac CC
+KW  - 2026-W28
+ER  - 
+
+TY  - JOUR
+TI  - Acute pulmonary embolism: clinical and echocardiographic recognition of normotensive shock
+AU  - Hunsicker O
+AU  - Daum N
+AU  - Hernandez G
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06214-3
+AN  - 42502164
+UR  - https://link.springer.com/10.1186/s13054-026-06214-3
+KW  - Cardiac CC
+KW  - 2026-W31
 ER  - 
 
 TY  - JOUR

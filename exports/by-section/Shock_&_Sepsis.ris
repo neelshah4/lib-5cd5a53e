@@ -112,6 +112,21 @@ KW  - vasoactives
 ER  - 
 
 TY  - JOUR
+TI  - High-Dose Intravenous Vitamin C and Mortality and Organ Dysfunction in Severe Burn Injury: The VICTORY Randomized Clinical Trial
+AU  - Stoppe C
+AU  - Hill A
+AU  - Cancio LC
+AU  - (Heyland DK; 24 burn centers globally)
+JO  - JAMA
+PY  - 2026
+DO  - 10.1001/jama.2026.10616
+AN  - 42267875
+UR  - https://jamanetwork.com/journals/jama/fullarticle/2850392
+KW  - Shock & Sepsis
+KW  - 2026-W24
+ER  - 
+
+TY  - JOUR
 TI  - Comparative Effectiveness of Fludrocortisone and Hydrocortisone vs Hydrocortisone Alone Among Patients With Septic Shock
 AU  - Bosch, Nicholas A.
 AU  - Teja, Bijan
@@ -251,6 +266,20 @@ DO  - 10.1002/14651858.cd002243.pub5
 UR  - https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002243.pub5/full
 KW  - Shock & Sepsis
 KW  - general
+ER  - 
+
+TY  - JOUR
+TI  - Albumin for people with liver cirrhosis and bacterial infections
+AU  - Simonetti RG
+AU  - Perricone G
+AU  - Nikolova D
+JO  - Cochrane Database Syst Rev
+PY  - 2026
+DO  - 10.1002/14651858.cd014636.pub2
+AN  - 42517322
+UR  - http://doi.wiley.com/10.1002/14651858.CD014636.pub2
+KW  - Shock & Sepsis
+KW  - 2026-W33
 ER  - 
 
 TY  - JOUR
@@ -1712,6 +1741,332 @@ KW  - vasoactives
 ER  - 
 
 TY  - JOUR
+TI  - HIgh versus STAndard blood Pressure target in hypertensive high-risk patients undergoing elective major abdominal surgery: the HISTAP multicenter randomized clinical trial
+AU  - Cecconi M
+AU  - Cortegiani A
+AU  - Noto A
+AU  - Sotgiu G
+AU  - Antonelli M
+AU  - Anderloni M
+AU  - Barbaresco I
+AU  - Bizzarri F
+AU  - Brunati A
+AU  - Cappellini I
+AU  - Cammarota G
+AU  - Caporale M
+AU  - Collino F
+AU  - Cuschera M
+AU  - Coloretti I
+AU  - Donadello K
+AU  - Foti L
+AU  - Frassanito L
+AU  - Fiume D
+AU  - Girardis M
+AU  - L’Acqua C
+AU  - Lauro G
+AU  - Maggiore SM
+AU  - Magnoni S
+AU  - Mirabella L
+AU  - Misseri G
+AU  - Miori S
+AU  - Matronola GM
+AU  - Pavan G
+AU  - Pellis T
+AU  - Piccioni F
+AU  - Puci MV
+AU  - Pugliese S
+AU  - Romanò B
+AU  - Russo A
+AU  - Samuelli N
+AU  - Torrano V
+AU  - Viani A
+AU  - Jaber S
+AU  - Azoulay E
+AU  - Romagnoli S
+AU  - Messina A
+AU  - SIAARTI Study Group
+AU  - Pradella A
+AU  - Ruggeri N
+AU  - Del Grosso S
+AU  - Martucci MR
+AU  - Gregoretti C
+AU  - Filetici N
+AU  - Favitta F
+AU  - Cambise C
+AU  - Piccolella G
+AU  - Casale V
+AU  - Franco CMD
+AU  - Colombino D
+AU  - Baldini G
+AU  - Villa G
+AU  - Mazza MC
+AU  - Maffei V
+AU  - Leonardi L
+AU  - Tamburrano S
+AU  - Roca I
+AU  - Pistidda L
+AU  - Farris P
+AU  - Carrese Cirillo A
+AU  - Wertmuller L
+AU  - Gresia VE
+AU  - Stomaci C
+AU  - Sassanelli R
+AU  - Allegretti G
+AU  - Sessa E
+AU  - Ventola M
+AU  - Serafini V
+AU  - Ioppolo E
+AU  - Sironi I
+AU  - Cucina D
+AU  - Langer T
+AU  - Polati E
+AU  - Boschetti S
+AU  - Corraro M
+AU  - Lionetto G
+AU  - Calabrò L
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08501-7
+AN  - 42370999
+UR  - https://link.springer.com/10.1007/s00134-026-08501-7
+KW  - Shock & Sepsis
+KW  - 2026-W27
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Effects of a clinical metagenomics intervention on clinical outcomes, healthcare costs, and health-related quality of life in patients with sepsis or septic shock: results of the randomized-controlled DigiSep trial
+AU  - Brenner T
+AU  - Skarabis A
+AU  - Schaller SJ
+JO  - Intensive Care Med
+PY  - 2026
+DO  - 10.1007/s00134-026-08521-3
+AN  - 42377463
+UR  - https://link.springer.com/10.1007/s00134-026-08521-3
+KW  - Shock & Sepsis
+KW  - 2026-W33
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Persistent tissue hypoperfusion improves risk stratification beyond vasopressor dose in refractory septic shock: a secondary analysis of the ANDROMEDA-SHOCK-2 trial
+AU  - Kattan E
+AU  - Ospina-Tascón GA
+AU  - Orozco N
+AU  - Teboul JL
+AU  - Melo P
+AU  - Wendel-Garcia PD
+AU  - Morales S
+AU  - Amthauer M
+AU  - Hunsicker O
+AU  - Ibarra-Estrada M
+AU  - Leone M
+AU  - Khanna AK
+AU  - Hamzaoui O
+AU  - Messina A
+AU  - Myatra SN
+AU  - Ramasco F
+AU  - Vieillard-Baron A
+AU  - Putowski Z
+AU  - Ferri G
+AU  - Castro R
+AU  - Biasi-Cavalcanti A
+AU  - De Backer D
+AU  - Bakker J
+AU  - Hernandez G
+AU  - the ANDROMEDA-SHOCK-2 investigators, ANDROMEDA-Research Network
+AU  - Al Fares A
+AU  - Guerci P
+AU  - Goury A
+AU  - Vaz Cristino A
+AU  - Westphal G
+AU  - Hunter M
+AU  - Reyes Velasco LF
+AU  - Pálizas F
+AU  - Molina F
+AU  - Vives M
+AU  - Moitra V
+AU  - Higuera Miguélez EM
+AU  - Ramos S
+AU  - Parreño Buedo D
+AU  - Alonso-González MC
+AU  - Varela M
+AU  - Schaller S
+AU  - Poveda C
+AU  - Liguori M
+AU  - Petri Damiani L
+AU  - Mendonça dos Santos T
+AU  - Sady E
+AU  - Martins de Lima L
+AU  - Gorduño J
+AU  - Jacquet-Lagreze M
+AU  - Hernandez L
+AU  - Pozo M
+AU  - Murias G
+AU  - Tuero Leon G
+AU  - Pendino JC
+AU  - Aguirre-Ávalos G
+AU  - Fernandez P
+AU  - Vaquero LM
+AU  - Mercadal J
+AU  - Ramos K
+AU  - Alegria L
+AU  - Garcia C
+AU  - Martinez-Castro S
+AU  - Medel JN
+AU  - Florián Pérez MC
+AU  - Toledo V
+AU  - Nin N
+AU  - Pérez-Nieto OR
+AU  - Galiana M
+AU  - Galarza L
+AU  - Redondo Calvo FJ
+AU  - Pérez-Carbonell A
+AU  - Ferrer C
+AU  - Rodriguez-Guillen J
+AU  - Giraldo N
+AU  - Iranzo R
+AU  - Leal Ruiloba MS
+AU  - Granda Luna V
+AU  - Gallardo D
+AU  - Ortiz G
+AU  - de Juan Alvarez A
+AU  - Montoto F
+AU  - Olea-Vielba C
+AU  - Calderón Barajas ZA
+AU  - Sanchez HF
+AU  - Aldana JL
+AU  - Garcia-Gallardo G
+AU  - Vallecilla L
+AU  - Bautista DF
+AU  - Vargas M
+AU  - Domínguez García D
+AU  - Cobeta P
+AU  - Rico-Feijoo J
+AU  - de Nadal M
+AU  - Bilbao I
+AU  - Padron OM
+AU  - Mendez R
+AU  - Fernández-García R
+AU  - Carmona Garcia P
+AU  - Zarragoikoetxea I
+AU  - Avila V
+AU  - Bruna M
+AU  - Benítez-Cano A
+AU  - Vilas Otero ME
+AU  - Cecconi M
+AU  - Mekontso Dessap A
+AU  - Ait-Oufella H
+AU  - Hernández-Gilsoul T
+AU  - Argaiz E
+AU  - Al Duhailib Z
+AU  - Ostermann M
+AU  - Meziani F
+AU  - Monnet X
+AU  - Vasscheto R
+AU  - Cortegiani A
+AU  - Greenwood JC
+AU  - Roimi M
+AU  - Gonzalez C
+AU  - Phillips A
+AU  - Jung C
+AU  - David S
+AU  - Estenssoro E
+AU  - Dubin A
+AU  - Rola P
+AU  - Basmaji J
+AU  - Prager R
+AU  - Sanfilippo F
+AU  - Miralles-Aguiar F
+AU  - de Almeida Lopes M
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08551-x
+AN  - 42467247
+UR  - https://link.springer.com/10.1007/s00134-026-08551-x
+KW  - Shock & Sepsis
+KW  - 2026-W29
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Pathophysiology of distributive shock in sepsis: beyond vasoplegia
+AU  - Hunsicker O
+AU  - Schaller SJ
+AU  - Singer M
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08555-7
+AN  - 42440111
+UR  - https://link.springer.com/10.1007/s00134-026-08555-7
+KW  - Shock & Sepsis
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Ultra-early versus early adjunctive vasopressin initiation after norepinephrine escalation in septic shock: a target trial emulation
+AU  - Nakashima T
+AU  - Ichinomiya T
+AU  - Nakajima M
+AU  - Shinozaki T
+AU  - Shibata J
+AU  - Goto T
+AU  - Sato S
+AU  - Hara T
+JO  - Intensive Care Med
+PY  - 2026
+DO  - 10.1007/s00134-026-08575-3
+AN  - 42578996
+UR  - https://link.springer.com/10.1007/s00134-026-08575-3
+KW  - Shock & Sepsis
+KW  - 2026-W34
+ER  - 
+
+TY  - JOUR
+TI  - Early Red Blood Cell Transfusion Strategy in Septic Shock Among Patients With Cancer: the TRANSPORT RCT](https://pubmed.ncbi.nlm.nih.gov/42616082/) ([DOI
+AU  - Pène F
+AU  - Vigneron C
+AU  - Lafarge A
+JO  - Intensive Care Med
+PY  - 2026
+DO  - 10.1007/s00134-026-08582-4)
+KW  - Shock & Sepsis
+KW  - 2026-W35
+ER  - 
+
+TY  - JOUR
+TI  - Early mobilization for mechanical ventilation for sepsis or acute respiratory failure (EVER): a multicenter randomized controlled trial with 12-month outcomes
+AU  - Chung CR
+AU  - Hong SK
+AU  - Kang D
+JO  - Intensive Care Med
+PY  - 2026
+DO  - 10.1007/s00134-026-08598-w
+AN  - 42645557
+UR  - https://link.springer.com/10.1007/s00134-026-08598-w
+KW  - Shock & Sepsis
+KW  - 2026-W36
+ER  - 
+
+TY  - JOUR
+TI  - Bedside Ultrasound and Noninvasive Cardiac Output Monitoring in Children with Septic Shock: A Retrospective Comparative Study
+AU  - Lei K
+AU  - Xiaona S
+AU  - Lijing C
+AU  - Meijiao K
+AU  - Fang G
+JO  - Pediatric Cardiology
+PY  - 2026
+DO  - 10.1007/s00246-026-04381-2
+AN  - 42455295
+UR  - https://link.springer.com/10.1007/s00246-026-04381-2
+KW  - Shock & Sepsis
+KW  - 2026-W29
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
 TI  - Discussion of hemodynamic optimization strategies and the canonical understanding of hemodynamics during biventricular mechanical support in cardiogenic shock: does the flow balance make the difference?
 AU  - Patsalis N
 AU  - Kreutz J
@@ -1742,6 +2097,64 @@ DO  - 10.1007/s00431-024-05653-w
 UR  - https://link.springer.com/article/10.1007/s00431-024-05653-w
 KW  - Shock & Sepsis
 KW  - fluids
+ER  - 
+
+TY  - JOUR
+TI  - Plasma and urinary sTREM-1 as biomarkers of sepsis-associated acute kidney injury in critically ill children
+AU  - Magdy SM
+AU  - El-Gawaad TA
+AU  - Hussein FA
+AU  - El-Farsy MS
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07202-z
+AN  - 42377559
+UR  - https://link.springer.com/10.1007/s00431-026-07202-z
+KW  - Shock & Sepsis
+KW  - 2026-W27
+ER  - 
+
+TY  - JOUR
+TI  - Combined metabolic risk and admission lactate-to-bicarbonate ratio in critically ill children: a retrospective pediatric intensive care cohort study
+AU  - Guvenc KB
+AU  - Sahin EG
+AU  - Akyuz SZ
+AU  - Varol F
+AU  - Durak C.
+JO  - European Journal of Pediatrics
+PY  - 2026
+DO  - 10.1007/s00431-026-07291-w
+AN  - 42501114
+UR  - https://link.springer.com/10.1007/s00431-026-07291-w
+KW  - Shock & Sepsis
+KW  - 2026-W31
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Comparison of standard care versus a biomarker algorithm to guide antibiotic stewardship in pediatric intensive care unit: a prospective observational cohort study with historical control (the BASIP study)
+AU  - Bottari G
+AU  - Cembalo N
+AU  - Alunni DF
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07309-3
+AN  - 42560479
+UR  - https://link.springer.com/10.1007/s00431-026-07309-3
+KW  - Shock & Sepsis
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Interleukin-6 as a Sepsis Biomarker in Neonatal and Pediatric Care: A Retrospective Real-World Cohort Study](https://pubmed.ncbi.nlm.nih.gov/42622709/) ([DOI
+AU  - Whelan SO
+AU  - Kelleher G
+AU  - Campbell S
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07335-1)
+KW  - Shock & Sepsis
+KW  - 2026-W35
 ER  - 
 
 TY  - JOUR
@@ -2328,6 +2741,22 @@ KW  - vasoactives
 ER  - 
 
 TY  - JOUR
+TI  - Septic shock after allogeneic hematopoietic stem-cell transplantation: outcomes and prognostic factors in a multicenter ICU cohort
+AU  - Subileau M
+AU  - Chean D
+AU  - Dupont T
+JO  - Chest
+PY  - 2026
+DO  - 10.1016/j.chest.2026.06.075
+AN  - 42665126
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S001236922606486X
+KW  - Shock & Sepsis
+KW  - 2026-W36
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
 TI  - Approach to Esophageal Manometry in Invasive Hemodynamic Determinations
 AU  - Siuba, Matthew T.
 AU  - Thind, Guramrinder S.
@@ -2608,6 +3037,82 @@ DO  - 10.1016/j.jcrc.2025.155405
 UR  - https://www.sciencedirect.com/science/article/abs/pii/S0883944125003922?via%3Dihub
 KW  - Shock & Sepsis
 KW  - vasoactives
+ER  - 
+
+TY  - JOUR
+TI  - Long-Term Outcomes of Abnormal Global Longitudinal Left Ventricular Strain During Sepsis: A Retrospective Cohort Study
+AU  - (Multinational cohort — Mayo Clinic and Argentine centers)
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155442
+AN  - 41579501
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126000201
+KW  - Shock & Sepsis
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - The effect of peripheral vasopressor protocols on extravasation rates: A systematic review and meta-analysis
+AU  - Wiseman JF
+AU  - Wiseman VH
+AU  - Jawa NA
+AU  - (Boyd JG)
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155613
+AN  - 42143789
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126001917
+KW  - Shock & Sepsis
+KW  - 2026-W21
+ER  - 
+
+TY  - JOUR
+TI  - The use of oXiris hemofilter in the initial continuous renal replacement therapy among patients with septic shock: A propensity score matched analysis
+AU  - Jiang X
+AU  - Zhang L
+AU  - You J
+AU  - Ma J
+AU  - Zhang Y
+AU  - Hu C
+AU  - Peng Z
+AU  - Liu C
+JO  - Journal of Critical Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155666
+AN  - 42341374
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126002443
+KW  - Shock & Sepsis
+KW  - 2026-W27
+ER  - 
+
+TY  - JOUR
+TI  - Early hemodynamic response to angiotensin II defines a prognostic phenotype in bloodstream infection-associated septic shock
+AU  - Khattar G
+AU  - Ham K
+AU  - Danley S
+AU  - Cartin-Ceba R
+AU  - Skolnik A
+AU  - Sen A
+AU  - Pulsipher AM
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155708
+AN  - 42594819
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126002868
+KW  - Shock & Sepsis
+KW  - 2026-W34
+ER  - 
+
+TY  - JOUR
+TI  - When Trauma Turns Septic: Associated Factors and Focus-Specific Mortality in 61,399 Patients From the TraumaRegister DGU®](https://pubmed.ncbi.nlm.nih.gov/42628456/) ([DOI
+AU  - Cruciger O
+AU  - Schildhauer TA
+AU  - Ull C
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155719)
+KW  - Shock & Sepsis
+KW  - 2026-W35
 ER  - 
 
 TY  - JOUR
@@ -3428,6 +3933,36 @@ KW  - general
 ER  - 
 
 TY  - JOUR
+TI  - Cefazolin for Methicillin-Susceptible Staphylococcus aureus Bacteremia
+AU  - SNAP Investigators (multicenter; N=1
+AU  - 287 enrolled; Bayesian adaptive phase IV equivalence RCT)
+JO  - New England Journal of Medicine
+PY  - 2026
+DO  - 10.1056/nejmoa2506905
+AN  - 42308484
+UR  - http://www.nejm.org/doi/10.1056/NEJMoa2506905
+KW  - Shock & Sepsis
+KW  - 2026-W25
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Vasopressors or Fluids in Early Septic Shock
+AU  - Peake SL
+AU  - Macdonald SPJ
+AU  - Howe BD
+AU  - (Bellomo R; ANZICRC — Australia/New Zealand multicenter)
+JO  - New England Journal of Medicine
+PY  - 2026
+DO  - 10.1056/nejmoa2516225
+AN  - 42274006
+UR  - http://www.nejm.org/doi/10.1056/NEJMoa2516225
+KW  - Shock & Sepsis
+KW  - 2026-W24
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
 TI  - Balanced Fluid or 0.9% Saline in Children Treated for Septic Shock
 AU  - Balamuth, Fran
 AU  - Weiss, Scott L.
@@ -3526,6 +4061,65 @@ DO  - 10.1093/ajhp/zxy014
 UR  - https://journals.lww.com/shockjournal/fulltext/2024/08000/angiotensin_ii_in_the_treatment_of_distributive.2.aspx
 KW  - Shock & Sepsis
 KW  - vasoactives
+ER  - 
+
+TY  - JOUR
+TI  - 10 mL/kg vs 20 mL/kg fluid bolus in pediatric septic shock: a randomized clinical trial
+AU  - Nallasamy K
+AU  - Sekhar JC
+AU  - Kaur J
+AU  - Bansal A
+AU  - Angurana SK
+AU  - Jayashree M
+JO  - American Journal of Respiratory and Critical Care Medicine
+PY  - 2026
+DO  - 10.1093/ajrccm/aamag113
+AN  - 42085258
+UR  - https://academic.oup.com/ajrccm/article/212/7/1631/8559760
+KW  - Shock & Sepsis
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Effects of an early restrictive versus liberal fluid strategy on long-term patient-centered outcomes in sepsis-induced hypotension: an open-label, randomized controlled trial
+AU  - Jorda A
+AU  - Gelbenegger G
+AU  - Shapiro NI
+AU  - Douglas IS
+AU  - Whitman C
+AU  - Chen Z
+AU  - Hippensteel JA
+AU  - Kamphuis LA
+AU  - Flick RJ
+AU  - Harhay MO
+AU  - Caldwell E
+AU  - Zeitlinger M
+AU  - Jilma B
+AU  - Iwashyna TJ
+AU  - Hough CL
+AU  - Auriemma CL
+JO  - Am J Respir Crit Care Med
+PY  - 2026
+DO  - 10.1093/ajrccm/aamag154
+AN  - 42093058
+UR  - https://academic.oup.com/ajrccm/article/212/7/1510/8671582
+KW  - Shock & Sepsis
+KW  - 2026-W27
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - IDSA/ACEP/ASM/PIDS/SCCM/SHEA/SHM/SIDP Multisociety Position Paper: Hospital Strategies to Improve Sepsis Outcomes
+AU  - Rhee C
+AU  - Masur H
+AU  - Klompas M
+JO  - Clin Infect Dis
+PY  - 2026
+DO  - 10.1093/cid/ciag438
+AN  - 42640090
+UR  - https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciag438/8769592
+KW  - Shock & Sepsis
+KW  - 2026-W36
 ER  - 
 
 TY  - JOUR
@@ -3775,6 +4369,70 @@ DO  - 10.1097/cce.0000000000000978
 UR  - https://journals.lww.com/ccejournal/fulltext/2023/09000/utilization_of_synthetic_human_angiotensin_ii_for.15.aspx
 KW  - Shock & Sepsis
 KW  - vasoactives
+ER  - 
+
+TY  - JOUR
+TI  - PPARg Variant rs10865710 and Mortality in Pediatric Septic Shock Stratified by Corticosteroid Exposure
+AU  - Bonnefil V
+AU  - Standage S
+AU  - Lautz AJ
+AU  - (Atreya MR
+AU  - Kaplan JM; Cincinnati Children's + multicenter US PICUs)
+JO  - Crit Care Explor
+PY  - 2026
+DO  - 10.1097/cce.0000000000001410
+AN  - 42183751
+UR  - https://journals.lww.com/10.1097/CCE.0000000000001410
+KW  - Shock & Sepsis
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - Likelihood of Bacterial Infection in Immunocompromised Patients Treated With IV Antibiotics for Possible Sepsis
+AU  - Gupta S
+AU  - Millham L
+AU  - DelloStritto L
+AU  - Agan AA
+AU  - McKenna C
+AU  - Rhee C
+AU  - Klompas M
+JO  - Critical Care Explorations
+PY  - 2026
+DO  - 10.1097/cce.0000000000001443
+AN  - 42454644
+UR  - https://www.ovid.com/10.1097/CCE.0000000000001443
+KW  - Shock & Sepsis
+KW  - 2026-W29
+ER  - 
+
+TY  - JOUR
+TI  - A Descriptive Overview of Deviations From an Institutional Peripheral Vasopressor Protocol and Its Effects on Safety Across an Academic Health System
+AU  - Shyu D
+AU  - Ingraham NE
+AU  - McCarville B
+JO  - Crit Care Explor
+PY  - 2026
+DO  - 10.1097/cce.0000000000001469
+AN  - 42640631
+UR  - https://www.ovid.com/10.1097/CCE.0000000000001469
+KW  - Shock & Sepsis
+KW  - 2026-W36
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - Immunomodulation Therapy to Treat Severe Malaria With Multiple Organ Failure
+AU  - Camara S
+AU  - Buck A
+AU  - Burrell M
+JO  - Crit Care Explor
+PY  - 2026
+DO  - 10.1097/cce.0000000000001471
+AN  - 42644869
+UR  - https://www.ovid.com/10.1097/CCE.0000000000001471
+KW  - Shock & Sepsis
+KW  - 2026-W36
 ER  - 
 
 TY  - JOUR
@@ -4032,6 +4690,180 @@ DO  - 10.1097/ccm.0000000000006135
 UR  - https://journals.lww.com/ccmjournal/fulltext/2024/02000/surviving_sepsis_campaign_research_priorities_2023.11.aspx
 KW  - Shock & Sepsis
 KW  - bundles
+ER  - 
+
+TY  - JOUR
+TI  - Predictive and Prognostic Performance of the Phoenix Sepsis Criteria and Phoenix Sepsis Score in PICU Patients With Suspected Infection: A Multicenter Prospective Study
+AU  - Marchetto L
+AU  - Daverio M
+AU  - Comoretto R
+AU  - (Schlapbach LJ
+AU  - Menon K
+AU  - Amigoni A; 8 PICUs
+AU  - Italian TIPNet)
+JO  - Critical Care Medicine
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007034
+AN  - 41532812
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007034
+KW  - Shock & Sepsis
+KW  - 2026-W23
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - External Validation, Molecular Signatures, and Therapeutic Relevance of Pediatric Sepsis-Associated Acute Kidney Injury Subphenotypes
+AU  - Stanski NL
+AU  - Zhang B
+AU  - Ouyang J
+AU  - Standage SW
+AU  - Cvijanovich NZ
+AU  - Fitzgerald JC
+AU  - Bigham MT
+AU  - Jain PN
+AU  - Lutfi R
+AU  - Allen GL
+AU  - Thomas NJ
+AU  - Baines T
+AU  - Haileselassie B
+AU  - Weiss SL
+AU  - Lautz AJ
+AU  - Kaplan JM
+AU  - Zingarelli B
+AU  - Atreya MR
+AU  - Sanchez-Pinto LN
+AU  - Goldstein SL
+AU  - Liu KD
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007135
+AN  - 42159375
+UR  - https://journals.lww.com/10.1097/CCM.0000000000007135
+KW  - Shock & Sepsis
+KW  - 2026-W27
+ER  - 
+
+TY  - JOUR
+TI  - Prognostic Factors Associated With Mortality Among Patients With Necrotizing Soft-Tissue Infection: A Systematic Review and Meta-Analysis
+AU  - Kruger N
+AU  - Durr K
+AU  - Fernando SM
+AU  - (Rochwerg B
+AU  - Tran A)
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007147
+AN  - 42138515
+UR  - https://journals.lww.com/10.1097/CCM.0000000000007147
+KW  - Shock & Sepsis
+KW  - 2026-W21
+ER  - 
+
+TY  - JOUR
+TI  - Impact of Time to Antibiotics on In-hospital Mortality in Neutropenic Sepsis: A Prospective Multicenter Cohort Study
+AU  - Kim D
+AU  - Kim YJ
+AU  - Ryoo SM
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007184
+AN  - 42233709
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007184
+KW  - Shock & Sepsis
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Continuing Vs. Withholding Home Beta-Blockers at Admission for Suspected Infection: A Target Trial Emulation
+AU  - Christian-Miller N
+AU  - Lee KT
+AU  - Pashun R
+AU  - (Admon AJ; University of Michigan)
+JO  - Critical Care Medicine
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007229
+AN  - 42262489
+UR  - https://journals.lww.com/10.1097/CCM.0000000000007229
+KW  - Shock & Sepsis
+KW  - 2026-W24
+ER  - 
+
+TY  - JOUR
+TI  - Effect of Early Administration of Shenfu Injection on Hemodynamics in Septic Patients: A Multicenter, Randomized, Controlled Trial
+AU  - Xiong Y
+AU  - Zhang D
+AU  - Dong H
+AU  - Ye M
+AU  - Dai J
+AU  - Li L
+AU  - Liu X
+AU  - Guo K
+AU  - Liu Y
+AU  - Fang Y
+AU  - Hu C
+AU  - Yang L
+AU  - Zhu G
+AU  - Xu L
+AU  - Hu B
+JO  - Critical Care Medicine
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007269
+AN  - 42456111
+UR  - https://journals.lww.com/10.1097/CCM.0000000000007269
+KW  - Shock & Sepsis
+KW  - 2026-W29
+ER  - 
+
+TY  - JOUR
+TI  - A 1-Hour Resuscitation Bundle for Prehospital Management of Septic Shock
+AU  - Jouffroy R
+AU  - Annane D
+AU  - Elie C
+AU  - Mira JP
+AU  - Jilet L
+AU  - Gueye P
+AU  - Vivien B
+AU  - and the Service d’Aide Médicale Urgente (SAMU) Save Sepsis study group
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007283
+AN  - 42573415
+UR  - https://doi.org/10.1097/ccm.0000000000007283
+KW  - Shock & Sepsis
+KW  - 2026-W34
+ER  - 
+
+TY  - JOUR
+TI  - Postintensive Care Frailty of Older Patients With Septic Shock: A Post Hoc Analysis of a Multicenter Randomized Controlled Trial
+AU  - Yamamoto R
+AU  - Yamanaka T
+AU  - Kaito D
+AU  - Endo A
+AU  - Yamakawa K
+AU  - Tagami T
+AU  - Umemura Y
+AU  - Sasaki J
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007304
+AN  - 42584186
+UR  - https://doi.org/10.1097/ccm.0000000000007304
+KW  - Shock & Sepsis
+KW  - 2026-W34
+ER  - 
+
+TY  - JOUR
+TI  - ICU Open-Access Databases for Artificial Intelligence in Sepsis: Balancing Innovation With Data Quality Challenges
+AU  - Jegou J
+AU  - Manolescu I
+AU  - Ruckly S
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007319
+AN  - 42635479
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007319
+KW  - Shock & Sepsis
+KW  - 2026-W36
 ER  - 
 
 TY  - JOUR
@@ -4460,6 +5292,77 @@ KW  - general
 ER  - 
 
 TY  - JOUR
+TI  - Early Central Venous-to-PaCO2 Difference and Subsequent Lactate Clearance in Shock: Prospective Pediatric Cohort, 2021-2022
+AU  - Teixeira RARB
+AU  - Mendonça CC
+AU  - Melocra SSG
+AU  - Aragon DC
+AU  - Volpe DSJ
+AU  - Volpon LC
+AU  - Carlotti APCP
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000003946
+AN  - 42188989
+UR  - https://journals.lww.com/10.1097/PCC.0000000000003946
+KW  - Shock & Sepsis
+KW  - 2026-W27
+ER  - 
+
+TY  - JOUR
+TI  - Comparison of a Computable Pediatric Sepsis Phenotype Tool in Argentinian and U.S. Cohorts](https://pubmed.ncbi.nlm.nih.gov/42606293/) ([DOI
+AU  - Caldino Bohn RI
+AU  - Galvan ME
+AU  - Lanziotti VS
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004023)
+KW  - Shock & Sepsis
+KW  - 2026-W35
+ER  - 
+
+TY  - JOUR
+TI  - Validation of SeptiCyte RAPID to Discriminate Sepsis From Noninfectious Systemic Inflammation in Critically Ill Children
+AU  - Zimmerman JJ
+AU  - Raman S
+AU  - Butt WW
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004027
+AN  - 42565662
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004027
+KW  - Shock & Sepsis
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Development and Validation of Temperature Trajectory-Based Phenotypes in Pediatric Sepsis: A Multicenter Retrospective Cohort Study, 2012–2018
+AU  - Brown SR
+AU  - Sanchez-Pinto LN
+AU  - Grunwell JR
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004031
+AN  - 42635485
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004031
+KW  - Shock & Sepsis
+KW  - 2026-W36
+ER  - 
+
+TY  - JOUR
+TI  - PedSep Steps a Tango
+AU  - Badke CM
+AU  - Zimmerman JJ.
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004037
+AN  - 42606295
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004037
+KW  - Shock & Sepsis
+KW  - 2026-W35
+ER  - 
+
+TY  - JOUR
 TI  - Corticosteroids in the Treatment of Severe Sepsis and Septic Shock in Adults
 AU  - &NA;
 JO  - Survey of Anesthesiology
@@ -4531,6 +5434,30 @@ DO  - 10.1097/shk.0000000000002193
 UR  - https://journals.lww.com/shockjournal/abstract/2023/12000/the_efficacy_and_safety_of_vasopressors_for_septic.3.aspx
 KW  - Shock & Sepsis
 KW  - vasoactives
+ER  - 
+
+TY  - JOUR
+TI  - PCT-Anchored Machine Learning for Pre-Culture Identification of Gram-Negative Sepsis in Children: A Four-Site Study
+AU  - Velez T
+AU  - Dewan M
+AU  - Badaki-Makun O
+AU  - Hirsch D
+AU  - Mercurio DC
+AU  - Depinet H
+AU  - Kamaleswaran R
+AU  - Grunwell J
+AU  - Triantafyllou M
+AU  - Wolff N
+AU  - Abdelrahman F
+AU  - Macias C
+AU  - Koutroulis I
+JO  - Shock (Augusta, Ga.)
+PY  - 2026
+DO  - 10.1097/shk.0000000000002895
+AN  - 42320014
+UR  - https://journals.lww.com/10.1097/SHK.0000000000002895
+KW  - Shock & Sepsis
+KW  - 2026-W27
 ER  - 
 
 TY  - JOUR
@@ -4631,6 +5558,31 @@ DO  - 10.1136/bmjdrc-2024-004623
 UR  - https://drc.bmj.com/content/13/2/e004623
 KW  - Shock & Sepsis
 KW  - fluids
+ER  - 
+
+TY  - JOUR
+TI  - Diagnostic accuracy of tachypnoea for predicting mortality and identifying sepsis in young infants aged 0-59 days: a systematic review and meta-analysis
+AU  - Widyaningsih SA
+AU  - Driker S
+AU  - Fung A
+AU  - Schmeck N
+AU  - Mathias S
+AU  - Yu M
+AU  - Shafiq Y
+AU  - Hoey A
+AU  - Kehoe T
+AU  - Kim Y
+AU  - Adnan J
+AU  - Hussaini AS
+AU  - Wade CG
+AU  - Lee AC
+JO  - BMJ Paediatr Open
+PY  - 2026
+DO  - 10.1136/bmjpo-2025-004290
+AN  - 42392606
+UR  - https://bmjpaedsopen.bmj.com/lookup/doi/10.1136/bmjpo-2025-004290
+KW  - Shock & Sepsis
+KW  - 2026-W27
 ER  - 
 
 TY  - JOUR
@@ -7245,6 +8197,85 @@ KW  - vasoactives
 ER  - 
 
 TY  - JOUR
+TI  - Decoding candidemia in critically ill patients: unsupervised clustering identifies three unique phenotypes
+AU  - Reizine F
+AU  - Henry J
+AU  - Desmedt L
+AU  - Camus C
+AU  - Coirier V
+AU  - Arrive F
+AU  - Burban E
+AU  - Eustache G
+AU  - Belleville T
+AU  - Marc A
+AU  - Malherbe J
+AU  - Bouju P
+AU  - Jaubert P
+AU  - Lesieur O
+AU  - Leclerc M
+AU  - Fillâtre P
+AU  - Frérou A
+AU  - Prével R
+AU  - Mainguy N
+AU  - Cady A
+AU  - Morio F
+AU  - Le Gal S
+AU  - Perraud E
+AU  - Delhaes L
+AU  - Imbert S
+AU  - Guegan H
+AU  - Bonhomme J
+AU  - Pihet M
+AU  - Dupin C
+AU  - Delbove A
+AU  - Du Cheyron D
+AU  - Launey Y
+AU  - Aubron C
+AU  - Gangneux JP
+JO  - Critical Care (London, England)
+PY  - 2026
+DO  - 10.1186/s13054-026-05964-4
+AN  - 42365321
+UR  - https://link.springer.com/10.1186/s13054-026-05964-4
+KW  - Shock & Sepsis
+KW  - 2026-W27
+ER  - 
+
+TY  - JOUR
+TI  - Intrapulmonary penetration of ceftolozane/tazobactam and ceftazidime/avibactam by continuous infusion in critically ill patients with nosocomial pneumonia: a randomized pharmacokinetic trial
+AU  - Benitez-Cano A
+AU  - Sancho-Araiz A
+AU  - Carazo J
+AU  - (Roberts J
+AU  - Sorli L
+AU  - Luque S)
+JO  - Crit Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06075-w
+AN  - 42129898
+UR  - https://link.springer.com/10.1186/s13054-026-06075-w
+KW  - Shock & Sepsis
+KW  - 2026-W21
+ER  - 
+
+TY  - JOUR
+TI  - Current and Future Strategies Aiming at Reducing Catecholamine Exposure in Septic Shock
+AU  - Dubech A
+AU  - Picod A
+AU  - Pierre A
+AU  - (Garcia B; CHU Lille / Saint-Pierre University Hospital
+AU  - Brussels)
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06109-3
+AN  - 42277950
+UR  - https://link.springer.com/10.1186/s13054-026-06109-3
+KW  - Shock & Sepsis
+KW  - 2026-W24
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
 TI  - High vasopressor doses are associated with decreased tissue oxygenation in critically ill patients: a secondary analysis of a prospective cohort
 AU  - Rehn, Patrick
 AU  - Hölzl, Katharina
@@ -7267,6 +8298,161 @@ DO  - 10.1186/s13054-026-06110-w
 UR  - https://link.springer.com/article/10.1186/s13054-026-06110-w
 KW  - Shock & Sepsis
 KW  - vasoactives
+ER  - 
+
+TY  - JOUR
+TI  - HA-330 Hemoadsorption in Septic Shock Requiring High-Dose Norepinephrine: A Multicenter Randomized Controlled Trial (CLEANSE)
+AU  - Wongtirawit N
+AU  - Inyu W
+AU  - Prajantasen U
+AU  - Phairatwet P
+AU  - Ratanarat R (Siriraj Hospital
+AU  - Mahidol University
+AU  - Bangkok)
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06121-7
+AN  - 42277846
+UR  - https://link.springer.com/10.1186/s13054-026-06121-7
+KW  - Shock & Sepsis
+KW  - 2026-W24
+ER  - 
+
+TY  - JOUR
+TI  - Monitoring T-Cell Function in Septic Shock: One-Year Experience with a Fully Automated Assay
+AU  - Lafon T
+AU  - Gossez M
+AU  - Schild A
+AU  - (Monneret G; Hospices Civils de Lyon)
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06128-0
+AN  - 42265772
+UR  - https://link.springer.com/10.1186/s13054-026-06128-0
+KW  - Shock & Sepsis
+KW  - 2026-W24
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - Rapid sequence versus early surgical stabilization of severe chest wall injuries: a propensity score-matched analysis from a multicenter trauma registry
+AU  - Spering C
+AU  - Lefering R
+AU  - Lehmann W
+AU  - Malik HA
+AU  - Schulz-Drost S
+JO  - Critical Care (London, England)
+PY  - 2026
+DO  - 10.1186/s13054-026-06155-x
+AN  - 42351245
+UR  - https://link.springer.com/10.1186/s13054-026-06155-x
+KW  - Shock & Sepsis
+KW  - 2026-W27
+ER  - 
+
+TY  - JOUR
+TI  - On the inevitability of microvascular failure in septic shock and other vasodilatory conditions
+AU  - Popovich I
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06156-w
+AN  - 42343425
+UR  - https://link.springer.com/10.1186/s13054-026-06156-w
+KW  - Shock & Sepsis
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Sepsis-related immunosuppression: a comprehensive review of current research breakthroughs
+AU  - Ren S
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06168-6
+AN  - 42498933
+UR  - https://link.springer.com/10.1186/s13054-026-06168-6
+KW  - Shock & Sepsis
+KW  - 2026-W31
+ER  - 
+
+TY  - JOUR
+TI  - Mortality effect of albumin fluid resuscitation in adults with septic shock: a systematic review and dual frequentist-bayesian meta-analysis of randomised trials
+AU  - Mendes H
+AU  - Wen HK
+AU  - de Souza H
+AU  - Peng Y
+AU  - Deshpande K
+AU  - Blok SG
+AU  - Tuinman PR
+AU  - Neto AS
+AU  - Schultz MJ
+AU  - Malbrain MLNG
+AU  - Grasselli G
+AU  - van Haren FMP
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06172-w
+AN  - 42410446
+UR  - https://link.springer.com/10.1186/s13054-026-06172-w
+KW  - Shock & Sepsis
+KW  - 2026-W28
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Prehospital lactate, transfer time, and early mortality across emergency diagnostic categories
+AU  - Sebastian-Valles F
+AU  - Sampedro-Nuñez MA
+AU  - Arranz-Martin JA
+AU  - Navas-Moreno V
+AU  - Marazuela M
+AU  - López-Izquierdo R
+AU  - del Pozo Vegas C
+AU  - Dueñas-Ruiz J
+AU  - Sanz-García A
+AU  - Martín-Rodríguez F
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06175-7
+AN  - 42402601
+UR  - https://link.springer.com/10.1186/s13054-026-06175-7
+KW  - Shock & Sepsis
+KW  - 2026-W28
+ER  - 
+
+TY  - JOUR
+TI  - The usual suspects: a pragmatic framework to identify and address reversible contributors in apparent refractory septic shock
+AU  - Melo P
+AU  - Wendel-Garcia PD
+AU  - Leone M
+AU  - Khanna AK
+AU  - Morales S
+AU  - Ospina-Tascón GA
+AU  - Castro R
+AU  - Hernández G
+AU  - Kattan E
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06197-1
+AN  - 42469837
+UR  - https://link.springer.com/10.1186/s13054-026-06197-1
+KW  - Shock & Sepsis
+KW  - 2026-W29
+ER  - 
+
+TY  - JOUR
+TI  - Twenty-five years of septic shock hemodynamic resuscitation trials: a conceptual perspective
+AU  - Hernandez G
+AU  - Kattan E
+AU  - (22 authors)
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06201-8
+AN  - 42482139
+UR  - https://link.springer.com/10.1186/s13054-026-06201-8
+KW  - Shock & Sepsis
+KW  - 2026-W31
+KW  - 2026-07
 ER  - 
 
 TY  - JOUR
@@ -8336,6 +9522,22 @@ DO  - 10.3390/jcm14227904
 UR  - https://www.mdpi.com/2077-0383/14/22/7904
 KW  - Shock & Sepsis
 KW  - hemodynamics
+ER  - 
+
+TY  - JOUR
+TI  - Should I Target the Blood Pressure from the Arterial Line or the Cuff? A Practical Approach for Dealing with Widely Discordant Measurements
+AU  - Zamith N
+AU  - Walker C
+AU  - Scully T
+AU  - Healy WJ
+AU  - Zetola N
+JO  - Journal of Clinical Medicine
+PY  - 2025
+DO  - 10.3390/jcm14248616
+AN  - 41464519
+UR  - https://www.mdpi.com/2077-0383/14/24/8616
+KW  - Shock & Sepsis
+KW  - 2026-07
 ER  - 
 
 TY  - JOUR

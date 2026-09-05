@@ -82,6 +82,21 @@ KW  - general
 ER  - 
 
 TY  - JOUR
+TI  - Plasma Biomarkers of Brain Injury in Critically Ill Children Receiving Extracorporeal Membrane Oxygenation
+AU  - Friedman ML
+AU  - Bell MJ
+AU  - Brooks BA
+AU  - (Said A; 11 US children's hospitals)
+JO  - JAMA Pediatrics
+PY  - 2026
+DO  - 10.1001/jamapediatrics.2026.0015
+AN  - 41770542
+UR  - https://jamanetwork.com/journals/jamapediatrics/fullarticle/2845523
+KW  - ECMO
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
 TI  - Left Ventricular Decompression in Paediatric Veno-Arterial Extracorporeal Life Support: Reviewing the Evidence
 AU  - Veronese, Giacomo
 AU  - Meani, Paolo
@@ -1657,6 +1672,140 @@ KW  - general
 ER  - 
 
 TY  - JOUR
+TI  - Respiratory distress during peripheral VA-ECMO caused by cerebral hypercapnia despite preserved oxygenation
+AU  - Koszutski M
+AU  - Cuau S
+AU  - Levy B
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08383-9
+AN  - 41870561
+UR  - https://link.springer.com/10.1007/s00134-026-08383-9
+KW  - ECMO
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Extracorporeal membrane oxygenation, acute kidney injury, fluid balance, and continuous renal replacement therapy: Acute Disease Quality Initiative (ADQI) and Extracorporeal Life Support Organization (ELSO) joint consensus conference
+AU  - Gist KM
+AU  - Selewski DT
+AU  - Kashani KB
+AU  - Akcan-Arikan A
+AU  - Annich G
+AU  - Antonini MV
+AU  - Askenazi D
+AU  - Awdishu L
+AU  - Bridges BC
+AU  - Connor MJ
+AU  - Forni LG
+AU  - Fuhrman DY
+AU  - Goldstein SL
+AU  - Gorga SM
+AU  - Guru PK
+AU  - Kaddourah A
+AU  - Lepage-Farrell A
+AU  - McMullan DM
+AU  - Mehta RL
+AU  - Menon S
+AU  - Mottes T
+AU  - Müeller T
+AU  - Ostermann M
+AU  - Paden ML
+AU  - Rintoul NE
+AU  - Reis T
+AU  - Ronco C
+AU  - See E
+AU  - Singh G
+AU  - Bagshaw SM
+AU  - MacLaren G
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08440-3
+AN  - 42113209
+UR  - https://link.springer.com/10.1007/s00134-026-08440-3
+KW  - ECMO
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - How to optimize brain perfusion and prevent cerebral complications during extracorporeal life support
+AU  - Dauwe DF
+AU  - Cho SM
+AU  - Gijs J
+AU  - Burrell A
+AU  - Badulak J
+AU  - Vandenbriele C
+AU  - Levy B
+AU  - Brady K
+AU  - Combes A
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08502-6
+AN  - 42315625
+UR  - https://link.springer.com/10.1007/s00134-026-08502-6
+KW  - ECMO
+KW  - 2026-06
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - ECMO for patients with obesity: evidence and practice
+AU  - Moyon Q
+AU  - Hermans G
+AU  - Abrams D
+AU  - Agerstrand C
+AU  - Anderson MR
+AU  - De Jong A
+AU  - Fan E
+AU  - Ferguson ND
+AU  - Grasselli G
+AU  - Jaber S
+AU  - Ng PY
+AU  - Pham T
+AU  - Rudym D
+AU  - Schmidt M
+AU  - Combes A
+AU  - Brodie D
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08519-x
+AN  - 42371000
+UR  - https://link.springer.com/10.1007/s00134-026-08519-x
+KW  - ECMO
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - 60 years of ARDS and the evolution of extracorporeal lung support — from ECMO to ECCO2R
+AU  - Fernando SM
+AU  - Brodie D
+AU  - Slutsky AS
+AU  - Abrams D
+AU  - Agerstrand C
+AU  - Camporota L
+AU  - Fan E
+AU  - Ferguson ND
+AU  - Hodgson CL
+AU  - Hough CL
+AU  - Martucci G
+AU  - Munshi L
+AU  - Ostermann M
+AU  - Patel BV
+AU  - Schmidt M
+AU  - Shekar K
+AU  - Supady A
+AU  - Combes A
+JO  - Intensive Care Med
+PY  - 2026
+DO  - 10.1007/s00134-026-08533-z
+AN  - 42412218
+UR  - https://link.springer.com/10.1007/s00134-026-08533-z
+KW  - ECMO
+KW  - 2026-W28
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
 TI  - Extracorporeal Membrane Oxygenation in Children with Pulmonary Atresia and Intact Ventricular Septum: Mortality and Associated Outcomes
 AU  - Flores, Saul
 AU  - Loomba, Rohit S.
@@ -1686,6 +1835,18 @@ DO  - 10.1007/s00246-024-03764-7
 UR  - https://link.springer.com/article/10.1007/s00246-024-03764-7
 KW  - ECMO
 KW  - epidemiology
+ER  - 
+
+TY  - JOUR
+TI  - Extracorporeal Life Support (ECLS) for Pulmonary Vein Stenosis Interventions](https://pubmed.ncbi.nlm.nih.gov/42622639/) ([DOI
+AU  - Tsoi SM
+AU  - Keller RL
+AU  - Sacks LD
+JO  - Pediatr Cardiol
+PY  - 2026
+DO  - 10.1007/s00246-026-04434-6)
+KW  - ECMO
+KW  - 2026-W35
 ER  - 
 
 TY  - JOUR
@@ -1770,6 +1931,62 @@ DO  - 10.1007/s00431-025-06696-3
 UR  - https://link.springer.com/article/10.1007/s00431-025-06696-3
 KW  - ECMO
 KW  - cannulation
+ER  - 
+
+TY  - JOUR
+TI  - Automated Pupillometry for the Prediction of Neurologic Outcomes in Children Requiring Extracorporeal Membrane Oxygenation (ECMO)
+AU  - McGetrick M
+AU  - Diaz N
+AU  - Li X
+AU  - (Raman L
+AU  - Miles D; UT Southwestern / Children's Medical Center
+AU  - Dallas)
+JO  - European Journal of Pediatrics
+PY  - 2026
+DO  - 10.1007/s00431-026-07100-4
+AN  - 42262594
+UR  - https://link.springer.com/10.1007/s00431-026-07100-4
+KW  - ECMO
+KW  - 2026-W24
+ER  - 
+
+TY  - JOUR
+TI  - ECMO for out of hospital refractory cardiac arrest in children: a retrospective multicenter analysis of a regional care program
+AU  - Starck J
+AU  - Grimaud M
+AU  - Salvador E
+AU  - Boet A
+AU  - Cressens S
+AU  - Genuini M
+AU  - Maurice L
+AU  - Hervieux E
+AU  - Pontailler M
+AU  - Ayachi A
+AU  - Vivien B
+AU  - Dupic L
+AU  - Irtan S
+AU  - Oualha M
+AU  - Léger PL
+AU  - Rambaud J
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07303-9
+AN  - 42599535
+UR  - https://link.springer.com/10.1007/s00431-026-07303-9
+KW  - ECMO
+KW  - 2026-W34
+ER  - 
+
+TY  - JOUR
+TI  - Analgesia, sedation, and mobilization practices in pediatric patients supported with ECMO across Europe: an ESPNIC survey](https://pubmed.ncbi.nlm.nih.gov/42613392/) ([DOI
+AU  - Cavagnero F
+AU  - Hoskote A
+AU  - Lillie J
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07326-2)
+KW  - ECMO
+KW  - 2026-W35
 ER  - 
 
 TY  - JOUR
@@ -1908,9 +2125,11 @@ AU  - Busch, David R.
 JO  - Neurocritical Care
 PY  - 2026
 DO  - 10.1007/s12028-026-02545-9
+AN  - 42192048
 UR  - https://link.springer.com/article/10.1007/s12028-026-02545-9
 KW  - ECMO
 KW  - general
+KW  - 2026-W23
 ER  - 
 
 TY  - JOUR
@@ -1966,6 +2185,20 @@ DO  - 10.1016/j.amjsurg.2021.04.004
 UR  - https://www.americanjournalofsurgery.com/article/S0002-9610(21)00233-6/fulltext
 KW  - ECMO
 KW  - VV
+ER  - 
+
+TY  - JOUR
+TI  - Extracorporeal Cardiopulmonary Resuscitation for Pediatric Out-of-Hospital Cardiac Arrest
+AU  - Amagasa S
+AU  - Iwamoto S
+AU  - Okubo M
+JO  - Ann Emerg Med
+PY  - 2026
+DO  - 10.1016/j.annemergmed.2026.03.014
+AN  - 42084583
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S019606442600185X
+KW  - ECMO
+KW  - 2026-W33
 ER  - 
 
 TY  - JOUR
@@ -2196,6 +2429,37 @@ KW  - ECPR
 ER  - 
 
 TY  - JOUR
+TI  - ECMO Ethics: A Call for Action
+AU  - Cunningham TV
+AU  - Dastidar J
+AU  - Condella A
+AU  - Morley G
+AU  - Schuman O
+AU  - Hester DM
+JO  - Chest
+PY  - 2026
+DO  - 10.1016/j.chest.2026.06.056
+AN  - 42468849
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0012369226059763
+KW  - ECMO
+KW  - 2026-W29
+ER  - 
+
+TY  - JOUR
+TI  - Starting ECMO: A Review of the Ethical Issues and Recommended Approach
+AU  - Moynihan KM
+AU  - Siegel B
+AU  - Sujdak Mackiewicz B
+JO  - Chest
+PY  - 2026
+DO  - 10.1016/j.chest.2026.07.5210
+AN  - 42501939
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0012369226063038
+KW  - ECMO
+KW  - 2026-W31
+ER  - 
+
+TY  - JOUR
 TI  - Effects of Prone Position in Patients With COVID-19 Treated With Extracorporeal Membrane Oxygenation
 AU  - García-de-Acilu, Marina
 AU  - Pacheco, Andrés
@@ -2364,6 +2628,29 @@ KW  - epidemiology
 ER  - 
 
 TY  - JOUR
+TI  - Venopulmonary extracorporeal life support: An Extracorporeal Life Support Organization registry analysis
+AU  - Baldetti L
+AU  - Pontillo D
+AU  - Capoccia M
+AU  - Kowalewski M
+AU  - Tonna JE
+AU  - Broman M
+AU  - Conrad SA
+AU  - Swol J
+AU  - Scandroglio AM
+AU  - Brewer JM
+AU  - Maybauer MO
+AU  - Lorusso R
+JO  - The Journal of Heart and Lung Transplantation
+PY  - 2026
+DO  - 10.1016/j.healun.2025.12.024
+AN  - 41506589
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1053249825024805
+KW  - ECMO
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
 TI  - The impact of extracorporeal support on antimicrobial pharmacokinetics in critically ill neonatal and paediatric patients: A systematic review
 AU  - Cree, Michele L.
 AU  - Abdul-Aziz, Mohd Hafiz
@@ -2500,6 +2787,132 @@ DO  - 10.1016/j.jcrc.2025.155338
 UR  - https://www.sciencedirect.com/science/article/pii/S0883944125003259?via%3Dihub
 KW  - ECMO
 KW  - epidemiology
+ER  - 
+
+TY  - JOUR
+TI  - Sex Differences in Venoarterial Extracorporeal Membrane Oxygenation Utilisation and Clinical Outcomes in Australia
+AU  - Batchelor RJ
+AU  - Hodgson CL
+AU  - Lankaputhra M
+AU  - (Stub D; Alfred Health / Monash University)
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155473
+AN  - 41616607
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126000511
+KW  - ECMO
+KW  - 2026-W23
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - Timing of spontaneous breathing in veno-venous extracorporeal membrane oxygenation: An exploratory analysis of intensive care outcomes
+AU  - Jolink FEJ
+AU  - Oude Lansink-Hartgring A
+AU  - Akin S
+AU  - Bos LDJ
+AU  - van den Brule JMD
+AU  - Bunge JJH
+AU  - Elzo Kraemer CV
+AU  - Maas JJ
+AU  - Meuwese CL
+AU  - Otterspoor L
+AU  - Pladet CLA
+AU  - van de Pol I
+AU  - Raasveld SJ
+AU  - Schenk J
+AU  - Heijnen BGADH
+AU  - van Steenwijk MPJ
+AU  - van den Bergh WM
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155676
+AN  - 42419142
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126002546
+KW  - ECMO
+KW  - 2026-W28
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Anticoagulation initiation during ECMO in trauma patients with traumatic intracranial hemorrhage: a narrative review and conceptual time-dependent risk framework
+AU  - Yoo HD
+AU  - Kim SH
+AU  - Go SJ
+AU  - Kim SM
+JO  - Journal of Critical Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155691
+AN  - 42447722
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126002698
+KW  - ECMO
+KW  - 2026-W29
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - What every intensivist needs to know about antimicrobial dosing in patients on ECMO, RRT and plasmapheresis
+AU  - Spriet I
+AU  - Abdul-Aziz MH
+AU  - Scheetz M
+AU  - Ostermann M
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155704
+AN  - 42580158
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126002820
+KW  - ECMO
+KW  - 2026-W34
+ER  - 
+
+TY  - JOUR
+TI  - Impact of intra-aortic balloon pump support on cerebral blood flow velocity during venoarterial ECMO
+AU  - Ayasse T
+AU  - Levy D
+AU  - Saura O
+AU  - Combes A
+AU  - Schmidt M
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155710
+AN  - 42600334
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126002881
+KW  - ECMO
+KW  - 2026-W34
+ER  - 
+
+TY  - JOUR
+TI  - Tandem ECMO/CRRT medical nutrition therapy clinical practice points: A literature review and Delphi consensus on clinical practice
+AU  - Sathik N
+AU  - Ghose S
+AU  - Lussier N
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155711
+AN  - 42636716
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126002893
+KW  - ECMO
+KW  - 2026-W36
+ER  - 
+
+TY  - JOUR
+TI  - Timing of veno-arterial extracorporeal membrane oxygenation in cardiogenic shock: A systematic review and meta-analysis
+AU  - Yuan Xk
+AU  - Shi R
+AU  - Zhang Lm
+AU  - Duan Xj
+AU  - Li Lj
+AU  - Yin Hy
+AU  - Gu Wj
+AU  - Monnet X
+JO  - Journal of Intensive Medicine
+PY  - 2026
+DO  - 10.1016/j.jointm.2026.01.005
+AN  - 42396244
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2667100X26000320
+KW  - ECMO
+KW  - 2026-07
 ER  - 
 
 TY  - JOUR
@@ -2767,6 +3180,60 @@ KW  - ECPR
 ER  - 
 
 TY  - JOUR
+TI  - Long-Term Neurological Outcomes After Extracorporeal Cardiopulmonary Resuscitation for Refractory Cardiac Arrest: A 14-Year Single-Centre Cohort Study
+AU  - Pozzi M
+AU  - Sola M
+AU  - Maggioni E
+AU  - (Giani M
+AU  - Foti G; Fondazione IRCCS San Gerardo dei Tintori
+AU  - Monza
+AU  - Italy)
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111095
+AN  - 42000026
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226001413
+KW  - ECMO
+KW  - 2026-W23
+KW  - borderline
+ER  - 
+
+TY  - JOUR
+TI  - Pediatric extracorporeal cardiopulmonary resuscitation for out-of-hospital cardiac arrest: outcomes and clinical trajectories
+AU  - Veronese G
+AU  - Grazioli L
+AU  - Meani P
+AU  - Fochi O
+AU  - Fazzi F
+AU  - Bronco A
+AU  - Colombo G
+AU  - Serafini M
+AU  - Salurso A
+AU  - Pellicioli I
+AU  - Ferrari F
+AU  - Vedovati S
+AU  - Valoti OF
+AU  - Ghitti D
+AU  - Viscardi S
+AU  - Ammirati E
+AU  - Seddio F
+AU  - Uricchio N
+AU  - Bonacina D
+AU  - Volpi C
+AU  - Raimondi F
+AU  - Bonanomi E
+AU  - Lorusso R
+AU  - Lorini FL
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111263
+AN  - 42603601
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226003102
+KW  - ECMO
+KW  - 2026-W34
+ER  - 
+
+TY  - JOUR
 TI  - Is bivalirudin an alternative anticoagulant for extracorporeal membrane oxygenation (ECMO) patients? A systematic review and meta-analysis
 AU  - Li, Di-huan
 AU  - Sun, Ming-wei
@@ -2844,6 +3311,44 @@ DO  - 10.1016/j.xjtc.2022.02.039
 UR  - https://www.jtcvstechniques.org/article/S2666-2507(22)00189-4/fulltext
 KW  - ECMO
 KW  - general
+ER  - 
+
+TY  - JOUR
+TI  - Standard-dose unfractionated heparin versus low-dose unfractionated heparin and low-molecular-weight heparin in extracorporeal life support (RATE): an open-label, randomised, non-inferiority trial
+AU  - Minnen Ov
+AU  - Lansink-Hartgring AO
+AU  - van Amstel RBE
+AU  - van den Bogaard B
+AU  - Bunge JJH
+AU  - Delnoij TSR
+AU  - Droogh JM
+AU  - Koppenhagen Lv
+AU  - Kraemer CVE
+AU  - Kuijpers M
+AU  - Maas JJ
+AU  - Metz Jd
+AU  - van de Poll MCG
+AU  - Raasveld SJ
+AU  - dos Reis Miranda D
+AU  - Vart P
+AU  - Vermeulen KM
+AU  - Vlaar APJ
+AU  - van den Bergh WM
+AU  - van Haeren MMT
+AU  - Koopmans M
+AU  - Müller MCA
+AU  - Donker DW
+AU  - Meuwese CL
+AU  - Akin S
+JO  - Lancet
+PY  - 2026
+DO  - 10.1016/s0140-6736(26)00851-2
+AN  - 42413523
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0140673626008512
+KW  - ECMO
+KW  - 2026-W28
+KW  - 2026-W31
+KW  - 2026-07
 ER  - 
 
 TY  - JOUR
@@ -2968,6 +3473,23 @@ DO  - 10.1016/s2213-2600(24)00261-3
 UR  - https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(24)00261-3/fulltext?dgcid=raven_jbs_aip_email
 KW  - ECMO
 KW  - general
+ER  - 
+
+TY  - JOUR
+TI  - Single cell and bulk transcriptomics reveal metabolic reprogramming biomarker signatures during extracorporeal membrane oxygenation for cardiogenic shock
+AU  - Zhou X
+AU  - Aierken D
+AU  - Sun L
+AU  - Chang X
+AU  - Xu L
+AU  - Guo Z
+JO  - Scientific Reports
+PY  - 2026
+DO  - 10.1038/s41598-026-62728-4
+AN  - 42471432
+UR  - https://www.nature.com/articles/s41598-026-62728-4
+KW  - ECMO
+KW  - 2026-W29
 ER  - 
 
 TY  - JOUR
@@ -3098,6 +3620,24 @@ DO  - 10.1053/j.jvca.2026.03.007
 UR  - https://www.sciencedirect.com/science/article/pii/S1053077026002077?via%3Dihub
 KW  - ECMO
 KW  - general
+ER  - 
+
+TY  - JOUR
+TI  - Use of Artificial Intelligence to Predict Outcomes in Critically Ill Patients Receiving Extracorporeal Membrane Oxygenation: A Systematic Review
+AU  - Keane M
+AU  - Sajan S
+AU  - Nockels K
+AU  - Zochios V
+AU  - Ahmed A
+AU  - Yusuff H
+JO  - J Cardiothorac Vasc Anesth
+PY  - 2026
+DO  - 10.1053/j.jvca.2026.03.051
+AN  - 42049546
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1053077026002806
+KW  - ECMO
+KW  - 2026-W27
+KW  - 2026-07
 ER  - 
 
 TY  - JOUR
@@ -3454,6 +3994,40 @@ KW  - general
 ER  - 
 
 TY  - JOUR
+TI  - Extracorporeal life support in adult critically ill patients: mechanisms of benefit in respiratory and cardiac failure
+AU  - Zochios V
+AU  - Brewer JM
+AU  - Antonini MV
+AU  - Brodie D
+AU  - Peek GJ
+AU  - Schmidt M
+AU  - Camporota L
+AU  - Doyle J
+AU  - Tschernko E
+AU  - Schultz MJ
+AU  - Yusuff H
+AU  - for the Endorsing Societies of College of Intensive Care Medicine (CICM) UK; Pulmonary Vascular Research Institute (PVRI); Protective Ventilation Network (PROVE Network); Association for Cardiothoracic Anaesthesia and Critical Care (ACTACC); Society of Mechanical Ventilation (SMV); Protecting the Right Ventricle Network (PRORVnet)
+AU  - Zochios V
+AU  - Brewer JM
+AU  - Velia Antonini M
+AU  - Brodie D
+AU  - Peek GJ
+AU  - Schmidt M
+AU  - Camporota L
+AU  - Doyle J
+AU  - Tschernko E
+AU  - J Schultz M
+AU  - Yusuff H
+JO  - American Journal of Respiratory and Critical Care Medicine
+PY  - 2026
+DO  - 10.1093/ajrccm/aamag321
+AN  - 42320025
+UR  - https://academic.oup.com/ajrccm/article/212/9/2159/8711923
+KW  - ECMO
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
 TI  - Nosocomial Infections in Adults Receiving Extracorporeal Membrane Oxygenation: A Review for Infectious Diseases Clinicians
 AU  - Marcus, Joseph E
 AU  - Shah, Aditya
@@ -3523,6 +4097,34 @@ DO  - 10.1093/eurheartj/ehv194
 UR  - https://academic.oup.com/eurheartj/article/36/33/2246/2465996
 KW  - ECMO
 KW  - VA
+ER  - 
+
+TY  - JOUR
+TI  - Expanding the OMOP Common Data Model to Support Extracorporeal Life Support Research
+AU  - Rieder C
+AU  - Zhuk A
+AU  - Said A
+AU  - Becker-Pennrich AS
+AU  - Dietz K
+AU  - Bělohlávek J
+AU  - Geppert J
+AU  - Horvat C
+AU  - Barbaro RP
+AU  - Tonna JE
+AU  - Conrad SA
+AU  - Broman LM
+AU  - Reich C
+AU  - Blacketer C
+AU  - Brodie D
+AU  - Alexander PMA
+AU  - Hoechter DJ
+JO  - JAMIA Open
+PY  - 2026
+DO  - 10.1093/jamiaopen/ooag112
+AN  - 42339164
+UR  - https://academic.oup.com/jamiaopen/article/doi/10.1093/jamiaopen/ooag112/8713129
+KW  - ECMO
+KW  - 2026-06
 ER  - 
 
 TY  - JOUR
@@ -3602,6 +4204,20 @@ DO  - 10.1097/01.mat.0001070352.14062.f8
 UR  - https://journals.lww.com/asaiojournal/abstract/2026/06000/large_single_center_experience_with_extubation.8.aspx
 KW  - ECMO
 KW  - general
+ER  - 
+
+TY  - JOUR
+TI  - Short- and Long-term Efficacy and Safety of Levosimendan in Veno-arterial Extracorporeal Membrane Oxygenation Weaning: The WEANILEVO Randomized Double-Blind Multicenter Trial
+AU  - Guinot PG
+AU  - Berthoud V
+AU  - Soudry-Faure A
+JO  - Anesthesiology
+PY  - 2026
+DO  - 10.1097/aln.0000000000006143
+AN  - 42101006
+UR  - https://www.ovid.com/10.1097/ALN.0000000000006143
+KW  - ECMO
+KW  - 2026-W31
 ER  - 
 
 TY  - JOUR
@@ -4019,6 +4635,20 @@ DO  - 10.1097/ccm.0000000000006053
 UR  - https://journals.lww.com/ccmjournal/fulltext/2023/12000/physiology_based_indications_to_improve_outcome_of.28.aspx#JCL-P-5
 KW  - ECMO
 KW  - epidemiology
+ER  - 
+
+TY  - JOUR
+TI  - Prevalence, Risk Factors, and Mortality of Veno-Venous Extracorporeal Membrane Oxygenation Escalation in Acute Respiratory Distress Syndrome: A Multicenter Cohort Study From the Chinese Society of Extracorporeal Life Support Registry
+AU  - Ma S
+AU  - Pan Y
+AU  - He J
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007177
+AN  - 42171409
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007177
+KW  - ECMO
+KW  - 2026-W33
 ER  - 
 
 TY  - JOUR
@@ -4666,6 +5296,76 @@ KW  - general
 ER  - 
 
 TY  - JOUR
+TI  - Patients Post Cardiac Surgery Requiring Venoarterial Extracorporeal Membrane Oxygenation: Outcomes From an Intensivist-Led Extracorporeal Membrane Oxygenation Program
+AU  - Mihu MR
+AU  - El Banayosy AM
+AU  - Schoaps RS
+AU  - Cain K
+AU  - Swant LV
+AU  - Bell MT
+AU  - Johnson JC
+AU  - Freno DR
+AU  - Vanhooser DW
+AU  - Maybauer MO
+AU  - El Banayosy A
+AU  - Brewer JM
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002514
+AN  - 40719317
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002514
+KW  - ECMO
+KW  - 2026-W27
+ER  - 
+
+TY  - JOUR
+TI  - Large Single-Center Experience With Extubation During Neonatal and Pediatric Extracorporeal Membrane Oxygenation
+AU  - Holton C
+AU  - Orrick J
+AU  - Newton D
+AU  - Miller JO (Children's Mercy Hospital
+AU  - Kansas City)
+JO  - ASAIO J
+PY  - 2025
+DO  - 10.1097/mat.0000000000002540
+AN  - 40853011
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002540
+KW  - ECMO
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - Pediatric Critical Hematology Oncology Referral Pathway for Extracorporeal Life Support: Standardized Evaluation and Transfer Can Improve Survival
+AU  - Sandhu HS
+AU  - Fan K
+AU  - Shah S
+AU  - (Morrison RR
+AU  - Ghafoor S; Le Bonheur Children's Hospital / St. Jude Children's Research Hospital
+AU  - Memphis)
+JO  - ASAIO J
+PY  - 2025
+DO  - 10.1097/mat.0000000000002542
+AN  - 40864104
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002542
+KW  - ECMO
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - Outcomes of a Second Run of Extracorporeal Membrane Oxygenation in Neonates: A Propensity Score Matched Analysis of a Nationwide Registry
+AU  - Thobani H
+AU  - Khan MO
+AU  - Tirrell TF
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002546
+AN  - 40923597
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002546
+KW  - ECMO
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
 TI  - Functional Status Change in Pediatric Extracorporeal Membrane Oxygenation Survivors is Equivalent to Propensity-Matched Patients Managed Without Extracorporeal Membrane Oxygenation
 AU  - Ruth, Amanda
 AU  - Kennedy, Curtis
@@ -4675,6 +5375,327 @@ DO  - 10.1097/mat.0000000000002594
 UR  - https://journals.lww.com/ccmjournal/abstract/9900/extracorporeal_membrane_oxygenation_without.197.aspx
 KW  - ECMO
 KW  - general
+ER  - 
+
+TY  - JOUR
+TI  - Subphenotype-Specific Risk of Intracranial Hemorrhage During Extracorporeal Membrane Oxygenation in Acute Respiratory Distress Syndrome
+AU  - Nishikimi M
+AU  - Ohshimo S
+AU  - Fukumoto W
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002629
+AN  - 41528099
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002629
+KW  - ECMO
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Is Veno-Venous Extracorporeal Membrane Oxygenation Always the Right Choice for Pediatric Patients With Refractory Respiratory Failure? An Extracorporeal Life Support Organization Registry Analysis
+AU  - Assy J
+AU  - Yit G
+AU  - Alunni Fegatelli D
+AU  - (Alessandri F; multi-institution)
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002651
+AN  - 41575882
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002651
+KW  - ECMO
+KW  - 2026-W23
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Extracorporeal Membrane Oxygenation in Immunocompromised Patients With Acute Respiratory Distress Syndrome: A Systematic Review and Meta-analysis
+AU  - Fei S
+AU  - Huang C
+AU  - Zhang X
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002714
+AN  - 42007805
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002714
+KW  - ECMO
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Pediatric Extracorporeal Cardiopulmonary Resuscitation (ECPR): Understanding Variations in Systems and Clinical Practice
+AU  - O’Callaghan M
+AU  - Belohlavek J
+AU  - Cvetkovic M
+AU  - Davidson M
+AU  - Guerguerian AM
+AU  - Hoskote A
+AU  - Pollak U
+AU  - Raman L
+AU  - Roeleveld PP
+AU  - Thiruchelvam T
+AU  - Desai A
+JO  - ASAIO Journal
+PY  - 2026
+DO  - 10.1097/mat.0000000000002740
+AN  - 42312819
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002740
+KW  - ECMO
+KW  - 2026-06
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Risk Score to Assess Extracorporeal Life Support Need After Norwood Operation on Arrival to Pediatric Cardiac Intensive Care Unit
+AU  - Beshish AG
+AU  - Horan V
+AU  - Faisthalab M
+AU  - (Garcia RU
+AU  - Aljiffry A; Children's Healthcare of Atlanta/Emory)
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002742
+AN  - 42214006
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002742
+KW  - ECMO
+KW  - 2026-W23
+ER  - 
+
+TY  - JOUR
+TI  - Clinical Outcomes and Risk Factors in Pediatric Postcardiotomy Extracorporeal Membrane Oxygenation: A Nationwide Retrospective Cohort Study
+AU  - Xu B
+AU  - Zhou X
+AU  - Yu X
+AU  - (Hou X
+AU  - Li C; Beijing Anzhen Hospital
+AU  - Capital Medical University)
+JO  - ASAIO Journal
+PY  - 2026
+DO  - 10.1097/mat.0000000000002746
+AN  - 42263212
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002746
+KW  - ECMO
+KW  - 2026-W24
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Against All Odds: A Case of Pediatric Acute Respiratory Distress Syndrome Requiring 233 Days of Extracorporeal Membrane Oxygenation Support
+AU  - Dibert T
+AU  - Wang W
+AU  - Vázquez-Colón Z
+AU  - Stukov Y
+AU  - Jacobs J
+AU  - Schecter M
+AU  - Cornman J
+AU  - Raymond S
+AU  - Stahl R
+AU  - Jaudon A
+AU  - Philip J
+AU  - Narasimhulu S
+AU  - Bleiweis M
+AU  - Peek G
+JO  - ASAIO Journal
+PY  - 2026
+DO  - 10.1097/mat.0000000000002755
+AN  - 42247590
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002755
+KW  - ECMO
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Anticoagulation Changes and Biochemical Signals Preceding Hospital-Acquired Infections in Pediatric Extracorporeal Support
+AU  - Davidson SM
+AU  - Miller JO
+AU  - Bauer PN
+AU  - (Rilinger JF; Children's Mercy Hospital
+AU  - Kansas City)
+JO  - ASAIO Journal
+PY  - 2026
+DO  - 10.1097/mat.0000000000002758
+AN  - 42273795
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002758
+KW  - ECMO
+KW  - 2026-W24
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Patterns of Multiple Organ Dysfunction in Children on Extracorporeal Membrane Oxygenation Support
+AU  - Huang V
+AU  - Huang JX
+AU  - Roem J
+AU  - Ng DK
+AU  - Bembea MM
+JO  - ASAIO Journal
+PY  - 2026
+DO  - 10.1097/mat.0000000000002764
+AN  - 42301734
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002764
+KW  - ECMO
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - The HELP Score in Non-Asphyxial Hypothermic Cardiac Arrest Treated With Extracorporeal Life Support: External Validation and Clinical Utility
+AU  - Mendrala K
+AU  - Darocha T
+AU  - Takauji S
+AU  - Brožek T
+AU  - Rischall M
+AU  - Soumagnac T
+AU  - Podsiadło P
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002774
+AN  - 42402039
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002774
+KW  - ECMO
+KW  - 2026-W28
+ER  - 
+
+TY  - JOUR
+TI  - Incidence and Mortality Outcomes of Extracorporeal Membrane Oxygenation in Infants With Congenital Lung Malformations: A Registry Study
+AU  - Giron A
+AU  - Chen Z
+AU  - Yu PT
+AU  - Guner YS
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002790
+AN  - 42402038
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002790
+KW  - ECMO
+KW  - 2026-W28
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - The Role of Recirculation-Guided Blood Flow Adjustment in Venovenous Extracorporeal Membrane Oxygenation: A Pilot Study
+AU  - Behnel N
+AU  - Heilmann W
+AU  - Skrypnikov V
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002796
+AN  - 42490650
+UR  - https://journals.lww.com/10.1097/MAT.0000000000002796
+KW  - ECMO
+KW  - 2026-W31
+ER  - 
+
+TY  - JOUR
+TI  - Rehabilitation Intensity and Discharge Outcomes in Venovenous Extracorporeal Membrane Oxygenation Used as a Bridge to Recovery
+AU  - Shim H
+AU  - Kim SW
+AU  - Suh JH
+AU  - Crain N
+AU  - Pierce B
+AU  - Chung JW
+JO  - ASAIO Journal
+PY  - 2026
+DO  - 10.1097/mat.0000000000002799
+AN  - 42525875
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002799
+KW  - ECMO
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Beating the Odds: Survival After Extracorporeal Membrane Oxygenation Decannulation Due to Poor Prognosis in Children—An Extracorporeal Life Support Organization Registry Study
+AU  - Wanders A
+AU  - Thiagarajan RR
+AU  - Swol J
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002801
+AN  - 42552563
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002801
+KW  - ECMO
+KW  - 2026-W33
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Comparative Performance of Oxygenators for Extracorporeal Membrane Oxygenation in Adults: A Retrospective Analysis
+AU  - SOUSSE LE
+AU  - HAGIWARA J
+AU  - LIU Q
+AU  - MAUL TM
+AU  - MICHALEK JE
+AU  - ANDERSON BJ
+AU  - DELLAVOLPE JD
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002805
+AN  - 42574647
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002805
+KW  - ECMO
+KW  - 2026-W34
+ER  - 
+
+TY  - JOUR
+TI  - Electrical Impedance Tomography Reveals Venoarterial ECMO Flow-Induced Ventilation-Perfusion Mismatch](https://pubmed.ncbi.nlm.nih.gov/42606891/) ([DOI
+AU  - Protti I
+AU  - Francovich JE
+AU  - van Thiel R
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002808)
+KW  - ECMO
+KW  - 2026-W35
+ER  - 
+
+TY  - JOUR
+TI  - Association of Shock-to-Balloon Time With Outcomes in AMI-Cardiogenic Shock Requiring VA-ECMO](https://pubmed.ncbi.nlm.nih.gov/42606888/) ([DOI
+AU  - Kim O
+AU  - Cha JH
+AU  - Lee SY
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002818)
+KW  - ECMO
+KW  - 2026-W35
+ER  - 
+
+TY  - JOUR
+TI  - Challenging the Obesity Paradox: A Multicenter Study of BMI and Mortality in VV-ECMO](https://pubmed.ncbi.nlm.nih.gov/42617158/) ([DOI
+AU  - Morales Behaine JJ
+AU  - Seelhammer TG
+AU  - Wieruszewski PM
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002819)
+KW  - ECMO
+KW  - 2026-W35
+ER  - 
+
+TY  - JOUR
+TI  - The Unknown Others of Neonatal Respiratory Extracorporeal Membrane Oxygenation
+AU  - Rose AT
+AU  - Lakhani A
+AU  - Conroy S
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002822
+AN  - 42638325
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002822
+KW  - ECMO
+KW  - 2026-W36
+ER  - 
+
+TY  - JOUR
+TI  - Feeding under support in critical care illness: metabolic and nutritional management during extracorporeal membrane oxygenation and continuous renal replacement therapy
+AU  - Stoppe C
+AU  - Marelli S
+AU  - De Waele E
+JO  - Current Opinion in Critical Care
+PY  - 2026
+DO  - 10.1097/mcc.0000000000001394
+AN  - 42319221
+UR  - https://journals.lww.com/10.1097/MCC.0000000000001394
+KW  - ECMO
+KW  - 2026-07
 ER  - 
 
 TY  - JOUR
@@ -4962,9 +5983,122 @@ AU  - Betters, Kristina A.
 JO  - Pediatric Critical Care Medicine
 PY  - 2026
 DO  - 10.1097/pcc.0000000000003957
+AN  - 42112882
 UR  - https://journals.lww.com/pccmjournal/fulltext/9900/feasibility_of_early_mobility_during_pediatric.672.aspx
 KW  - ECMO
 KW  - general
+KW  - 2026-W21
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Ventricular Arrhythmias During Extracorporeal Circulatory Support for Cardiac Indications: Outcomes in a Single-Center Retrospective Cohort, 2020–2023
+AU  - Patten WF
+AU  - Silver ES
+AU  - Cheung EW.
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000003958
+AN  - 42101878
+UR  - https://www.ovid.com/10.1097/PCC.0000000000003958
+KW  - ECMO
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Inflammatory Markers for Nosocomial Infections in Pediatric Extracorporeal Membrane Oxygenation: Single-Center Retrospective Cohort, 2017-2022
+AU  - Gillett EL
+AU  - Birisci E
+AU  - Frazier JB
+AU  - Stroud MH
+AU  - Malone MP (Arkansas Children's Hospital
+AU  - Little Rock)
+JO  - Pediatric Critical Care Medicine
+PY  - 2026
+DO  - 10.1097/pcc.0000000000003979
+AN  - 42267879
+UR  - https://www.ovid.com/10.1097/PCC.0000000000003979
+KW  - ECMO
+KW  - 2026-W24
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Extracorporeal-Cardiopulmonary Resuscitation Deployment in the Pediatric Emergency Department Setting: 2000–2023 Report For the American Heart Association's Get With the Guidelines-Resuscitation Investigators
+AU  - Dhillon GS
+AU  - Raymond TT
+AU  - Bavare AC
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000003987
+AN  - 42378432
+UR  - https://www.ovid.com/10.1097/PCC.0000000000003987
+KW  - ECMO
+KW  - 2026-W33
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Ethical Dilemmas in Pediatric Extracorporeal Cardiopulmonary Resuscitation: Qualitative Study of Interprofessional Perspectives
+AU  - Limaye M
+AU  - Peterson ME
+AU  - Derrington S
+AU  - Mueller C
+AU  - Han PK
+JO  - Pediatric Critical Care Medicine
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004006
+AN  - 42348810
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004006
+KW  - ECMO
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Multisite Cannulation for Venovenous Extracorporeal Membrane Oxygenation Support in Neonates and Infants: Extracorporeal Life Support Database Study, 2013-2023
+AU  - Lillie J
+AU  - Tibby SM
+AU  - Rycus P
+AU  - Anders M
+AU  - Annich G
+AU  - Di Nardo M
+AU  - Burnhill G
+AU  - on behalf of ELSO Member Centers
+JO  - Pediatric Critical Care Medicine
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004009
+AN  - 42383784
+UR  - https://journals.lww.com/10.1097/PCC.0000000000004009
+KW  - ECMO
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Piperacillin Population Pharmacokinetics in Children Supported With Extracorporeal Membrane Oxygenation
+AU  - Arsène A
+AU  - Oualha M
+AU  - Rambaud J
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004016
+AN  - 42560139
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004016
+KW  - ECMO
+KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Safety of Bivalirudin Use in Critically Ill Children: A Single-Center Experience
+AU  - Bashir DA
+AU  - Leija J
+AU  - Jhanji RN
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004029
+AN  - 42635486
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004029
+KW  - ECMO
+KW  - 2026-W36
 ER  - 
 
 TY  - JOUR
@@ -7775,9 +8909,77 @@ AU  - Hoste, Eric
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06014-9
+AN  - 42129914
 UR  - https://link.springer.com/article/10.1186/s13054-026-06014-9
 KW  - ECMO
 KW  - VA
+KW  - 2026-W20
+KW  - 2026-W21
+ER  - 
+
+TY  - JOUR
+TI  - The six phases of prolonged veno-venous extracorporeal membrane oxygenator support: a conceptual framework
+AU  - Hoffman KR
+AU  - Diehl A
+AU  - Nixon P
+AU  - Yong SA
+AU  - Fan E
+AU  - Hodgson C
+AU  - Burrell AJC
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06065-y
+AN  - 42063143
+UR  - https://link.springer.com/10.1186/s13054-026-06065-y
+KW  - ECMO
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - The Effects of Mechanical Ventilation During V-A ECMO Support: A Systematic Review
+AU  - Protti I
+AU  - Di Tomasso N
+AU  - Meani P
+AU  - (Meuwese CL; Erasmus Medical Center
+AU  - Rotterdam)
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06111-9
+AN  - 42249495
+UR  - https://link.springer.com/10.1186/s13054-026-06111-9
+KW  - ECMO
+KW  - 2026-W24
+KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Bilateral radial arterial pressure concordance as a real-time bedside marker of native cardiac recovery during peripheral VA-ECMO weaning
+AU  - Feng Q
+AU  - Lan C
+AU  - Zhang J
+AU  - Yan J
+AU  - Tan Z
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06159-7
+AN  - 42410631
+UR  - https://link.springer.com/10.1186/s13054-026-06159-7
+KW  - ECMO
+KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Left ventricular unloading during VA-ECMO for refractory cardiogenic shock: a target trial emulation multicenter analysis
+AU  - Dettling A
+AU  - Saura O
+AU  - Dilange L
+JO  - Crit Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06213-4
+AN  - 42661221
+UR  - https://link.springer.com/10.1186/s13054-026-06213-4
+KW  - ECMO
+KW  - 2026-W36
 ER  - 
 
 TY  - JOUR
