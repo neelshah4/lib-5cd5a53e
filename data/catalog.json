@@ -2018,7 +2018,7 @@
   "confidence": 0.996,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://jamanetwork.com/journals/jama/fullarticle/2828069?guestAccessKey=98ee44a2-6013-4444-b13b-3788022ef433&utm_source=silverchair&utm_medium=email&utm_campaign=article_alert-jama&utm_content=etoc&utm_term=030425&utm_adv=null"
  },
  {
@@ -2107,7 +2107,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": false,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/38865154/"
  },
  {
@@ -2511,7 +2511,7 @@
   "confidence": 0.974,
   "verified": true,
   "oa": false,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://jamanetwork.com/journals/jama/article-abstract/2847646"
  },
  {
@@ -3067,7 +3067,7 @@
   "confidence": 0.995,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2776304?utm_source=twitter&utm_medium=social_jamajno&utm_term=4486960900&utm_campaign=article_alert&linkId=111248779"
  },
  {
@@ -3407,7 +3407,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/36074465/"
  },
  {
@@ -3561,7 +3561,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/37389874/"
  },
  {
@@ -4129,7 +4129,7 @@
   "confidence": 0.996,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842104"
  },
  {
@@ -4475,7 +4475,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": false,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6583375/"
  },
  {
@@ -4595,7 +4595,7 @@
   "confidence": 0.994,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2778775?utm_source=twitter&utm_campaign=content-shareicons&utm_content=article_engagement&utm_medium=social&utm_term=042021#.YH79_cnZnXo.twitter"
  },
  {
@@ -5839,7 +5839,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/37014057/"
  },
  {
@@ -6399,7 +6399,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/38404046/"
  },
  {
@@ -6511,7 +6511,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": false,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/31654448/"
  },
  {
@@ -6857,7 +6857,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": false,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/33604895/"
  },
  {
@@ -8243,7 +8243,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/23160769/#:~:text=The%20ECMOnet%20score%20was%20developed,cutoff%20for%20mortality%20risk%20prediction."
  },
  {
@@ -8281,7 +8281,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/23907497/"
  },
  {
@@ -8383,7 +8383,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": false,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/26825953/"
  },
  {
@@ -24026,7 +24026,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/39992441/"
  },
  {
@@ -27643,7 +27643,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/38261027/"
  },
  {
@@ -27673,7 +27673,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7101837/"
  },
  {
@@ -28901,7 +28901,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/33620680/"
  },
  {
@@ -29431,7 +29431,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/36171518/"
  },
  {
@@ -30676,7 +30676,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": false,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/37851328/"
  },
  {
@@ -31314,7 +31314,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": false,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/33683608/"
  },
  {
@@ -32846,7 +32846,7 @@
   "confidence": 0.994,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://www.ajpmonline.org/article/S0749-3797(21)00557-2/fulltext"
  },
  {
@@ -32935,7 +32935,7 @@
   "confidence": 0.996,
   "verified": true,
   "oa": false,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0002914922009031"
  },
  {
@@ -33108,7 +33108,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": false,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/29463461/"
  },
  {
@@ -33397,7 +33397,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": false,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/34062124/"
  },
  {
@@ -33435,7 +33435,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/34242641/"
  },
  {
@@ -35992,7 +35992,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": false,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/38972348/"
  },
  {
@@ -36082,7 +36082,7 @@
   "confidence": 0.996,
   "verified": true,
   "oa": false,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://www.sciencedirect.com/science/article/pii/S0012369224051547?via%3Dihub"
  },
  {
@@ -38435,7 +38435,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": false,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/34801734/"
  },
  {
@@ -38620,7 +38620,7 @@
   "confidence": 0.997,
   "verified": true,
   "oa": false,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://www.sciencedirect.com/science/article/abs/pii/S096433972300191X?via%3Dihub"
  },
  {
@@ -38646,7 +38646,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/35168711/"
  },
  {
@@ -39509,7 +39509,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": false,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/24332991/"
  },
  {
@@ -41508,7 +41508,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/34953565/"
  },
  {
@@ -41799,7 +41799,7 @@
   "confidence": 0.997,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://www.thelancet.com/journals/lansea/article/PIIS2772-3682(23)00079-3/fulltext"
  },
  {
@@ -42070,7 +42070,7 @@
   "confidence": 1.0,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://pubmed.ncbi.nlm.nih.gov/32299748/"
  },
  {
@@ -42182,7 +42182,7 @@
   "confidence": 0.996,
   "verified": true,
   "oa": true,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://www.sciencedirect.com/science/article/pii/S1569904821000306?via%3Dihub"
  },
  {
@@ -42701,7 +42701,7 @@
   "confidence": 0.995,
   "verified": true,
   "oa": false,
-  "has_abstract": false,
+  "has_abstract": true,
   "url": "https://www.resuscitationjournal.com/article/S0300-9572(21)00347-6/fulltext"
  },
  {
