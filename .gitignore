@@ -6,3 +6,4 @@ __pycache__/
 local/
 review/residue.csv
 review/recheck_cache/
+.claude/
