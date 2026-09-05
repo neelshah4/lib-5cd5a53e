@@ -158,7 +158,8 @@ class TestWeeklyIngest(TempCatalogTestCase):
         # Borderline block is now ingested, tagged, with no non-empty impact
         # unless the block actually carried one.
         borderline = records["10.9999/fixture.borderline.1"]
-        self.assertEqual(borderline.get("tags"), ["borderline"])
+        self.assertIn("borderline", borderline.get("tags") or [])
+        self.assertIn("section-inferred", borderline.get("tags") or [])  # persisted so a later real heading can upgrade the section
         self.assertNotIn("_section_inferred", borderline,
                           "transient merge flag must never be persisted")
 
@@ -312,11 +313,53 @@ class TestRealDigestDryRun(unittest.TestCase):
             match = "MATCH" if actual == expected else "DIFF"
             print(f"{name}: actual={actual} expected={expected} status={status} [{match}]")
 
-        # A count mismatch, or even a hard parse failure on one real file,
-        # is information about a format variant this parser doesn't (yet)
-        # cover -- report it, don't force it. See the worker report for the
-        # specific files/blocks that failed to parse.
+        # The backfill consumes these exact files. A hard parse failure on any
+        # one of them is a stop-the-line defect, so it must fail the suite --
+        # the previous assertion (len(report) == 15) could never fail.
+        failures = [(n, msg) for n, a, msg, _e in report if a == "PARSE FAILURE"]
+        self.assertEqual(failures, [], f"real weekly digests failed to parse: {failures}")
         self.assertEqual(len(report), 15)
+        # Counts are reported, not asserted: EXPECTED_COUNTS is an unverified
+        # hand tally and 13 of 15 currently disagree with the parser.
+
+
+class TestRealMonthlyDigests(unittest.TestCase):
+    """The two real monthly digests the backfill consumes must parse, and every
+    '## ' heading must be either a canonical section or a declared trailer."""
+
+    PATHS = [
+        Path("/Users/neel/Downloads/Claude Sandbox/June-2026-critical-care-digest.md"),
+        Path("/Users/neel/Downloads/Claude Sandbox/July-2026-critical-care-digest.md"),
+    ]
+
+    def test_monthly_headings_all_recognized(self):
+        for path in self.PATHS:
+            self.assertTrue(path.exists(), f"missing real monthly digest: {path}")
+            text = path.read_text(encoding="utf-8")
+            ingest_monthly.parse_header(text, str(path))
+            for heading_raw, _body in ingest_monthly.split_sections(text):
+                heading = heading_raw.strip()
+                if ingest_monthly.is_trailer(heading):
+                    continue
+                sections.canonical(heading)  # raises ValueError if unknown
+
+    def test_monthly_trailers_carry_no_papers(self):
+        """Skipping a trailer must never drop a paper."""
+        for path in self.PATHS:
+            text = path.read_text(encoding="utf-8")
+            for heading_raw, body in ingest_monthly.split_sections(text):
+                if ingest_monthly.is_trailer(heading_raw.strip()):
+                    entries = list(ingest_monthly.split_entries(body))
+                    self.assertEqual(entries, [],
+                                      f"trailer {heading_raw!r} in {path.name} carries {len(entries)} entries")
+
+    def test_trailer_list_is_closed_not_a_prefix_match(self):
+        self.assertTrue(ingest_monthly.is_trailer("Link audit"))
+        self.assertTrue(ingest_monthly.is_trailer("  ACCURACY   AUDIT "))
+        # a real section whose name merely starts with a trailer word is NOT swallowed
+        self.assertFalse(ingest_monthly.is_trailer("Zotero exports and ECMO"))
+        self.assertFalse(ingest_monthly.is_trailer("Renal"))
+        self.assertFalse(ingest_monthly.is_trailer("Link audit findings"))
 
 
 if __name__ == "__main__":

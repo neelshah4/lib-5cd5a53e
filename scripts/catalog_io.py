@@ -3,7 +3,15 @@
   data/catalog.json      published (verified=True only)   -- tracked, served by Pages
   local/unverified.json  held back (verified=False)       -- gitignored
 Every script reads with load_all() and writes with save_all(); the partition is enforced here."""
-import json, pathlib
+import json, pathlib, os, tempfile
+
+def _dump(obj, path, **kw):
+    """Atomic write: temp file in the same dir, fsync, os.replace."""
+    path = pathlib.Path(path); path.parent.mkdir(parents=True, exist_ok=True)
+    fd, tmp = tempfile.mkstemp(dir=path.parent, prefix=path.name, suffix=".tmp")
+    with os.fdopen(fd, "w", encoding="utf-8") as f:
+        json.dump(obj, f, **kw); f.flush(); os.fsync(f.fileno())
+    os.replace(tmp, path)
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 PUB = ROOT / "data" / "catalog.json"
@@ -40,14 +48,14 @@ def save_all(by_doi: dict) -> tuple[int, int]:
     v = [r for r in recs if r["verified"] is True]
     u = [r for r in recs if r["verified"] is not True]
     LOC.parent.mkdir(exist_ok=True)
-    json.dump(v, open(PUB, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
-    json.dump(u, open(LOC, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
+    _dump(v, PUB, indent=1, ensure_ascii=False)
+    _dump(u, LOC, indent=1, ensure_ascii=False)
     return len(v), len(u)
 
 def load_digests() -> list:  return _load(DIGESTS) or []
-def save_digests(d: list):    json.dump(sorted(d, key=lambda x: x["date"]), open(DIGESTS, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
+def save_digests(d: list):    _dump(sorted(d, key=lambda x: x["date"]), DIGESTS, indent=1, ensure_ascii=False)
 def load_zstate() -> dict:    return json.load(open(ZSTATE)) if ZSTATE.exists() else {}
-def save_zstate(s: dict):     json.dump(s, open(ZSTATE, "w"), indent=1, sort_keys=True)
+def save_zstate(s: dict):     _dump(s, ZSTATE, indent=1, sort_keys=True)
 
 def new_record(**kw) -> dict:
     r = {k: None for k in KEYS}

@@ -280,12 +280,18 @@ def run(path: str, dry_run: bool, resolve_fn=None):
 
     n_added = 0
     n_merged = 0
+    n_resolve_failed = 0
     dois = []
     for p in papers:
         identifier = p.get("doi") or p.get("pmid")
         try:
             meta = resolve_fn(identifier)
-        except Exception:
+        except Exception as e:
+            # A resolve failure is never fatal (the digest text may already
+            # carry the DOI), but it must be visible: silently swallowing it
+            # leaves a record permanently missing pmid/year/abstract.
+            print(f"WARN: resolve failed for {identifier!r}: {e}", file=sys.stderr)
+            n_resolve_failed += 1
             meta = {}
         if not p.get("doi"):
             p["doi"] = meta.get("doi")
@@ -320,7 +326,8 @@ def run(path: str, dry_run: bool, resolve_fn=None):
         catalog_io.save_all(records)
         catalog_io.save_digests(digests)
 
-    print(f"ingest: {digest_id} +{n_added} added ~{n_merged} merged")
+    print(f"ingest: {digest_id} +{n_added} added ~{n_merged} merged"
+          + (f" !{n_resolve_failed} resolve-failed" if n_resolve_failed else ""))
     return n_added, n_merged, digest_id
 
 

@@ -18,6 +18,20 @@ HEADER_RE = re.compile(
     r"#.*?—\s*([A-Za-z]+)\s+(\d{4})\s*$", re.M
 )
 
+# Closed, exact-match allow-list of non-paper "## " trailer headings that the
+# monthly digest generator appends after the last real section. Matched on the
+# whole normalized heading (lowercased, whitespace-collapsed), never as a
+# prefix or a regex, so it cannot swallow a real section name.
+TRAILER_HEADINGS = frozenset({
+    "link audit",
+    "accuracy audit",
+    "zotero",
+})
+
+
+def is_trailer(heading: str) -> bool:
+    return re.sub(r"\s+", " ", heading.strip().lower()) in TRAILER_HEADINGS
+
 class ParseFailure(Exception):
     def __init__(self, msg, block=""):
         super().__init__(msg)
@@ -94,6 +108,8 @@ def run(path: str, dry_run: bool, dois_file: str | None, resolve_fn=None):
 
         for heading_raw, body in split_sections(text):
             heading = heading_raw.strip()
+            if is_trailer(heading):
+                continue
             try:
                 section = sections.canonical(heading)
             except ValueError as e:
@@ -118,12 +134,15 @@ def run(path: str, dry_run: bool, dois_file: str | None, resolve_fn=None):
 
     n_added = 0
     n_merged = 0
+    n_resolve_failed = 0
     dois = []
     for p in papers:
         identifier = p.get("doi") or p.get("_raw_url") or p.get("url")
         try:
             meta = resolve_fn(identifier)
-        except Exception:
+        except Exception as e:
+            print(f"WARN: resolve failed for {identifier!r}: {e}", file=sys.stderr)
+            n_resolve_failed += 1
             meta = {}
         if not p.get("doi"):
             p["doi"] = meta.get("doi")
@@ -156,7 +175,8 @@ def run(path: str, dry_run: bool, dois_file: str | None, resolve_fn=None):
         catalog_io.save_all(records)
         catalog_io.save_digests(digests)
 
-    print(f"ingest: {digest_id} +{n_added} added ~{n_merged} merged")
+    print(f"ingest: {digest_id} +{n_added} added ~{n_merged} merged"
+          + (f" !{n_resolve_failed} resolve-failed" if n_resolve_failed else ""))
     return n_added, n_merged, digest_id
 
 

@@ -360,10 +360,16 @@ def save_state(path, state):
 
 # ---------------------------------------------------------------- main push logic
 def select_records(catalog, digest_id, manual, doi):
+    # The held partition (local/unverified.json, verified is not True) must
+    # never reach the live Zotero library: this script never deletes, so a
+    # wrongly-pushed record cannot be walked back from here. --doi stays an
+    # explicit single-record operator override and is not filtered.
     if digest_id:
-        return [r for r in catalog.values() if digest_id in (r.get("digests") or [])]
+        return [r for r in catalog.values()
+                if digest_id in (r.get("digests") or []) and r.get("verified") is True]
     if manual:
-        return [r for r in catalog.values() if r.get("source") == "manual"]
+        return [r for r in catalog.values()
+                if r.get("source") == "manual" and r.get("verified") is True]
     if doi:
         d = catalog_io.norm_doi(doi)
         rec = catalog.get(d)

@@ -253,5 +253,24 @@ class ZoteroPushTests(unittest.TestCase):
         self.assertNotIn(FAKE_ITEM_KEY, out)
 
 
+    # 8. a held (verified is not True) record is never selected for push
+    def test_unverified_record_never_pushed(self):
+        held = sample_record(doi="10.1/held", digests=["2026-W01"])
+        held["verified"] = False
+        ok = sample_record(doi="10.1/ok", digests=["2026-W01"])
+        catalog = {held["doi"]: held, ok["doi"]: ok}
+        selected = zotero_push.select_records(catalog, "2026-W01", False, None)
+        self.assertEqual([r["doi"] for r in selected], ["10.1/ok"])
+
+        held_manual = sample_record(doi="10.1/heldm")
+        held_manual["source"] = "manual"
+        held_manual["verified"] = False
+        ok_manual = sample_record(doi="10.1/okm")
+        ok_manual["source"] = "manual"
+        catalog2 = {held_manual["doi"]: held_manual, ok_manual["doi"]: ok_manual}
+        selected2 = zotero_push.select_records(catalog2, None, True, None)
+        self.assertEqual([r["doi"] for r in selected2], ["10.1/okm"])
+
+
 if __name__ == "__main__":
     unittest.main()

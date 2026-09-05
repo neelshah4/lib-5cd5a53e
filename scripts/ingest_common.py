@@ -48,6 +48,9 @@ def commit_message(digest_id: str, n_added: int, n_merged: int) -> str:
     return f"ingest: {digest_id} (+{n_added}, ~{n_merged})"
 
 
+INFERRED_TAG = "section-inferred"
+
+
 def upsert(records: dict, rec: dict, digest_id: str) -> tuple[str, bool]:
     """Insert or merge `rec` into `records` (doi -> record dict), keyed by
     normalized DOI. Returns (doi, created)."""
@@ -75,6 +78,12 @@ def upsert(records: dict, rec: dict, digest_id: str) -> tuple[str, bool]:
         if new["confidence"] is None:
             new["confidence"] = 1.0
         new["_section_inferred"] = section_inferred
+        if section_inferred:
+            # Persisted marker (a tag, not a schema key) so a later run with a real
+            # "## <Section>" heading can still upgrade the section.
+            tags = list(new.get("tags") or [])
+            if INFERRED_TAG not in tags: tags.append(INFERRED_TAG)
+            new["tags"] = tags
         records[doi] = new
         return doi, True
 
@@ -98,9 +107,10 @@ def upsert(records: dict, rec: dict, digest_id: str) -> tuple[str, bool]:
         if not existing.get("section"):
             existing["section"] = rec["section"]
             existing["_section_inferred"] = section_inferred
-        elif existing.get("_section_inferred") and not section_inferred:
+        elif (existing.get("_section_inferred") or INFERRED_TAG in (existing.get("tags") or [])) and not section_inferred:
             existing["section"] = rec["section"]
             existing["_section_inferred"] = False
+            existing["tags"] = [t for t in (existing.get("tags") or []) if t != INFERRED_TAG]
 
     # fill any empty/None field from the new data, except the ones with
     # custom handling above/below (source, take, digests, verified, confidence, section)
