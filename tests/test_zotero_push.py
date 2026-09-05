@@ -183,6 +183,7 @@ class ZoteroPushTests(unittest.TestCase):
         json.dump(state, open(self.tmp, "w"))
         rules = [
             (("GET", "/collections"), FakeResponse(200, COLLECTIONS_ALL_EXIST)),
+            (("GET", "/items?"), FakeResponse(200, [])),
         ]
         args = Args(digest="2026-W01", state=str(self.tmp))
         rc, calls, out, sleep_mock = self.run_with_rules(args, catalog, rules)
@@ -270,6 +271,157 @@ class ZoteroPushTests(unittest.TestCase):
         catalog2 = {held_manual["doi"]: held_manual, ok_manual["doi"]: ok_manual}
         selected2 = zotero_push.select_records(catalog2, None, True, None)
         self.assertEqual([r["doi"] for r in selected2], ["10.1/okm"])
+
+
+class DoiIndexTests(unittest.TestCase):
+    """Directly exercises build_doi_index / search_by_doi -- the fix for the
+    q=<doi> quick-search bug (Zotero's quick search does not match the DOI
+    field at all)."""
+
+    def setUp(self):
+        self.ctx = zotero_push.ZoteroCtx("KEY", "999", "user", dry_run=False)
+
+    def _patched(self, rules):
+        calls = []
+        return mock.patch.object(zotero_push.urllib.request, "urlopen",
+                                  make_dispatcher(rules, calls)), calls
+
+    # 1. full index built across a 2-page paginated response
+    def test_full_index_two_pages(self):
+        page1 = [{"key": f"K{i}", "data": {"itemType": "journalArticle", "DOI": f"10.1/{i}"}}
+                 for i in range(100)]  # exactly 100 -> forces a second page fetch
+        page2 = [{"key": "K100", "data": {"itemType": "journalArticle", "DOI": "10.1/100"}}]
+
+        def items_get(req):
+            url = req.full_url
+            if "start=100" in url:
+                return FakeResponse(200, page2, {"Last-Modified-Version": "50"})
+            return FakeResponse(200, page1, {"Last-Modified-Version": "49"})
+
+        rules = [(("GET", "/items?"), items_get)]
+        patcher, calls = self._patched(rules)
+        with patcher, mock.patch.object(zotero_push.time, "sleep"):
+            state = {}
+            idx = zotero_push.build_doi_index(self.ctx, state)
+        self.assertEqual(len(idx), 101)
+        self.assertEqual(idx["10.1/0"], "K0")
+        self.assertEqual(idx["10.1/100"], "K100")
+        self.assertEqual(state["_index"]["version"], "50")
+        # two pages -> two requests
+        self.assertEqual(self.ctx._doi_index_requests, 2)
+
+    # 2. DOI recovered via data.DOI, a doi.org URL, and an "extra" DOI line
+    def test_doi_extraction_three_sources(self):
+        items = [
+            {"key": "A", "data": {"itemType": "journalArticle", "DOI": "10.1/direct"}},
+            {"key": "B", "data": {"itemType": "journalArticle",
+                                   "url": "https://doi.org/10.1016/from-url"}},
+            {"key": "C", "data": {"itemType": "journalArticle",
+                                   "extra": "Some note\nDOI: 10.1016/from-extra\n"}},
+            {"key": "D", "data": {"itemType": "attachment", "DOI": "10.1/should-be-skipped"}},
+        ]
+        rules = [(("GET", "/items?"), FakeResponse(200, items))]
+        patcher, calls = self._patched(rules)
+        with patcher, mock.patch.object(zotero_push.time, "sleep"):
+            idx = zotero_push.build_doi_index(self.ctx, {})
+        self.assertEqual(idx.get("10.1/direct"), "A")
+        self.assertEqual(idx.get("10.1016/from-url"), "B")
+        self.assertEqual(idx.get("10.1016/from-extra"), "C")
+        self.assertNotIn("10.1/should-be-skipped", idx)
+
+    # 3. incremental (since=) path merges into the existing cached index
+    def test_incremental_merges_into_existing_index(self):
+        state = {"_index": {"version": "10", "doi_to_key": {"10.1/old": "OLD"}}}
+        new_items = [{"key": "NEW", "data": {"itemType": "journalArticle", "DOI": "10.1/new"}}]
+        rules = [
+            (("GET", "/items?"), FakeResponse(200, new_items, {"Last-Modified-Version": "20"})),
+            (("GET", "/deleted?"), FakeResponse(200, {"items": []})),
+        ]
+        patcher, calls = self._patched(rules)
+        with patcher, mock.patch.object(zotero_push.time, "sleep"):
+            idx = zotero_push.build_doi_index(self.ctx, state)
+        self.assertEqual(idx["10.1/old"], "OLD")
+        self.assertEqual(idx["10.1/new"], "NEW")
+        self.assertEqual(state["_index"]["version"], "20")
+        since_calls = [c for c in calls if "since=10" in c[1] and "/items" in c[1]]
+        self.assertEqual(len(since_calls), 1)
+
+    # 4. a key reported deleted on Zotero is removed from the index
+    def test_deleted_key_is_removed(self):
+        state = {"_index": {"version": "10",
+                             "doi_to_key": {"10.1/gone": "DEL1", "10.1/stays": "KEEP"}}}
+        rules = [
+            (("GET", "/items?"), FakeResponse(200, [], {"Last-Modified-Version": "11"})),
+            (("GET", "/deleted?"), FakeResponse(200, {"items": ["DEL1"]})),
+        ]
+        patcher, calls = self._patched(rules)
+        with patcher, mock.patch.object(zotero_push.time, "sleep"):
+            idx = zotero_push.build_doi_index(self.ctx, state)
+        self.assertNotIn("10.1/gone", idx)
+        self.assertEqual(idx["10.1/stays"], "KEEP")
+
+    # 5. a record whose DOI IS in the index -> no POST, exactly one PATCH
+    def test_indexed_doi_no_post_one_patch(self):
+        self.ctx._doi_index = {"10.1/hit": "HITKEY"}
+        rules = [
+            (("GET", "/items/HITKEY"), FakeResponse(200, {"version": 3,
+                                                           "data": {"collections": [], "tags": []}})),
+            (("PATCH", "/items/HITKEY"), FakeResponse(204, b"")),
+        ]
+        patcher, calls = self._patched(rules)
+        with patcher:
+            key, version = self.ctx.search_by_doi("10.1/hit")
+            self.assertEqual(key, "HITKEY")
+            wrote = self.ctx.patch_collections_tags("HITKEY", ["SEC1"], "tag1")
+        self.assertTrue(wrote)
+        post_calls = [c for c in calls if c[0] == "POST"]
+        patch_calls = [c for c in calls if c[0] == "PATCH"]
+        self.assertEqual(post_calls, [])
+        self.assertEqual(len(patch_calls), 1)
+
+    # 6. a record whose DOI is NOT in the index -> caller must POST (no live lookup)
+    def test_unindexed_doi_returns_none_no_network_call(self):
+        self.ctx._doi_index = {"10.1/other": "X"}
+        patcher, calls = self._patched([])
+        with patcher:
+            key, version = self.ctx.search_by_doi("10.1/absent")
+        self.assertIsNone(key)
+        self.assertIsNone(version)
+        self.assertEqual(calls, [])  # purely an in-memory dict lookup, no request
+
+    # 7. "_index" is never treated as a pushed-record doi key
+    def test_index_key_excluded_from_real_doi_keys(self):
+        state = {"_index": {"version": "1", "doi_to_key": {}}, "10.1/real": {"key": "K"}}
+        self.assertEqual(zotero_push.real_doi_keys(state), ["10.1/real"])
+
+    def test_index_key_ignored_by_manual_state_filter(self):
+        rec = sample_record(doi="10.1/manualnew")
+        rec["source"] = "manual"
+        catalog = {rec["doi"]: rec}
+        state = {"_index": {"version": "1", "doi_to_key": {}}}
+        json.dump(state, open(pathlib.Path(zotero_push.ROOT) / "tests" / "_tmp_state2.json", "w"))
+        tmp2 = pathlib.Path(zotero_push.ROOT) / "tests" / "_tmp_state2.json"
+        self.addCleanup(lambda: tmp2.exists() and tmp2.unlink())
+        rules = [
+            (("GET", "/collections"), FakeResponse(200, COLLECTIONS_ALL_EXIST)),
+            (("GET", "/items?"), FakeResponse(200, [])),
+            (("POST", "/items"),
+             lambda req: FakeResponse(200, {"successful": {"0": {"key": "NEWKEY"}}, "failed": {}})),
+        ]
+        args = Args(manual=True, state=str(tmp2))
+        calls = []
+        with mock.patch.object(zotero_push.urllib.request, "urlopen", make_dispatcher(rules, calls)), \
+             mock.patch.object(zotero_push, "load_credentials", return_value=(FAKE_KEY, "999", "user")), \
+             mock.patch.object(zotero_push.catalog_io, "load_all", return_value=catalog), \
+             mock.patch.object(zotero_push.time, "sleep"):
+            buf = io.StringIO()
+            with mock.patch("sys.stdout", buf):
+                rc = zotero_push.run(args)
+        self.assertEqual(rc, 0)
+        post_calls = [c for c in calls if c[0] == "POST" and c[1].endswith("/items")]
+        # the "_index" blob must not have been mistaken for an already-pushed
+        # doi, which would have skipped the record entirely
+        self.assertEqual(len(post_calls), 1)
 
 
 if __name__ == "__main__":
