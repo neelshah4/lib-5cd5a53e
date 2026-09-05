@@ -66852,6 +66852,30 @@
   "keyword": "Neurocritical Care; status-epilepticus"
  },
  {
+  "id": "10.1007/s12028-023-01858-3",
+  "type": "article-journal",
+  "title": "The State of the Field of Pediatric Multimodality Neuromonitoring",
+  "author": [
+   {
+    "family": "Erklauer JC"
+   },
+   {
+    "family": "Lai YC"
+   }
+  ],
+  "container-title": "Neurocrit Care",
+  "DOI": "10.1007/s12028-023-01858-3",
+  "URL": "https://link.springer.com/10.1007/s12028-023-01858-3",
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-07"
+ },
+ {
   "id": "10.1007/s12028-023-01859-2",
   "type": "article-journal",
   "title": "A Comparison of Ketamine and Midazolam as First-Line Anesthetic Infusions for Pediatric Status Epilepticus",

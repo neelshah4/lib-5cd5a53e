@@ -290,9 +290,9 @@
  },
  {
   "id": "2026-07",
-  "kind": "monthly",
+  "kind": "manual",
   "date": "2026-07-01",
-  "title": "Monthly digest 2026-07",
+  "title": "Manual additions July 2026",
   "dois": [
    "10.1001/jama.2026.10247",
    "10.1007/s00134-026-08313-9",
@@ -311,6 +311,7 @@
    "10.1007/s00246-026-04377-y",
    "10.1007/s00246-026-04381-2",
    "10.1007/s00431-026-07291-w",
+   "10.1007/s12028-023-01858-3",
    "10.1007/s12028-026-02592-2",
    "10.1016/j.chest.2025.11.017",
    "10.1016/j.jclinane.2026.112273",
@@ -356,7 +357,7 @@
    "10.5527/wjn.v15.i2.118309"
   ],
   "counts": {
-   "Neurocritical Care": 5,
+   "Neurocritical Care": 6,
    "Respiratory/ARDS": 16,
    "Shock & Sepsis": 11,
    "ECMO": 16,
@@ -364,7 +365,7 @@
    "Cardiac CC": 4,
    "Misc": 3
   },
-  "source_file": "/Users/neel/Downloads/Claude Sandbox/July-2026-critical-care-digest.md"
+  "source_file": "add_doi.py"
  },
  {
   "id": "2026-W27",

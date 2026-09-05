@@ -33362,6 +33362,36 @@
   "url": "https://link.springer.com/article/10.1007/s12028-023-01853-8"
  },
  {
+  "doi": "10.1007/s12028-023-01858-3",
+  "pmid": "37864125",
+  "title": "The State of the Field of Pediatric Multimodality Neuromonitoring",
+  "authors": [
+   "Erklauer JC",
+   "Lai YC"
+  ],
+  "journal": "Neurocrit Care",
+  "year": 2023,
+  "pub_date": "2023-10-20",
+  "pub_types": [
+   "journal-article"
+  ],
+  "section": "Neurocritical Care",
+  "subtopic": null,
+  "tags": [],
+  "take": "",
+  "impact": null,
+  "digests": [
+   "2026-07"
+  ],
+  "first_seen": "2026-09-05",
+  "source": "manual",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://link.springer.com/10.1007/s12028-023-01858-3"
+ },
+ {
   "doi": "10.1007/s12028-023-01859-2",
   "pmid": null,
   "title": "A Comparison of Ketamine and Midazolam as First-Line Anesthetic Infusions for Pediatric Status Epilepticus",
