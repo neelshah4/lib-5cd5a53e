@@ -355,7 +355,6 @@
    "10.3390/jcm14248616",
    "10.5527/wjn.v15.i2.118309"
   ],
-  "source_file": "/Users/neel/Downloads/Claude Sandbox/July-2026-critical-care-digest.md",
   "counts": {
    "Neurocritical Care": 5,
    "Respiratory/ARDS": 16,
@@ -364,7 +363,8 @@
    "Renal": 5,
    "Cardiac CC": 4,
    "Misc": 3
-  }
+  },
+  "source_file": "/Users/neel/Downloads/Claude Sandbox/July-2026-critical-care-digest.md"
  },
  {
   "id": "2026-W27",
@@ -702,7 +702,6 @@
    "10.1136/bmjopen-2026-119613",
    "10.1186/s13054-026-06213-4"
   ],
-  "source_file": "/Users/neel/.claude/digests/pubmed-2026-08-31.md",
   "counts": {
    "Cardiac CC": 3,
    "Neurocritical Care": 1,
@@ -710,6 +709,7 @@
    "Shock & Sepsis": 7,
    "ECMO": 4,
    "Misc": 3
-  }
+  },
+  "source_file": "/Users/neel/.claude/digests/pubmed-2026-08-31.md"
  }
 ]
