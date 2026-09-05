@@ -29,6 +29,7 @@ _ALIASES = {
     "respiratory / ards": "Respiratory/ARDS",
     "respiratory / pulmonary & ards": "Respiratory/ARDS",
     "respiratory/pulmonary & ards": "Respiratory/ARDS",
+    "respiratory & ards": "Respiratory/ARDS",
     "shock & sepsis": "Shock & Sepsis",
     "shock and sepsis": "Shock & Sepsis",
     "neurocritical care": "Neurocritical Care",
@@ -45,6 +46,10 @@ def _normalize(name: str) -> str:
     s = name.strip()
     # strip leading markdown heading markers like "## "
     s = re.sub(r"^#+\s*", "", s)
+    # strip leading emoji/symbol decoration like "⚡ "
+    s = re.sub(r"^[^\w\[]+", "", s)
+    # strip a trailing "(N)" paper-count annotation, e.g. "ECMO (5)"
+    s = re.sub(r"\s*\(\d+\)\s*$", "", s)
     # strip trailing markdown dash/em-dash annotations like " — notes"
     s = re.sub(r"\s*[—–-]\s*.*$", "", s)
     s = s.strip()
