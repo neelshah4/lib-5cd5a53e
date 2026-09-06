@@ -148,12 +148,29 @@ def register_digest(digests: list, id: str, kind: str, date: str, title: str,
                      dois: list, source_file: str) -> list:
     """Idempotent: replaces any existing entry with the same id."""
     prev = next((d for d in digests if d.get("id") == id), None)
+    new_dois = set(norm_doi(d) for d in dois)
+    if prev:
+        srcs = [x for x in dict.fromkeys(prev.get("source_file", "").split("; ")) if x]
+        if kind == "manual":
+            # add_doi.py joining an existing issue must not re-label it (a July monthly
+            # issue once became kind=manual this way). Keep the issue's identity.
+            kind, date, title = prev["kind"], prev["date"], prev["title"]
+        else:
+            date = min(prev["date"], date)
+            title = prev["title"]
+        # Union, never replace: two weekly digests can share one ISO week
+        # (2026-06-01 and 2026-06-07 are both 2026-W23), and a same-file
+        # re-ingest must never shrink the issue back to one file's list.
+        new_dois |= set(prev.get("dois", []))
+        if source_file not in srcs:
+            srcs.append(source_file)
+        source_file = "; ".join(srcs)
     entry = {
         "id": id,
         "kind": kind,
         "date": date,
         "title": title,
-        "dois": sorted(set(norm_doi(d) for d in dois)),
+        "dois": sorted(new_dois),
         # preserve build.py's computed counts so a re-ingest is byte-identical
         "counts": (prev or {}).get("counts", {}),
         "source_file": source_file,
