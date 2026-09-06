@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500&display=swap">
-<link rel="stylesheet" href="styles.css?v=11">
+<link rel="stylesheet" href="styles.css?v=23">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -17,9 +17,10 @@
   <div class="topbar-inner">
     <a class="wordmark" href="#/library">Reading Library</a>
 
-    <nav class="segmented" aria-label="View">
+    <nav class="segmented" id="topnav" aria-label="View">
       <a href="#/library" data-nav="library" class="seg">Library</a>
-      <a href="#/archive" data-nav="archive" class="seg">Archive</a>
+      <a href="#/archive?kind=monthly" data-nav="archive" data-kind="monthly" class="seg">Monthly</a>
+      <a href="#/archive?kind=weekly" data-nav="archive" data-kind="weekly" class="seg">Weekly</a>
     </nav>
 
     <div class="search-wrap">
@@ -87,9 +88,30 @@
 
   <!-- ── Archive ───────────────────────────────────────────── -->
   <section id="view-archive" class="view" hidden>
+    <div class="archive-top">
+      <div id="archive-tabs" class="tabrow" role="tablist" aria-label="Issue kind">
+        <button type="button" role="tab" id="tab-monthly" class="tab" data-kind="monthly"
+                aria-controls="archive-body" aria-selected="true" tabindex="0">Monthly</button>
+        <button type="button" role="tab" id="tab-weekly" class="tab" data-kind="weekly"
+                aria-controls="archive-body" aria-selected="false" tabindex="-1">Weekly</button>
+        <button type="button" role="tab" id="tab-all" class="tab" data-kind="all"
+                aria-controls="archive-body" aria-selected="false" tabindex="-1">All</button>
+      </div>
+
+      <div class="issue-search">
+        <label class="vh" for="iq">Search inside issues</label>
+        <input id="iq" type="search" autocomplete="off" spellcheck="false"
+               placeholder="Search papers inside issues — title, journal, DOI, take">
+        <button type="button" id="iq-clear" class="btn-secondary" hidden>Clear</button>
+      </div>
+
+      <p id="archive-summary" class="archive-summary" role="status" aria-live="polite"></p>
+    </div>
+
     <div class="archive-grid">
-      <div id="archive-body" class="archive-body"></div>
-      <nav id="archive-nav" class="archive-nav" aria-label="Digest timeline"></nav>
+      <div id="archive-body" class="archive-body" role="tabpanel" tabindex="0"
+           aria-labelledby="tab-monthly"></div>
+      <nav id="archive-nav" class="archive-nav" aria-label="Year timeline"></nav>
     </div>
   </section>
 
@@ -102,6 +124,6 @@
 </footer>
 
 <script src="vendor/minisearch.min.js"></script>
-<script src="app.js?v=9"></script>
+<script src="app.js?v=11"></script>
 </body>
 </html>

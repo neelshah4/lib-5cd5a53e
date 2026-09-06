@@ -16,13 +16,18 @@
     "Misc": "sec-misc"
   };
   var CHUNK = 200;
-  var MULTI = ["section", "year", "journal", "posted", "subtopic", "source", "impact"];
+  var MULTI = ["section", "year", "journal", "wissue", "missue", "subtopic", "source", "impact"];
+  var ISSUE_DIM = { weekly: "wissue", monthly: "missue" };
+  var KINDS = ["monthly", "weekly", "all"];
 
   var el = function (id) { return document.getElementById(id); };
 
   /* ── data ────────────────────────────────────────────────── */
   var catalog = [];
   var digests = [];
+  var digestById = new Map();   // id -> digest
+  var digestOrder = [];         // digests, newest first
+  var doiIssues = new Map();    // doi -> [issue ids, newest first]
   var mini = null;              // MiniSearch index
   var miniHasAbstracts = false;
   var abstracts = {};           // doi -> text
@@ -31,14 +36,18 @@
 
   /* ── state ───────────────────────────────────────────────── */
   var S = {
-    view: "library", digest: null,
+    view: "library", digest: null, akind: "monthly", iq: "",
     q: "", oa: false, sort: "default", dir: "desc",
-    section: [], year: [], journal: [], posted: [], subtopic: [], source: [], impact: []
+    section: [], year: [], journal: [], wissue: [], missue: [], subtopic: [], source: [], impact: []
   };
   var lastFilterLabel = null;
   var journalFilterText = "";
   var facetExpanded = {};
   var expanded = {};            // row id -> true
+  var issueOpen = {};           // digest id -> true
+  var risState = {};            // digest id -> true (exists) | false (404)
+  var archiveHits = null;       // { issues: Set, dois: Set, papers: n } or null
+  var archiveRenderMs = null;
   var rendered = 0;
   var filtered = [];
 
@@ -57,11 +66,58 @@
   }
   function nfmt(n) { return n.toLocaleString("en-US"); }
   function latestDigest(r) {
-    var d = r.digests;
-    if (!d || !d.length) return null;
-    return d.slice().sort()[d.length - 1];
+    return (r._issues && r._issues[0]) || null;
   }
-  function postedMonth(id) { return id ? String(id).slice(0, 7) : null; }
+  function idKind(id) { return /-W\d{1,2}$/i.test(String(id || "")) ? "weekly" : "monthly"; }
+  function kindOf(d) {
+    if (d.kind === "weekly" || d.kind === "monthly") return d.kind;
+    return idKind(d.id);
+  }
+  function kindOfId(id) {
+    var d = digestById.get(id);
+    return d ? d._kind : idKind(id);
+  }
+  function kindLabel(k) { return k === "weekly" ? "Weekly" : "Monthly"; }
+  /* The id carries the issue period (YYYY-MM or YYYY-Www) and is the only field
+     guaranteed to be right; `date` is the source-file date and for some archived
+     monthly issues points at the day they were exported, not the month covered.
+     So order and group on the id, and show `date` only when it agrees with it. */
+  function issueYear(d) { return String(d.id || d.date || "").slice(0, 4) || "—"; }
+  function periodKey(d) {
+    var id = String(d.id || "");
+    if (idKind(id) === "weekly") return (d.date && d.date.slice(0, 4) === id.slice(0, 4)) ? d.date : id;
+    return id + "-99";                       // a month sorts after its own weeks
+  }
+  function issueWhen(d) {
+    var id = String(d.id || "");
+    if (d.date && d.date.slice(0, 7) === id.slice(0, 7)) return d.date;
+    if (d.date && d._kind === "weekly" && d.date.slice(0, 4) === id.slice(0, 4)) return d.date;
+    return id;
+  }
+
+  /* Build the digest indexes and stamp every catalogue record with the issue ids
+     that contain it. The digest file is authoritative for membership; a record's
+     own `digests` array is folded in so nothing is lost if the two drift. */
+  function indexDigests() {
+    digestById = new Map();
+    doiIssues = new Map();
+    digests.forEach(function (d) { d._kind = kindOf(d); digestById.set(d.id, d); });
+    digestOrder = digests.slice().sort(function (a, b) {
+      return cmpStr(periodKey(b), periodKey(a)) || cmpStr(b.id, a.id);
+    });
+    function add(doi, id) {
+      var arr = doiIssues.get(doi);
+      if (!arr) { arr = []; doiIssues.set(doi, arr); }
+      if (arr.indexOf(id) === -1) arr.push(id);
+    }
+    digestOrder.forEach(function (d) { (d.dois || []).forEach(function (doi) { add(doi, d.id); }); });
+    catalog.forEach(function (r) {
+      (r.digests || []).forEach(function (id) { add(r.doi, id); });
+      var ids = doiIssues.get(r.doi) || [];
+      // newest first: digestOrder already is, catalog-only ids sort by id
+      r._issues = ids.slice().sort(function (a, b) { return cmpStr(b, a); });
+    });
+  }
 
   /* ── hash routing ────────────────────────────────────────── */
   function readHash() {
@@ -75,6 +131,10 @@
     S.view = parts[0] === "archive" ? "archive" : "library";
     S.digest = S.view === "archive" && parts[1] ? decodeURIComponent(parts[1]) : null;
 
+    S.akind = qs.get("kind");
+    if (KINDS.indexOf(S.akind) === -1) S.akind = "monthly";
+    S.iq = qs.get("iq") || "";
+
     S.q = qs.get("q") || "";
     S.oa = qs.get("oa") === "1";
     S.sort = qs.get("sort") || "default";
@@ -86,7 +146,13 @@
   }
 
   function buildHash() {
-    if (S.view === "archive") return "#/archive" + (S.digest ? "/" + encodeURIComponent(S.digest) : "");
+    if (S.view === "archive") {
+      if (S.digest) return "#/archive/" + encodeURIComponent(S.digest);
+      var aq = new URLSearchParams();
+      aq.set("kind", S.akind);
+      if (S.iq) aq.set("iq", S.iq);
+      return "#/archive?" + aq.toString();
+    }
     var qs = new URLSearchParams();
     if (S.q) qs.set("q", S.q);
     MULTI.forEach(function (k) { if (S[k].length) qs.set(k, S[k].join(",")); });
@@ -112,9 +178,16 @@
     for (var i = 0; i < MULTI.length; i++) {
       var k = MULTI[i];
       if (k === skip || !S[k].length) continue;
+      if (k === "wissue" || k === "missue") {
+        var ids = r._issues || [], hit = false;
+        for (var j = 0; j < ids.length; j++) {
+          if (S[k].indexOf(ids[j]) !== -1) { hit = true; break; }
+        }
+        if (!hit) return false;
+        continue;
+      }
       var v;
       if (k === "year") v = r.year == null ? "" : String(r.year);
-      else if (k === "posted") v = postedMonth(latestDigest(r)) || "";
       else v = r[k] == null ? "" : String(r[k]);
       if (S[k].indexOf(v) === -1) return false;
     }
@@ -153,9 +226,17 @@
     for (var i = 0; i < catalog.length; i++) {
       var r = catalog[i];
       if (!passes(r, dim)) continue;
+      if (dim === "wissue" || dim === "missue") {
+        var want = dim === "wissue" ? "weekly" : "monthly";
+        var ids = r._issues || [];
+        for (var j = 0; j < ids.length; j++) {
+          if (kindOfId(ids[j]) !== want) continue;
+          map.set(ids[j], (map.get(ids[j]) || 0) + 1);
+        }
+        continue;
+      }
       var v;
       if (dim === "year") v = r.year == null ? null : String(r.year);
-      else if (dim === "posted") v = postedMonth(latestDigest(r));
       else v = r[dim] == null || r[dim] === "" ? null : String(r[dim]);
       if (v == null) continue;
       map.set(v, (map.get(v) || 0) + 1);
@@ -273,9 +354,11 @@
     }
     box.appendChild(facetBlock("Journal", "journal", jEntries, { limit: 15, search: true }));
 
-    // Posted — only when at least one record carries a digest
-    var postedMap = countFor("posted");
-    if (postedMap.size) box.appendChild(facetBlock("Posted", "posted", sortedEntries(postedMap, "desc"), { limit: 12 }));
+    // Posted splits into the two issue streams; each lists ids newest first.
+    var wMap = countFor("wissue");
+    if (wMap.size) box.appendChild(facetBlock("Weekly issue", "wissue", sortedEntries(wMap, "desc"), { limit: 12 }));
+    var mMap = countFor("missue");
+    if (mMap.size) box.appendChild(facetBlock("Monthly issue", "missue", sortedEntries(mMap, "desc"), { limit: 12 }));
 
     // Subtopic — scoped to selected section(s)
     var subMap = countFor("subtopic");
@@ -346,7 +429,8 @@
     if (S.q) chip("Search: " + S.q, function () { S.q = ""; el("q").value = ""; searchHits = null; resetScroll(); pushState(); });
     MULTI.forEach(function (k) {
       S[k].slice().forEach(function (v) {
-        chip(decode(v), function () { toggleFacet(k, v); });
+        var pre = k === "wissue" ? "Weekly " : k === "missue" ? "Monthly " : "";
+        chip(pre + decode(v), function () { toggleFacet(k, v); });
       });
     });
     if (S.oa) chip("Open access", function () { S.oa = false; resetScroll(); pushState(); });
@@ -366,8 +450,20 @@
   }
 
   /* ── rows ────────────────────────────────────────────────── */
+  function issueBadges(r) {
+    var ids = r._issues || [];
+    if (!ids.length) return "";
+    return ids.map(function (id) {
+      var k = kindOfId(id);
+      return '<a class="ibadge ibadge-' + k + '" href="#/archive/' + esc(encodeURIComponent(id)) +
+        '" aria-label="' + kindLabel(k) + ' issue ' + esc(id) + '">' +
+        '<span class="ibadge-k" aria-hidden="true">' + (k === "weekly" ? "W" : "M") + '</span>' +
+        '<span class="ibadge-id">' + esc(id) + '</span></a>';
+    }).join("");
+  }
+
   function rowHTML(r) {
-    var did = latestDigest(r);
+    var badges = issueBadges(r);
     var title = decode(r.title) || "(untitled)";
     var href = "https://doi.org/" + encodeURI(r.doi);
     var cls = SECTION_CLASS[r.section] || "sec-misc";
@@ -382,13 +478,14 @@
 
     var meta = '<span class="pill ' + cls + '">' + esc(r.section) + "</span>" +
       '<span class="row-meta-text">' + esc(decode(r.journal) || "—") +
-      (r.year == null ? "" : " · " + r.year) + "</span>";
+      (r.year == null ? "" : " · " + r.year) + "</span>" +
+      (badges ? '<span class="row-meta-badges">' + badges + "</span>" : "");
     return '<td class="col-title"><a href="' + esc(href) + '" target="_blank" rel="noopener">' + esc(title) + "</a>" +
       '<span class="row-meta">' + meta + links + "</span></td>" +
       '<td class="col-journal">' + esc(decode(r.journal) || "—") + "</td>" +
       '<td class="col-year">' + (r.year == null ? "—" : r.year) + "</td>" +
       '<td class="col-section"><span class="pill ' + cls + '">' + esc(r.section) + "</span></td>" +
-      '<td class="col-posted">' + (did ? '<a href="#/archive/' + esc(did) + '">' + esc(did) + "</a>" : "—") + "</td>" +
+      '<td class="col-posted">' + (badges || "—") + "</td>" +
       '<td class="col-links">' + links + "</td>";
   }
 
@@ -495,7 +592,7 @@
     pair("DOI", r.doi);
     pair("Subtopic", r.subtopic);
     pair("Tags", (r.tags || []).join(", "));
-    pair("Digests", (r.digests || []).join(", "));
+    pair("Digests", (r._issues || []).join(", "));
     pair("First seen", r.first_seen);
     pair("Source", r.source);
 
@@ -635,132 +732,362 @@
   }
 
   /* ── archive ─────────────────────────────────────────────── */
+  /* Cards render collapsed: no paper-level DOM is built until a card is
+     expanded, so the view stays cheap with ~80 issues and ~4k papers. */
+
+  function byDoi() {
+    if (!byDoi._m) {
+      var m = new Map();
+      catalog.forEach(function (r) { m.set(r.doi, r); });
+      byDoi._m = m;
+    }
+    return byDoi._m;
+  }
+
+  function issuesForKind(kind) {
+    return digestOrder.filter(function (d) { return kind === "all" || d._kind === kind; });
+  }
+
+  function issueTotal(d) {
+    return (d.dois || []).length ||
+      Object.keys(d.counts || {}).reduce(function (n, k) { return n + d.counts[k]; }, 0);
+  }
+
+  function runArchiveSearch() {
+    if (!S.iq) { archiveHits = null; return; }
+    if (!mini) buildIndex(abstractsState === "ready");
+    var res = mini.search(S.iq);
+    var issues = new Set(), dois = new Set(), papers = 0;
+    for (var i = 0; i < res.length; i++) {
+      var r = catalog[res[i].id];
+      if (!r) continue;
+      var ids = r._issues || [], counted = false;
+      for (var j = 0; j < ids.length; j++) {
+        if (S.akind !== "all" && kindOfId(ids[j]) !== S.akind) continue;
+        if (!digestById.has(ids[j])) continue;
+        issues.add(ids[j]); counted = true;
+      }
+      if (counted) { dois.add(r.doi); papers++; }
+    }
+    archiveHits = { issues: issues, dois: dois, papers: papers };
+  }
+
+  /* Lazy HEAD on expand: an export that was never built is hidden rather than
+     offered as a link that 404s. */
+  function attachRis(slot, id) {
+    function show() {
+      var dl = document.createElement("a");
+      dl.className = "ris-link";
+      dl.href = "exports/digests/" + encodeURIComponent(id) + ".ris";
+      dl.textContent = "Download RIS";
+      dl.setAttribute("aria-label", "Download RIS for issue " + id);
+      slot.textContent = "";
+      slot.appendChild(dl);
+    }
+    if (risState[id] === true) { show(); return; }
+    if (risState[id] === false) return;
+    fetch("exports/digests/" + encodeURIComponent(id) + ".ris", { method: "HEAD" })
+      .then(function (res) {
+        risState[id] = !!res.ok;
+        if (res.ok) show();
+      })
+      .catch(function () { risState[id] = false; });
+  }
+
+  function paperLine(r, hit) {
+    var li = document.createElement("li");
+    if (hit) li.className = "hit";
+    var link = document.createElement("a");
+    link.href = "https://doi.org/" + encodeURI(r.doi);
+    link.target = "_blank"; link.rel = "noopener";
+    link.textContent = decode(r.title) || r.doi;
+    li.appendChild(link);
+    var meta = decode(r.journal || "");
+    if (r.year) meta += (meta ? " " : "") + r.year;
+    if (meta) li.appendChild(document.createTextNode(" — " + meta));
+    var take = (r.take || "").trim();
+    if (take) {
+      var tk = document.createElement("span");
+      tk.className = "take";
+      tk.textContent = decode(take);
+      li.appendChild(tk);
+    }
+    return li;
+  }
+
+  function fillIssueBody(box, d) {
+    box.textContent = "";
+    var map = byDoi();
+    var papers = (d.dois || []).map(function (doi) { return map.get(doi); }).filter(Boolean);
+    var missing = (d.dois || []).length - papers.length;
+
+    SECTIONS.forEach(function (sname) {
+      var inSec = papers.filter(function (r) { return r.section === sname; });
+      if (!inSec.length) return;
+      var h = document.createElement("h4");
+      h.className = "issue-sec";
+      h.textContent = sname + " · " + inSec.length;
+      box.appendChild(h);
+      var ol = document.createElement("ol");
+      inSec.forEach(function (r) {
+        ol.appendChild(paperLine(r, !!(archiveHits && archiveHits.dois.has(r.doi))));
+      });
+      box.appendChild(ol);
+    });
+
+    if (!papers.length) {
+      var p = document.createElement("p");
+      p.className = "issue-note";
+      p.textContent = "None of this issue's papers are in the catalogue yet.";
+      box.appendChild(p);
+    } else if (missing > 0) {
+      var m = document.createElement("p");
+      m.className = "issue-note";
+      m.textContent = missing + (missing === 1 ? " paper is" : " papers are") + " not in the catalogue yet.";
+      box.appendChild(m);
+    }
+  }
+
+  function openIssue(art, on) {
+    var id = art.dataset.id;
+    var btn = art.querySelector(".issue-toggle");
+    var box = art.querySelector(".issue-body");
+    var slot = art.querySelector(".ris-slot");
+    btn.setAttribute("aria-expanded", on ? "true" : "false");
+    box.hidden = !on;
+    if (on) {
+      issueOpen[id] = true;
+      if (!box.dataset.filled) { fillIssueBody(box, digestById.get(id)); box.dataset.filled = "1"; }
+      if (slot) attachRis(slot, id);
+    } else {
+      delete issueOpen[id];
+    }
+  }
+
+  function issueCard(d) {
+    var art = document.createElement("article");
+    art.className = "issue";
+    art.id = "digest-" + d.id;
+    art.dataset.id = d.id;
+
+    var h3 = document.createElement("h3");
+    h3.className = "issue-h";
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "issue-toggle";
+    btn.setAttribute("aria-expanded", "false");
+    btn.setAttribute("aria-controls", "issue-body-" + d.id);
+
+    var chev = document.createElement("span");
+    chev.className = "chev"; chev.setAttribute("aria-hidden", "true");
+    var name = document.createElement("span");
+    name.className = "issue-name";
+    name.textContent = d.title || d.id;
+    var badge = document.createElement("span");
+    badge.className = "badge badge-" + d._kind;
+    badge.textContent = kindLabel(d._kind);
+    var date = document.createElement("span");
+    date.className = "issue-date";
+    date.textContent = issueWhen(d);
+    var total = document.createElement("span");
+    total.className = "issue-total";
+    var n = issueTotal(d);
+    total.textContent = nfmt(n) + (n === 1 ? " paper" : " papers");
+
+    btn.appendChild(chev); btn.appendChild(name);
+    btn.appendChild(badge); btn.appendChild(date); btn.appendChild(total);
+    btn.addEventListener("click", function () {
+      openIssue(art, btn.getAttribute("aria-expanded") !== "true");
+    });
+    h3.appendChild(btn);
+    art.appendChild(h3);
+
+    var sub = document.createElement("p");
+    sub.className = "counts";
+    var parts = SECTIONS.filter(function (x) { return (d.counts || {})[x]; })
+      .map(function (x) { return x + " " + d.counts[x]; });
+    sub.textContent = parts.join("  ·  ") || "Sections not recorded";
+    art.appendChild(sub);
+
+    var tools = document.createElement("p");
+    tools.className = "issue-tools";
+    var perma = document.createElement("a");
+    perma.className = "issue-perma";
+    perma.href = "#/archive/" + encodeURIComponent(d.id);
+    perma.textContent = "Permalink";
+    perma.setAttribute("aria-label", "Permalink to " + (d.title || d.id));
+    tools.appendChild(perma);
+    var slot = document.createElement("span");
+    slot.className = "ris-slot";
+    tools.appendChild(slot);
+    art.appendChild(tools);
+
+    var box = document.createElement("div");
+    box.className = "issue-body";
+    box.id = "issue-body-" + d.id;
+    box.hidden = true;
+    art.appendChild(box);
+
+    return art;
+  }
+
+  function scrollToEl(node) {
+    if (!node) return;
+    var head = parseInt(getComputedStyle(document.documentElement)
+      .getPropertyValue("--topbar-h"), 10) || 96;
+    var y = node.getBoundingClientRect().top + window.scrollY - head - 16;
+    var soft = !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    window.scrollTo({ top: Math.max(0, y), behavior: soft ? "smooth" : "auto" });
+  }
+
+  function renderTabs() {
+    var wCount = issuesForKind("weekly").length;
+    var mCount = issuesForKind("monthly").length;
+    var counts = { monthly: mCount, weekly: wCount, all: mCount + wCount };
+    document.querySelectorAll("#archive-tabs .tab").forEach(function (t) {
+      var k = t.dataset.kind;
+      var on = k === S.akind;
+      t.setAttribute("aria-selected", on ? "true" : "false");
+      t.tabIndex = on ? 0 : -1;
+      t.textContent = (k === "all" ? "All" : kindLabel(k)) + " · " + nfmt(counts[k]);
+    });
+    var sel = document.querySelector('#archive-tabs .tab[aria-selected="true"]');
+    if (sel) el("archive-body").setAttribute("aria-labelledby", sel.id);
+  }
+
   function renderArchive() {
+    var t0 = (window.performance && performance.now) ? performance.now() : 0;
     var body = el("archive-body");
     var nav = el("archive-nav");
     body.textContent = "";
     nav.textContent = "";
 
+    // A permalink pins the tab to the issue's own stream.
+    if (S.digest && digestById.has(S.digest)) S.akind = kindOfId(S.digest);
+    renderTabs();
+
+    var iq = el("iq");
+    if (iq.value !== S.iq) iq.value = S.iq;
+    el("iq-clear").hidden = !S.iq;
+
     if (!digests.length) {
       var box = document.createElement("div");
       box.className = "archive-empty";
       var h = document.createElement("h2");
-      h.textContent = "No digests yet";
+      h.textContent = "No issues yet";
       var p = document.createElement("p");
-      p.textContent = "The first issue will appear here after the next weekly run; until then the whole catalogue is browsable in the Library.";
+      p.textContent = "The first issue will appear here after the next run; until then the whole catalogue is browsable in the Library.";
       box.appendChild(h); box.appendChild(p);
       body.appendChild(box);
+      el("archive-summary").textContent = "";
+      archiveRenderMs = ((window.performance && performance.now) ? performance.now() : 0) - t0;
       return;
     }
 
-    var list = digests.slice().sort(function (a, b) { return cmpStr(b.date || "", a.date || ""); });
-    var shown = S.digest ? list.filter(function (d) { return d.id === S.digest; }) : list;
+    runArchiveSearch();
 
-    if (S.digest && !shown.length) {
+    var list = issuesForKind(S.akind);
+    var kindTotal = list.length;
+    if (archiveHits) list = list.filter(function (d) { return archiveHits.issues.has(d.id); });
+
+    // Summary line
+    var sum = el("archive-summary");
+    if (archiveHits) {
+      sum.textContent = nfmt(list.length) + (list.length === 1 ? " issue · " : " issues · ") +
+        nfmt(archiveHits.papers) + (archiveHits.papers === 1 ? " paper matches" : " papers match");
+    } else {
+      var papersHere = list.reduce(function (n, d) { return n + issueTotal(d); }, 0);
+      sum.textContent = nfmt(kindTotal) + (kindTotal === 1 ? " issue · " : " issues · ") +
+        nfmt(papersHere) + " papers";
+    }
+
+    if (S.digest && !digestById.has(S.digest)) {
       var miss = document.createElement("p");
       miss.className = "empty";
-      miss.textContent = "No digest with id “" + S.digest + "”.";
+      miss.textContent = "No issue with id “" + S.digest + "”.";
       body.appendChild(miss);
+      archiveRenderMs = ((window.performance && performance.now) ? performance.now() : 0) - t0;
+      return;
     }
 
-    var byDoi = new Map();
-    catalog.forEach(function (r) { byDoi.set(r.doi, r); });
+    if (!list.length) {
+      var e = document.createElement("p");
+      e.className = "empty";
+      e.textContent = archiveHits
+        ? "No issues match “" + S.iq + "”."
+        : (S.akind === "weekly"
+          ? "No weekly issues are archived yet."
+          : S.akind === "monthly"
+            ? "No monthly issues are archived yet."
+            : "No issues are archived yet.");
+      body.appendChild(e);
+      archiveRenderMs = ((window.performance && performance.now) ? performance.now() : 0) - t0;
+      return;
+    }
 
-    shown.forEach(function (d) {
-      var sec = document.createElement("article");
-      sec.className = "issue";
-      sec.id = "digest-" + d.id;
-
-      var head = document.createElement("div");
-      head.className = "issue-head";
-      var h2 = document.createElement("h2");
-      var a = document.createElement("a");
-      a.href = "#/archive/" + encodeURIComponent(d.id);
-      a.textContent = d.title || d.id;
-      h2.appendChild(a);
-      var badge = document.createElement("span");
-      badge.className = "badge";
-      badge.textContent = d.kind || "digest";
-      var date = document.createElement("span");
-      date.className = "date";
-      date.textContent = d.date || "";
-      head.appendChild(h2); head.appendChild(badge); head.appendChild(date);
-      sec.appendChild(head);
-
-      var counts = document.createElement("p");
-      counts.className = "counts";
-      counts.textContent = SECTIONS.filter(function (s) { return (d.counts || {})[s]; })
-        .map(function (s) { return s + " " + d.counts[s]; }).join("  ·  ") || "—";
-      sec.appendChild(counts);
-
-      if (d.source_file) {
-        var dl = document.createElement("a");
-        dl.href = "exports/digests/" + encodeURIComponent(d.id) + ".ris";
-        dl.textContent = "Download RIS";
-        sec.appendChild(dl);
-      }
-
-      var papers = (d.dois || []).map(function (doi) { return byDoi.get(doi); }).filter(Boolean);
-      SECTIONS.forEach(function (s) {
-        var inSec = papers.filter(function (r) { return r.section === s; });
-        if (!inSec.length) return;
-        var h3 = document.createElement("h3");
-        h3.textContent = s;
-        sec.appendChild(h3);
-        var ol = document.createElement("ol");
-        inSec.forEach(function (r) {
-          var li = document.createElement("li");
-          var link = document.createElement("a");
-          link.href = "https://doi.org/" + r.doi;
-          link.target = "_blank"; link.rel = "noopener";
-          link.textContent = decode(r.title);
-          li.appendChild(link);
-          li.appendChild(document.createTextNode(" — " + decode(r.journal || "") + (r.year ? " " + r.year : "")));
-          if ((r.take || "").trim()) {
-            var tk = document.createElement("span");
-            tk.className = "take";
-            tk.textContent = decode(r.take);
-            li.appendChild(tk);
-          }
-          ol.appendChild(li);
-        });
-        sec.appendChild(ol);
-      });
-
-      body.appendChild(sec);
-    });
-
-    var navH = document.createElement("h3");
-    navH.textContent = "Timeline";
-    nav.appendChild(navH);
-    var seenYear = null;
+    var frag = document.createDocumentFragment();
+    var years = [];
+    var seen = null;
     list.forEach(function (d) {
-      var y = (d.date || "").slice(0, 4);
-      if (y !== seenYear) {
-        seenYear = y;
-        var yh = document.createElement("div");
-        yh.className = "yr";
+      var y = issueYear(d);
+      if (y !== seen) {
+        seen = y;
+        years.push({ year: y, n: 0 });
+        var yh = document.createElement("h2");
+        yh.className = "yr-head";
+        yh.id = "yr-" + y;
         yh.textContent = y;
-        nav.appendChild(yh);
+        frag.appendChild(yh);
       }
-      var link = document.createElement("a");
-      link.href = "#/archive/" + encodeURIComponent(d.id);
-      link.textContent = (d.date || d.id) + " · " + (d.kind || "");
-      nav.appendChild(link);
+      years[years.length - 1].n++;
+      frag.appendChild(issueCard(d));
+    });
+    body.appendChild(frag);
+
+    // Year timeline
+    var navH = document.createElement("h3");
+    navH.textContent = "Years";
+    nav.appendChild(navH);
+    var strip = document.createElement("div");
+    strip.className = "yr-strip";
+    years.forEach(function (y) {
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "yr-chip";
+      b.setAttribute("aria-label", "Jump to " + y.year + ", " + y.n + (y.n === 1 ? " issue" : " issues"));
+      var lab = document.createElement("span"); lab.textContent = y.year;
+      var n = document.createElement("span"); n.className = "yr-n"; n.textContent = y.n;
+      b.appendChild(lab); b.appendChild(n);
+      b.addEventListener("click", function () { scrollToEl(document.getElementById("yr-" + y.year)); });
+      strip.appendChild(b);
+    });
+    nav.appendChild(strip);
+
+    // Re-open whatever was open, plus the permalinked issue.
+    if (S.digest) issueOpen[S.digest] = true;
+    Object.keys(issueOpen).forEach(function (id) {
+      var art = body.querySelector('.issue[data-id="' + (window.CSS && CSS.escape ? CSS.escape(id) : id) + '"]');
+      if (art) openIssue(art, true);
     });
     if (S.digest) {
-      var all = document.createElement("a");
-      all.href = "#/archive";
-      all.textContent = "← All issues";
-      nav.insertBefore(all, nav.firstChild.nextSibling);
+      var target = document.getElementById("digest-" + S.digest);
+      if (target) { target.classList.add("is-target"); setTimeout(function () { scrollToEl(target); }, 0); }
     }
+
+    archiveRenderMs = ((window.performance && performance.now) ? performance.now() : 0) - t0;
+    window.__archiveRenderMs = archiveRenderMs;
   }
 
   /* ── render ──────────────────────────────────────────────── */
   function render() {
-    document.querySelectorAll(".seg").forEach(function (s) {
-      if (s.dataset.nav === S.view) s.setAttribute("aria-current", "page");
-      else s.removeAttribute("aria-current");
+    var navKind = S.view === "archive"
+      ? (S.digest && digestById.has(S.digest) ? kindOfId(S.digest) : S.akind)
+      : null;
+    document.querySelectorAll(".seg").forEach(function (seg) {
+      var on = seg.dataset.nav === S.view &&
+        (S.view !== "archive" || navKind === "all" || seg.dataset.kind === navKind);
+      if (on) seg.setAttribute("aria-current", "page");
+      else seg.removeAttribute("aria-current");
     });
 
     el("view-library").hidden = S.view !== "library";
@@ -768,7 +1095,10 @@
 
     if (S.view === "archive") {
       renderArchive();
-      el("count").textContent = digests.length ? nfmt(digests.length) + " issues" : "No issues yet";
+      window.__archiveRenderMs = archiveRenderMs;
+      el("count").textContent = digests.length
+        ? nfmt(digests.length) + (digests.length === 1 ? " issue" : " issues") + " archived"
+        : "No issues yet";
       return;
     }
 
@@ -791,6 +1121,48 @@
       var q = el("q");
       if (q.value !== S.q) q.value = S.q;
       render();
+    });
+
+    var tabs = Array.prototype.slice.call(document.querySelectorAll("#archive-tabs .tab"));
+    tabs.forEach(function (t, i) {
+      t.addEventListener("click", function () {
+        S.akind = t.dataset.kind;
+        S.digest = null;
+        resetScroll();
+        pushState();
+        var again = document.getElementById(t.id);
+        if (again) again.focus();
+      });
+      t.addEventListener("keydown", function (e) {
+        var d = e.key === "ArrowRight" || e.key === "ArrowDown" ? 1
+          : e.key === "ArrowLeft" || e.key === "ArrowUp" ? -1
+            : e.key === "Home" ? -999 : e.key === "End" ? 999 : 0;
+        if (!d) return;
+        e.preventDefault();
+        var next = d === -999 ? 0 : d === 999 ? tabs.length - 1
+          : (i + d + tabs.length) % tabs.length;
+        tabs[next].focus();
+        tabs[next].click();
+      });
+    });
+
+    var iqTimer = null;
+    el("iq").addEventListener("input", function (e) {
+      var v = e.target.value;
+      clearTimeout(iqTimer);
+      iqTimer = setTimeout(function () {
+        S.iq = v.trim();
+        S.digest = null;
+        pushState();
+        var again = el("iq");
+        if (again && document.activeElement !== again) again.focus();
+      }, 140);
+    });
+    el("iq").addEventListener("keydown", function (e) {
+      if (e.key === "Escape") { e.target.value = ""; S.iq = ""; pushState(); }
+    });
+    el("iq-clear").addEventListener("click", function () {
+      el("iq").value = ""; S.iq = ""; S.digest = null; pushState(); el("iq").focus();
     });
 
     el("q").addEventListener("input", function (e) { onSearchInput(e.target.value); });
@@ -915,9 +1287,10 @@
       catalog = out[0];
       catalog.forEach(function (r, i) { r._i = i; });
       digests = Array.isArray(out[1]) ? out[1] : [];
+      indexDigests();
 
       // The Posted column and facet only exist once something has been posted.
-      if (!catalog.some(function (r) { return r.digests && r.digests.length; })) {
+      if (!catalog.some(function (r) { return r._issues && r._issues.length; })) {
         document.getElementById("table").classList.add("no-digests");
       }
 
