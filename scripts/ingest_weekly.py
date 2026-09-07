@@ -22,6 +22,11 @@ TRAILER_PATTERNS = [
     re.compile(r"^self-appraisal"),
 ]
 
+# Evidence that a section body carries real paper content. Used by the
+# drift guard in parse_digest() to tell "legitimately empty section"
+# ("Nothing this week") apart from "papers present but unparseable".
+HAS_PAPER_CONTENT_RE = re.compile(r"doi\.org/|PMID:", re.I)
+
 BORDERLINE_RE = re.compile(r"^borderline")
 PRACTICE_CHANGING_RE = re.compile(r"^practice-changing this week")
 
@@ -189,6 +194,43 @@ def split_papers(body: str):
         yield head, "### " + head + "\n" + rest
 
 
+def split_bullet_papers(body: str):
+    """Yields (title, line) for every bullet/paragraph paper entry in body.
+
+    Borderline and Practice-changing sections are rendered as one-line entries
+    by the pubmed-watcher spec, not as '### ' blocks, and three shapes appear
+    across the real archive:
+
+        - [borderline] **Title** — *J, Y, PT.* [PMID: N](..) · [DOI](..)
+        **[borderline]** [Title](url) — *J*, Y, ... https://doi.org/..
+        - **[⚡ practice-changing] Title** — *J, Y, PT.* ...
+
+    So key off "the line carries a DOI or PMID" rather than off any one
+    marker. Historically these sections had no reader at all, which silently
+    dropped every borderline paper from the catalog.
+    """
+    for line in body.split("\n"):
+        line = line.strip()
+        if not HAS_PAPER_CONTENT_RE.search(line):
+            continue
+        if not (line.startswith("- ") or line.startswith("**[")):
+            continue
+        title = None
+        m = re.search(r"\*\*(.+?)\*\*", line)
+        if m:
+            cand = re.sub(r"^\[[^\]]*\]\s*", "", m.group(1)).strip()
+            # A bare marker like "**[borderline]**" leaves nothing behind.
+            if cand:
+                title = cand
+        if not title:
+            m = re.search(r"\[([^\]]{15,})\]\(", line)  # first substantive md link
+            if m:
+                title = m.group(1).strip()
+        if not title:
+            continue
+        yield title, line
+
+
 def _build_paper(head, blk, section, section_inferred, tags, path):
     paper_title, doi_from_link = parse_heading_title(head)
     doi = doi_from_link or extract_doi(blk)
@@ -254,7 +296,14 @@ def parse_digest(text: str, path: str):
                 raise ParseFailure(f"{path}: unrecognized section heading {heading_raw!r}: {e}",
                                     heading_raw)
 
-        for head, blk in split_papers(body):
+        n_before = len(papers)
+        # Borderline / Practice-changing are bullet-rendered by spec; the seven
+        # real sections use '### ' blocks. Fall back rather than choosing up
+        # front, so a section rendered either way still parses.
+        blocks = list(split_papers(body))
+        if not blocks and (borderline or practice_changing):
+            blocks = list(split_bullet_papers(body))
+        for head, blk in blocks:
             if borderline or practice_changing:
                 # need title/journal before we can infer a section
                 paper_title, _ = parse_heading_title(head)
@@ -265,6 +314,28 @@ def parse_digest(text: str, path: str):
             else:
                 rec = _build_paper(head, blk, section, False, None, path)
             papers.append(rec)
+
+        # Drift guard. A section that carries paper-like content (a DOI or a
+        # PMID) but yields no '### ' block means the generator rendered real
+        # papers in a shape this parser cannot see. Ingesting that silently
+        # would report success while importing nothing, which is strictly
+        # worse than failing -- so fail loudly and name the section.
+        if len(papers) == n_before and HAS_PAPER_CONTENT_RE.search(body):
+            raise ParseFailure(
+                f"{path}: section {heading_raw!r} contains paper content "
+                f"(DOI/PMID) but no parseable '### ' paper block -- the digest "
+                f"layout has drifted from the canonical format",
+                body.strip()[:600],
+            )
+
+    # A digest that parses to zero papers is never legitimate.
+    if not papers:
+        raise ParseFailure(
+            f"{path}: parsed 0 papers -- digest layout has drifted from the "
+            f"canonical format (expected '## <Section>' blocks each containing "
+            f"'### N. [Title](doi-url)' paper blocks)",
+            text[:600],
+        )
     return digest_id, date, title, papers
 
 

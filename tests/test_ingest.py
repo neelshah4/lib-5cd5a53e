@@ -207,6 +207,46 @@ class TestWeeklyIngest(TempCatalogTestCase):
         self.assertGreaterEqual(n_added, 4)
 
 
+class TestDigestFormatDrift(TempCatalogTestCase):
+    """Regression lock for the 2026-09-07 outage: the generator rendered papers
+    as summary bullets under '## <Section>' and parked the real blocks under a
+    non-canonical '## Full Archive' heading. Content was valid; shape was not.
+    A permissive parser would have ingested ZERO papers and exited 0."""
+
+    def test_drifted_layout_raises_and_writes_nothing(self):
+        before = file_hashes(Path(self.tmp))
+        with self.assertRaises(SystemExit) as cm:
+            ingest_weekly.main([str(FIXTURES / "pubmed-2099-01-11-DRIFTED.md")])
+        self.assertNotEqual(cm.exception.code, 0)
+        self.assertEqual(file_hashes(Path(self.tmp)), before,
+                         "a drifted digest must not mutate the catalog")
+
+    def test_drift_guard_names_the_offending_section(self):
+        text = open(FIXTURES / "pubmed-2099-01-11-DRIFTED.md", encoding="utf-8").read()
+        with self.assertRaises(ingest_weekly.ParseFailure) as cm:
+            ingest_weekly.parse_digest(text, "drifted-fixture")
+        msg = str(cm.exception)
+        self.assertIn("ECMO", msg)
+        self.assertIn("drifted", msg.lower())
+
+    def test_legitimately_empty_section_is_not_flagged_as_drift(self):
+        """Negative control: 'Nothing this week' carries no DOI/PMID, so the
+        guard must stay silent -- otherwise every quiet week becomes an outage."""
+        text = (
+            "# Critical-care literature digest — week of 2099-02-01\n\n"
+            "## ECMO\n\n"
+            "### 1. [Fixture paper](https://doi.org/10.9999/fixture.drift.2)\n"
+            "**Fixture Journal, 2099, RCT** — Fixture A, et al.\n\n"
+            "A take paragraph.\n\n"
+            "**Practice impact:** Fixture.\n"
+            "PMID: [99999002](https://pubmed.ncbi.nlm.nih.gov/99999002/)\n"
+            "Tag: [ ]\n\n"
+            "## Renal\n\nNothing this week.\n"
+        )
+        _id, _date, _title, papers = ingest_weekly.parse_digest(text, "empty-section-fixture")
+        self.assertEqual(len(papers), 1)
+
+
 class TestMonthlyIngest(TempCatalogTestCase):
     def test_monthly_new_plus_merge(self):
         # Seed the shared DOI via the weekly ingest first.
@@ -293,14 +333,21 @@ class TestRealDigestDryRun(unittest.TestCase):
     offline (resolve stubbed to {}). Does NOT touch the temp/real catalog --
     dry-run performs no writes."""
 
-    EXPECTED_COUNTS = [8, 22, 28, 28, 28, 26, 17, 27, 12, 28, 29, 43, 21, 28, 21]
+    # No hardcoded file count: a new digest lands every week, so asserting an
+    # exact total made this test fail by design every Sunday. What actually
+    # matters is that EVERY archived digest parses and yields papers.
+    MIN_EXPECTED_FILES = 15
 
     def test_all_real_digests_parse_and_report_counts(self):
         files = sorted(glob.glob(str(REAL_DIGESTS_DIR / "pubmed-*.md")))
-        self.assertEqual(len(files), 15, f"expected 15 real digest files, found {len(files)}: {files}")
+        self.assertGreaterEqual(
+            len(files), self.MIN_EXPECTED_FILES,
+            f"expected at least {self.MIN_EXPECTED_FILES} real digest files, "
+            f"found {len(files)}: {files}")
 
         report = []
-        for path, expected in zip(files, self.EXPECTED_COUNTS):
+        for path in files:
+            expected = None
             text = open(path, encoding="utf-8").read()
             try:
                 digest_id, date, title, papers = ingest_weekly.parse_digest(text, path)
@@ -320,9 +367,12 @@ class TestRealDigestDryRun(unittest.TestCase):
         # the previous assertion (len(report) == 15) could never fail.
         failures = [(n, msg) for n, a, msg, _e in report if a == "PARSE FAILURE"]
         self.assertEqual(failures, [], f"real weekly digests failed to parse: {failures}")
-        self.assertEqual(len(report), 15)
-        # Counts are reported, not asserted: EXPECTED_COUNTS is an unverified
-        # hand tally and 13 of 15 currently disagree with the parser.
+        self.assertEqual(len(report), len(files))
+        # Every archived digest must yield at least one paper. A zero-yield
+        # parse is the silent-drift failure mode the guard in parse_digest()
+        # exists to catch, so assert it here against the real corpus too.
+        empty = [n for n, a, msg, _e in report if msg == "ok" and a == 0]
+        self.assertEqual(empty, [], f"real weekly digests parsed to 0 papers: {empty}")
 
 
 class TestRealMonthlyDigests(unittest.TestCase):
