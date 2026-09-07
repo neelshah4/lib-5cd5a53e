@@ -3391,6 +3391,20 @@ KW  - 2025-03
 ER  - 
 
 TY  - JOUR
+TI  - Understanding patients with mechanical circulatory support for cardiogenic shock: The role of preceding cardiac arrest
+AU  - Borderline candidate; see digest summary line.
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111149
+AN  - 42184916
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226001966
+KW  - Shock & Sepsis
+KW  - 2026-W37
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
 TI  - Should etomidate be used for rapid-sequence intubation induction in critically ill septic patients?
 AU  - Barker, J.A.
 JO  - Yearbook of Medicine
@@ -4172,10 +4186,12 @@ AU  - Kuppermann, Nathan
 JO  - New England Journal of Medicine
 PY  - 2026
 DO  - 10.1056/nejmoa2601969
+AN  - 42028918
 UR  - https://www.nejm.org/doi/10.1056/NEJMoa2601969
 KW  - Shock & Sepsis
 KW  - fluids
 KW  - 2026-04
+KW  - 2026-W37
 ER  - 
 
 TY  - JOUR
@@ -4580,8 +4596,8 @@ AN  - 42640631
 UR  - https://www.ovid.com/10.1097/CCE.0000000000001469
 KW  - Shock & Sepsis
 KW  - 2026-W36
+KW  - 2026-W37
 KW  - borderline
-KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -4596,6 +4612,22 @@ AN  - 42644869
 UR  - https://www.ovid.com/10.1097/CCE.0000000000001471
 KW  - Shock & Sepsis
 KW  - 2026-W36
+ER  - 
+
+TY  - JOUR
+TI  - Butyrylcholinesterase Activity as a Mortality Marker in ICU Patients: An Individual Participant Data Meta-Analysis
+AU  - Esper Treml R
+AU  - Grillo ITC
+AU  - Hrabovska A
+JO  - Crit Care Explor
+PY  - 2026
+DO  - 10.1097/cce.0000000000001476
+AN  - 42640628
+UR  - https://www.ovid.com/10.1097/CCE.0000000000001476
+KW  - Shock & Sepsis
+KW  - 2026-W36
+KW  - 2026-W37
+KW  - borderline
 ER  - 
 
 TY  - JOUR

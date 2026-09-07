@@ -23165,6 +23165,20 @@ KW  - 2026-05
 ER  - 
 
 TY  - JOUR
+TI  - Prognostic Value of Admission D-dimer Levels and Total Bleeding Volume in Aneurysmal Subarachnoid Hemorrhage: A Retrospective Cohort Study with Machine Learning-Based Modeling
+AU  - Wu Y
+AU  - Hu P
+AU  - Yang X
+JO  - Neurocrit Care
+PY  - 2026
+DO  - 10.1007/s12028-026-02558-4
+AN  - 42698013
+UR  - https://link.springer.com/10.1007/s12028-026-02558-4
+KW  - Neurocritical Care
+KW  - 2026-W37
+ER  - 
+
+TY  - JOUR
 TI  - CN-105 in Participants with Acute Supratentorial Intracerebral Hemorrhage Trial in Singapore (S-CATCH): A Phase 2b, Randomized, Double-blind, Placebo-Controlled Trial
 AU  - Cheong TM
 AU  - James ML
@@ -32279,6 +32293,34 @@ KW  - 2026-W33
 ER  - 
 
 TY  - JOUR
+TI  - Understanding patients with mechanical circulatory support for cardiogenic shock: The role of preceding cardiac arrest
+AU  - Borderline candidate; see digest summary line.
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111149
+AN  - 42184916
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226001966
+KW  - Shock & Sepsis
+KW  - 2026-W37
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - MRI-based quantitative profiling of hypoxic-ischemic brain injury in postanoxic status epilepticus and other EEG patterns
+AU  - Morotti Colleoni C
+AU  - Fisch U
+AU  - Snider SB
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111153
+AN  - 42191077
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226002005
+KW  - Neurocritical Care
+KW  - 2026-W37
+ER  - 
+
+TY  - JOUR
 TI  - Prognostic Performance of Plasma and Urinary Biomarkers of Kidney Injury and Function After Out-Of-Hospital Cardiac Arrest
 AU  - Lim SL
 AU  - Woo KL
@@ -32291,6 +32333,8 @@ AN  - 42264173
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226002108
 KW  - Renal
 KW  - 2026-W24
+KW  - 2026-W37
+KW  - borderline
 ER  - 
 
 TY  - JOUR
@@ -32306,6 +32350,7 @@ AN  - 42264174
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226002145
 KW  - Cardiac CC
 KW  - 2026-W24
+KW  - 2026-W37
 ER  - 
 
 TY  - JOUR
@@ -32322,6 +32367,7 @@ AN  - 42331277
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226002248
 KW  - Cardiac CC
 KW  - 2026-06
+KW  - 2026-W37
 ER  - 
 
 TY  - JOUR
@@ -32335,6 +32381,7 @@ AN  - 42314897
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S030095722600225X
 KW  - Neurocritical Care
 KW  - 2026-W25
+KW  - 2026-W37
 ER  - 
 
 TY  - JOUR
@@ -32369,6 +32416,20 @@ KW  - 2026-W27
 ER  - 
 
 TY  - JOUR
+TI  - Volume-controlled mechanical ventilation during cardiopulmonary resuscitation: a systematic review and meta-analysis
+AU  - Wittig J
+AU  - Sommer A
+AU  - Bürgstein E
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111199
+AN  - 42398849
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226002467
+KW  - Cardiac CC
+KW  - 2026-W37
+ER  - 
+
+TY  - JOUR
 TI  - Discordant Neuron-Specific Enolase and Neurologic Outcomes in Out-of-Hospital Cardiac Arrest: A Decade-Long Analysis
 AU  - Lee DH
 AU  - Ryu SJ
@@ -32387,6 +32448,20 @@ AN  - 42442598
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226002522
 KW  - Neurocritical Care
 KW  - 2026-W29
+ER  - 
+
+TY  - JOUR
+TI  - Where should we compress? Ultrasound identification of the ideal area of maximal compression for CPR
+AU  - Martinez L
+AU  - Hansen A
+AU  - Patel M
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111220
+AN  - 42492621
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226002674
+KW  - Cardiac CC
+KW  - 2026-W37
 ER  - 
 
 TY  - JOUR
@@ -36879,6 +36954,22 @@ KW  - 2026-05
 ER  - 
 
 TY  - JOUR
+TI  - Electronic Phenotype for Detection, Staging, and Subtyping of Acute Kidney Injury
+AU  - Shang N
+AU  - Xu K
+AU  - Stevens JS
+AU  - Barasch J
+AU  - Kiryluk K.
+JO  - Am J Kidney Dis
+PY  - 2026
+DO  - 10.1053/j.ajkd.2026.04.010
+AN  - 42320578
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0272638626009716
+KW  - Renal
+KW  - 2026-W37
+ER  - 
+
+TY  - JOUR
 TI  - Nitric Oxide Ventilation Improves Recirculation and Right Ventricular Function During Veno-Venous Extracorporeal Membrane Oxygenation in a COVID-19 Patient
 AU  - Heuts, Samuel
 AU  - Ubben, Johannes F.
@@ -37394,6 +37485,18 @@ UR  - https://www.sciencedirect.com/science/article/pii/S1053077026003915?via%3D
 KW  - Cardiac CC
 KW  - CHD-postop
 KW  - 2026-05
+ER  - 
+
+TY  - JOUR
+TI  - Development and Validation of an Integrated Artificial Intelligence-Powered Clinical Decision Support Application for Cardiac Critical Care
+AU  - El-Sonbaty AI.
+JO  - J Cardiothorac Vasc Anesth
+PY  - 2026
+DO  - 10.1053/j.jvca.2026.05.062
+AN  - 42409648
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1053077026004635
+KW  - Misc
+KW  - 2026-W37
 ER  - 
 
 TY  - JOUR
@@ -41842,10 +41945,12 @@ AU  - Kuppermann, Nathan
 JO  - New England Journal of Medicine
 PY  - 2026
 DO  - 10.1056/nejmoa2601969
+AN  - 42028918
 UR  - https://www.nejm.org/doi/10.1056/NEJMoa2601969
 KW  - Shock & Sepsis
 KW  - fluids
 KW  - 2026-04
+KW  - 2026-W37
 ER  - 
 
 TY  - JOUR
@@ -42706,6 +42811,21 @@ KW  - 2026-07
 ER  - 
 
 TY  - JOUR
+TI  - Extracorporeal membrane oxygenation without invasive mechanical ventilation for acute respiratory distress syndrome: an international cohort study
+AU  - Roncon-Albuquerque R
+AU  - Petit M
+AU  - Veiga T
+AU  - ; Euro-ELSO ECMO-No-VENT-ARDS Investigators.
+JO  - Am J Respir Crit Care Med
+PY  - 2026
+DO  - 10.1093/ajrccm/aamag219
+AN  - 42092985
+UR  - https://academic.oup.com/ajrccm/article/212/9/2187/8671583
+KW  - Respiratory/ARDS
+KW  - 2026-W37
+ER  - 
+
+TY  - JOUR
 TI  - Determinants of tidal recruitment/derecruitment assessed by electrical impedance tomography in spontaneously breathing ARDS patients
 AU  - Perez, Joaquin
 AU  - Leali, Marco
@@ -42740,6 +42860,21 @@ UR  - https://academic.oup.com/ajrccm/advance-article/doi/10.1093/ajrccm/aamag29
 KW  - Respiratory/ARDS
 KW  - 2026-W25
 KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Noninvasive respiratory support for adult patients with acute respiratory failure: an official American Thoracic Society Clinical Practice Guideline
+AU  - Goel NN
+AU  - Ferreyro BL
+AU  - Pitre T
+AU  - ; American Thoracic Society Assembly on Critical Care.
+JO  - Am J Respir Crit Care Med
+PY  - 2026
+DO  - 10.1093/ajrccm/aamag302
+AN  - 42371750
+UR  - https://academic.oup.com/ajrccm/article/212/9/2135/8721554
+KW  - Respiratory/ARDS
+KW  - 2026-W37
 ER  - 
 
 TY  - JOUR
@@ -43181,6 +43316,20 @@ AN  - 42640090
 UR  - https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciag438/8769592
 KW  - Shock & Sepsis
 KW  - 2026-W36
+ER  - 
+
+TY  - JOUR
+TI  - Reducing Empiric Vancomycin Use in the Pediatric Intensive Care Unit: a Multicenter Study
+AU  - Chiotos K
+AU  - Jaggi P
+AU  - Facer EE
+JO  - Clin Infect Dis
+PY  - 2026
+DO  - 10.1093/cid/ciag545
+AN  - 42700377
+UR  - https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciag545/8786221
+KW  - Misc
+KW  - 2026-W37
 ER  - 
 
 TY  - JOUR
@@ -45392,8 +45541,8 @@ AN  - 42640631
 UR  - https://www.ovid.com/10.1097/CCE.0000000000001469
 KW  - Shock & Sepsis
 KW  - 2026-W36
+KW  - 2026-W37
 KW  - borderline
-KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -45420,8 +45569,22 @@ PY  - 2026
 DO  - 10.1097/cce.0000000000001476
 AN  - 42640628
 UR  - https://www.ovid.com/10.1097/CCE.0000000000001476
-KW  - Misc
+KW  - Shock & Sepsis
 KW  - 2026-W36
+KW  - 2026-W37
+KW  - borderline
+ER  - 
+
+TY  - JOUR
+TI  - Characteristics and Reported Practices of ICUs Participating in the Sedation, Analgesia and Delirium Management International Study
+AU  - Borderline candidate; see digest summary line.
+JO  - Crit Care Explor
+PY  - 2026
+DO  - 10.1097/cce.0000000000001479
+AN  - 42695271
+UR  - https://www.ovid.com/10.1097/CCE.0000000000001479
+KW  - Misc
+KW  - 2026-W37
 KW  - borderline
 KW  - section-inferred
 ER  - 
@@ -47954,6 +48117,20 @@ KW  - 2026-W34
 ER  - 
 
 TY  - JOUR
+TI  - Long-Term Mortality and Functional Outcomes After Extracorporeal Membrane Oxygenation in Critically Ill Adults: A Systematic Review and Meta-Analysis
+AU  - Stebbins KT
+AU  - Yap CY
+AU  - Segun-Beloved L
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007318
+AN  - 42671261
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007318
+KW  - ECMO
+KW  - 2026-W37
+ER  - 
+
+TY  - JOUR
 TI  - ICU Open-Access Databases for Artificial Intelligence in Sepsis: Balancing Innovation With Data Quality Challenges
 AU  - Jegou J
 AU  - Manolescu I
@@ -48853,6 +49030,20 @@ KW  - 2026-W33
 ER  - 
 
 TY  - JOUR
+TI  - Renal Angina Index as a Predictor of Renal Injury Progression in Patients on Extracorporeal Membrane Oxygenation Support: The DREAMS Study
+AU  - Perez-Garzon M
+AU  - Robayo-Amortegui H
+AU  - Quintero-Altare A
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002589
+AN  - 41168142
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002589
+KW  - Renal
+KW  - 2026-W37
+ER  - 
+
+TY  - JOUR
 TI  - Functional Status Change in Pediatric Extracorporeal Membrane Oxygenation Survivors is Equivalent to Propensity-Matched Patients Managed Without Extracorporeal Membrane Oxygenation
 AU  - Ruth, Amanda
 AU  - Kennedy, Curtis
@@ -49277,6 +49468,48 @@ AN  - 42638325
 UR  - https://www.ovid.com/10.1097/MAT.0000000000002822
 KW  - ECMO
 KW  - 2026-W36
+ER  - 
+
+TY  - JOUR
+TI  - Use of Extracorporeal Membrane Oxygenation (ECMO) in Pediatric Patients With Hemophagocytic Lymphohistiocytosis: A Multicenter Sub-Analysis
+AU  - Nair RP
+AU  - Mowrer MC
+AU  - Farbo D
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002831
+AN  - 42684998
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002831
+KW  - ECMO
+KW  - 2026-W37
+ER  - 
+
+TY  - JOUR
+TI  - Noninvasive Respiratory Support Before Extracorporeal Membrane Oxygenation for Acute Respiratory Distress Syndrome: A Meta-Analysis
+AU  - Marabotti A
+AU  - Cianchi G
+AU  - Bertini P
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002833
+AN  - 42684961
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002833
+KW  - ECMO
+KW  - 2026-W37
+ER  - 
+
+TY  - JOUR
+TI  - Upper-Body Versus Femoral Return in Peripheral Veno-Arterial Extracorporeal Membrane Oxygenation: A Systematic Review and Meta-analysis
+AU  - Dabour SE
+AU  - Asad D
+AU  - Kouli A
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002842
+AN  - 42691312
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002842
+KW  - ECMO
+KW  - 2026-W37
 ER  - 
 
 TY  - JOUR
@@ -53581,6 +53814,20 @@ KW  - 2024-01
 ER  - 
 
 TY  - JOUR
+TI  - Machine Learning Predicts ICU In-Hospital Mortality in ARDS Patients Aged 80 and Above: A Multinational Multicenter Retrospective Study
+AU  - Liu X
+AU  - Sun X
+AU  - Zhou X
+JO  - Shock
+PY  - 2026
+DO  - 10.1097/shk.0000000000002834
+AN  - 41949844
+UR  - https://www.ovid.com/10.1097/SHK.0000000000002834
+KW  - Respiratory/ARDS
+KW  - 2026-W37
+ER  - 
+
+TY  - JOUR
 TI  - Impact of Oxygen Targets on Sepsis Outcome: A Randomized Controlled Trial
 AU  - Chen X
 AU  - Wen W
@@ -55903,6 +56150,20 @@ AN  - 42392606
 UR  - https://bmjpaedsopen.bmj.com/lookup/doi/10.1136/bmjpo-2025-004290
 KW  - Shock & Sepsis
 KW  - 2026-W27
+ER  - 
+
+TY  - JOUR
+TI  - High-intensity treatment is common at the end of life among children and young people who died of cancer: a retrospective cohort study
+AU  - Jarvis S
+AU  - Damun P
+AU  - Hinde S
+JO  - BMJ Paediatr Open
+PY  - 2026
+DO  - 10.1136/bmjpo-2026-004575
+AN  - 42680520
+UR  - https://bmjpaedsopen.bmj.com/lookup/doi/10.1136/bmjpo-2026-004575
+KW  - Misc
+KW  - 2026-W37
 ER  - 
 
 TY  - JOUR
@@ -63208,6 +63469,7 @@ AN  - 42200607
 UR  - https://journals.sagepub.com/doi/10.1177/19433654261447873
 KW  - Respiratory/ARDS
 KW  - 2026-W23
+KW  - 2026-W37
 ER  - 
 
 TY  - JOUR
@@ -63279,6 +63541,21 @@ AN  - 42522703
 UR  - https://journals.sagepub.com/doi/10.1177/19433654261469634
 KW  - Respiratory/ARDS
 KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Electrical Impedance Tomography for Monitoring Prone Positioning in ARDS
+AU  - Stanford-Hill R
+AU  - Moulton AW
+AU  - Morais CCA
+AU  - Katira BH.
+JO  - Respir Care
+PY  - 2026
+DO  - 10.1177/19433654261474271
+AN  - 42689761
+UR  - https://journals.sagepub.com/doi/10.1177/19433654261474271
+KW  - Respiratory/ARDS
+KW  - 2026-W37
 ER  - 
 
 TY  - JOUR
@@ -78580,6 +78857,20 @@ AN  - 42568095
 UR  - https://link.springer.com/10.1186/s13054-026-06234-z
 KW  - Respiratory/ARDS
 KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - Extracorporeal CO2 elimination for acute exacerbation of severe COPD requiring invasive mechanical ventilation: the X-COPD trial
+AU  - Karagiannidis C
+AU  - Riera J
+AU  - Blanco-Schweizer P
+JO  - Crit Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06300-6
+AN  - 42693471
+UR  - https://link.springer.com/10.1186/s13054-026-06300-6
+KW  - ECMO
+KW  - 2026-W37
 ER  - 
 
 TY  - JOUR

@@ -5544,10 +5544,56 @@
    "Cardiac CC": 3,
    "Neurocritical Care": 1,
    "Respiratory/ARDS": 3,
-   "Shock & Sepsis": 7,
+   "Shock & Sepsis": 8,
    "ECMO": 4,
-   "Misc": 3
+   "Misc": 2
   },
   "source_file": "/Users/neel/.claude/digests/pubmed-2026-08-31.md"
+ },
+ {
+  "id": "2026-W37",
+  "kind": "weekly",
+  "date": "2026-09-07",
+  "title": "Weekly digest 2026-09-07",
+  "dois": [
+   "10.1007/s12028-026-02558-4",
+   "10.1016/j.resuscitation.2026.111149",
+   "10.1016/j.resuscitation.2026.111153",
+   "10.1016/j.resuscitation.2026.111163",
+   "10.1016/j.resuscitation.2026.111167",
+   "10.1016/j.resuscitation.2026.111177",
+   "10.1016/j.resuscitation.2026.111178",
+   "10.1016/j.resuscitation.2026.111199",
+   "10.1016/j.resuscitation.2026.111220",
+   "10.1053/j.ajkd.2026.04.010",
+   "10.1053/j.jvca.2026.05.062",
+   "10.1056/nejmoa2601969",
+   "10.1093/ajrccm/aamag219",
+   "10.1093/ajrccm/aamag302",
+   "10.1093/cid/ciag545",
+   "10.1097/cce.0000000000001469",
+   "10.1097/cce.0000000000001476",
+   "10.1097/cce.0000000000001479",
+   "10.1097/ccm.0000000000007318",
+   "10.1097/mat.0000000000002589",
+   "10.1097/mat.0000000000002831",
+   "10.1097/mat.0000000000002833",
+   "10.1097/mat.0000000000002842",
+   "10.1097/shk.0000000000002834",
+   "10.1136/bmjpo-2026-004575",
+   "10.1177/19433654261447873",
+   "10.1177/19433654261474271",
+   "10.1186/s13054-026-06300-6"
+  ],
+  "counts": {
+   "Neurocritical Care": 3,
+   "Shock & Sepsis": 4,
+   "Renal": 3,
+   "Cardiac CC": 4,
+   "Misc": 4,
+   "Respiratory/ARDS": 5,
+   "ECMO": 5
+  },
+  "source_file": "/private/tmp/claude-502/-Users-neel/db46681c-bdcf-4daf-a5d2-4ca8caa1a67e/scratchpad/pubmed-2026-09-07.normalized.md"
  }
 ]
