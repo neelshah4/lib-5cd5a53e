@@ -36,7 +36,22 @@ set -u
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_SRC="$(cd "${SCRIPT_DIR}/.." && pwd)"
-SLUG_FILE="/private/tmp/claude-502/-Users-neel/cf21c78a-7672-46d6-8438-38eae60b25b3/scratchpad/slug.txt"
+# The repo slug drives the "slug never leaks into a tracked file" checks (Q4,
+# Q4-neg, Q6-neg/d). It used to be read from a hardcoded session scratchpad
+# path, which evaporated when that session ended -- the harness then reported
+# "slug file unreadable" and silently degraded to 7/9 (found 2026-09-14).
+# Derive it from the git remote instead: always available, already untracked
+# (it lives in .git/config), and never written into the working tree by this
+# script. LIBRARY_SLUG or SLUG_FILE still override for a deliberate test.
+resolve_slug() {
+  if [[ -n "${LIBRARY_SLUG:-}" ]]; then printf '%s' "${LIBRARY_SLUG}"; return 0; fi
+  if [[ -n "${SLUG_FILE:-}" && -f "${SLUG_FILE}" ]]; then cat "${SLUG_FILE}"; return 0; fi
+  local url
+  url="$(cd "${REPO_SRC}" && git remote get-url origin 2>/dev/null)" || return 1
+  [[ -n "${url}" ]] || return 1
+  url="${url%.git}"
+  printf '%s' "${url##*/}"
+}
 
 SKIP_LIVE=0
 ONLY=""
@@ -276,8 +291,7 @@ fi
 # Q4 — Repo -> Pages, slug never leaks into tracked files
 # =========================================================================
 if want Q4; then
-  SLUG=""
-  if [[ -f "${SLUG_FILE}" ]]; then SLUG="$(cat "${SLUG_FILE}")"; fi
+  SLUG="$(resolve_slug || true)"
   if [[ "${SKIP_LIVE}" -eq 1 ]]; then
     report_neutral Q4 SKIP "network required (--skip-live)"
   elif [[ -z "${SLUG}" ]]; then
@@ -406,8 +420,7 @@ json.dump(c, open(p,'w'), indent=1)
   C_DETAIL="nullverified:exit=${EC}"
 
   # neg d: slug written into README.md with LIBRARY_SLUG exported
-  SLUG=""
-  [[ -f "${SLUG_FILE}" ]] && SLUG="$(cat "${SLUG_FILE}")"
+  SLUG="$(resolve_slug || true)"
   if [[ -n "${SLUG}" ]]; then
     echo "${SLUG}" >> "${REPO}/README.md"
     LIBRARY_SLUG="${SLUG}" "${PY}" scripts/validate.py --root "${REPO}" >"${TMP}/q6d.out" 2>&1; ED=$?
