@@ -3226,6 +3226,20 @@ KW  - 2026-W35
 ER  - 
 
 TY  - JOUR
+TI  - Sepsis identification and bundle delivery in US emergency departments, 2012-2022: A nationally representative analysis
+AU  - Zarama V
+AU  - Espinola JA
+AU  - Camargo CA
+JO  - J Crit Care
+PY  - 2027
+DO  - 10.1016/j.jcrc.2026.155740
+AN  - 42732729
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126003187
+KW  - Shock & Sepsis
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
 TI  - Effect of selepressin vs placebo on ventilator- and vasopressor-free days in patients with septic shock: The SEPSIS-ACT randomized clinical trial
 AU  - Matthews, Ryan
 AU  - Young, Amanda
@@ -3400,6 +3414,23 @@ AN  - 42184916
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226001966
 KW  - Shock & Sepsis
 KW  - 2026-W37
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - In-Hospital Cardiac Arrest in Impella-Supported Cardiogenic Shock: Insights From the J-PVAD Registry
+AU  - Large Japanese registry (n=8
+AU  - 577) showing in-hospital cardiac arrest before Impella implantation carries substantially higher 30-day mortality (48.1% vs 28.7% without arrest
+AU  - adjusted HR 1.54
+AU  - 95% CI 1.41–1.69) than no-arrest cardiogenic shock. [PMID: 42727697](https://pubmed.ncbi.nlm.nih.gov/42727697/) · [DOI](https://doi.org/10.1016/j.resuscitation.2026.111310)
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111310
+AN  - 42727697
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226023579
+KW  - Shock & Sepsis
+KW  - 2026-W38
 KW  - borderline
 KW  - section-inferred
 ER  - 
@@ -4615,6 +4646,21 @@ KW  - 2026-W36
 ER  - 
 
 TY  - JOUR
+TI  - Diagnostic Uncertainty and Antibiotic Timing in Sepsis: Observational Validation of a Dual-Axis Decision Model
+AU  - Currey D
+AU  - Siff J
+AU  - Sahoo S
+AU  - Tarabichi Y.
+JO  - Crit Care Explor
+PY  - 2026
+DO  - 10.1097/cce.0000000000001472
+AN  - 42720074
+UR  - https://www.ovid.com/10.1097/CCE.0000000000001472
+KW  - Shock & Sepsis
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
 TI  - Butyrylcholinesterase Activity as a Mortality Marker in ICU Patients: An Individual Participant Data Meta-Analysis
 AU  - Esper Treml R
 AU  - Grillo ITC
@@ -5074,6 +5120,20 @@ AN  - 42635479
 UR  - https://www.ovid.com/10.1097/CCM.0000000000007319
 KW  - Shock & Sepsis
 KW  - 2026-W36
+ER  - 
+
+TY  - JOUR
+TI  - Mortality Effect of Peripheral Perfusion-Guided Resuscitation in Vasodilatory Shock: A Systematic Review and Dual Frequentist-Bayesian Meta-Analysis of Randomized Trials
+AU  - Mendes H
+AU  - Silva Correia JV
+AU  - Moreira Salles MM
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007364
+AN  - 42725818
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007364
+KW  - Shock & Sepsis
+KW  - 2026-W38
 ER  - 
 
 TY  - JOUR
@@ -5701,6 +5761,21 @@ AN  - 42320014
 UR  - https://journals.lww.com/10.1097/SHK.0000000000002895
 KW  - Shock & Sepsis
 KW  - 2026-W27
+ER  - 
+
+TY  - JOUR
+TI  - Early renal perfusion phenotypes and renal recovery in critically ill patients with or at risk for acute kidney injury: a prospective multicenter cohort study
+AU  - Prospective 6-center Chinese cohort (n=456) using serial Doppler-derived renal perfusion phenotyping found a sustained-high-perfusion trajectory associated with less persistent AKI and less RRT use by day 7
+AU  - though the association attenuated in sensitivity models. [PMID: 42704056](https://pubmed.ncbi.nlm.nih.gov/42704056/) · [DOI](https://doi.org/10.1097/SHK.0000000000002936)
+JO  - Shock
+PY  - 2026
+DO  - 10.1097/shk.0000000000002936
+AN  - 42704056
+UR  - https://www.ovid.com/10.1097/SHK.0000000000002936
+KW  - Shock & Sepsis
+KW  - 2026-W38
+KW  - borderline
+KW  - section-inferred
 ER  - 
 
 TY  - JOUR
