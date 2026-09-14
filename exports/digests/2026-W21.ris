@@ -32,7 +32,9 @@ TI  - Impact of alarm sounds on patient sleep in the intensive care unit: A scop
 AU  - Hiemstra FW
 AU  - van Kekem MJ
 AU  - Arbous MS
-AU  - (Kervezee L; Leiden UMC)
+AU  - Schoones JW
+AU  - van Westerloo DJ
+AU  - Kervezee L
 JO  - J Crit Care
 PY  - 2026
 DO  - 10.1016/j.jcrc.2026.155612
@@ -49,7 +51,8 @@ TI  - The effect of peripheral vasopressor protocols on extravasation rates: A s
 AU  - Wiseman JF
 AU  - Wiseman VH
 AU  - Jawa NA
-AU  - (Boyd JG)
+AU  - Fei LYN
+AU  - Boyd JG
 JO  - J Crit Care
 PY  - 2026
 DO  - 10.1016/j.jcrc.2026.155613
@@ -64,8 +67,23 @@ TI  - Biological subphenotypes in severe acute hypoxaemic respiratory failure an
 AU  - Files DC
 AU  - Matthay MA
 AU  - Chapple AG
-AU  - (ISPY COVID Network
-AU  - 17 US hospitals)
+AU  - Barragan AB
+AU  - Mabrey L
+AU  - Gibbs KW
+AU  - Krall J
+AU  - Aggarwal NR
+AU  - Burnham EL
+AU  - Liu KD
+AU  - Meyer NJ
+AU  - Nates JL
+AU  - Youssef FA
+AU  - Friedman E
+AU  - Kett DH
+AU  - Koff J
+AU  - Russell DW
+AU  - Calfee CS
+AU  - Eklund M
+AU  - Esserman LJ
 JO  - Lancet Respir Med
 PY  - 2026
 DO  - 10.1016/s2213-2600(26
@@ -77,11 +95,13 @@ ER  -
 
 TY  - JOUR
 TI  - Changes in Epidemiology of Candidemia in the United States with a Focus on Candida auris (2015–2024)
-AU  - Perez MA
+AU  - Pérez MA
 AU  - Patel KA
 AU  - Rasmy L
-AU  - (Arias CA
-AU  - Nigo M)
+AU  - Yoshida H
+AU  - Arias CA
+AU  - Nigo M
+AU  - Adelman MW
 JO  - Clin Infect Dis
 PY  - 2026
 DO  - 10.1093/cid/ciag312
@@ -98,7 +118,38 @@ TI  - Ventricular free-wall rupture, ventricular pseudoaneurysm, and papillary m
 AU  - Lorusso R
 AU  - Matteucci M
 AU  - Ronco D
-AU  - (multi-society European consortium; Price S)
+AU  - Massimi G
+AU  - Price S
+AU  - Czerny M
+AU  - Estévez-Loureiro R
+AU  - Siepe M
+AU  - Pontone G
+AU  - Hassager C
+AU  - Chioncel O
+AU  - Zuin M
+AU  - Davos CH
+AU  - Adamo M
+AU  - Gustafsson F
+AU  - Giannakoulas G
+AU  - Amabile N
+AU  - Sionis A
+AU  - Thielmann M
+AU  - Petersen SE
+AU  - Cosyns B
+AU  - Huber K
+AU  - Tokmakova M
+AU  - Pacini D
+AU  - Klok FA
+AU  - Saia F
+AU  - Abreu A
+AU  - Grimm M
+AU  - Claeys MJ
+AU  - García-Álvarez A
+AU  - Gerber B
+AU  - Mestres CA
+AU  - Rosenkranz S
+AU  - Adamopoulos S
+AU  - Bonaros N
 JO  - Eur Heart J
 PY  - 2026
 DO  - 10.1093/eurheartj/ehag164
@@ -115,8 +166,14 @@ TI  - Prognostic Factors Associated With Mortality Among Patients With Necrotizi
 AU  - Kruger N
 AU  - Durr K
 AU  - Fernando SM
-AU  - (Rochwerg B
-AU  - Tran A)
+AU  - Rochwerg B
+AU  - Inaba K
+AU  - Kim D
+AU  - Yadav K
+AU  - Kubelik D
+AU  - Engels PT
+AU  - Glen P
+AU  - Tran A
 JO  - Crit Care Med
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007147
@@ -131,7 +188,13 @@ TI  - Difficulty Paying for Medical Care: Associations With Psychological Distre
 AU  - Hardt MM
 AU  - Lichtenthal WG
 AU  - Saviano S
-AU  - (Prigerson HG; 3 US medical ICUs)
+AU  - Rosen A
+AU  - Lief L
+AU  - Berlin DA
+AU  - Kolla S
+AU  - Rogers M
+AU  - Maciejewski PK
+AU  - Prigerson HG
 JO  - Crit Care Med
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007151
@@ -146,10 +209,14 @@ TI  - Association Between Sex and Clinical Outcomes for Critically Ill Patients 
 AU  - Tirupakuzhi Vijayaraghavan BK
 AU  - Patodia S
 AU  - Gamage Dona D
-AU  - (Adhikari NKJ
-AU  - Fowler R; 45 ICUs
-AU  - N=82
-AU  - 151)
+AU  - Venkataraman R
+AU  - Beane A
+AU  - Haniffa R
+AU  - de Keizer N
+AU  - Adhikari NKJ
+AU  - Ramakrishnan N
+AU  - Fowler R
+AU  - Indian Registry of IntenSive care (IRIS) collaboration
 JO  - Crit Care Med
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007163
@@ -164,7 +231,17 @@ TI  - Impact of Delayed Heparin Bridging on Bleeding and Stroke After Left Ventr
 AU  - Jahangiri P
 AU  - Luo Y
 AU  - Sjatskig J
-AU  - (Caliskan K; Erasmus MC)
+AU  - Şener YZ
+AU  - Bunge JJH
+AU  - Dubois E
+AU  - Meuwese C
+AU  - Constantinescu A
+AU  - van der Boon RMA
+AU  - Manintveld OC
+AU  - Leebeek FWG
+AU  - Kluin J
+AU  - de Boer RA
+AU  - Caliskan K
 JO  - ASAIO J
 PY  - 2026
 DO  - 10.1097/mat.0000000000002731
@@ -378,8 +455,9 @@ TI  - Elastance as a determinant of the effect of prone positioning on mortality
 AU  - Zalucky AA
 AU  - Goligher EC
 AU  - Dianti J
-AU  - (Guerin C
-AU  - Calfee CS)
+AU  - Willmore A
+AU  - Guerin C
+AU  - Calfee CS
 JO  - Crit Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06060-3
@@ -394,9 +472,32 @@ TI  - Metabolic complications of citrate anticoagulation in continuous renal rep
 AU  - Jacobs R
 AU  - Schneider A
 AU  - Hoste E
-AU  - (29-expert international panel; Ostermann M
+AU  - Verbrugghe W
+AU  - Bagshaw S
+AU  - Bell M
+AU  - Boer W
+AU  - Bouchard J
+AU  - Broman M
+AU  - Crawford B
+AU  - David S
+AU  - Di Mario F
+AU  - Joannes-Boyau O
+AU  - Joannidis M
+AU  - Joseph C
+AU  - Merrill KA
+AU  - Ostermann M
+AU  - Palevsky P
+AU  - Papez K
 AU  - Prowle J
-AU  - Palevsky P)
+AU  - Rewa O
+AU  - Ricci Z
+AU  - Shin S
+AU  - Szamosfalvi B
+AU  - Tolwani A
+AU  - Villa G
+AU  - Volbeda M
+AU  - Rimmelé T
+AU  - Jorens PG
 JO  - Crit Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06066-x
@@ -411,8 +512,11 @@ TI  - Induction agents for emergency tracheal intubation in critically ill adult
 AU  - Zampieri FG
 AU  - Schmidt RC
 AU  - Besen BAMP
-AU  - (Lamontagne F
-AU  - Adhikari NKJ; BRICNet)
+AU  - Ramos FJDS
+AU  - Lamontagne F
+AU  - Adhikari NKJ
+AU  - Freitas FGR
+AU  - Machado FR
 JO  - Crit Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06067-w
@@ -424,12 +528,22 @@ ER  -
 
 TY  - JOUR
 TI  - Intrapulmonary penetration of ceftolozane/tazobactam and ceftazidime/avibactam by continuous infusion in critically ill patients with nosocomial pneumonia: a randomized pharmacokinetic trial
-AU  - Benitez-Cano A
+AU  - Benítez-Cano A
 AU  - Sancho-Araiz A
 AU  - Carazo J
-AU  - (Roberts J
-AU  - Sorli L
-AU  - Luque S)
+AU  - Ramos I
+AU  - Sánchez-Font A
+AU  - Chalela R
+AU  - López-Palacio M
+AU  - García-Prieto FF
+AU  - Navarrete-Rouco ME
+AU  - Juanes-Borrego AM
+AU  - Gómez-Junyent J
+AU  - Horcajada JP
+AU  - Adalia R
+AU  - Roberts J
+AU  - Sorlí L
+AU  - Luque S
 JO  - Crit Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06075-w
@@ -462,8 +576,15 @@ TI  - One year quality of life outcomes in critically ill children: a multicente
 AU  - Manning JC
 AU  - Latour JM
 AU  - Draper E
-AU  - (Curley MAQ; 10 English PICUs
-AU  - N=326)
+AU  - Quinlan P
+AU  - Popejoy EM
+AU  - Figueredo G
+AU  - Iyer S
+AU  - Trimble T
+AU  - Menzies J
+AU  - Curley MAQ
+AU  - Coad J
+AU  - OCEANIC Study Investigators
 JO  - Crit Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06084-9

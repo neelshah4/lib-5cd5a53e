@@ -205,7 +205,63 @@ TI  - Sodium Bicarbonate for In-Hospital Cardiac Arrest: A Randomized Clinical T
 AU  - Granfeldt A
 AU  - Kirkegaard BL
 AU  - Vallentin MF
-AU  - (BIHCA Investigators)
+AU  - Holmberg MJ
+AU  - Stankovic N
+AU  - Lind PC
+AU  - Kjærgaard AG
+AU  - Houe N
+AU  - Vested M
+AU  - Isbye DL
+AU  - Kristensen CM
+AU  - Kjærgaard J
+AU  - Zwisler ST
+AU  - Lundsfryd SN
+AU  - Petersen LB
+AU  - Folke F
+AU  - Hansen CM
+AU  - Iversen KK
+AU  - Schou M
+AU  - Wiberg S
+AU  - Riddersholm SJ
+AU  - Rasmussen BS
+AU  - Karlsson K
+AU  - Plovsing RR
+AU  - Juhl CS
+AU  - Krag M
+AU  - Sørensen CD
+AU  - Kuhne-Qvist P
+AU  - Oxlund J
+AU  - Sølling CG
+AU  - Hansen JR
+AU  - Andersen LPK
+AU  - Jensen JMS
+AU  - Itenov TS
+AU  - Lauritzen M
+AU  - Pedersen MJ
+AU  - Nielsen RP
+AU  - Fjeldsøe-Nielsen H
+AU  - Mirzada N
+AU  - Secher N
+AU  - Espelund US
+AU  - Eskol JR
+AU  - Andersen K
+AU  - Brøchner AC
+AU  - Nedergaard HK
+AU  - Hansen PM
+AU  - Henschel W
+AU  - Walli AR
+AU  - Sandgaard M
+AU  - Asferg CL
+AU  - Ciubotariu A
+AU  - Rasmussen MHR
+AU  - Le Breton V
+AU  - Nielsen LK
+AU  - Hansen FG
+AU  - Brændstrup N
+AU  - Thomsen IK
+AU  - Sindberg B
+AU  - Andersen LW
+AU  - Bicarbonate for In-Hospital Cardiac Arrest (BIHCA) Investigators
 JO  - JAMA
 PY  - 2026
 DO  - 10.1001/jama.2026.10628
@@ -1524,9 +1580,22 @@ ER  -
 TY  - JOUR
 TI  - Early High-Dose Vitamin C for Out-of-Hospital Cardiac Arrest: The VITaCCA Randomized Clinical Trial
 AU  - Rozemeijer S
-AU  - (multicenter; N=273: 93 placebo
-AU  - 91 vitamin C 3g
-AU  - 89 vitamin C 10g IV post-OHCA)
+AU  - Dubois EA
+AU  - de Grooth HJ
+AU  - den Uil CA
+AU  - Rettig TCD
+AU  - Rijpstra TA
+AU  - van den Bogaard B
+AU  - van Zanten ARH
+AU  - Bosman RJ
+AU  - Elbers PWG
+AU  - Girbes ARJ
+AU  - Vlaar APJ
+AU  - Twisk JWR
+AU  - Christopher KB
+AU  - Schober P
+AU  - Oudemans-van Straaten HM
+AU  - de Man AME
 JO  - Intensive Care Medicine
 PY  - 2026
 DO  - 10.1007/s00134-026-08492-5
@@ -2210,8 +2279,37 @@ TI  - Prognostic Implications of the Updated ISHLT Definition for Severe Graft D
 AU  - Dhingra NK
 AU  - Devore AD
 AU  - Hall SA
-AU  - (Moayedi Y; University Health Network
-AU  - Toronto + UNOS)
+AU  - Khush KK
+AU  - Chih S
+AU  - Truby L
+AU  - Signorile M
+AU  - Foroutan F
+AU  - Guzman Bofarull J
+AU  - Takeda K
+AU  - Rodenas-Alesina E
+AU  - Han J
+AU  - Kim G
+AU  - Potena L
+AU  - Lerman J
+AU  - Ross HJ
+AU  - Farrero Torres M
+AU  - Crespo-Leiro MG
+AU  - Rivas-Lasarte M
+AU  - Moayedifar R
+AU  - Hastenteufel L
+AU  - Fan CS
+AU  - Couto Mallon D
+AU  - Luikart H
+AU  - Henricksen E
+AU  - Sabatino M
+AU  - Tremblay-Gravel M
+AU  - Noly PE
+AU  - Miller RJ
+AU  - Zuckermann A
+AU  - Farr M
+AU  - Rao V
+AU  - Martin AK
+AU  - Moayedi Y
 JO  - Journal of Heart and Lung Transplantation
 PY  - 2026
 DO  - 10.1016/j.healun.2026.05.032
@@ -3196,9 +3294,10 @@ TI  - Duration of Emergency Medical Services-Initiated Prehospital Cardiopulmona
 AU  - Okubo M
 AU  - Komukai S
 AU  - Izawa J
-AU  - (Callaway CW
-AU  - Berg RA; ROC Epistry registry
-AU  - 10 US/Canadian sites)
+AU  - Amagasa S
+AU  - Ramgopal S
+AU  - Callaway CW
+AU  - Berg RA
 JO  - Resuscitation
 PY  - 2026
 DO  - 10.1016/j.resuscitation.2026.111028
@@ -3214,8 +3313,13 @@ TI  - Healthcare Costs of Expedited Transport After Out-of-Hospital Cardiac Arre
 AU  - Jang K
 AU  - Morton RL
 AU  - Burns B
-AU  - (Tran AD; EVIDENCE trial
-AU  - Sydney)
+AU  - Zhan X
+AU  - Nikolovski J
+AU  - Taing C
+AU  - Packham N
+AU  - Keech A
+AU  - Dennis M
+AU  - Tran AD
 JO  - Resuscitation
 PY  - 2026
 DO  - 10.1016/j.resuscitation.2026.111083
@@ -3230,8 +3334,49 @@ TI  - Effect of Vascular Access Strategy on Long-Term Outcomes in Patients With 
 AU  - Vallentin MF
 AU  - Holmberg MJ
 AU  - Granfeldt A
-AU  - (Andersen LW; IVIO trial
-AU  - Denmark)
+AU  - Klitgaard TL
+AU  - Mikkelsen S
+AU  - Folke F
+AU  - Christensen HC
+AU  - Povlsen AL
+AU  - Petersen AH
+AU  - Winther S
+AU  - Frilund LW
+AU  - Meilandt C
+AU  - Winther KB
+AU  - Bach A
+AU  - Dissing TH
+AU  - Terkelsen CJ
+AU  - Christensen S
+AU  - Rasmussen LK
+AU  - Mortensen LR
+AU  - Elkmann T
+AU  - Nielsen AG
+AU  - Runge C
+AU  - Klæstrup E
+AU  - Holm JH
+AU  - Bak M
+AU  - Nielsen LR
+AU  - Pedersen M
+AU  - Kjærgaard-Andersen G
+AU  - Hansen PM
+AU  - Brøchner AC
+AU  - Christensen EF
+AU  - Nielsen FM
+AU  - Nissen CG
+AU  - Bjørn JW
+AU  - Burholt P
+AU  - Obling LER
+AU  - Duus Holle SL
+AU  - Russell L
+AU  - Alstrøm H
+AU  - Hestad S
+AU  - Hove Buciek JU
+AU  - Jakobsen K
+AU  - Krag M
+AU  - Sandgaard M
+AU  - Sindberg B
+AU  - Andersen LW
 JO  - Resuscitation
 PY  - 2026
 DO  - 10.1016/j.resuscitation.2026.111087
@@ -3246,8 +3391,16 @@ TI  - Between-Hospital Variability in Outcomes After Cardiac Arrest in a Large C
 AU  - Elmer J
 AU  - Roy A
 AU  - Silbergleit R
-AU  - (Meurer W; ICECAP trial network
-AU  - 69 US hospitals)
+AU  - Geocadin RG
+AU  - Hirsch KG
+AU  - May TL
+AU  - Bozeman N
+AU  - Meyer SB
+AU  - Beekman R
+AU  - Nassal MMJ
+AU  - Ramakrishnan R
+AU  - Yeatts S
+AU  - Meurer W
 JO  - Resuscitation
 PY  - 2026
 DO  - 10.1016/j.resuscitation.2026.111090
@@ -3305,7 +3458,11 @@ TI  - Temporal Trends in Treatment and Outcomes of Patients with Cardiac Arrest 
 AU  - Ishida K
 AU  - Nishimoto Y
 AU  - Ohbe H
-AU  - (Yasunaga H; nationwide Japan inpatient database)
+AU  - Yamashita Y
+AU  - Mo M
+AU  - Kimura Y
+AU  - Matsui H
+AU  - Yasunaga H
 JO  - Resuscitation
 PY  - 2026
 DO  - 10.1016/j.resuscitation.2026.111167
@@ -3336,8 +3493,13 @@ ER  -
 TY  - JOUR
 TI  - Comparison of Intraosseous Line Placement Location and Rates of Return of Spontaneous Circulation and Survival to Discharge Among Patients with Out-of-Hospital Cardiac Arrest
 AU  - Witherell A
-AU  - (single-county EMS registry; N=1
-AU  - 920 OHCA)
+AU  - Castillo A
+AU  - Samones E
+AU  - Phan TH
+AU  - Singh P
+AU  - Linke C
+AU  - Higuchi L
+AU  - Dukes WS
 JO  - Resuscitation
 PY  - 2026
 DO  - 10.1016/j.resuscitation.2026.111179
@@ -4814,7 +4976,38 @@ TI  - Ventricular free-wall rupture, ventricular pseudoaneurysm, and papillary m
 AU  - Lorusso R
 AU  - Matteucci M
 AU  - Ronco D
-AU  - (multi-society European consortium; Price S)
+AU  - Massimi G
+AU  - Price S
+AU  - Czerny M
+AU  - Estévez-Loureiro R
+AU  - Siepe M
+AU  - Pontone G
+AU  - Hassager C
+AU  - Chioncel O
+AU  - Zuin M
+AU  - Davos CH
+AU  - Adamo M
+AU  - Gustafsson F
+AU  - Giannakoulas G
+AU  - Amabile N
+AU  - Sionis A
+AU  - Thielmann M
+AU  - Petersen SE
+AU  - Cosyns B
+AU  - Huber K
+AU  - Tokmakova M
+AU  - Pacini D
+AU  - Klok FA
+AU  - Saia F
+AU  - Abreu A
+AU  - Grimm M
+AU  - Claeys MJ
+AU  - García-Álvarez A
+AU  - Gerber B
+AU  - Mestres CA
+AU  - Rosenkranz S
+AU  - Adamopoulos S
+AU  - Bonaros N
 JO  - Eur Heart J
 PY  - 2026
 DO  - 10.1093/eurheartj/ehag164
@@ -4831,7 +5024,26 @@ TI  - Adrenomedullin system dysregulation predicts cardiogenic shock and mortali
 AU  - Wang Y
 AU  - Danchin N
 AU  - Simon T
-AU  - (SPUM-ACS and FAST-MI investigators)
+AU  - Zeller M
+AU  - Ilina Y
+AU  - Kaufmann P
+AU  - Bergmann A
+AU  - Wenzl FA
+AU  - Schweiger V
+AU  - Liberale L
+AU  - Räber L
+AU  - Templin C
+AU  - von Eckardstein A
+AU  - Roffi M
+AU  - Muller O
+AU  - Berisha J
+AU  - Camici GG
+AU  - Bérard L
+AU  - Arlt B
+AU  - Niederseer D
+AU  - Lüscher TF
+AU  - Kraler S
+AU  - SPUM-ACS and FAST-MI investigators
 JO  - Eur Heart J
 PY  - 2026
 DO  - 10.1093/eurheartj/ehag636
@@ -5017,8 +5229,10 @@ TI  - Temporal Trends in Outcomes After Out-of-Hospital Cardiac Arrest Transport
 AU  - Shiozumi T
 AU  - Matsuyama T
 AU  - Imamura T
-AU  - (Iwami T; JAAM-OHCA registry
-AU  - Japan)
+AU  - Nishioka N
+AU  - Kiguchi T
+AU  - Kitamura T
+AU  - Iwami T
 JO  - Critical Care Medicine
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007104
@@ -5047,8 +5261,24 @@ TI  - Preoperative Use of Venoarterial Extracorporeal Membrane Oxygenation in Po
 AU  - Gemelli M
 AU  - Ronco D
 AU  - Matteucci M
-AU  - (Lorusso R; ELSO Registry multicenter
-AU  - 2000-2025)
+AU  - Massimi G
+AU  - Di Mauro M
+AU  - MacLaren G
+AU  - Peek GJ
+AU  - Kapur NK
+AU  - Stein LH
+AU  - Silvestry S
+AU  - Goldstein D
+AU  - Arora RC
+AU  - Whitman G
+AU  - Engelman DT
+AU  - Li X
+AU  - Takayama H
+AU  - Brodie D
+AU  - Hou X
+AU  - Gerosa G
+AU  - Ariza-Solè A
+AU  - Lorusso R
 JO  - ASAIO Journal
 PY  - 2026
 DO  - 10.1097/mat.0000000000002710
@@ -5077,7 +5307,17 @@ TI  - Impact of Delayed Heparin Bridging on Bleeding and Stroke After Left Ventr
 AU  - Jahangiri P
 AU  - Luo Y
 AU  - Sjatskig J
-AU  - (Caliskan K; Erasmus MC)
+AU  - Şener YZ
+AU  - Bunge JJH
+AU  - Dubois E
+AU  - Meuwese C
+AU  - Constantinescu A
+AU  - van der Boon RMA
+AU  - Manintveld OC
+AU  - Leebeek FWG
+AU  - Kluin J
+AU  - de Boer RA
+AU  - Caliskan K
 JO  - ASAIO J
 PY  - 2026
 DO  - 10.1097/mat.0000000000002731
@@ -6177,13 +6417,18 @@ KW  - 2023-08
 ER  - 
 
 TY  - JOUR
-TI  - Evaluating the Association of Extubation Readiness Testing Performance Variables With Reintubation After Pediatric Cardiac Surgery](https://pubmed.ncbi.nlm.nih.gov/42606138/) ([DOI
+TI  - Evaluating the Association of Extubation Readiness Testing Performance Variables With Reintubation After Pediatric Cardiac Surgery
 AU  - Foglia MJ
 AU  - Thompson EJ
 AU  - Sherwin JI
+AU  - Allareddy V
+AU  - Rotta AT
+AU  - Miller AG
 JO  - Respir Care
 PY  - 2026
-DO  - 10.1177/19433654261475779)
+DO  - 10.1177/19433654261475779
+AN  - 42606138
+UR  - https://doi.org/10.1177/19433654261475779
 KW  - Cardiac CC
 KW  - 2026-W35
 ER  - 

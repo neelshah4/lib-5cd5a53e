@@ -3,7 +3,63 @@ TI  - Sodium Bicarbonate for In-Hospital Cardiac Arrest: A Randomized Clinical T
 AU  - Granfeldt A
 AU  - Kirkegaard BL
 AU  - Vallentin MF
-AU  - (BIHCA Investigators)
+AU  - Holmberg MJ
+AU  - Stankovic N
+AU  - Lind PC
+AU  - Kjærgaard AG
+AU  - Houe N
+AU  - Vested M
+AU  - Isbye DL
+AU  - Kristensen CM
+AU  - Kjærgaard J
+AU  - Zwisler ST
+AU  - Lundsfryd SN
+AU  - Petersen LB
+AU  - Folke F
+AU  - Hansen CM
+AU  - Iversen KK
+AU  - Schou M
+AU  - Wiberg S
+AU  - Riddersholm SJ
+AU  - Rasmussen BS
+AU  - Karlsson K
+AU  - Plovsing RR
+AU  - Juhl CS
+AU  - Krag M
+AU  - Sørensen CD
+AU  - Kuhne-Qvist P
+AU  - Oxlund J
+AU  - Sølling CG
+AU  - Hansen JR
+AU  - Andersen LPK
+AU  - Jensen JMS
+AU  - Itenov TS
+AU  - Lauritzen M
+AU  - Pedersen MJ
+AU  - Nielsen RP
+AU  - Fjeldsøe-Nielsen H
+AU  - Mirzada N
+AU  - Secher N
+AU  - Espelund US
+AU  - Eskol JR
+AU  - Andersen K
+AU  - Brøchner AC
+AU  - Nedergaard HK
+AU  - Hansen PM
+AU  - Henschel W
+AU  - Walli AR
+AU  - Sandgaard M
+AU  - Asferg CL
+AU  - Ciubotariu A
+AU  - Rasmussen MHR
+AU  - Le Breton V
+AU  - Nielsen LK
+AU  - Hansen FG
+AU  - Brændstrup N
+AU  - Thomsen IK
+AU  - Sindberg B
+AU  - Andersen LW
+AU  - Bicarbonate for In-Hospital Cardiac Arrest (BIHCA) Investigators
 JO  - JAMA
 PY  - 2026
 DO  - 10.1001/jama.2026.10628
@@ -204,11 +260,56 @@ ER  -
 
 TY  - JOUR
 TI  - Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial
-AU  - Renu A
-AU  - Fernandez-Couto MD
+AU  - Renú A
+AU  - Fernández-Couto MD
 AU  - de la Riva P
-AU  - (14 stroke centers
-AU  - Spain)
+AU  - Delgado-Mederos R
+AU  - Herrera M
+AU  - Morales A
+AU  - Terceño M
+AU  - López-Hernández N
+AU  - Martínez-Galdámez M
+AU  - Dorado L
+AU  - Vega P
+AU  - Morales-Caba L
+AU  - González E
+AU  - Alonso M
+AU  - Barredo Benítez P
+AU  - Bermejo R
+AU  - Cabero-Arnold A
+AU  - Cabrera-Maqueda JM
+AU  - Vargas M
+AU  - Calleja Bonilla Á
+AU  - Calleja S
+AU  - Díaz-Pérez J
+AU  - Rudilosso S
+AU  - Doncel-Moriano A
+AU  - Feal MJ
+AU  - Gallego JI
+AU  - Hurtado P
+AU  - Laredo C
+AU  - Llull L
+AU  - Bartolomé I
+AU  - Martínez-Calvo A
+AU  - Ortega-Sánchez Á
+AU  - Rodríguez-Vázquez A
+AU  - Rodríguez-Caamaño I
+AU  - Singla A
+AU  - Silva Y
+AU  - Tarruella Hernández D
+AU  - Oleaga L
+AU  - San Román Manzanera L
+AU  - Serena J
+AU  - Freijo MM
+AU  - Pérez de la Ossa N
+AU  - Castellanos M
+AU  - Arenillas-Lara JF
+AU  - Torres F
+AU  - Leira EC
+AU  - Amaro S
+AU  - Urra X
+AU  - Chamorro Á
+AU  - CHOICE-2 Investigators
 JO  - JAMA
 PY  - 2026
 DO  - 10.1001/jama.2026.5164
@@ -225,7 +326,18 @@ TI  - Acute Respiratory Tract Infections and Severe Disease Among Hospitalized C
 AU  - Mtaweh H
 AU  - Kaziev CL
 AU  - Feinstein CA
-AU  - (Gill PJ; Hospital for Sick Children and BC Children's Hospital)
+AU  - Seaton C
+AU  - Farrar DS
+AU  - Datta RR
+AU  - Mahant S
+AU  - Campigotto A
+AU  - Freire G
+AU  - Yeung RSM
+AU  - Bone JN
+AU  - Buchanan F
+AU  - Morris SK
+AU  - Gill PJ
+AU  - READAPT-Kids Study Group
 JO  - JAMA Network Open
 PY  - 2026
 DO  - 10.1001/jamanetworkopen.2026.17575
@@ -705,9 +817,10 @@ TI  - Duration of Emergency Medical Services-Initiated Prehospital Cardiopulmona
 AU  - Okubo M
 AU  - Komukai S
 AU  - Izawa J
-AU  - (Callaway CW
-AU  - Berg RA; ROC Epistry registry
-AU  - 10 US/Canadian sites)
+AU  - Amagasa S
+AU  - Ramgopal S
+AU  - Callaway CW
+AU  - Berg RA
 JO  - Resuscitation
 PY  - 2026
 DO  - 10.1016/j.resuscitation.2026.111028
@@ -844,8 +957,245 @@ ER  -
 
 TY  - JOUR
 TI  - Cefazolin for Methicillin-Susceptible Staphylococcus aureus Bacteremia
-AU  - SNAP Investigators (multicenter; N=1
-AU  - 287 enrolled; Bayesian adaptive phase IV equivalence RCT)
+AU  - Staphylococcus aureus Network Adaptive Platform (SNAP) Trial Group
+AU  - Lee TC
+AU  - Barina LA
+AU  - Walls G
+AU  - Goodman AL
+AU  - Yahav D
+AU  - Cheng MP
+AU  - Bonten M
+AU  - Bowen AC
+AU  - Boyles T
+AU  - Daneman N
+AU  - Ekkelenkamp MB
+AU  - Ghanem-Zoubi N
+AU  - Hensgens MPM
+AU  - Jager NGL
+AU  - Kaasch AJ
+AU  - Kouijzer IJE
+AU  - Lewis RJ
+AU  - Lumley T
+AU  - Lye DC
+AU  - McDonald EG
+AU  - McKew G
+AU  - McLean ARD
+AU  - McMullan BJ
+AU  - McQuilten ZK
+AU  - Morpeth SC
+AU  - Paterson DL
+AU  - Roberts JA
+AU  - Robinson JO
+AU  - Saito H
+AU  - Scarborough M
+AU  - Ten Oever J
+AU  - Turner RM
+AU  - Tverring J
+AU  - van Hal SJ
+AU  - Webb SA
+AU  - Whiteway LM
+AU  - Arias CA
+AU  - Henderson A
+AU  - Heriot GS
+AU  - Snelling TL
+AU  - Afra K
+AU  - Ali SS
+AU  - Amit S
+AU  - Anagnostou NA
+AU  - Archuleta S
+AU  - Aston SJ
+AU  - Athan E
+AU  - Baharav N
+AU  - Bai AD
+AU  - Barber BE
+AU  - Baskaran A
+AU  - Berkeley MMA
+AU  - Best EJ
+AU  - Bhilave NR
+AU  - Bloomfield MG
+AU  - Bond KA
+AU  - Bostock J
+AU  - Botheras CL
+AU  - Boyd MA
+AU  - Bradshaw SME
+AU  - Briggs EJ
+AU  - Britton PN
+AU  - Campbell AJ
+AU  - Carr BZ
+AU  - Chancellor JA
+AU  - Chen K
+AU  - Cheong EY
+AU  - Chew KL
+AU  - Chia PY
+AU  - Chomba R
+AU  - Chong BSW
+AU  - Clews CJN
+AU  - Cohen JM
+AU  - Commons RJ
+AU  - Cutfield T
+AU  - Daley P
+AU  - Daniel DS
+AU  - Davies J
+AU  - De P
+AU  - Denholm JT
+AU  - Di Virgilio M
+AU  - Dishon-Benattar Y
+AU  - Dotel R
+AU  - Duan EH
+AU  - Easom N
+AU  - Eliakim-Raz N
+AU  - England MM
+AU  - Fahmy M
+AU  - Findlater AR
+AU  - Flanagan KL
+AU  - Foo EZJ
+AU  - Foo H
+AU  - Forster DP
+AU  - Fralick M
+AU  - Frazer JL
+AU  - Gador-Whyte AP
+AU  - Garnham K
+AU  - German GJ
+AU  - Ghosh N
+AU  - Gisolf EH
+AU  - Giulieri SG
+AU  - Goulding SR
+AU  - Grant JM
+AU  - Gregson D
+AU  - Grimwade KC
+AU  - Grupper M
+AU  - Guy SD
+AU  - Gwee A
+AU  - Hall VG
+AU  - Hardy EJ
+AU  - Harris DJ
+AU  - Hatcher J
+AU  - Hobbs MR
+AU  - Holmes NE
+AU  - Howden BP
+AU  - Huggan PJ
+AU  - Jennings ZA
+AU  - Johnstone J
+AU  - Juniper T
+AU  - Kalimuddin S
+AU  - Kamfose M
+AU  - Kandel C
+AU  - Kelly MJ
+AU  - Kozak RA
+AU  - Kümin M
+AU  - Lamontagne F
+AU  - Lau JSY
+AU  - Lee IR
+AU  - Lin RJ
+AU  - Lindsay D
+AU  - Llewelyn MJ
+AU  - Longtin Y
+AU  - Lother SA
+AU  - Luey CE
+AU  - MacFadden DR
+AU  - Mahony AA
+AU  - Malden C
+AU  - Malhamé I
+AU  - Manning LA
+AU  - Marks M
+AU  - Martin LJ
+AU  - Matthews GV
+AU  - McGann PH
+AU  - McMahon JH
+AU  - Melon A
+AU  - Menon V
+AU  - Mertz D
+AU  - Meyer MP
+AU  - Molton JS
+AU  - Mora JM
+AU  - Moran E
+AU  - Mortimer LM
+AU  - Motaganahalli S
+AU  - Muller MP
+AU  - Munro APS
+AU  - Murray FA
+AU  - Murthy S
+AU  - Nagendra V
+AU  - Nel H
+AU  - New DWJ
+AU  - Nguyen V
+AU  - Norton G
+AU  - Norton KM
+AU  - Nourse CB
+AU  - Nye CJS
+AU  - O'Callaghan K
+AU  - O'Sullivan MVN
+AU  - Ong SWX
+AU  - Otu AA
+AU  - Owen M
+AU  - Papenburg J
+AU  - Parkes LO
+AU  - Paul M
+AU  - Perez-Patrigeon S
+AU  - Petersiel N
+AU  - Petrella L
+AU  - Pett SL
+AU  - Pham D
+AU  - Piazzese CJ
+AU  - Poulin S
+AU  - Rehak R
+AU  - Rennert-May E
+AU  - Richards AJ
+AU  - Rogers BA
+AU  - Sahng E
+AU  - Salada B
+AU  - Scheuerman O
+AU  - Schneider K
+AU  - Schulz TR
+AU  - Schwartz KL
+AU  - Simos PA
+AU  - Singh H
+AU  - Sinkeler FS
+AU  - Smith S
+AU  - Smith BJ
+AU  - Smith SW
+AU  - Somayaji R
+AU  - Sommerville C
+AU  - Song RXJ
+AU  - Sowden DC
+AU  - Stark MJ
+AU  - Stone NRH
+AU  - Strunk T
+AU  - Sud A
+AU  - Swe KP
+AU  - Symons CR
+AU  - Tan YE
+AU  - Ten Doesschate T
+AU  - Thien SY
+AU  - Thomas A
+AU  - Trad MA
+AU  - Tramontana AR
+AU  - Tsang JLY
+AU  - Ulett K
+AU  - Underwood J
+AU  - van Welzen BJ
+AU  - Vazquez-Grande G
+AU  - Velasquez Reyes DC
+AU  - Verberk JDM
+AU  - Voss LM
+AU  - Ward D
+AU  - Webb RH
+AU  - Whitmore TJ
+AU  - Wieder-Finesod A
+AU  - Wilson HL
+AU  - Wilson EW
+AU  - Wong HM
+AU  - Wong She K
+AU  - Wuerz T
+AU  - Yamamura DL
+AU  - Yeoh A
+AU  - Yow BLH
+AU  - Dymock M
+AU  - Mahar RK
+AU  - McGlothlin A
+AU  - Marsh JA
+AU  - Davis JS
+AU  - Tong SYC
 JO  - New England Journal of Medicine
 PY  - 2026
 DO  - 10.1056/nejmoa2506905
@@ -897,10 +1247,25 @@ ER  -
 
 TY  - JOUR
 TI  - Vasopressors or Fluids in Early Septic Shock
+AU  - ARISE FLUIDS Investigators, the ANZICS Clinical Trials Group, and the ACEM Clinical Trials Network
 AU  - Peake SL
 AU  - Macdonald SPJ
 AU  - Howe BD
-AU  - (Bellomo R; ANZICRC — Australia/New Zealand multicenter)
+AU  - Milford E
+AU  - Jones P
+AU  - Arendts G
+AU  - Bailey M
+AU  - Burcham J
+AU  - Delaney A
+AU  - Egerton-Warburton D
+AU  - Fatovich D
+AU  - Fraser JF
+AU  - Higgins AM
+AU  - Keijzers G
+AU  - Udy AA
+AU  - Williams P
+AU  - Young PJ
+AU  - Bellomo R
 JO  - New England Journal of Medicine
 PY  - 2026
 DO  - 10.1056/nejmoa2516225
@@ -913,12 +1278,35 @@ ER  -
 
 TY  - JOUR
 TI  - Sodium Bicarbonate for Critically Ill Adults with Metabolic Acidosis and Shock
+AU  - SODa-BIC Investigators and the Australian and New Zealand Intensive Care Society Clinical Trials Group
 AU  - Serpa Neto A
 AU  - McNamara M
 AU  - White K
-AU  - (Bellomo R
-AU  - Udy A; ANZICRC — 55 ICUs
-AU  - 7 countries)
+AU  - Cooper DJ
+AU  - Fujii T
+AU  - Higgins AM
+AU  - Hodgson CL
+AU  - Navarra L
+AU  - Nichol A
+AU  - Peake S
+AU  - Réa-Neto A
+AU  - Secombe P
+AU  - Osborne F
+AU  - Burrill H
+AU  - See E
+AU  - Young M
+AU  - Zampieri FG
+AU  - Plummer M
+AU  - Christie C
+AU  - Nunnink L
+AU  - Mackay J
+AU  - McGuinness S
+AU  - Marmol J
+AU  - Tiruvoipati R
+AU  - Bailey M
+AU  - Young PJ
+AU  - Bellomo R
+AU  - Udy A
 JO  - New England Journal of Medicine
 PY  - 2026
 DO  - 10.1056/nejmoa2600526
@@ -931,9 +1319,40 @@ ER  -
 
 TY  - JOUR
 TI  - Carbocisteine or Hypertonic Saline for Acute Respiratory Failure (MARCH Trial)
-AU  - [First author not listed in section metadata]
-AU  - (multicenter; N=1
-AU  - 956 MV adults)
+AU  - Connolly B
+AU  - Dickson N
+AU  - Campbell C
+AU  - Bradley JM
+AU  - O'Neill B
+AU  - Agus A
+AU  - Barker M
+AU  - Bewley JS
+AU  - Blackwood B
+AU  - Borthwick M
+AU  - Camporota L
+AU  - Chikhani M
+AU  - Clarke M
+AU  - Dark P
+AU  - Higgins L
+AU  - Lambert P
+AU  - Lunn T
+AU  - McDowell C
+AU  - McFarland M
+AU  - McShane U
+AU  - Mehta R
+AU  - Messer B
+AU  - Morton B
+AU  - Patel N
+AU  - Perkins GD
+AU  - Rowley D
+AU  - Shyamsundar M
+AU  - Silversides JA
+AU  - Sturmey G
+AU  - Warburton J
+AU  - Williams B
+AU  - Lall R
+AU  - McAuley DF
+AU  - MARCH Trial Investigators
 JO  - New England Journal of Medicine
 PY  - 2026
 DO  - 10.1056/nejmoa2603406
@@ -981,8 +1400,25 @@ ER  -
 
 TY  - JOUR
 TI  - Airway Occlusions to Measure Inspiratory Effort, Respiratory Drive, and Lung Mechanics During Noninvasive Ventilation
-AU  - [First author not listed in section metadata]
-AU  - (multicenter; N=60 post-extubation hypoxemic patients)
+AU  - Murgolo F
+AU  - Grieco DL
+AU  - Soloperto R
+AU  - Bertoni M
+AU  - Spadaro S
+AU  - Bartolomeo N
+AU  - Pettenuzzo T
+AU  - Beloncle F
+AU  - Venkatapen D
+AU  - Cardu A
+AU  - Rosà T
+AU  - Iacovelli C
+AU  - Navalesi P
+AU  - Maggiore SM
+AU  - Goligher EC
+AU  - Ranieri VM
+AU  - Del Sorbo L
+AU  - Antonelli M
+AU  - Grasso S
 JO  - American Journal of Respiratory and Critical Care Medicine
 PY  - 2026
 DO  - 10.1093/ajrccm/aamag293
@@ -1060,8 +1496,15 @@ TI  - Divergence Between Net Fluid and Weight-Based Evaluation in Calculating Cu
 AU  - Shinnick FJ
 AU  - Hasson DC
 AU  - Kothari U
-AU  - (Dziorny AC; 4 pediatric academic centers
-AU  - 6 PICUs/PCICUs)
+AU  - Shah A
+AU  - Odum JD
+AU  - Braun CG
+AU  - Dixon CG
+AU  - Fitzgerald JC
+AU  - Martin SD
+AU  - Terry N
+AU  - Dziorny AC
+AU  - Evidence-Driven Evaluation and Management of fluid Accumulation (EDEMA) Collaborative
 JO  - Critical Care Explorations
 PY  - 2026
 DO  - 10.1097/cce.0000000000001411
@@ -1098,10 +1541,21 @@ TI  - Predictive and Prognostic Performance of the Phoenix Sepsis Criteria and P
 AU  - Marchetto L
 AU  - Daverio M
 AU  - Comoretto R
-AU  - (Schlapbach LJ
+AU  - Padrin D
+AU  - Scaravetti S
+AU  - Bordin G
+AU  - Ferrario S
+AU  - Mondardini MC
+AU  - Picconi E
+AU  - Rulli I
+AU  - Sacco F
+AU  - Vitale P
+AU  - Brigiari G
+AU  - Schlapbach LJ
 AU  - Menon K
-AU  - Amigoni A; 8 PICUs
-AU  - Italian TIPNet)
+AU  - Gregori D
+AU  - Amigoni A
+AU  - Italian Network of PICU Study Group (TIPNet)
 JO  - Critical Care Medicine
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007034
@@ -1140,9 +1594,15 @@ TI  - Clinical Outcomes and Risk Factors in Pediatric Postcardiotomy Extracorpor
 AU  - Xu B
 AU  - Zhou X
 AU  - Yu X
-AU  - (Hou X
-AU  - Li C; Beijing Anzhen Hospital
-AU  - Capital Medical University)
+AU  - Wang L
+AU  - Du Z
+AU  - Gu Y
+AU  - Hong X
+AU  - Wang H
+AU  - Hao X
+AU  - Hou X
+AU  - Li C
+AU  - Chinese Society of Extracorporeal Life Support (CSECLS)
 JO  - ASAIO Journal
 PY  - 2026
 DO  - 10.1097/mat.0000000000002746
@@ -1183,8 +1643,10 @@ TI  - Anticoagulation Changes and Biochemical Signals Preceding Hospital-Acquire
 AU  - Davidson SM
 AU  - Miller JO
 AU  - Bauer PN
-AU  - (Rilinger JF; Children's Mercy Hospital
-AU  - Kansas City)
+AU  - Holton C
+AU  - Herigon JC
+AU  - Lee BR
+AU  - Rilinger JF
 JO  - ASAIO Journal
 PY  - 2026
 DO  - 10.1097/mat.0000000000002758
@@ -1217,8 +1679,7 @@ AU  - Gillett EL
 AU  - Birisci E
 AU  - Frazier JB
 AU  - Stroud MH
-AU  - Malone MP (Arkansas Children's Hospital
-AU  - Little Rock)
+AU  - Malone MP
 JO  - Pediatric Critical Care Medicine
 PY  - 2026
 DO  - 10.1097/pcc.0000000000003979
@@ -1245,9 +1706,12 @@ ER  -
 
 TY  - JOUR
 TI  - Child Opportunity Index and 30-Day Readmission Among Children Discharged With New Long-Term Mechanical Ventilation via Tracheostomy: A Pediatric Health Information System Database Study, 2014–2023
-AU  - [First author not listed in section metadata]
-AU  - (PHIS database; N=5
-AU  - 927)
+AU  - Scheller LL
+AU  - Alkon A
+AU  - Hoffmann TJ
+AU  - Staveski S
+AU  - Foster CC
+AU  - Russell CJ
 JO  - Pediatric Critical Care Medicine
 PY  - 2026
 DO  - 10.1097/pcc.0000000000003989
@@ -1317,8 +1781,14 @@ ER  -
 
 TY  - JOUR
 TI  - The Accuracy of Plateau and Driving Pressures During Assisted and Spontaneous Ventilation Depends on the Degree of Inspiratory Effort and Duration of the Inspiratory Hold
-AU  - [First author not listed in section metadata]
-AU  - (ASL-5000 simulator + pediatric ARDS trial waveforms)
+AU  - Herrera MG
+AU  - Ito Y
+AU  - Vedrenne-Cloquet M
+AU  - Hotz JC
+AU  - Takeuchi M
+AU  - Newth CJL
+AU  - Bhalla AK
+AU  - Khemani RG
 JO  - Respiratory Care
 PY  - 2026
 DO  - 10.1177/19433654261450212
@@ -1331,8 +1801,18 @@ ER  -
 
 TY  - JOUR
 TI  - Association of Extubation Timing and Treatment Failure After Successful Extubation Readiness Trial in Pediatric Patients
-AU  - [First author not listed in section metadata]
-AU  - (single quaternary PICU; N=261)
+AU  - Dixon KL
+AU  - Glau CL
+AU  - Faulkner EL
+AU  - Dominick C
+AU  - Nishisaki A
+AU  - Rosenblatt SA
+AU  - Loscalzo S
+AU  - Traynor DM
+AU  - Kirchner V
+AU  - Himebauch AS
+AU  - Conlon TW
+AU  - Keim G
 JO  - Respiratory Care
 PY  - 2026
 DO  - 10.1177/19433654261450551
@@ -1345,8 +1825,10 @@ ER  -
 
 TY  - JOUR
 TI  - Effect of High-Flow Nasal Cannula on Expiratory Muscle Activity in Critically Ill Subjects
-AU  - [First author not listed in section metadata]
-AU  - (single ICU; N=30)
+AU  - Akimoto Y
+AU  - Itagaki T
+AU  - Takashima T
+AU  - Oto J
 JO  - Respiratory Care
 PY  - 2026
 DO  - 10.1177/19433654261453032
@@ -1359,8 +1841,15 @@ ER  -
 
 TY  - JOUR
 TI  - Ventilator Liberation for Hospitalized Patients With Tracheostomy
-AU  - [First author not listed in section metadata]
-AU  - (Cleveland Clinic)
+AU  - Neuhofs S
+AU  - Mujanovic S
+AU  - Fischer M
+AU  - Ference T
+AU  - Roberts V
+AU  - Griffiths L
+AU  - Wang X
+AU  - Wang Y
+AU  - Hatipoğlu U
 JO  - Respiratory Care
 PY  - 2026
 DO  - 10.1177/19433654261453039
@@ -1445,7 +1934,14 @@ ER  -
 
 TY  - JOUR
 TI  - Effectiveness and Safety of Melatoninergic Agonists in Preventing Delirium in the ICU: An Updated Dose-Response Meta-Analysis of Randomized Controlled Trials
-AU  - [First author not listed in section metadata]
+AU  - Chaves-Filho A
+AU  - Medrado MF
+AU  - Zamboni T
+AU  - Cavalcanti AB
+AU  - Shim SR
+AU  - Quinn TJ
+AU  - Veiga VC
+AU  - Mavridis T
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06047-0
@@ -1479,8 +1975,9 @@ TI  - Current and Future Strategies Aiming at Reducing Catecholamine Exposure in
 AU  - Dubech A
 AU  - Picod A
 AU  - Pierre A
-AU  - (Garcia B; CHU Lille / Saint-Pierre University Hospital
-AU  - Brussels)
+AU  - Preau S
+AU  - Favory R
+AU  - Garcia B
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06109-3
@@ -1496,8 +1993,11 @@ TI  - The Effects of Mechanical Ventilation During V-A ECMO Support: A Systemati
 AU  - Protti I
 AU  - Di Tomasso N
 AU  - Meani P
-AU  - (Meuwese CL; Erasmus Medical Center
-AU  - Rotterdam)
+AU  - Ter Horst M
+AU  - Grasselli G
+AU  - Juffermans NP
+AU  - Jonkman AH
+AU  - Meuwese CL
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06111-9

@@ -20,6 +20,19 @@ REPO = Path(__file__).resolve().parent.parent
 SCRIPTS = REPO / "scripts"
 FIXTURES = Path(__file__).resolve().parent / "fixtures"
 REAL_DIGESTS_DIR = Path.home() / ".claude" / "digests"
+MONTHLY_DIGESTS = [
+    Path("/Users/neel/Downloads/Claude Sandbox/June-2026-critical-care-digest.md"),
+    Path("/Users/neel/Downloads/Claude Sandbox/July-2026-critical-care-digest.md"),
+]
+
+# These two suites read corpora that live on the maintainer's machine, not in
+# the repo. On a GitHub runner they cannot pass, and failing there turned the
+# Validate workflow red on EVERY push (2026-09-06, -07, -14) until it was just
+# noise. Skip when the corpus is absent; still hard-fail where it exists.
+HAVE_WEEKLY_CORPUS = len(glob.glob(str(REAL_DIGESTS_DIR / "pubmed-*.md"))) > 0
+HAVE_MONTHLY_CORPUS = all(p.exists() for p in MONTHLY_DIGESTS)
+NO_WEEKLY = "local weekly digest corpus not present (~/.claude/digests)"
+NO_MONTHLY = "local monthly digest corpus not present (Claude Sandbox)"
 
 sys.path.insert(0, str(SCRIPTS))
 
@@ -328,6 +341,7 @@ class TestBorderlineAndPracticeChanging(TempCatalogTestCase):
         self.assertFalse(records["10.1097/mat.0000000000002822"]["_section_inferred"])
 
 
+@unittest.skipUnless(HAVE_WEEKLY_CORPUS, NO_WEEKLY)
 class TestRealDigestDryRun(unittest.TestCase):
     """Runs ingest_weekly --dry-run against all 15 real pubmed-*.md digests,
     offline (resolve stubbed to {}). Does NOT touch the temp/real catalog --
@@ -375,14 +389,12 @@ class TestRealDigestDryRun(unittest.TestCase):
         self.assertEqual(empty, [], f"real weekly digests parsed to 0 papers: {empty}")
 
 
+@unittest.skipUnless(HAVE_MONTHLY_CORPUS, NO_MONTHLY)
 class TestRealMonthlyDigests(unittest.TestCase):
     """The two real monthly digests the backfill consumes must parse, and every
     '## ' heading must be either a canonical section or a declared trailer."""
 
-    PATHS = [
-        Path("/Users/neel/Downloads/Claude Sandbox/June-2026-critical-care-digest.md"),
-        Path("/Users/neel/Downloads/Claude Sandbox/July-2026-critical-care-digest.md"),
-    ]
+    PATHS = MONTHLY_DIGESTS
 
     def test_monthly_headings_all_recognized(self):
         for path in self.PATHS:
@@ -412,6 +424,82 @@ class TestRealMonthlyDigests(unittest.TestCase):
         self.assertFalse(ingest_monthly.is_trailer("Zotero exports and ECMO"))
         self.assertFalse(ingest_monthly.is_trailer("Renal"))
         self.assertFalse(ingest_monthly.is_trailer("Link audit findings"))
+
+
+class TestAuthorShapeGuard(unittest.TestCase):
+    """Regression: a prose blurb must never be written into `authors`.
+
+    2026-09-14: the '## Borderline (worth a peek)' bullet layout fed its
+    one-line blurb to the author parser, which comma-split it into fake
+    creators. Zotero rejected one server-side ('creator name is too long to
+    sync') and three catalog rows shipped to the site and the .ris/.bib/
+    .csl.json exports with sentences as author names.
+    """
+
+    PROSE = [
+        "Meta-analysis of 3 RCTs (n=431) found no significant improvement in "
+        "functional outcome, DCI, or vasospasm with dexmedetomidine in aSAH",
+        "Large Japanese registry (n=8,577) showing in-hospital cardiac arrest "
+        "before Impella implantation carries higher 30-day mortality",
+        "Prospective 6-center Chinese cohort (n=456) using serial Doppler-derived "
+        "renal perfusion phenotyping found less persistent AKI",
+        "single-center retrospective cohort, 2016-2024.",
+        "[First author not listed in section metadata] et al. (single ICU; N=30)",
+        "[authors not captured in this fetch pass - see PubMed record]",
+        "Combined clinical cohort (121 CA patients) with rat models found BCAA",
+    ]
+
+    REAL = {
+        "Rose AT, Lakhani A, Conroy S": ["Rose AT", "Lakhani A", "Conroy S"],
+        "Zaulan O, Ginter DC, Mueller B, et al.": ["Zaulan O", "Ginter DC", "Mueller B"],
+        # lowercase nobiliary particles are names, not prose
+        "Blom FA, van Leuteren RW, de Jongh FH, et al.":
+            ["Blom FA", "van Leuteren RW", "de Jongh FH"],
+        # trailing (site; N=) annotation is stripped, names kept
+        "Manning JC, Latour JM, Draper E, et al. (Curley MAQ; 10 English PICUs, N=326)":
+            ["Manning JC", "Latour JM", "Draper E"],
+        "van Herwerden MC et al. (12 Dutch hospitals; N=18,798)": ["van Herwerden MC"],
+        # names running into a PMID link keep the names, drop the blurb
+        "Titherington LM, Bottesi T, Guzzi F, et al. PMID: [42525046](https://x). Review":
+            ["Titherington LM", "Bottesi T", "Guzzi F"],
+    }
+
+    def test_prose_never_becomes_authors(self):
+        for blurb in self.PROSE:
+            with self.subTest(blurb=blurb[:50]):
+                self.assertIsNone(ingest_weekly.parse_authors(blurb))
+
+    def test_real_author_lists_survive(self):
+        for raw, expected in self.REAL.items():
+            with self.subTest(raw=raw[:50]):
+                self.assertEqual(ingest_weekly.parse_authors(raw), expected)
+
+    def test_borderline_bullet_yields_no_authors(self):
+        """End-to-end on the exact line that broke the 2026-09-14 Zotero sync."""
+        digest = (
+            "# Critical-care literature digest - week of 2099-01-01\n\n"
+            "## Borderline (worth a peek)\n\n"
+            "- [borderline] **DexSAH: Dexmedetomidine in Aneurysmal Subarachnoid "
+            "Hemorrhage** - *Neurocrit Care, 2026, Journal Article.* Meta-analysis "
+            "of 3 RCTs (n=431) found no significant improvement in functional "
+            "outcome, DCI, or vasospasm with dexmedetomidine in aSAH. "
+            "[PMID: 42711630](https://pubmed.ncbi.nlm.nih.gov/42711630/) "
+            "[DOI](https://doi.org/10.1007/s12028-026-02644-7)\n"
+        )
+        _id, _date, _title, papers = ingest_weekly.parse_digest(digest, "<test>")
+        self.assertTrue(papers, "borderline bullet should still yield a paper")
+        for rec in papers:
+            self.assertIsNone(
+                rec["authors"],
+                f"prose leaked into authors: {rec['authors']!r}")
+
+    def test_no_author_token_is_zotero_length_hostile(self):
+        """Zotero rejects creator names that are sentence-length."""
+        for raw in list(self.REAL) + self.PROSE:
+            for name in (ingest_weekly.parse_authors(raw) or []):
+                self.assertLess(
+                    len(name), 120,
+                    f"author token too long for Zotero sync: {name!r}")
 
 
 if __name__ == "__main__":

@@ -121,7 +121,38 @@ TI  - High-Dose Intravenous Vitamin C and Mortality and Organ Dysfunction in Sev
 AU  - Stoppe C
 AU  - Hill A
 AU  - Cancio LC
-AU  - (Heyland DK; 24 burn centers globally)
+AU  - Day AG
+AU  - Pruskowski KA
+AU  - Turgeon AF
+AU  - Pham T
+AU  - Bélisle S
+AU  - Martínez-Jiménez MA
+AU  - Limper U
+AU  - Gille J
+AU  - Wisler J
+AU  - Savetamal A
+AU  - Pollack J
+AU  - Grau Domínguez D
+AU  - Jennes S
+AU  - Shupp JW
+AU  - Jeschke MG
+AU  - Colpaert K
+AU  - Hundeshagen G
+AU  - Beier JP
+AU  - Muangman P
+AU  - Echeverri McCandless A
+AU  - Meybohm P
+AU  - Grune T
+AU  - Dresen E
+AU  - Weber D
+AU  - Güttler C
+AU  - Lew CCH
+AU  - Jiang X
+AU  - Froese S
+AU  - Dansereau M
+AU  - Lee ZY
+AU  - Heyland DK
+AU  - VICTORY Study Team
 JO  - JAMA
 PY  - 2026
 DO  - 10.1001/jama.2026.10616
@@ -2083,13 +2114,42 @@ KW  - 2026-W34
 ER  - 
 
 TY  - JOUR
-TI  - Early Red Blood Cell Transfusion Strategy in Septic Shock Among Patients With Cancer: the TRANSPORT RCT](https://pubmed.ncbi.nlm.nih.gov/42616082/) ([DOI
+TI  - Early red blood cell transfusion strategy in septic shock among patients with cancer: the TRANSPORT randomized controlled trial
 AU  - Pène F
 AU  - Vigneron C
 AU  - Lafarge A
+AU  - Mokart D
+AU  - Zerbib Y
+AU  - Canet E
+AU  - Kamel T
+AU  - Moreau AS
+AU  - Cadoz C
+AU  - Decavèle M
+AU  - Mekontso Dessap A
+AU  - Ebstein N
+AU  - Lacave G
+AU  - Chelly J
+AU  - Reuter D
+AU  - Argaud L
+AU  - Ait-Oufella H
+AU  - Bigé N
+AU  - Levrard M
+AU  - Charpentier J
+AU  - Bisbal M
+AU  - Maizel J
+AU  - Benguerfi S
+AU  - Barbier F
+AU  - Bureau C
+AU  - Bigot N
+AU  - Resche-Rigon M
+AU  - Lambert J
+AU  - Azoulay E
+AU  - GRRR-OH (Groupe de Recherche Respiratoire en Réanimation Onco-Hématologique)
 JO  - Intensive Care Med
 PY  - 2026
-DO  - 10.1007/s00134-026-08582-4)
+DO  - 10.1007/s00134-026-08582-4
+AN  - 42616082
+UR  - https://doi.org/10.1007/s00134-026-08582-4
 KW  - Shock & Sepsis
 KW  - 2026-W35
 ER  - 
@@ -2207,13 +2267,20 @@ KW  - 2026-W33
 ER  - 
 
 TY  - JOUR
-TI  - Interleukin-6 as a Sepsis Biomarker in Neonatal and Pediatric Care: A Retrospective Real-World Cohort Study](https://pubmed.ncbi.nlm.nih.gov/42622709/) ([DOI
+TI  - Interleukin-6 as a sepsis biomarker in neonatal and pediatric care: A retrospective real world cohort study
 AU  - Whelan SO
 AU  - Kelleher G
 AU  - Campbell S
+AU  - Walsh A
+AU  - McCallion N
+AU  - Moriarty F
+AU  - Elsammak M
+AU  - Drew RJ
 JO  - Eur J Pediatr
 PY  - 2026
-DO  - 10.1007/s00431-026-07335-1)
+DO  - 10.1007/s00431-026-07335-1
+AN  - 42622709
+UR  - https://doi.org/10.1007/s00431-026-07335-1
 KW  - Shock & Sepsis
 KW  - 2026-W35
 ER  - 
@@ -3151,7 +3218,53 @@ ER  -
 
 TY  - JOUR
 TI  - Long-Term Outcomes of Abnormal Global Longitudinal Left Ventricular Strain During Sepsis: A Retrospective Cohort Study
-AU  - (Multinational cohort — Mayo Clinic and Argentine centers)
+AU  - Huespe I
+AU  - Sosa FA
+AU  - Jena A
+AU  - Pareek A
+AU  - Saleem F
+AU  - Bateh S
+AU  - Andrade LB
+AU  - Oribe BT
+AU  - Daldoss F
+AU  - Soto JS
+AU  - Delgado J
+AU  - Raavi L
+AU  - Jonna S
+AU  - Garcia B
+AU  - Ivulich D
+AU  - Mendez J
+AU  - Monzon V
+AU  - Prado E
+AU  - Isha S
+AU  - Reddy S
+AU  - Olanipekun T
+AU  - Harrison M
+AU  - Gnanapandithan K
+AU  - Thompson KM
+AU  - Graham CG
+AU  - Cowdell JC
+AU  - Baptista AM
+AU  - Kelly N
+AU  - Helgesson SA
+AU  - Patel P
+AU  - Jentzer JC
+AU  - Smith J
+AU  - Hanson A
+AU  - Caples SM
+AU  - Khan S
+AU  - Jain NK
+AU  - Cartin-Ceba R
+AU  - Venegas CP
+AU  - Shapiro AB
+AU  - Bhattacharyya A
+AU  - Chaudhary S
+AU  - Kiley SP
+AU  - Quinones QJ
+AU  - Patel NM
+AU  - Guru PK
+AU  - Franco PM
+AU  - Sanghavi DK
 JO  - J Crit Care
 PY  - 2026
 DO  - 10.1016/j.jcrc.2026.155442
@@ -3166,7 +3279,8 @@ TI  - The effect of peripheral vasopressor protocols on extravasation rates: A s
 AU  - Wiseman JF
 AU  - Wiseman VH
 AU  - Jawa NA
-AU  - (Boyd JG)
+AU  - Fei LYN
+AU  - Boyd JG
 JO  - J Crit Care
 PY  - 2026
 DO  - 10.1016/j.jcrc.2026.155613
@@ -3214,13 +3328,20 @@ KW  - 2026-W34
 ER  - 
 
 TY  - JOUR
-TI  - When Trauma Turns Septic: Associated Factors and Focus-Specific Mortality in 61,399 Patients From the TraumaRegister DGU®](https://pubmed.ncbi.nlm.nih.gov/42628456/) ([DOI
+TI  - When trauma turns septic: Associated factors and focus-specific mortality in 61,399 patients from the TraumaRegister DGU®
 AU  - Cruciger O
 AU  - Schildhauer TA
 AU  - Ull C
+AU  - Stein J
+AU  - Spieckermann A
+AU  - Lefering R
+AU  - Hamsen U
+AU  - TraumaRegister DGU®
 JO  - J Crit Care
 PY  - 2026
-DO  - 10.1016/j.jcrc.2026.155719)
+DO  - 10.1016/j.jcrc.2026.155719
+AN  - 42628456
+UR  - https://doi.org/10.1016/j.jcrc.2026.155719
 KW  - Shock & Sepsis
 KW  - 2026-W35
 ER  - 
@@ -3420,10 +3541,11 @@ ER  -
 
 TY  - JOUR
 TI  - In-Hospital Cardiac Arrest in Impella-Supported Cardiogenic Shock: Insights From the J-PVAD Registry
-AU  - Large Japanese registry (n=8
-AU  - 577) showing in-hospital cardiac arrest before Impella implantation carries substantially higher 30-day mortality (48.1% vs 28.7% without arrest
-AU  - adjusted HR 1.54
-AU  - 95% CI 1.41–1.69) than no-arrest cardiogenic shock. [PMID: 42727697](https://pubmed.ncbi.nlm.nih.gov/42727697/) · [DOI](https://doi.org/10.1016/j.resuscitation.2026.111310)
+AU  - Arai R
+AU  - Kojima K
+AU  - Fukamachi D
+AU  - Okumura Y
+AU  - J-PVAD investigators
 JO  - Resuscitation
 PY  - 2026
 DO  - 10.1016/j.resuscitation.2026.111310
@@ -4122,8 +4244,245 @@ ER  -
 
 TY  - JOUR
 TI  - Cefazolin for Methicillin-Susceptible Staphylococcus aureus Bacteremia
-AU  - SNAP Investigators (multicenter; N=1
-AU  - 287 enrolled; Bayesian adaptive phase IV equivalence RCT)
+AU  - Staphylococcus aureus Network Adaptive Platform (SNAP) Trial Group
+AU  - Lee TC
+AU  - Barina LA
+AU  - Walls G
+AU  - Goodman AL
+AU  - Yahav D
+AU  - Cheng MP
+AU  - Bonten M
+AU  - Bowen AC
+AU  - Boyles T
+AU  - Daneman N
+AU  - Ekkelenkamp MB
+AU  - Ghanem-Zoubi N
+AU  - Hensgens MPM
+AU  - Jager NGL
+AU  - Kaasch AJ
+AU  - Kouijzer IJE
+AU  - Lewis RJ
+AU  - Lumley T
+AU  - Lye DC
+AU  - McDonald EG
+AU  - McKew G
+AU  - McLean ARD
+AU  - McMullan BJ
+AU  - McQuilten ZK
+AU  - Morpeth SC
+AU  - Paterson DL
+AU  - Roberts JA
+AU  - Robinson JO
+AU  - Saito H
+AU  - Scarborough M
+AU  - Ten Oever J
+AU  - Turner RM
+AU  - Tverring J
+AU  - van Hal SJ
+AU  - Webb SA
+AU  - Whiteway LM
+AU  - Arias CA
+AU  - Henderson A
+AU  - Heriot GS
+AU  - Snelling TL
+AU  - Afra K
+AU  - Ali SS
+AU  - Amit S
+AU  - Anagnostou NA
+AU  - Archuleta S
+AU  - Aston SJ
+AU  - Athan E
+AU  - Baharav N
+AU  - Bai AD
+AU  - Barber BE
+AU  - Baskaran A
+AU  - Berkeley MMA
+AU  - Best EJ
+AU  - Bhilave NR
+AU  - Bloomfield MG
+AU  - Bond KA
+AU  - Bostock J
+AU  - Botheras CL
+AU  - Boyd MA
+AU  - Bradshaw SME
+AU  - Briggs EJ
+AU  - Britton PN
+AU  - Campbell AJ
+AU  - Carr BZ
+AU  - Chancellor JA
+AU  - Chen K
+AU  - Cheong EY
+AU  - Chew KL
+AU  - Chia PY
+AU  - Chomba R
+AU  - Chong BSW
+AU  - Clews CJN
+AU  - Cohen JM
+AU  - Commons RJ
+AU  - Cutfield T
+AU  - Daley P
+AU  - Daniel DS
+AU  - Davies J
+AU  - De P
+AU  - Denholm JT
+AU  - Di Virgilio M
+AU  - Dishon-Benattar Y
+AU  - Dotel R
+AU  - Duan EH
+AU  - Easom N
+AU  - Eliakim-Raz N
+AU  - England MM
+AU  - Fahmy M
+AU  - Findlater AR
+AU  - Flanagan KL
+AU  - Foo EZJ
+AU  - Foo H
+AU  - Forster DP
+AU  - Fralick M
+AU  - Frazer JL
+AU  - Gador-Whyte AP
+AU  - Garnham K
+AU  - German GJ
+AU  - Ghosh N
+AU  - Gisolf EH
+AU  - Giulieri SG
+AU  - Goulding SR
+AU  - Grant JM
+AU  - Gregson D
+AU  - Grimwade KC
+AU  - Grupper M
+AU  - Guy SD
+AU  - Gwee A
+AU  - Hall VG
+AU  - Hardy EJ
+AU  - Harris DJ
+AU  - Hatcher J
+AU  - Hobbs MR
+AU  - Holmes NE
+AU  - Howden BP
+AU  - Huggan PJ
+AU  - Jennings ZA
+AU  - Johnstone J
+AU  - Juniper T
+AU  - Kalimuddin S
+AU  - Kamfose M
+AU  - Kandel C
+AU  - Kelly MJ
+AU  - Kozak RA
+AU  - Kümin M
+AU  - Lamontagne F
+AU  - Lau JSY
+AU  - Lee IR
+AU  - Lin RJ
+AU  - Lindsay D
+AU  - Llewelyn MJ
+AU  - Longtin Y
+AU  - Lother SA
+AU  - Luey CE
+AU  - MacFadden DR
+AU  - Mahony AA
+AU  - Malden C
+AU  - Malhamé I
+AU  - Manning LA
+AU  - Marks M
+AU  - Martin LJ
+AU  - Matthews GV
+AU  - McGann PH
+AU  - McMahon JH
+AU  - Melon A
+AU  - Menon V
+AU  - Mertz D
+AU  - Meyer MP
+AU  - Molton JS
+AU  - Mora JM
+AU  - Moran E
+AU  - Mortimer LM
+AU  - Motaganahalli S
+AU  - Muller MP
+AU  - Munro APS
+AU  - Murray FA
+AU  - Murthy S
+AU  - Nagendra V
+AU  - Nel H
+AU  - New DWJ
+AU  - Nguyen V
+AU  - Norton G
+AU  - Norton KM
+AU  - Nourse CB
+AU  - Nye CJS
+AU  - O'Callaghan K
+AU  - O'Sullivan MVN
+AU  - Ong SWX
+AU  - Otu AA
+AU  - Owen M
+AU  - Papenburg J
+AU  - Parkes LO
+AU  - Paul M
+AU  - Perez-Patrigeon S
+AU  - Petersiel N
+AU  - Petrella L
+AU  - Pett SL
+AU  - Pham D
+AU  - Piazzese CJ
+AU  - Poulin S
+AU  - Rehak R
+AU  - Rennert-May E
+AU  - Richards AJ
+AU  - Rogers BA
+AU  - Sahng E
+AU  - Salada B
+AU  - Scheuerman O
+AU  - Schneider K
+AU  - Schulz TR
+AU  - Schwartz KL
+AU  - Simos PA
+AU  - Singh H
+AU  - Sinkeler FS
+AU  - Smith S
+AU  - Smith BJ
+AU  - Smith SW
+AU  - Somayaji R
+AU  - Sommerville C
+AU  - Song RXJ
+AU  - Sowden DC
+AU  - Stark MJ
+AU  - Stone NRH
+AU  - Strunk T
+AU  - Sud A
+AU  - Swe KP
+AU  - Symons CR
+AU  - Tan YE
+AU  - Ten Doesschate T
+AU  - Thien SY
+AU  - Thomas A
+AU  - Trad MA
+AU  - Tramontana AR
+AU  - Tsang JLY
+AU  - Ulett K
+AU  - Underwood J
+AU  - van Welzen BJ
+AU  - Vazquez-Grande G
+AU  - Velasquez Reyes DC
+AU  - Verberk JDM
+AU  - Voss LM
+AU  - Ward D
+AU  - Webb RH
+AU  - Whitmore TJ
+AU  - Wieder-Finesod A
+AU  - Wilson HL
+AU  - Wilson EW
+AU  - Wong HM
+AU  - Wong She K
+AU  - Wuerz T
+AU  - Yamamura DL
+AU  - Yeoh A
+AU  - Yow BLH
+AU  - Dymock M
+AU  - Mahar RK
+AU  - McGlothlin A
+AU  - Marsh JA
+AU  - Davis JS
+AU  - Tong SYC
 JO  - New England Journal of Medicine
 PY  - 2026
 DO  - 10.1056/nejmoa2506905
@@ -4136,10 +4495,25 @@ ER  -
 
 TY  - JOUR
 TI  - Vasopressors or Fluids in Early Septic Shock
+AU  - ARISE FLUIDS Investigators, the ANZICS Clinical Trials Group, and the ACEM Clinical Trials Network
 AU  - Peake SL
 AU  - Macdonald SPJ
 AU  - Howe BD
-AU  - (Bellomo R; ANZICRC — Australia/New Zealand multicenter)
+AU  - Milford E
+AU  - Jones P
+AU  - Arendts G
+AU  - Bailey M
+AU  - Burcham J
+AU  - Delaney A
+AU  - Egerton-Warburton D
+AU  - Fatovich D
+AU  - Fraser JF
+AU  - Higgins AM
+AU  - Keijzers G
+AU  - Udy AA
+AU  - Williams P
+AU  - Young PJ
+AU  - Bellomo R
 JO  - New England Journal of Medicine
 PY  - 2026
 DO  - 10.1056/nejmoa2516225
@@ -4586,8 +4960,17 @@ TI  - PPARg Variant rs10865710 and Mortality in Pediatric Septic Shock Stratifie
 AU  - Bonnefil V
 AU  - Standage S
 AU  - Lautz AJ
-AU  - (Atreya MR
-AU  - Kaplan JM; Cincinnati Children's + multicenter US PICUs)
+AU  - Stanski NL
+AU  - Harmon K
+AU  - Lahni P
+AU  - Fitzgerald JC
+AU  - Schwarz AJ
+AU  - Thomas NJ
+AU  - Haileselassie B
+AU  - Zingarelli B
+AU  - Kaplan JM
+AU  - Atreya MR
+AU  - Sepsis Genomics Collaborative
 JO  - Crit Care Explor
 PY  - 2026
 DO  - 10.1097/cce.0000000000001410
@@ -4953,10 +5336,21 @@ TI  - Predictive and Prognostic Performance of the Phoenix Sepsis Criteria and P
 AU  - Marchetto L
 AU  - Daverio M
 AU  - Comoretto R
-AU  - (Schlapbach LJ
+AU  - Padrin D
+AU  - Scaravetti S
+AU  - Bordin G
+AU  - Ferrario S
+AU  - Mondardini MC
+AU  - Picconi E
+AU  - Rulli I
+AU  - Sacco F
+AU  - Vitale P
+AU  - Brigiari G
+AU  - Schlapbach LJ
 AU  - Menon K
-AU  - Amigoni A; 8 PICUs
-AU  - Italian TIPNet)
+AU  - Gregori D
+AU  - Amigoni A
+AU  - Italian Network of PICU Study Group (TIPNet)
 JO  - Critical Care Medicine
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007034
@@ -5004,8 +5398,14 @@ TI  - Prognostic Factors Associated With Mortality Among Patients With Necrotizi
 AU  - Kruger N
 AU  - Durr K
 AU  - Fernando SM
-AU  - (Rochwerg B
-AU  - Tran A)
+AU  - Rochwerg B
+AU  - Inaba K
+AU  - Kim D
+AU  - Yadav K
+AU  - Kubelik D
+AU  - Engels PT
+AU  - Glen P
+AU  - Tran A
 JO  - Crit Care Med
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007147
@@ -5034,7 +5434,14 @@ TI  - Continuing Vs. Withholding Home Beta-Blockers at Admission for Suspected I
 AU  - Christian-Miller N
 AU  - Lee KT
 AU  - Pashun R
-AU  - (Admon AJ; University of Michigan)
+AU  - Ballut K
+AU  - Prescott H
+AU  - Cascino T
+AU  - Taylor SP
+AU  - Ansari S
+AU  - Sjoding MW
+AU  - Nagle M
+AU  - Admon AJ
 JO  - Critical Care Medicine
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007229
@@ -5608,13 +6015,25 @@ KW  - 2026-W27
 ER  - 
 
 TY  - JOUR
-TI  - Comparison of a Computable Pediatric Sepsis Phenotype Tool in Argentinian and U.S. Cohorts](https://pubmed.ncbi.nlm.nih.gov/42606293/) ([DOI
+TI  - Comparison of a Computable Pediatric Sepsis Phenotype Tool in Argentinian and U.S. Cohorts
 AU  - Caldino Bohn RI
 AU  - Galvan ME
 AU  - Lanziotti VS
+AU  - Kernan KF
+AU  - Guzmán CV
+AU  - Vassallo JC
+AU  - Carcillo JA
+AU  - Landry L
+AU  - Park HJ
+AU  - Ruvinsky S
+AU  - Santos S
+AU  - Jabornisky R
+AU  - Members of Argentinian ESSPED2 (Estudio Sepsis y Shock Séptico Pediátrico 2) Registry and the Phenotyping Pediatric Sepsis-Induced Multiple Organ Failure U.S. study
 JO  - Pediatr Crit Care Med
 PY  - 2026
-DO  - 10.1097/pcc.0000000000004023)
+DO  - 10.1097/pcc.0000000000004023
+AN  - 42606293
+UR  - https://doi.org/10.1097/pcc.0000000000004023
 KW  - Shock & Sepsis
 KW  - 2026-W35
 ER  - 
@@ -5765,8 +6184,17 @@ ER  -
 
 TY  - JOUR
 TI  - Early renal perfusion phenotypes and renal recovery in critically ill patients with or at risk for acute kidney injury: a prospective multicenter cohort study
-AU  - Prospective 6-center Chinese cohort (n=456) using serial Doppler-derived renal perfusion phenotyping found a sustained-high-perfusion trajectory associated with less persistent AKI and less RRT use by day 7
-AU  - though the association attenuated in sensitivity models. [PMID: 42704056](https://pubmed.ncbi.nlm.nih.gov/42704056/) · [DOI](https://doi.org/10.1097/SHK.0000000000002936)
+AU  - Fu Y
+AU  - Ke L
+AU  - Lv C
+AU  - Wang Y
+AU  - Zhang S
+AU  - Yan J
+AU  - Zhang X
+AU  - Liu W
+AU  - Hu Y
+AU  - Zhang D
+AU  - Li H
 JO  - Shock
 PY  - 2026
 DO  - 10.1097/shk.0000000000002936
@@ -8683,12 +9111,22 @@ ER  -
 
 TY  - JOUR
 TI  - Intrapulmonary penetration of ceftolozane/tazobactam and ceftazidime/avibactam by continuous infusion in critically ill patients with nosocomial pneumonia: a randomized pharmacokinetic trial
-AU  - Benitez-Cano A
+AU  - Benítez-Cano A
 AU  - Sancho-Araiz A
 AU  - Carazo J
-AU  - (Roberts J
-AU  - Sorli L
-AU  - Luque S)
+AU  - Ramos I
+AU  - Sánchez-Font A
+AU  - Chalela R
+AU  - López-Palacio M
+AU  - García-Prieto FF
+AU  - Navarrete-Rouco ME
+AU  - Juanes-Borrego AM
+AU  - Gómez-Junyent J
+AU  - Horcajada JP
+AU  - Adalia R
+AU  - Roberts J
+AU  - Sorlí L
+AU  - Luque S
 JO  - Crit Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06075-w
@@ -8703,8 +9141,9 @@ TI  - Current and Future Strategies Aiming at Reducing Catecholamine Exposure in
 AU  - Dubech A
 AU  - Picod A
 AU  - Pierre A
-AU  - (Garcia B; CHU Lille / Saint-Pierre University Hospital
-AU  - Brussels)
+AU  - Preau S
+AU  - Favory R
+AU  - Garcia B
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06109-3
@@ -8747,9 +9186,7 @@ AU  - Wongtirawit N
 AU  - Inyu W
 AU  - Prajantasen U
 AU  - Phairatwet P
-AU  - Ratanarat R (Siriraj Hospital
-AU  - Mahidol University
-AU  - Bangkok)
+AU  - Ratanarat R
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06121-7
@@ -8764,7 +9201,13 @@ TI  - Monitoring T-Cell Function in Septic Shock: One-Year Experience with a Ful
 AU  - Lafon T
 AU  - Gossez M
 AU  - Schild A
-AU  - (Monneret G; Hospices Civils de Lyon)
+AU  - Cour M
+AU  - Argaud L
+AU  - Berthier F
+AU  - Perez P
+AU  - Venet F
+AU  - Lukaszewicz AC
+AU  - Monneret G
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06128-0
@@ -8884,8 +9327,27 @@ ER  -
 TY  - JOUR
 TI  - Twenty-five years of septic shock hemodynamic resuscitation trials: a conceptual perspective
 AU  - Hernandez G
+AU  - Hunsicker O
+AU  - de Backer D
+AU  - Angus DC
+AU  - Bakker J
+AU  - Basmaji J
+AU  - Castro R
+AU  - Chew M
+AU  - Hamzaoui O
+AU  - Malbrain MLNG
+AU  - Melo P
+AU  - Messina A
+AU  - Monnet X
+AU  - Morales S
+AU  - Ospina-Tascón GA
+AU  - Ostermann M
+AU  - Pinsky MR
+AU  - Putowski Z
+AU  - Sanfilippo F
+AU  - Teboul JL
+AU  - Wendel-García P
 AU  - Kattan E
-AU  - (22 authors)
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06201-8
@@ -10128,11 +10590,6 @@ ER  -
 
 TY  - JOUR
 TI  - Do we need to administer fludrocortisone in addition to hydrocortisone for adult patients with septic shock? A Bayesian network meta-analysis of randomized controlled trials and observational study with target trial emulation
-AU  - National Cheng Kung University Hospital, College of Medicine, National Cheng Kung University, Tainan, Taiwan
-AU  - Lai, Pei-Chun
-AU  - Lai, Chao-Han
-AU  - Lai, Edward Chia-Cheng
-AU  - Huang, Yen-Ta
 PY  - 2023
 DO  - 10.37766/inplasy2023.6.0053
 UR  - https://journals.lww.com/ccmjournal/fulltext/9900/do_we_need_to_administer_fludrocortisone_in.254.aspx

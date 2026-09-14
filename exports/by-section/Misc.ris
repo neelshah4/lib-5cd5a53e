@@ -7186,31 +7186,6 @@ ER  -
 
 TY  - JOUR
 TI  - Dexmedetomidine for treatment of hyperactive delirium in non-intubated ICU patients: the 4D randomized clinical trial
-AU  - Godet, Thomas
-AU  - Louis, Clémence
-AU  - Rieu, Benjamin
-AU  - De Jong, Audrey
-AU  - Couhault, Pierre
-AU  - Pradel, Gaël
-AU  - Tête, Hugo
-AU  - Bourguignon, Nathalie
-AU  - Borao, Lucile
-AU  - Jabaudon, Matthieu
-AU  - Futier, Emmanuel
-AU  - Jaber, Samir
-AU  - Pereira, Bruno
-AU  - Chanques, Gérald
-AU  - Constantin, Jean-Michel
-AU  - 4D study group
-AU  - Assefi, Mona
-AU  - Chabanne, Russell
-AU  - Garnier, Marc
-AU  - Rouget, Antoine
-AU  - Souweine, Bertrand
-AU  - Piot L’Emeillet, Juliette
-AU  - Lapeyre, Mathilde
-AU  - Thourot-Robert, Manon
-AU  - Bernard, Lise
 JO  - Intensive Care Medicine
 PY  - 2025
 DO  - 10.1007/s00134-025-08135-1
@@ -9013,7 +8988,13 @@ TI  - Evaluating the Association Between Patient Priorities and ICU Care Deliver
 AU  - Donovan KA
 AU  - Polley M
 AU  - Palmer G
-AU  - (Kruser JM; Universities of Wisconsin and Northwestern)
+AU  - Hanlon BM
+AU  - Stalter LN
+AU  - Donnelly HK
+AU  - Wunderink RG
+AU  - Gao CA
+AU  - Kruser JM
+AU  - NU SCRIPT Study Investigators
 JO  - Chest
 PY  - 2026
 DO  - 10.1016/j.chest.2026.01.028
@@ -9024,11 +9005,28 @@ KW  - 2026-W24
 ER  - 
 
 TY  - JOUR
-TI  - Induction Agents for Tracheal Intubation of Critically Ill Patients: A Systematic Review and Network Meta-Analysis of RCTs](https://pubmed.ncbi.nlm.nih.gov/42612901/) ([DOI
-AU  - [authors not captured in this fetch pass — see PubMed record]
+TI  - Induction Agents for Tracheal Intubation of Critically Ill Patients: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials
+AU  - McDougall G
+AU  - Forestell B
+AU  - Sadeghirad B
+AU  - Kuriyama A
+AU  - Sivananathajothy P
+AU  - Flindall H
+AU  - Choi J
+AU  - Centofanti J
+AU  - Myatra SN
+AU  - Prakash J
+AU  - Casey JD
+AU  - Semler MW
+AU  - Sklar M
+AU  - Tejpal A
+AU  - Sharif S
+AU  - Rochwerg B
 JO  - Chest
 PY  - 2026
-DO  - 10.1016/j.chest.2026.07.5239)
+DO  - 10.1016/j.chest.2026.07.5239
+AN  - 42612901
+UR  - https://doi.org/10.1016/j.chest.2026.07.5239
 KW  - Misc
 KW  - 2026-W35
 ER  - 
@@ -10188,8 +10186,26 @@ TI  - Factors Associated with Oropharyngeal Dysphagia 3 Months After ICU Dischar
 AU  - Przybylski L
 AU  - Rech R
 AU  - Mocellin D
-AU  - (Teixeira C
-AU  - Goulart Rosa R; Moinhos de Vento Hospital and 10 Brazilian ICUs)
+AU  - Soares Rech G
+AU  - Miozzo AP
+AU  - de Souza Menna Barreto J
+AU  - de Souza Roldão E
+AU  - da Rosa Minho Dos Santos R
+AU  - Rover MM
+AU  - Pozza Estivalete G
+AU  - Fogliati de Carli Schardosin R
+AU  - Moraes Soares C
+AU  - Moreira Dos Santos HL
+AU  - Trott G
+AU  - Nunes da Silva G
+AU  - de Souza D
+AU  - Rothmann Itaqui C
+AU  - Maziero Oliveira V
+AU  - de Souza R
+AU  - Pimentel Ferreira CE
+AU  - Robalo T
+AU  - Teixeira C
+AU  - Goulart Rosa R
 JO  - Journal of Critical Care
 PY  - 2026
 DO  - 10.1016/j.jcrc.2026.155437
@@ -10203,11 +10219,16 @@ TY  - JOUR
 TI  - Patterns of Opioid and Sedative Use in Adult ICUs: Insights From the ALERT-ICU Study on Iatrogenic Withdrawal Syndrome
 AU  - Bolesta S
 AU  - Smith KE
-AU  - Gelinas C
-AU  - (Riker RR
-AU  - Erstad BL; 229 ICUs
-AU  - 87 hospitals
-AU  - 11 countries)
+AU  - Gélinas C
+AU  - Perreault MM
+AU  - Burry L
+AU  - Eadie R
+AU  - Carini FC
+AU  - Harpel J
+AU  - Stewart R
+AU  - Riker RR
+AU  - Erstad BL
+AU  - ALERT-ICU study investigators
 JO  - J Crit Care
 PY  - 2026
 DO  - 10.1016/j.jcrc.2026.155444
@@ -10253,9 +10274,14 @@ TI  - Predicting surgical intensive care unit readmission with machine learning 
 AU  - Lin TL
 AU  - Chang PH
 AU  - Lai WH
-AU  - (Chen IL
-AU  - Chen KF; Chang Gung Memorial Hospital
-AU  - Taiwan)
+AU  - Chen YJ
+AU  - Lin YC
+AU  - Lin YH
+AU  - Li WF
+AU  - Liu YW
+AU  - Wang CC
+AU  - Chen IL
+AU  - Chen KF
 JO  - Journal of Critical Care
 PY  - 2026
 DO  - 10.1016/j.jcrc.2026.155487
@@ -10270,7 +10296,9 @@ TI  - Impact of alarm sounds on patient sleep in the intensive care unit: A scop
 AU  - Hiemstra FW
 AU  - van Kekem MJ
 AU  - Arbous MS
-AU  - (Kervezee L; Leiden UMC)
+AU  - Schoones JW
+AU  - van Westerloo DJ
+AU  - Kervezee L
 JO  - J Crit Care
 PY  - 2026
 DO  - 10.1016/j.jcrc.2026.155612
@@ -14819,11 +14847,13 @@ ER  -
 
 TY  - JOUR
 TI  - Changes in Epidemiology of Candidemia in the United States with a Focus on Candida auris (2015–2024)
-AU  - Perez MA
+AU  - Pérez MA
 AU  - Patel KA
 AU  - Rasmy L
-AU  - (Arias CA
-AU  - Nigo M)
+AU  - Yoshida H
+AU  - Arias CA
+AU  - Nigo M
+AU  - Adelman MW
 JO  - Clin Infect Dis
 PY  - 2026
 DO  - 10.1093/cid/ciag312
@@ -15578,13 +15608,21 @@ KW  - 2026-W27
 ER  - 
 
 TY  - JOUR
-TI  - Real-World Phenobarbital Use, Treatment Escalation, and Clinical Outcomes in Critically Ill Patients With Alcohol Withdrawal Syndrome](https://pubmed.ncbi.nlm.nih.gov/42611632/) ([DOI
+TI  - Real-World Phenobarbital Use, Treatment Escalation, and Clinical Outcomes in Critically Ill Patients With Alcohol Withdrawal Syndrome: A Multicenter Propensity-Matched Cohort Study
 AU  - Rizwan ZM
 AU  - Heybati K
 AU  - Dierkhising R
+AU  - Stark JL
+AU  - Schwarz J
+AU  - Toufar S
+AU  - Marquez A
+AU  - Rovati L
+AU  - Gajic O
 JO  - Crit Care Explor
 PY  - 2026
-DO  - 10.1097/cce.0000000000001466)
+DO  - 10.1097/cce.0000000000001466
+AN  - 42611632
+UR  - https://doi.org/10.1097/cce.0000000000001466
 KW  - Misc
 KW  - 2026-W35
 ER  - 
@@ -16060,10 +16098,12 @@ TI  - Effects of a Combined Lifestyle Intervention on Recovery of ICU Survivors:
 AU  - Christiaanse PMR
 AU  - van Zutphen T
 AU  - Bolding HA
-AU  - (Boerma EC
-AU  - Beumeler LFE; Frisius Medical Centre
-AU  - Leeuwarden
-AU  - Netherlands)
+AU  - van der Werf RAM
+AU  - Stellingwerf F
+AU  - de Jager CM
+AU  - Buter H
+AU  - Boerma EC
+AU  - Beumeler LFE
 JO  - Critical Care Medicine
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007095
@@ -16100,8 +16140,10 @@ TI  - Disparities in Finding Delirium in Critically Ill Latinos
 AU  - Fuentes AL
 AU  - Ellberg CC
 AU  - Parada H
-AU  - (Malhotra A
-AU  - Owens RL; UC San Diego MICU)
+AU  - Trieu M
+AU  - LaBuzetta JN
+AU  - Malhotra A
+AU  - Owens RL
 JO  - Critical Care Medicine
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007123
@@ -16116,7 +16158,13 @@ TI  - Difficulty Paying for Medical Care: Associations With Psychological Distre
 AU  - Hardt MM
 AU  - Lichtenthal WG
 AU  - Saviano S
-AU  - (Prigerson HG; 3 US medical ICUs)
+AU  - Rosen A
+AU  - Lief L
+AU  - Berlin DA
+AU  - Kolla S
+AU  - Rogers M
+AU  - Maciejewski PK
+AU  - Prigerson HG
 JO  - Crit Care Med
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007151
@@ -16150,10 +16198,14 @@ TI  - Association Between Sex and Clinical Outcomes for Critically Ill Patients 
 AU  - Tirupakuzhi Vijayaraghavan BK
 AU  - Patodia S
 AU  - Gamage Dona D
-AU  - (Adhikari NKJ
-AU  - Fowler R; 45 ICUs
-AU  - N=82
-AU  - 151)
+AU  - Venkataraman R
+AU  - Beane A
+AU  - Haniffa R
+AU  - de Keizer N
+AU  - Adhikari NKJ
+AU  - Ramakrishnan N
+AU  - Fowler R
+AU  - Indian Registry of IntenSive care (IRIS) collaboration
 JO  - Crit Care Med
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007163
@@ -16179,8 +16231,24 @@ ER  -
 
 TY  - JOUR
 TI  - Determinants of Delayed Recovery of Consciousness After Analgosedation Discontinuation in the ICU: Insights From Patients With COVID-19 Hypoxemic Respiratory Failure
-AU  - [First author not listed in section metadata]
-AU  - (3 academic centers; N=784 COVID-19 MV ICU patients)
+AU  - Safavynia SA
+AU  - Barra ME
+AU  - Der Nigoghossian C
+AU  - Shinnick D
+AU  - Waldrop G
+AU  - Choi JM
+AU  - Ganglberger W
+AU  - Shen Q
+AU  - Doyle K
+AU  - Walline MC
+AU  - Westover MB
+AU  - Brown EN
+AU  - Fins JJ
+AU  - Victor J
+AU  - Edlow BL
+AU  - Claassen J
+AU  - Schiff ND
+AU  - Thaweethai T
 JO  - Critical Care Medicine
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007205
@@ -16205,25 +16273,50 @@ KW  - 2026-W33
 ER  - 
 
 TY  - JOUR
-TI  - 26 (Misc slot 1 of 25). [Facilitating Communication for Family Members of Critically Ill Patients During and Following a Hospital Stay: A Randomized Controlled Trial](https://doi.org/10.1097/CCM.0000000000007268)
-AU  - (3-hospital Seattle multicenter RCT)
+TI  - Facilitating Communication for Family Members of Critically Ill Patients During and Following a Hospital Stay: A Randomized Controlled Trial
+AU  - Creutzfeldt CJ
+AU  - Brumback LC
+AU  - Im J
+AU  - Pollak KI
+AU  - Vasconcelos AG
+AU  - Song Y
+AU  - Sibley J
+AU  - Ungar AM
+AU  - Garzio G
+AU  - Treece PD
+AU  - Hudson LM
+AU  - Martini R
+AU  - Hanson S
+AU  - Khandelwal N
+AU  - Abu-Rish Blakeney E
+AU  - Kentish-Barnes N
+AU  - Azoulay E
+AU  - Nielsen EL
+AU  - Engelberg RA
+AU  - Curtis JR
 JO  - Critical Care Medicine
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007268
 AN  - 42484383
-UR  - https://journals.lww.com/10.1097/CCM.0000000000007268
+UR  - https://doi.org/10.1097/CCM.0000000000007268
 KW  - Misc
 KW  - 2026-W31
 ER  - 
 
 TY  - JOUR
-TI  - Association of ICU Room Characteristics With Mortality and Length of Stay](https://pubmed.ncbi.nlm.nih.gov/42611642/) ([DOI
+TI  - Association of ICU Room Characteristics With Mortality and Length of Stay
 AU  - Lindner S
 AU  - Britsch M
 AU  - Duerschmied D
+AU  - Conrad AM
+AU  - Krebs J
+AU  - Becher T
+AU  - Britsch S
 JO  - Crit Care Med
 PY  - 2026
-DO  - 10.1097/ccm.0000000000007305)
+DO  - 10.1097/ccm.0000000000007305
+AN  - 42611642
+UR  - https://doi.org/10.1097/ccm.0000000000007305
 KW  - Misc
 KW  - 2026-W35
 ER  - 
@@ -24287,7 +24380,14 @@ ER  -
 
 TY  - JOUR
 TI  - Effectiveness and Safety of Melatoninergic Agonists in Preventing Delirium in the ICU: An Updated Dose-Response Meta-Analysis of Randomized Controlled Trials
-AU  - [First author not listed in section metadata]
+AU  - Chaves-Filho A
+AU  - Medrado MF
+AU  - Zamboni T
+AU  - Cavalcanti AB
+AU  - Shim SR
+AU  - Quinn TJ
+AU  - Veiga VC
+AU  - Mavridis T
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06047-0
@@ -24303,8 +24403,11 @@ TI  - Induction agents for emergency tracheal intubation in critically ill adult
 AU  - Zampieri FG
 AU  - Schmidt RC
 AU  - Besen BAMP
-AU  - (Lamontagne F
-AU  - Adhikari NKJ; BRICNet)
+AU  - Ramos FJDS
+AU  - Lamontagne F
+AU  - Adhikari NKJ
+AU  - Freitas FGR
+AU  - Machado FR
 JO  - Crit Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06067-w
@@ -24319,8 +24422,15 @@ TI  - One year quality of life outcomes in critically ill children: a multicente
 AU  - Manning JC
 AU  - Latour JM
 AU  - Draper E
-AU  - (Curley MAQ; 10 English PICUs
-AU  - N=326)
+AU  - Quinlan P
+AU  - Popejoy EM
+AU  - Figueredo G
+AU  - Iyer S
+AU  - Trimble T
+AU  - Menzies J
+AU  - Curley MAQ
+AU  - Coad J
+AU  - OCEANIC Study Investigators
 JO  - Crit Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06084-9
@@ -24351,8 +24461,19 @@ TI  - Time Course of Energy Expenditure in Persistent Critical Illness: A Prospe
 AU  - Oosterveld T
 AU  - Paulus MC
 AU  - Hess B
-AU  - (Rooyackers O
-AU  - Sundstrom Rehal M; Karolinska / 5 European + 2 Australian ICUs)
+AU  - Häbel H
+AU  - Johansson Å
+AU  - Mürner N
+AU  - Blaser AR
+AU  - Fetterplace K
+AU  - Ridley EJ
+AU  - Tatucu-Babet OA
+AU  - van Zanten ARH
+AU  - Wanecek M
+AU  - Wittholz K
+AU  - Deane A
+AU  - Rooyackers O
+AU  - Sundström Rehal M
 JO  - Crit Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06102-w
@@ -24364,10 +24485,14 @@ ER  -
 
 TY  - JOUR
 TI  - Critical Illness Impairs Coordinated Myogenesis: A Prospective Longitudinal Study of Skeletal Muscle Progenitor Cell Biology Using Serial Muscle Biopsies (SATELLITE Study)
-AU  - [First author not listed in section metadata]
-AU  - (N=33 ICU patients + 20 healthy controls; serial vastus lateralis biopsies at 72h
-AU  - 7d
-AU  - 180d)
+AU  - Krajčová A
+AU  - Němcová V
+AU  - Škrha P
+AU  - Genserová L
+AU  - Musilová A
+AU  - Fric M
+AU  - Waldauf P
+AU  - Duška F
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06131-5
@@ -24379,9 +24504,29 @@ ER  -
 
 TY  - JOUR
 TI  - Timing Matters: Sex Differences in Treatment Limitation Decisions in Intensive Care
-AU  - [First author not listed in section metadata]
-AU  - (nationwide Swiss ICU cohort 2016–2024; N=654
-AU  - 660 ICU admissions)
+AU  - Amacher SA
+AU  - Gebert P
+AU  - Tröster V
+AU  - Mikail N
+AU  - Vinzens A
+AU  - Regitz-Zagrosek V
+AU  - Arslani K
+AU  - Helms J
+AU  - Merdji H
+AU  - Long MT
+AU  - Hunziker S
+AU  - Lohri M
+AU  - Grzonka P
+AU  - Berger S
+AU  - Hollinger A
+AU  - Wildi K
+AU  - Yuen B
+AU  - Kaufmann M
+AU  - Sutter R
+AU  - Siegemund M
+AU  - Gebhard C
+AU  - Gebhard CE
+AU  - Swiss ICU Trial Group
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06139-x
@@ -24411,8 +24556,18 @@ ER  -
 
 TY  - JOUR
 TI  - Nurse-Led Family Participatory Support Intervention on Clinical Outcomes in ICU Patients: A Prospective Quasi-Experimental Study
-AU  - [First author not listed in section metadata]
-AU  - (3 tertiary Chinese ICUs; N=730 after propensity matching)
+AU  - Wu Y
+AU  - Wang G
+AU  - Mu K
+AU  - Ruan H
+AU  - Wei H
+AU  - Yue W
+AU  - Yang J
+AU  - Ma F
+AU  - Chen T
+AU  - Zhang Z
+AU  - Lv X
+AU  - Wang X
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06145-z
@@ -24423,13 +24578,18 @@ KW  - 2026-W25
 ER  - 
 
 TY  - JOUR
-TI  - Psychosocial Coping With Intensive Care Delirium: a Mixed-Methods Systematic Review of Patient and Family Perspectives](https://pubmed.ncbi.nlm.nih.gov/42629591/) ([DOI
+TI  - Psychosocial coping with intensive care delirium: a mixed-methods systematic review of patient and family perspectives
 AU  - Oh E
 AU  - Marx-Rosenberg G
 AU  - Schimböck F
+AU  - Groth N
+AU  - Nydahl P
+AU  - Gallinat J
 JO  - Crit Care
 PY  - 2026
-DO  - 10.1186/s13054-026-06232-1)
+DO  - 10.1186/s13054-026-06232-1
+AN  - 42629591
+UR  - https://doi.org/10.1186/s13054-026-06232-1
 KW  - Misc
 KW  - 2026-W35
 ER  - 

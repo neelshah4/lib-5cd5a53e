@@ -92,7 +92,26 @@ TI  - Plasma Biomarkers of Brain Injury in Critically Ill Children Receiving Ext
 AU  - Friedman ML
 AU  - Bell MJ
 AU  - Brooks BA
-AU  - (Said A; 11 US children's hospitals)
+AU  - Himebauch AS
+AU  - Kamerkar A
+AU  - LaRovere K
+AU  - Loftis LL
+AU  - Pineda JA
+AU  - Said A
+AU  - Sandhu HS
+AU  - Stengelin M
+AU  - Demos C
+AU  - Wainwright MS
+AU  - West AN
+AU  - Barnes A
+AU  - Everett AD
+AU  - Felling RJ
+AU  - Hong SJ
+AU  - Roem JL
+AU  - Salorio CF
+AU  - Ng DK
+AU  - Bembea MM
+AU  - Pediatric Acute Lung Injury and Sepsis Investigators (PALISI) Network
 JO  - JAMA Pediatrics
 PY  - 2026
 DO  - 10.1001/jamapediatrics.2026.0015
@@ -1895,13 +1914,21 @@ KW  - 2025-01
 ER  - 
 
 TY  - JOUR
-TI  - Extracorporeal Life Support (ECLS) for Pulmonary Vein Stenosis Interventions](https://pubmed.ncbi.nlm.nih.gov/42622639/) ([DOI
+TI  - Extracorporeal Life Support (ECLS) for Pulmonary Vein Stenosis Interventions
 AU  - Tsoi SM
 AU  - Keller RL
 AU  - Sacks LD
+AU  - Sebastian V
+AU  - Datar SA
+AU  - Smith MA
+AU  - Boehme J
+AU  - Fineman JR
+AU  - Amin EK
 JO  - Pediatr Cardiol
 PY  - 2026
-DO  - 10.1007/s00246-026-04434-6)
+DO  - 10.1007/s00246-026-04434-6
+AN  - 42622639
+UR  - https://doi.org/10.1007/s00246-026-04434-6
 KW  - ECMO
 KW  - 2026-W35
 ER  - 
@@ -1999,9 +2026,12 @@ TI  - Automated Pupillometry for the Prediction of Neurologic Outcomes in Childr
 AU  - McGetrick M
 AU  - Diaz N
 AU  - Li X
-AU  - (Raman L
-AU  - Miles D; UT Southwestern / Children's Medical Center
-AU  - Dallas)
+AU  - Terrill T
+AU  - Powers K
+AU  - Said R
+AU  - Sirsi D
+AU  - Raman L
+AU  - Miles D
 JO  - European Journal of Pediatrics
 PY  - 2026
 DO  - 10.1007/s00431-026-07100-4
@@ -2039,13 +2069,26 @@ KW  - 2026-W34
 ER  - 
 
 TY  - JOUR
-TI  - Analgesia, sedation, and mobilization practices in pediatric patients supported with ECMO across Europe: an ESPNIC survey](https://pubmed.ncbi.nlm.nih.gov/42613392/) ([DOI
+TI  - Analgesia, sedation, and mobilization practices in pediatric patients supported with extracorporeal membrane oxygenation across Europe: an ESPNIC survey
 AU  - Cavagnero F
 AU  - Hoskote A
 AU  - Lillie J
+AU  - Morin L
+AU  - Neunhoeffer F
+AU  - Dorao P
+AU  - Kneyber M
+AU  - Corbisier T
+AU  - Schnur J
+AU  - Perez MH
+AU  - Kendirli T
+AU  - Bianzina S
+AU  - Sperotto F
+AU  - Amigoni A
 JO  - Eur J Pediatr
 PY  - 2026
-DO  - 10.1007/s00431-026-07326-2)
+DO  - 10.1007/s00431-026-07326-2
+AN  - 42613392
+UR  - https://doi.org/10.1007/s00431-026-07326-2
 KW  - ECMO
 KW  - 2026-W35
 ER  - 
@@ -2899,7 +2942,16 @@ TI  - Sex Differences in Venoarterial Extracorporeal Membrane Oxygenation Utilis
 AU  - Batchelor RJ
 AU  - Hodgson CL
 AU  - Lankaputhra M
-AU  - (Stub D; Alfred Health / Monash University)
+AU  - Burrell A
+AU  - Orosz J
+AU  - Coull J
+AU  - Pellegrino V
+AU  - Antsey J
+AU  - Lefkovits J
+AU  - Taylor AJ
+AU  - Kaye DM
+AU  - Stub D
+AU  - EXCEL coinvestigators
 JO  - J Crit Care
 PY  - 2026
 DO  - 10.1016/j.jcrc.2026.155473
@@ -3304,10 +3356,18 @@ TI  - Long-Term Neurological Outcomes After Extracorporeal Cardiopulmonary Resus
 AU  - Pozzi M
 AU  - Sola M
 AU  - Maggioni E
-AU  - (Giani M
-AU  - Foti G; Fondazione IRCCS San Gerardo dei Tintori
-AU  - Monza
-AU  - Italy)
+AU  - Cortinovis B
+AU  - Redaelli G
+AU  - Scanziani M
+AU  - Annoni A
+AU  - Del Frate E
+AU  - Costa C
+AU  - Marchetto G
+AU  - Sangalli F
+AU  - Avalli L
+AU  - Giani M
+AU  - Foti G
+AU  - POOLSE Study Group
 JO  - Resuscitation
 PY  - 2026
 DO  - 10.1016/j.resuscitation.2026.111095
@@ -5551,8 +5611,7 @@ TI  - Large Single-Center Experience With Extubation During Neonatal and Pediatr
 AU  - Holton C
 AU  - Orrick J
 AU  - Newton D
-AU  - Miller JO (Children's Mercy Hospital
-AU  - Kansas City)
+AU  - Miller JO
 JO  - ASAIO J
 PY  - 2025
 DO  - 10.1097/mat.0000000000002540
@@ -5567,9 +5626,18 @@ TI  - Pediatric Critical Hematology Oncology Referral Pathway for Extracorporeal
 AU  - Sandhu HS
 AU  - Fan K
 AU  - Shah S
-AU  - (Morrison RR
-AU  - Ghafoor S; Le Bonheur Children's Hospital / St. Jude Children's Research Hospital
-AU  - Memphis)
+AU  - Yuan X
+AU  - Metzler L
+AU  - McArthur J
+AU  - Kimura D
+AU  - Hines M
+AU  - Hurley C
+AU  - Sharma A
+AU  - Rower K
+AU  - Pan H
+AU  - Brown J
+AU  - Morrison RR
+AU  - Ghafoor S
 JO  - ASAIO J
 PY  - 2025
 DO  - 10.1097/mat.0000000000002542
@@ -5625,7 +5693,15 @@ TI  - Is Veno-Venous Extracorporeal Membrane Oxygenation Always the Right Choice
 AU  - Assy J
 AU  - Yit G
 AU  - Alunni Fegatelli D
-AU  - (Alessandri F; multi-institution)
+AU  - Giordano G
+AU  - Zullino V
+AU  - Tosi A
+AU  - Broman LM
+AU  - Swol J
+AU  - Levy Y
+AU  - Pugliese F
+AU  - Di Nardo M
+AU  - Alessandri F
 JO  - ASAIO J
 PY  - 2026
 DO  - 10.1097/mat.0000000000002651
@@ -5678,8 +5754,12 @@ TI  - Risk Score to Assess Extracorporeal Life Support Need After Norwood Operat
 AU  - Beshish AG
 AU  - Horan V
 AU  - Faisthalab M
-AU  - (Garcia RU
-AU  - Aljiffry A; Children's Healthcare of Atlanta/Emory)
+AU  - Jergel A
+AU  - Westbrook A
+AU  - Davis J
+AU  - John M
+AU  - Garcia RU
+AU  - Aljiffry A
 JO  - ASAIO J
 PY  - 2026
 DO  - 10.1097/mat.0000000000002742
@@ -5694,9 +5774,15 @@ TI  - Clinical Outcomes and Risk Factors in Pediatric Postcardiotomy Extracorpor
 AU  - Xu B
 AU  - Zhou X
 AU  - Yu X
-AU  - (Hou X
-AU  - Li C; Beijing Anzhen Hospital
-AU  - Capital Medical University)
+AU  - Wang L
+AU  - Du Z
+AU  - Gu Y
+AU  - Hong X
+AU  - Wang H
+AU  - Hao X
+AU  - Hou X
+AU  - Li C
+AU  - Chinese Society of Extracorporeal Life Support (CSECLS)
 JO  - ASAIO Journal
 PY  - 2026
 DO  - 10.1097/mat.0000000000002746
@@ -5737,8 +5823,10 @@ TI  - Anticoagulation Changes and Biochemical Signals Preceding Hospital-Acquire
 AU  - Davidson SM
 AU  - Miller JO
 AU  - Bauer PN
-AU  - (Rilinger JF; Children's Mercy Hospital
-AU  - Kansas City)
+AU  - Holton C
+AU  - Herigon JC
+AU  - Lee BR
+AU  - Rilinger JF
 JO  - ASAIO Journal
 PY  - 2026
 DO  - 10.1097/mat.0000000000002758
@@ -5864,37 +5952,59 @@ KW  - 2026-W34
 ER  - 
 
 TY  - JOUR
-TI  - Electrical Impedance Tomography Reveals Venoarterial ECMO Flow-Induced Ventilation-Perfusion Mismatch](https://pubmed.ncbi.nlm.nih.gov/42606891/) ([DOI
+TI  - Electrical Impedance Tomography Reveals Venoarterial Extracorporeal Membrane Oxygenation Flow-Induced Ventilation-Perfusion Mismatch
 AU  - Protti I
 AU  - Francovich JE
 AU  - van Thiel R
+AU  - Goedendorp NG
+AU  - Jonkman AH
+AU  - Meuwese CL
 JO  - ASAIO J
 PY  - 2026
-DO  - 10.1097/mat.0000000000002808)
+DO  - 10.1097/mat.0000000000002808
+AN  - 42606891
+UR  - https://doi.org/10.1097/mat.0000000000002808
 KW  - ECMO
 KW  - 2026-W35
 ER  - 
 
 TY  - JOUR
-TI  - Association of Shock-to-Balloon Time With Outcomes in AMI-Cardiogenic Shock Requiring VA-ECMO](https://pubmed.ncbi.nlm.nih.gov/42606888/) ([DOI
+TI  - Association of Shock-to-Balloon Time With Outcomes in Acute Myocardial Infarction With Cardiogenic Shock Requiring VA-ECMO
 AU  - Kim O
 AU  - Cha JH
 AU  - Lee SY
+AU  - Gwon HC
+AU  - Yang JH
+AU  - Lee SH
+AU  - Choi KH
+AU  - SMART-RESCUE Investigators
 JO  - ASAIO J
 PY  - 2026
-DO  - 10.1097/mat.0000000000002818)
+DO  - 10.1097/mat.0000000000002818
+AN  - 42606888
+UR  - https://doi.org/10.1097/mat.0000000000002818
 KW  - ECMO
 KW  - 2026-W35
 ER  - 
 
 TY  - JOUR
-TI  - Challenging the Obesity Paradox: A Multicenter Study of BMI and Mortality in VV-ECMO](https://pubmed.ncbi.nlm.nih.gov/42617158/) ([DOI
+TI  - Challenging the Obesity Paradox: A Multicenter Study of Body Mass Index and Mortality in Venovenous Extracorporeal Membrane Oxygenation
 AU  - Morales Behaine JJ
 AU  - Seelhammer TG
 AU  - Wieruszewski PM
+AU  - Liu E
+AU  - Schulte PJ
+AU  - Ursoleo JD
+AU  - Huelster JS
+AU  - Prekker ME
+AU  - Miller WC
+AU  - Brunsvold ME
+AU  - Ripoll JG
 JO  - ASAIO J
 PY  - 2026
-DO  - 10.1097/mat.0000000000002819)
+DO  - 10.1097/mat.0000000000002819
+AN  - 42617158
+UR  - https://doi.org/10.1097/mat.0000000000002819
 KW  - ECMO
 KW  - 2026-W35
 ER  - 
@@ -5985,8 +6095,17 @@ ER  -
 
 TY  - JOUR
 TI  - Extracorporeal Membrane Oxygenation Combined With Embolectomy May Yield Better Outcomes Than Extracorporeal Membrane Oxygenation Alone or With Thrombolysis for Acute High-Risk Pulmonary Embolism
-AU  - single-center retrospective cohort
-AU  - 2016–2024.
+AU  - Fujimoto R
+AU  - Mazur MZ
+AU  - O'Neill JW
+AU  - Hassaballa AS
+AU  - Bermudez A
+AU  - Glassmoyer L
+AU  - Schurr J
+AU  - Olia SE
+AU  - Richards TJ
+AU  - Pugliese SC
+AU  - Bermudez CA
 JO  - ASAIO J
 PY  - 2026
 DO  - 10.1097/mat.0000000000002849
@@ -6340,8 +6459,7 @@ AU  - Gillett EL
 AU  - Birisci E
 AU  - Frazier JB
 AU  - Stroud MH
-AU  - Malone MP (Arkansas Children's Hospital
-AU  - Little Rock)
+AU  - Malone MP
 JO  - Pediatric Critical Care Medicine
 PY  - 2026
 DO  - 10.1097/pcc.0000000000003979
@@ -9422,8 +9540,11 @@ TI  - The Effects of Mechanical Ventilation During V-A ECMO Support: A Systemati
 AU  - Protti I
 AU  - Di Tomasso N
 AU  - Meani P
-AU  - (Meuwese CL; Erasmus Medical Center
-AU  - Rotterdam)
+AU  - Ter Horst M
+AU  - Grasselli G
+AU  - Juffermans NP
+AU  - Jonkman AH
+AU  - Meuwese CL
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06111-9

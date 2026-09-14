@@ -170,9 +170,9 @@ ER  -
 
 TY  - JOUR
 TI  - DexSAH: A Systematic Review and Meta-analysis of Dexmedetomidine in Aneurysmal Subarachnoid Hemorrhage
-AU  - Meta-analysis of 3 RCTs (n=431) found no significant improvement in functional outcome
-AU  - DCI
-AU  - or vasospasm with dexmedetomidine in aSAH despite favorable biomarker signals — a negative primary-outcome finding worth knowing given how often dexmedetomidine is used for aSAH sedation. [PMID: 42711630](https://pubmed.ncbi.nlm.nih.gov/42711630/) · [DOI](https://doi.org/10.1007/s12028-026-02644-7)
+AU  - Hrishi AP
+AU  - Palaniswamy SR
+AU  - Suresh S
 JO  - Neurocrit Care
 PY  - 2026
 DO  - 10.1007/s12028-026-02644-7
@@ -287,10 +287,11 @@ ER  -
 
 TY  - JOUR
 TI  - In-Hospital Cardiac Arrest in Impella-Supported Cardiogenic Shock: Insights From the J-PVAD Registry
-AU  - Large Japanese registry (n=8
-AU  - 577) showing in-hospital cardiac arrest before Impella implantation carries substantially higher 30-day mortality (48.1% vs 28.7% without arrest
-AU  - adjusted HR 1.54
-AU  - 95% CI 1.41–1.69) than no-arrest cardiogenic shock. [PMID: 42727697](https://pubmed.ncbi.nlm.nih.gov/42727697/) · [DOI](https://doi.org/10.1016/j.resuscitation.2026.111310)
+AU  - Arai R
+AU  - Kojima K
+AU  - Fukamachi D
+AU  - Okumura Y
+AU  - J-PVAD investigators
 JO  - Resuscitation
 PY  - 2026
 DO  - 10.1016/j.resuscitation.2026.111310
@@ -413,8 +414,17 @@ ER  -
 
 TY  - JOUR
 TI  - Extracorporeal Membrane Oxygenation Combined With Embolectomy May Yield Better Outcomes Than Extracorporeal Membrane Oxygenation Alone or With Thrombolysis for Acute High-Risk Pulmonary Embolism
-AU  - single-center retrospective cohort
-AU  - 2016–2024.
+AU  - Fujimoto R
+AU  - Mazur MZ
+AU  - O'Neill JW
+AU  - Hassaballa AS
+AU  - Bermudez A
+AU  - Glassmoyer L
+AU  - Schurr J
+AU  - Olia SE
+AU  - Richards TJ
+AU  - Pugliese SC
+AU  - Bermudez CA
 JO  - ASAIO J
 PY  - 2026
 DO  - 10.1097/mat.0000000000002849
@@ -504,8 +514,17 @@ ER  -
 
 TY  - JOUR
 TI  - Early renal perfusion phenotypes and renal recovery in critically ill patients with or at risk for acute kidney injury: a prospective multicenter cohort study
-AU  - Prospective 6-center Chinese cohort (n=456) using serial Doppler-derived renal perfusion phenotyping found a sustained-high-perfusion trajectory associated with less persistent AKI and less RRT use by day 7
-AU  - though the association attenuated in sensitivity models. [PMID: 42704056](https://pubmed.ncbi.nlm.nih.gov/42704056/) · [DOI](https://doi.org/10.1097/SHK.0000000000002936)
+AU  - Fu Y
+AU  - Ke L
+AU  - Lv C
+AU  - Wang Y
+AU  - Zhang S
+AU  - Yan J
+AU  - Zhang X
+AU  - Liu W
+AU  - Hu Y
+AU  - Zhang D
+AU  - Li H
 JO  - Shock
 PY  - 2026
 DO  - 10.1097/shk.0000000000002936

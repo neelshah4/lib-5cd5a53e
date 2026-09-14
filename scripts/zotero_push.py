@@ -477,12 +477,37 @@ def ris_authors(rec):
     return [a.strip() for a in (rec.get("authors") or []) if a and a.strip()]
 
 
+# Zotero rejects an over-long creator name server-side ("The creator name ... is
+# too long to sync"), and that one rejection fails the whole item. Real papers
+# do carry names that long -- consortium bylines such as "for the Endorsing
+# Societies of College of Intensive Care Medicine (CICM) UK; ..." (332 chars).
+# Clamp at the sync boundary rather than degrading the catalog: the full name
+# stays in data/catalog.json and the exports, and Zotero gets a name it accepts.
+ZOTERO_CREATOR_MAXLEN = 255
+
+
+def _clamp_creator(name: str) -> str:
+    if len(name) <= ZOTERO_CREATOR_MAXLEN:
+        return name
+    cut = name[:ZOTERO_CREATOR_MAXLEN - 1]
+    # prefer a clean break at punctuation or a space
+    for sep in ("; ", ", ", " "):
+        idx = cut.rfind(sep)
+        if idx > ZOTERO_CREATOR_MAXLEN // 2:
+            cut = cut[:idx]
+            break
+    return cut.rstrip(" ,;") + "\u2026"
+
+
 def build_item_body(rec, collections, tag, abstract=None):
     creators = []
     for a in ris_authors(rec):
+        a = _clamp_creator(a)
         if "," in a:
             last, first = a.split(",", 1)
-            creators.append({"creatorType": "author", "lastName": last.strip(), "firstName": first.strip()})
+            creators.append({"creatorType": "author",
+                             "lastName": _clamp_creator(last.strip()),
+                             "firstName": _clamp_creator(first.strip())})
         else:
             creators.append({"creatorType": "author", "lastName": a, "firstName": ""})
     extra = []

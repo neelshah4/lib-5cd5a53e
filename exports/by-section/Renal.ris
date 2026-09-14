@@ -1889,8 +1889,19 @@ TI  - Development and Internal Validation of Machine Learning in Predicting Prog
 AU  - Lertussavavivat T
 AU  - Sriswasdi S
 AU  - Faisatjatham S
-AU  - (Srisawat N; Southeast Asia AKI cohort
-AU  - 6 countries)
+AU  - Sukmark T
+AU  - Peerapornratana S
+AU  - Lumlertgul N
+AU  - Mahamitra N
+AU  - Panaput T
+AU  - Trongtrakul K
+AU  - Bhurayanontachai R
+AU  - Khositrangsikun K
+AU  - Surasit K
+AU  - Jonny J
+AU  - Sengthavisouk N
+AU  - Tungsanga K
+AU  - Srisawat N
 JO  - J Crit Care
 PY  - 2026
 DO  - 10.1016/j.jcrc.2026.155479
@@ -1901,14 +1912,16 @@ KW  - 2026-W23
 ER  - 
 
 TY  - JOUR
-TI  - Association of Timing of Vasopressin Initiation With Renal Replacement Therapy in Septic Shock Patients](https://pubmed.ncbi.nlm.nih.gov/42617219/) ([DOI
+TI  - Association of timing of vasopressin initiation with renal replacement therapy in septic shock patients
 AU  - Lee JK
 AU  - Vaughan LE
 AU  - Cureton KD
-AU  - Kashani KB.
+AU  - Kashani KB
 JO  - J Crit Care
 PY  - 2026
-DO  - 10.1016/j.jcrc.2026.155713)
+DO  - 10.1016/j.jcrc.2026.155713
+AN  - 42617219
+UR  - https://doi.org/10.1016/j.jcrc.2026.155713
 KW  - Renal
 KW  - 2026-W35
 ER  - 
@@ -2029,8 +2042,11 @@ TY  - JOUR
 TI  - Prognostic Performance of Plasma and Urinary Biomarkers of Kidney Injury and Function After Out-Of-Hospital Cardiac Arrest
 AU  - Lim SL
 AU  - Woo KL
-AU  - Au AY
-AU  - (Pickering JW; National University Heart Centre Singapore / University of Otago)
+AU  - Au AYM
+AU  - Ong MEH
+AU  - Richards AM
+AU  - Endre ZH
+AU  - Pickering JW
 JO  - Resuscitation
 PY  - 2026
 DO  - 10.1016/j.resuscitation.2026.111163
@@ -2661,12 +2677,35 @@ ER  -
 
 TY  - JOUR
 TI  - Sodium Bicarbonate for Critically Ill Adults with Metabolic Acidosis and Shock
+AU  - SODa-BIC Investigators and the Australian and New Zealand Intensive Care Society Clinical Trials Group
 AU  - Serpa Neto A
 AU  - McNamara M
 AU  - White K
-AU  - (Bellomo R
-AU  - Udy A; ANZICRC — 55 ICUs
-AU  - 7 countries)
+AU  - Cooper DJ
+AU  - Fujii T
+AU  - Higgins AM
+AU  - Hodgson CL
+AU  - Navarra L
+AU  - Nichol A
+AU  - Peake S
+AU  - Réa-Neto A
+AU  - Secombe P
+AU  - Osborne F
+AU  - Burrill H
+AU  - See E
+AU  - Young M
+AU  - Zampieri FG
+AU  - Plummer M
+AU  - Christie C
+AU  - Nunnink L
+AU  - Mackay J
+AU  - McGuinness S
+AU  - Marmol J
+AU  - Tiruvoipati R
+AU  - Bailey M
+AU  - Young PJ
+AU  - Bellomo R
+AU  - Udy A
 JO  - New England Journal of Medicine
 PY  - 2026
 DO  - 10.1056/nejmoa2600526
@@ -2854,8 +2893,15 @@ TI  - Divergence Between Net Fluid and Weight-Based Evaluation in Calculating Cu
 AU  - Shinnick FJ
 AU  - Hasson DC
 AU  - Kothari U
-AU  - (Dziorny AC; 4 pediatric academic centers
-AU  - 6 PICUs/PCICUs)
+AU  - Shah A
+AU  - Odum JD
+AU  - Braun CG
+AU  - Dixon CG
+AU  - Fitzgerald JC
+AU  - Martin SD
+AU  - Terry N
+AU  - Dziorny AC
+AU  - Evidence-Driven Evaluation and Management of fluid Accumulation (EDEMA) Collaborative
 JO  - Critical Care Explorations
 PY  - 2026
 DO  - 10.1097/cce.0000000000001411
@@ -2886,8 +2932,21 @@ TI  - External Validation, Recalibration, and Extension of a Prediction Model of
 AU  - Dziorny AC
 AU  - Drury S
 AU  - Clark A
-AU  - (Shah N
-AU  - Sanchez-Pinto LN; PEDSnet-VPS + PICU Data Collaborative — 8 institutions)
+AU  - Farris RWD
+AU  - Nishisaki A
+AU  - Cornell TT
+AU  - Tawfik DS
+AU  - Bennett TD
+AU  - Shah SS
+AU  - Weiss SL
+AU  - Mohamed T
+AU  - Shah N
+AU  - McMahon J
+AU  - Muthu N
+AU  - Wetzel RC
+AU  - Zand M
+AU  - Sanchez-Pinto LN
+AU  - Pediatric Learning Health System Network (PEDSnet) and the PICU Data Collaborative
 JO  - Crit Care Explor
 PY  - 2026
 DO  - 10.1097/cce.0000000000001425
@@ -2920,13 +2979,31 @@ KW  - 2026-W29
 ER  - 
 
 TY  - JOUR
-TI  - Clinical Subphenotypes and Short-Term Outcomes in PICU Patients Receiving Continuous Blood Purification](https://pubmed.ncbi.nlm.nih.gov/42608963/) ([DOI
+TI  - Clinical Subphenotypes and Short-Term Outcomes in PICU Patients Receiving Continuous Blood Purification
 AU  - Huang K
 AU  - Ke J
 AU  - Wang Z
+AU  - Ge X
+AU  - Zhao Z
+AU  - Chen F
+AU  - Zhang L
+AU  - Ni J
+AU  - Zhao J
+AU  - Liang S
+AU  - Zhang S
+AU  - Qu Q
+AU  - Sun H
+AU  - Wang P
+AU  - Gong N
+AU  - Shen H
+AU  - Zhu J
+AU  - Fan H
+AU  - Li S
 JO  - Crit Care Explor
 PY  - 2026
-DO  - 10.1097/cce.0000000000001460)
+DO  - 10.1097/cce.0000000000001460
+AN  - 42608963
+UR  - https://doi.org/10.1097/cce.0000000000001460
 KW  - Renal
 KW  - 2026-W35
 ER  - 
@@ -3091,7 +3168,11 @@ TI  - Diagnostic and Prognostic Value of the Venous Excess Ultrasound Grading Sy
 AU  - Klompmaker P
 AU  - Opschoor K
 AU  - Dalen JT
-AU  - (Tuinman PR; Amsterdam UMC)
+AU  - de Vries R
+AU  - Balan C
+AU  - Veelo DP
+AU  - Vlaar APJ
+AU  - Tuinman PR
 JO  - Critical Care Medicine
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007219
@@ -4480,9 +4561,32 @@ TI  - Metabolic complications of citrate anticoagulation in continuous renal rep
 AU  - Jacobs R
 AU  - Schneider A
 AU  - Hoste E
-AU  - (29-expert international panel; Ostermann M
+AU  - Verbrugghe W
+AU  - Bagshaw S
+AU  - Bell M
+AU  - Boer W
+AU  - Bouchard J
+AU  - Broman M
+AU  - Crawford B
+AU  - David S
+AU  - Di Mario F
+AU  - Joannes-Boyau O
+AU  - Joannidis M
+AU  - Joseph C
+AU  - Merrill KA
+AU  - Ostermann M
+AU  - Palevsky P
+AU  - Papez K
 AU  - Prowle J
-AU  - Palevsky P)
+AU  - Rewa O
+AU  - Ricci Z
+AU  - Shin S
+AU  - Szamosfalvi B
+AU  - Tolwani A
+AU  - Villa G
+AU  - Volbeda M
+AU  - Rimmelé T
+AU  - Jorens PG
 JO  - Crit Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06066-x
@@ -4525,8 +4629,7 @@ TI  - Acute Kidney Injury Among Intensive Care Unit Patients in Denmark: Tempora
 AU  - Christiansen SH
 AU  - Gammelager H
 AU  - Jensen SK
-AU  - Christiansen CF (Aarhus University Hospital
-AU  - Denmark)
+AU  - Christiansen CF
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06125-3
@@ -4538,8 +4641,26 @@ ER  -
 
 TY  - JOUR
 TI  - Implementation of the Kidney Protection Strategy in Critically Ill Patients With Acute Kidney Injury: A Multi-Center Prospective Cohort Study
-AU  - [First author not listed in section metadata]
-AU  - (European multicenter ICU cohort; N=258 adult ICU patients with KDIGO stage 2–3 AKI requiring vasopressors or MV)
+AU  - Sadjadi M
+AU  - Marcello M
+AU  - Köhler A
+AU  - Perschinka F
+AU  - Schauflinger S
+AU  - Joannidis M
+AU  - Vadász I
+AU  - Husain-Syed F
+AU  - Klop-Riehl M
+AU  - Pickkers P
+AU  - Villa G
+AU  - Nagel T
+AU  - Bormann E
+AU  - Booke H
+AU  - Schöne LM
+AU  - von Groote T
+AU  - Mertes MJ
+AU  - Kellum JA
+AU  - Strauß C
+AU  - Zarbock A
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06144-0

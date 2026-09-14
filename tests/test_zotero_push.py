@@ -424,5 +424,42 @@ class DoiIndexTests(unittest.TestCase):
         self.assertEqual(len(post_calls), 1)
 
 
+class TestCreatorClamp(unittest.TestCase):
+    """Regression: an over-long creator name must not fail the whole item.
+
+    2026-09-14: Zotero rejected a record server-side ("The creator name ... is
+    too long to sync") and zotero_push exited 1 mid-digest. Real consortium
+    bylines legitimately run past Zotero's limit, so the clamp lives at the sync
+    boundary -- the catalog and exports keep the full name.
+    """
+
+    LONG = ("for the Endorsing Societies of College of Intensive Care Medicine "
+            "(CICM) UK; Pulmonary Vascular Research Institute (PVRI); Protective "
+            "Ventilation Network (PROVE Network); Association for Cardiothoracic "
+            "Anaesthesia and Critical Care; and several further endorsing bodies")
+
+    def test_short_names_untouched(self):
+        for name in ("Rose AT", "van Herwerden MC", "Mauri, Tommaso"):
+            self.assertEqual(zotero_push._clamp_creator(name), name)
+
+    def test_long_name_clamped_under_limit(self):
+        out = zotero_push._clamp_creator(self.LONG)
+        self.assertLessEqual(len(out), zotero_push.ZOTERO_CREATOR_MAXLEN)
+        self.assertTrue(out.endswith("\u2026"))
+
+    def test_every_creator_in_body_is_syncable(self):
+        rec = {
+            "doi": "10.1/x", "title": "T", "journal": "J", "year": 2026,
+            "pmid": "1", "authors": [self.LONG, "Rose AT"],
+        }
+        body = zotero_push.build_item_body(rec, [], "weekly:test")
+        self.assertTrue(body["creators"])
+        for c in body["creators"]:
+            for field in ("lastName", "firstName"):
+                self.assertLessEqual(
+                    len(c.get(field, "")), zotero_push.ZOTERO_CREATOR_MAXLEN,
+                    f"{field} would be rejected by Zotero: {c!r}")
+
+
 if __name__ == "__main__":
     unittest.main()

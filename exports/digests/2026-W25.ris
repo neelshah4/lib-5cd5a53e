@@ -1,9 +1,22 @@
 TY  - JOUR
 TI  - Early High-Dose Vitamin C for Out-of-Hospital Cardiac Arrest: The VITaCCA Randomized Clinical Trial
 AU  - Rozemeijer S
-AU  - (multicenter; N=273: 93 placebo
-AU  - 91 vitamin C 3g
-AU  - 89 vitamin C 10g IV post-OHCA)
+AU  - Dubois EA
+AU  - de Grooth HJ
+AU  - den Uil CA
+AU  - Rettig TCD
+AU  - Rijpstra TA
+AU  - van den Bogaard B
+AU  - van Zanten ARH
+AU  - Bosman RJ
+AU  - Elbers PWG
+AU  - Girbes ARJ
+AU  - Vlaar APJ
+AU  - Twisk JWR
+AU  - Christopher KB
+AU  - Schober P
+AU  - Oudemans-van Straaten HM
+AU  - de Man AME
 JO  - Intensive Care Medicine
 PY  - 2026
 DO  - 10.1007/s00134-026-08492-5
@@ -15,8 +28,16 @@ ER  -
 
 TY  - JOUR
 TI  - Association of Rotational Thromboelastometry Parameters with Hematoma Expansion After Spontaneous Intracerebral Hemorrhage
-AU  - [First author not listed in section metadata]
-AU  - (N=70 spontaneous ICH patients)
+AU  - Forlivesi S
+AU  - Cillotto T
+AU  - Bovara M
+AU  - Gentile M
+AU  - Paolucci M
+AU  - Brancaleoni L
+AU  - Sebastiani M
+AU  - Simonetti L
+AU  - Mancini R
+AU  - Zini A
 JO  - Neurocritical Care
 PY  - 2026
 DO  - 10.1007/s12028-026-02569-1
@@ -28,9 +49,19 @@ ER  -
 
 TY  - JOUR
 TI  - Heterogeneity of Clazosentan Benefit after Aneurysmal Subarachnoid Hemorrhage: An Externally Validated Causal Policy Tree
-AU  - [First author not listed in section metadata]
-AU  - (derivation N=506
-AU  - validation N=181; aSAH)
+AU  - Nishida K
+AU  - Chrétien B
+AU  - Muraoka S
+AU  - Izumi T
+AU  - Nishihori M
+AU  - Goto S
+AU  - Takeuchi I
+AU  - Tashiro R
+AU  - Sakata H
+AU  - Vivien D
+AU  - Mizuno M
+AU  - Endo H
+AU  - Saito R
 JO  - Neurocritical Care
 PY  - 2026
 DO  - 10.1007/s12028-026-02573-5
@@ -46,8 +77,7 @@ AU  - Bianchini L
 AU  - Tramujas L
 AU  - Peron R
 AU  - Cavalcanti AB
-AU  - Maia IS (Hcor Research Institute
-AU  - São Paulo / BRICNet)
+AU  - Maia IS
 JO  - Chest
 PY  - 2026
 DO  - 10.1016/j.chest.2026.06.003
@@ -62,7 +92,13 @@ ER  -
 TY  - JOUR
 TI  - Association of Serum Lactate with Outcome After Pediatric Out-of-Hospital Cardiac Arrest: A Secondary Analysis of the THAPCA Trial
 AU  - Schmidt CD
-AU  - (THAPCA Investigators; N=213 pediatric OHCA patients with lactate data)
+AU  - Carlton EF
+AU  - Page K
+AU  - Hunt NR
+AU  - Kohne JG
+AU  - Slomine BS
+AU  - Topjian AA
+AU  - Moler FW
 JO  - Resuscitation
 PY  - 2026
 DO  - 10.1016/j.resuscitation.2026.111178
@@ -76,8 +112,13 @@ ER  -
 TY  - JOUR
 TI  - Comparison of Intraosseous Line Placement Location and Rates of Return of Spontaneous Circulation and Survival to Discharge Among Patients with Out-of-Hospital Cardiac Arrest
 AU  - Witherell A
-AU  - (single-county EMS registry; N=1
-AU  - 920 OHCA)
+AU  - Castillo A
+AU  - Samones E
+AU  - Phan TH
+AU  - Singh P
+AU  - Linke C
+AU  - Higuchi L
+AU  - Dukes WS
 JO  - Resuscitation
 PY  - 2026
 DO  - 10.1016/j.resuscitation.2026.111179
@@ -89,8 +130,245 @@ ER  -
 
 TY  - JOUR
 TI  - Cefazolin for Methicillin-Susceptible Staphylococcus aureus Bacteremia
-AU  - SNAP Investigators (multicenter; N=1
-AU  - 287 enrolled; Bayesian adaptive phase IV equivalence RCT)
+AU  - Staphylococcus aureus Network Adaptive Platform (SNAP) Trial Group
+AU  - Lee TC
+AU  - Barina LA
+AU  - Walls G
+AU  - Goodman AL
+AU  - Yahav D
+AU  - Cheng MP
+AU  - Bonten M
+AU  - Bowen AC
+AU  - Boyles T
+AU  - Daneman N
+AU  - Ekkelenkamp MB
+AU  - Ghanem-Zoubi N
+AU  - Hensgens MPM
+AU  - Jager NGL
+AU  - Kaasch AJ
+AU  - Kouijzer IJE
+AU  - Lewis RJ
+AU  - Lumley T
+AU  - Lye DC
+AU  - McDonald EG
+AU  - McKew G
+AU  - McLean ARD
+AU  - McMullan BJ
+AU  - McQuilten ZK
+AU  - Morpeth SC
+AU  - Paterson DL
+AU  - Roberts JA
+AU  - Robinson JO
+AU  - Saito H
+AU  - Scarborough M
+AU  - Ten Oever J
+AU  - Turner RM
+AU  - Tverring J
+AU  - van Hal SJ
+AU  - Webb SA
+AU  - Whiteway LM
+AU  - Arias CA
+AU  - Henderson A
+AU  - Heriot GS
+AU  - Snelling TL
+AU  - Afra K
+AU  - Ali SS
+AU  - Amit S
+AU  - Anagnostou NA
+AU  - Archuleta S
+AU  - Aston SJ
+AU  - Athan E
+AU  - Baharav N
+AU  - Bai AD
+AU  - Barber BE
+AU  - Baskaran A
+AU  - Berkeley MMA
+AU  - Best EJ
+AU  - Bhilave NR
+AU  - Bloomfield MG
+AU  - Bond KA
+AU  - Bostock J
+AU  - Botheras CL
+AU  - Boyd MA
+AU  - Bradshaw SME
+AU  - Briggs EJ
+AU  - Britton PN
+AU  - Campbell AJ
+AU  - Carr BZ
+AU  - Chancellor JA
+AU  - Chen K
+AU  - Cheong EY
+AU  - Chew KL
+AU  - Chia PY
+AU  - Chomba R
+AU  - Chong BSW
+AU  - Clews CJN
+AU  - Cohen JM
+AU  - Commons RJ
+AU  - Cutfield T
+AU  - Daley P
+AU  - Daniel DS
+AU  - Davies J
+AU  - De P
+AU  - Denholm JT
+AU  - Di Virgilio M
+AU  - Dishon-Benattar Y
+AU  - Dotel R
+AU  - Duan EH
+AU  - Easom N
+AU  - Eliakim-Raz N
+AU  - England MM
+AU  - Fahmy M
+AU  - Findlater AR
+AU  - Flanagan KL
+AU  - Foo EZJ
+AU  - Foo H
+AU  - Forster DP
+AU  - Fralick M
+AU  - Frazer JL
+AU  - Gador-Whyte AP
+AU  - Garnham K
+AU  - German GJ
+AU  - Ghosh N
+AU  - Gisolf EH
+AU  - Giulieri SG
+AU  - Goulding SR
+AU  - Grant JM
+AU  - Gregson D
+AU  - Grimwade KC
+AU  - Grupper M
+AU  - Guy SD
+AU  - Gwee A
+AU  - Hall VG
+AU  - Hardy EJ
+AU  - Harris DJ
+AU  - Hatcher J
+AU  - Hobbs MR
+AU  - Holmes NE
+AU  - Howden BP
+AU  - Huggan PJ
+AU  - Jennings ZA
+AU  - Johnstone J
+AU  - Juniper T
+AU  - Kalimuddin S
+AU  - Kamfose M
+AU  - Kandel C
+AU  - Kelly MJ
+AU  - Kozak RA
+AU  - Kümin M
+AU  - Lamontagne F
+AU  - Lau JSY
+AU  - Lee IR
+AU  - Lin RJ
+AU  - Lindsay D
+AU  - Llewelyn MJ
+AU  - Longtin Y
+AU  - Lother SA
+AU  - Luey CE
+AU  - MacFadden DR
+AU  - Mahony AA
+AU  - Malden C
+AU  - Malhamé I
+AU  - Manning LA
+AU  - Marks M
+AU  - Martin LJ
+AU  - Matthews GV
+AU  - McGann PH
+AU  - McMahon JH
+AU  - Melon A
+AU  - Menon V
+AU  - Mertz D
+AU  - Meyer MP
+AU  - Molton JS
+AU  - Mora JM
+AU  - Moran E
+AU  - Mortimer LM
+AU  - Motaganahalli S
+AU  - Muller MP
+AU  - Munro APS
+AU  - Murray FA
+AU  - Murthy S
+AU  - Nagendra V
+AU  - Nel H
+AU  - New DWJ
+AU  - Nguyen V
+AU  - Norton G
+AU  - Norton KM
+AU  - Nourse CB
+AU  - Nye CJS
+AU  - O'Callaghan K
+AU  - O'Sullivan MVN
+AU  - Ong SWX
+AU  - Otu AA
+AU  - Owen M
+AU  - Papenburg J
+AU  - Parkes LO
+AU  - Paul M
+AU  - Perez-Patrigeon S
+AU  - Petersiel N
+AU  - Petrella L
+AU  - Pett SL
+AU  - Pham D
+AU  - Piazzese CJ
+AU  - Poulin S
+AU  - Rehak R
+AU  - Rennert-May E
+AU  - Richards AJ
+AU  - Rogers BA
+AU  - Sahng E
+AU  - Salada B
+AU  - Scheuerman O
+AU  - Schneider K
+AU  - Schulz TR
+AU  - Schwartz KL
+AU  - Simos PA
+AU  - Singh H
+AU  - Sinkeler FS
+AU  - Smith S
+AU  - Smith BJ
+AU  - Smith SW
+AU  - Somayaji R
+AU  - Sommerville C
+AU  - Song RXJ
+AU  - Sowden DC
+AU  - Stark MJ
+AU  - Stone NRH
+AU  - Strunk T
+AU  - Sud A
+AU  - Swe KP
+AU  - Symons CR
+AU  - Tan YE
+AU  - Ten Doesschate T
+AU  - Thien SY
+AU  - Thomas A
+AU  - Trad MA
+AU  - Tramontana AR
+AU  - Tsang JLY
+AU  - Ulett K
+AU  - Underwood J
+AU  - van Welzen BJ
+AU  - Vazquez-Grande G
+AU  - Velasquez Reyes DC
+AU  - Verberk JDM
+AU  - Voss LM
+AU  - Ward D
+AU  - Webb RH
+AU  - Whitmore TJ
+AU  - Wieder-Finesod A
+AU  - Wilson HL
+AU  - Wilson EW
+AU  - Wong HM
+AU  - Wong She K
+AU  - Wuerz T
+AU  - Yamamura DL
+AU  - Yeoh A
+AU  - Yow BLH
+AU  - Dymock M
+AU  - Mahar RK
+AU  - McGlothlin A
+AU  - Marsh JA
+AU  - Davis JS
+AU  - Tong SYC
 JO  - New England Journal of Medicine
 PY  - 2026
 DO  - 10.1056/nejmoa2506905
@@ -103,9 +381,40 @@ ER  -
 
 TY  - JOUR
 TI  - Carbocisteine or Hypertonic Saline for Acute Respiratory Failure (MARCH Trial)
-AU  - [First author not listed in section metadata]
-AU  - (multicenter; N=1
-AU  - 956 MV adults)
+AU  - Connolly B
+AU  - Dickson N
+AU  - Campbell C
+AU  - Bradley JM
+AU  - O'Neill B
+AU  - Agus A
+AU  - Barker M
+AU  - Bewley JS
+AU  - Blackwood B
+AU  - Borthwick M
+AU  - Camporota L
+AU  - Chikhani M
+AU  - Clarke M
+AU  - Dark P
+AU  - Higgins L
+AU  - Lambert P
+AU  - Lunn T
+AU  - McDowell C
+AU  - McFarland M
+AU  - McShane U
+AU  - Mehta R
+AU  - Messer B
+AU  - Morton B
+AU  - Patel N
+AU  - Perkins GD
+AU  - Rowley D
+AU  - Shyamsundar M
+AU  - Silversides JA
+AU  - Sturmey G
+AU  - Warburton J
+AU  - Williams B
+AU  - Lall R
+AU  - McAuley DF
+AU  - MARCH Trial Investigators
 JO  - New England Journal of Medicine
 PY  - 2026
 DO  - 10.1056/nejmoa2603406
@@ -118,8 +427,25 @@ ER  -
 
 TY  - JOUR
 TI  - Airway Occlusions to Measure Inspiratory Effort, Respiratory Drive, and Lung Mechanics During Noninvasive Ventilation
-AU  - [First author not listed in section metadata]
-AU  - (multicenter; N=60 post-extubation hypoxemic patients)
+AU  - Murgolo F
+AU  - Grieco DL
+AU  - Soloperto R
+AU  - Bertoni M
+AU  - Spadaro S
+AU  - Bartolomeo N
+AU  - Pettenuzzo T
+AU  - Beloncle F
+AU  - Venkatapen D
+AU  - Cardu A
+AU  - Rosà T
+AU  - Iacovelli C
+AU  - Navalesi P
+AU  - Maggiore SM
+AU  - Goligher EC
+AU  - Ranieri VM
+AU  - Del Sorbo L
+AU  - Antonelli M
+AU  - Grasso S
 JO  - American Journal of Respiratory and Critical Care Medicine
 PY  - 2026
 DO  - 10.1093/ajrccm/aamag293
@@ -153,7 +479,14 @@ ER  -
 
 TY  - JOUR
 TI  - Early Prone Positioning After Acute Type A Aortic Dissection Surgery for Moderate-to-Severe ARDS Is Safe and Shortens Duration of Mechanical Ventilation
-AU  - [First author not listed in section metadata]
+AU  - Chen H
+AU  - Wu C
+AU  - Chen Y
+AU  - Chen B
+AU  - Xie J
+AU  - Zhou S
+AU  - Chen F
+AU  - Wang J
 JO  - Critical Care Explorations
 PY  - 2026
 DO  - 10.1097/cce.0000000000001420
@@ -167,8 +500,24 @@ ER  -
 
 TY  - JOUR
 TI  - Determinants of Delayed Recovery of Consciousness After Analgosedation Discontinuation in the ICU: Insights From Patients With COVID-19 Hypoxemic Respiratory Failure
-AU  - [First author not listed in section metadata]
-AU  - (3 academic centers; N=784 COVID-19 MV ICU patients)
+AU  - Safavynia SA
+AU  - Barra ME
+AU  - Der Nigoghossian C
+AU  - Shinnick D
+AU  - Waldrop G
+AU  - Choi JM
+AU  - Ganglberger W
+AU  - Shen Q
+AU  - Doyle K
+AU  - Walline MC
+AU  - Westover MB
+AU  - Brown EN
+AU  - Fins JJ
+AU  - Victor J
+AU  - Edlow BL
+AU  - Claassen J
+AU  - Schiff ND
+AU  - Thaweethai T
 JO  - Critical Care Medicine
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007205
@@ -181,8 +530,26 @@ ER  -
 TY  - JOUR
 TI  - Association Between Emergency Department-to-ICU Transfer Time and Hospital Mortality Across ICU Admission Diagnoses: A Post Hoc Subgroup Analysis
 AU  - van Herwerden MC
-AU  - (12 Dutch hospitals; N=18
-AU  - 798)
+AU  - Groenland CNL
+AU  - Termorshuizen F
+AU  - Rietdijk WJR
+AU  - Blokzijl F
+AU  - Boer DP
+AU  - Dormans T
+AU  - Epker JL
+AU  - Feyz L
+AU  - Gommers DAMPJ
+AU  - Gritters van den Oever N
+AU  - van der Heiden P
+AU  - de Jonge E
+AU  - Latten GHP
+AU  - Pruijsten RV
+AU  - Sir Ö
+AU  - Spronk PE
+AU  - Vermeijden WJ
+AU  - van Vliet P
+AU  - de Keizer NF
+AU  - den Uil CA
 JO  - Critical Care Medicine
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007207
@@ -194,8 +561,12 @@ ER  -
 
 TY  - JOUR
 TI  - Concordance Between Bedside and Electronic Detection of Intracranial Pressure Crises: Insights From the BOOST-II Trial
-AU  - [First author not listed in section metadata]
-AU  - (10 US ICUs; N=70 severe TBI patients)
+AU  - Chesnut RM
+AU  - Temkin N
+AU  - Barber J
+AU  - Park C
+AU  - Bonow RH
+AU  - Brain Tissue Oxygen Monitoring and Management in Severe Traumatic Brain Injury II (BOOST II) Investigators
 JO  - Critical Care Medicine
 PY  - 2026
 DO  - 10.1097/ccm.0000000000007223
@@ -207,9 +578,12 @@ ER  -
 
 TY  - JOUR
 TI  - Child Opportunity Index and 30-Day Readmission Among Children Discharged With New Long-Term Mechanical Ventilation via Tracheostomy: A Pediatric Health Information System Database Study, 2014–2023
-AU  - [First author not listed in section metadata]
-AU  - (PHIS database; N=5
-AU  - 927)
+AU  - Scheller LL
+AU  - Alkon A
+AU  - Hoffmann TJ
+AU  - Staveski S
+AU  - Foster CC
+AU  - Russell CJ
 JO  - Pediatric Critical Care Medicine
 PY  - 2026
 DO  - 10.1097/pcc.0000000000003989
@@ -223,8 +597,14 @@ ER  -
 
 TY  - JOUR
 TI  - The Accuracy of Plateau and Driving Pressures During Assisted and Spontaneous Ventilation Depends on the Degree of Inspiratory Effort and Duration of the Inspiratory Hold
-AU  - [First author not listed in section metadata]
-AU  - (ASL-5000 simulator + pediatric ARDS trial waveforms)
+AU  - Herrera MG
+AU  - Ito Y
+AU  - Vedrenne-Cloquet M
+AU  - Hotz JC
+AU  - Takeuchi M
+AU  - Newth CJL
+AU  - Bhalla AK
+AU  - Khemani RG
 JO  - Respiratory Care
 PY  - 2026
 DO  - 10.1177/19433654261450212
@@ -237,8 +617,18 @@ ER  -
 
 TY  - JOUR
 TI  - Association of Extubation Timing and Treatment Failure After Successful Extubation Readiness Trial in Pediatric Patients
-AU  - [First author not listed in section metadata]
-AU  - (single quaternary PICU; N=261)
+AU  - Dixon KL
+AU  - Glau CL
+AU  - Faulkner EL
+AU  - Dominick C
+AU  - Nishisaki A
+AU  - Rosenblatt SA
+AU  - Loscalzo S
+AU  - Traynor DM
+AU  - Kirchner V
+AU  - Himebauch AS
+AU  - Conlon TW
+AU  - Keim G
 JO  - Respiratory Care
 PY  - 2026
 DO  - 10.1177/19433654261450551
@@ -251,8 +641,10 @@ ER  -
 
 TY  - JOUR
 TI  - Effect of High-Flow Nasal Cannula on Expiratory Muscle Activity in Critically Ill Subjects
-AU  - [First author not listed in section metadata]
-AU  - (single ICU; N=30)
+AU  - Akimoto Y
+AU  - Itagaki T
+AU  - Takashima T
+AU  - Oto J
 JO  - Respiratory Care
 PY  - 2026
 DO  - 10.1177/19433654261453032
@@ -265,8 +657,15 @@ ER  -
 
 TY  - JOUR
 TI  - Ventilator Liberation for Hospitalized Patients With Tracheostomy
-AU  - [First author not listed in section metadata]
-AU  - (Cleveland Clinic)
+AU  - Neuhofs S
+AU  - Mujanovic S
+AU  - Fischer M
+AU  - Ference T
+AU  - Roberts V
+AU  - Griffiths L
+AU  - Wang X
+AU  - Wang Y
+AU  - Hatipoğlu U
 JO  - Respiratory Care
 PY  - 2026
 DO  - 10.1177/19433654261453039
@@ -280,7 +679,14 @@ ER  -
 
 TY  - JOUR
 TI  - Effectiveness and Safety of Melatoninergic Agonists in Preventing Delirium in the ICU: An Updated Dose-Response Meta-Analysis of Randomized Controlled Trials
-AU  - [First author not listed in section metadata]
+AU  - Chaves-Filho A
+AU  - Medrado MF
+AU  - Zamboni T
+AU  - Cavalcanti AB
+AU  - Shim SR
+AU  - Quinn TJ
+AU  - Veiga VC
+AU  - Mavridis T
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06047-0
@@ -293,10 +699,14 @@ ER  -
 
 TY  - JOUR
 TI  - Critical Illness Impairs Coordinated Myogenesis: A Prospective Longitudinal Study of Skeletal Muscle Progenitor Cell Biology Using Serial Muscle Biopsies (SATELLITE Study)
-AU  - [First author not listed in section metadata]
-AU  - (N=33 ICU patients + 20 healthy controls; serial vastus lateralis biopsies at 72h
-AU  - 7d
-AU  - 180d)
+AU  - Krajčová A
+AU  - Němcová V
+AU  - Škrha P
+AU  - Genserová L
+AU  - Musilová A
+AU  - Fric M
+AU  - Waldauf P
+AU  - Duška F
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06131-5
@@ -308,9 +718,29 @@ ER  -
 
 TY  - JOUR
 TI  - Timing Matters: Sex Differences in Treatment Limitation Decisions in Intensive Care
-AU  - [First author not listed in section metadata]
-AU  - (nationwide Swiss ICU cohort 2016–2024; N=654
-AU  - 660 ICU admissions)
+AU  - Amacher SA
+AU  - Gebert P
+AU  - Tröster V
+AU  - Mikail N
+AU  - Vinzens A
+AU  - Regitz-Zagrosek V
+AU  - Arslani K
+AU  - Helms J
+AU  - Merdji H
+AU  - Long MT
+AU  - Hunziker S
+AU  - Lohri M
+AU  - Grzonka P
+AU  - Berger S
+AU  - Hollinger A
+AU  - Wildi K
+AU  - Yuen B
+AU  - Kaufmann M
+AU  - Sutter R
+AU  - Siegemund M
+AU  - Gebhard C
+AU  - Gebhard CE
+AU  - Swiss ICU Trial Group
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06139-x
@@ -322,8 +752,26 @@ ER  -
 
 TY  - JOUR
 TI  - Implementation of the Kidney Protection Strategy in Critically Ill Patients With Acute Kidney Injury: A Multi-Center Prospective Cohort Study
-AU  - [First author not listed in section metadata]
-AU  - (European multicenter ICU cohort; N=258 adult ICU patients with KDIGO stage 2–3 AKI requiring vasopressors or MV)
+AU  - Sadjadi M
+AU  - Marcello M
+AU  - Köhler A
+AU  - Perschinka F
+AU  - Schauflinger S
+AU  - Joannidis M
+AU  - Vadász I
+AU  - Husain-Syed F
+AU  - Klop-Riehl M
+AU  - Pickkers P
+AU  - Villa G
+AU  - Nagel T
+AU  - Bormann E
+AU  - Booke H
+AU  - Schöne LM
+AU  - von Groote T
+AU  - Mertes MJ
+AU  - Kellum JA
+AU  - Strauß C
+AU  - Zarbock A
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06144-0
@@ -335,8 +783,18 @@ ER  -
 
 TY  - JOUR
 TI  - Nurse-Led Family Participatory Support Intervention on Clinical Outcomes in ICU Patients: A Prospective Quasi-Experimental Study
-AU  - [First author not listed in section metadata]
-AU  - (3 tertiary Chinese ICUs; N=730 after propensity matching)
+AU  - Wu Y
+AU  - Wang G
+AU  - Mu K
+AU  - Ruan H
+AU  - Wei H
+AU  - Yue W
+AU  - Yang J
+AU  - Ma F
+AU  - Chen T
+AU  - Zhang Z
+AU  - Lv X
+AU  - Wang X
 JO  - Critical Care
 PY  - 2026
 DO  - 10.1186/s13054-026-06145-z

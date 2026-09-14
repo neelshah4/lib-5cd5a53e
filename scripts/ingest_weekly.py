@@ -68,17 +68,39 @@ def is_practice_changing(heading_norm: str) -> bool:
     return bool(PRACTICE_CHANGING_RE.match(low))
 
 
+# A heading may carry the DOI as a trailing link, sometimes itself wrapped in
+# parentheses:  '### 6. [Title](pubmed-url) ([DOI](https://doi.org/10.x/y))'
+# Peeled off BEFORE the title is parsed. Without this, the lazy title regex
+# matched across the whole line and produced both a title ending in '](h' and a
+# DOI carrying a stray ')' -- 24 catalog rows with unresolvable DOIs and dead
+# links on the site (found 2026-09-14).
+_HEADING_DOI_SUFFIX = re.compile(
+    r"\(?\[DOI\]\(\s*(?:https?://)?(?:dx\.)?doi\.org/([^)\s]+)\s*\)\)?\s*$",
+    re.I,
+)
+
+
 def parse_heading_title(head: str):
     """Returns (title, doi_from_link_or_None)."""
     s = head.strip()
-    s = re.sub(r"^\d+\.\s*", "", s)
+    # '6. ' and also '26 (Misc slot 1 of 25). ' -- the latter left the whole
+    # numbering prefix inside the title (1 catalog row, found 2026-09-14).
+    s = re.sub(r"^\d+\s*(?:\([^)]*\))?\.\s*", "", s)
     s = re.sub(r"^\[[^\]]*\]\s*(?!\()", "", s)
-    m = re.match(r"^\[(.*?)\]\((\S+?)\)\s*$", s)
+    doi = None
+    m_doi = _HEADING_DOI_SUFFIX.search(s)
+    if m_doi:
+        doi = m_doi.group(1)
+        s = s[:m_doi.start()].strip()
+    m = re.match(r"^\[(.*)\]\((\S+?)\)\s*$", s)
     if m:
         title, url = m.group(1), m.group(2)
-        du = re.search(r"doi\.org/(.+)$", url)
-        return title, (du.group(1) if du else None)
-    return s, None
+        if doi is None:
+            # never let the closing ')' of the markdown link into the DOI
+            du = re.search(r"doi\.org/([^)\s]+)", url)
+            doi = du.group(1) if du else None
+        return title, doi
+    return s, doi
 
 
 def extract_doi(blk: str):
@@ -145,6 +167,127 @@ def extract_journal_year_pt(blk: str):
         authors = rest if rest and not rest.upper().startswith("PMID") else None
         return journal, year, pts, authors
     return None, None, [], None
+
+
+# --- author-shape guard -------------------------------------------------------
+# Some digest layouts put a PROSE BLURB exactly where the author list lives.
+# The clearest case is the "## Borderline (worth a peek)" bullet:
+#   - [borderline] **Title** — *Journal, 2026, Journal Article.* <blurb...> [PMID: ..](..)
+# The italic-journal branch of extract_journal_year_pt() matches that line and
+# hands back the blurb as `authors`, which then gets comma-split into fake
+# "authors" like 'Meta-analysis of 3 RCTs (n=431) found no significant ...'.
+# Zotero rejects those server-side ("creator name is too long to sync"), which
+# is how this surfaced (2026-09-14: 1 of 26 papers failed to sync, 3 catalog
+# rows corrupted). The exports and the site carried the garbage too.
+#
+# Guard: validate the SHAPE of the whole extracted string before splitting, and
+# discard it wholesale when it doesn't look like an author list. Whole-string,
+# not per-token, so legitimate long collaborator names survive -- e.g.
+# 'the PLeUral pressure working Group (PLUG...)' or
+# 'European Resuscitation Council Guidelines 2025 Collaborator Group'.
+# Losing an author list is recoverable (resolve() backfills from PubMed);
+# writing prose into a creator field is not.
+
+# Markers that never appear in an author list but are everywhere in a blurb.
+_PROSE_MARKERS = re.compile(
+    r"\]\("                                  # markdown link
+    r"|https?://"
+    r"|\bPMID\b|\bDOI\b"
+    r"|%|\bn\s*=|\bvs\b|\bCI\b|\bHR\b|\bOR\b"
+    r"|\bfound\b|\bshowing\b|\bshowed\b|\bassociated with\b|\bdespite\b"
+    r"|\bsuggests?\b|\bsuggesting\b|\bcompared\b|\btrial\b|\bcohort\b|\bstudy\b",
+    re.I,
+)
+
+# A plausible author token: 'Rose AT' / 'Mauri, Tommaso' / "O'Brien J" /
+# 'van Herwerden MC' / a group name ('the ... Group', 'for the ...').
+_NAME_TOKEN = re.compile(
+    r"^(?:"
+    r"(?:the|for|on behalf of|with)\b.*"
+    r"|(?:(?:van|von|de|del|della|der|den|di|da|dos|du|la|le|ten|ter|bin|al)\s+)*"
+    r"[A-ZÀ-Ý][\wÀ-ſ'’.\-]*"
+    r"(?:\s+[\wÀ-ſ'’.\-]+){0,5}"
+    r"(?:\s+[A-Z]{1,4})?"
+    r")$",
+    re.U,
+)
+
+
+def _strip_trailing_annotation(s: str) -> str:
+    """Drop a trailing '(...)' SITE/N annotation from an author string.
+
+    Several digest layouts append provenance after the names:
+        'Manning JC, Latour JM, Draper E, et al. (Curley MAQ; 10 English PICUs, N=326)'
+    Comma-splitting that whole string yields junk authors like '(Teixeira C'.
+    Only annotation-shaped parentheticals are stripped -- a trailing group-name
+    parenthetical such as '(PLUG-Acute Respiratory Failure section)' is kept,
+    because there the parenthetical IS part of the collaborator's name.
+    """
+    s = s.strip()
+    if not s.endswith(")"):
+        return s
+    depth = 0
+    for i in range(len(s) - 1, -1, -1):
+        if s[i] == ")":
+            depth += 1
+        elif s[i] == "(":
+            depth -= 1
+            if depth == 0:
+                inner, prefix = s[i + 1:-1], s[:i].strip()
+                if not prefix:
+                    return s
+                annotation = (
+                    ";" in inner
+                    or re.search(r"\bN\s*=", inner, re.I)
+                    or re.search(
+                        r"\d+[^)]{0,25}?(?:centers?|centres?|ICUs?|PICUs?|NICUs?|"
+                        r"hospitals?|sites?|countries|institutions?|patients?|participants?)",
+                        inner, re.I)
+                )
+                return prefix if annotation else s
+    return s
+
+
+def looks_like_author_list(s: str) -> bool:
+    """True when `s` plausibly IS an author list rather than prose."""
+    if not s or not s.strip():
+        return False
+    s = s.strip()
+    if _PROSE_MARKERS.search(s):
+        return False
+    tokens = [t.strip() for t in re.split(r"[,;]|\bet al\.?", s) if t.strip()]
+    if not tokens:
+        return False
+    named = sum(1 for t in tokens if _NAME_TOKEN.match(t))
+    # A real list is overwhelmingly name-shaped. Prose that dodges every marker
+    # above still fails here, because its clauses are not name-shaped.
+    return named / len(tokens) >= 0.6
+
+
+def parse_authors(authors_str):
+    """Author string -> list of names, or None when it isn't an author list."""
+    if not authors_str:
+        return None
+    cleaned = _strip_trailing_annotation(authors_str)
+    # Some layouts run the author list straight into a PMID link and a blurb:
+    #   'Titherington LM, Bottesi T, et al. PMID: [42525046](...). Narrative...'
+    # Keep the prefix rather than discarding real names along with the prose.
+    truncated = False
+    m = _PROSE_MARKERS.search(cleaned)
+    if m:
+        cleaned = cleaned[:m.start()].strip().strip(",;.").strip()
+        cleaned = _strip_trailing_annotation(cleaned)
+        truncated = True
+    # Truncating prose can leave a fragment that happens to be name-shaped
+    # ('Combined clinical' from 'Combined clinical cohort (121 ...) found ...').
+    # A surviving real author list still reads as a LIST, so demand that here.
+    if truncated and not (re.search(r"\bet al\b", cleaned, re.I)
+                          or re.search(r"[,;]", cleaned)):
+        return None
+    if not looks_like_author_list(cleaned):
+        return None
+    names = [a.strip() for a in re.split(r",|\bet al\.?", cleaned) if a.strip()]
+    return names or None
 
 
 def extract_take(blk: str) -> str:
@@ -241,9 +384,7 @@ def _build_paper(head, blk, section, section_inferred, tags, path):
             blk,
         )
     journal, year, pub_types, authors_str = extract_journal_year_pt(blk)
-    authors = None
-    if authors_str:
-        authors = [a.strip() for a in re.split(r",|\bet al\.?", authors_str) if a.strip()]
+    authors = parse_authors(authors_str)
     take = extract_take(blk)
     impact = extract_impact(blk)
     rec = {
