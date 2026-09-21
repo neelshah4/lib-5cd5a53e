@@ -3133,7 +3133,8 @@
   "take": "Phase 3 double-blind RCT across 24 burn centers in North/Central/South America, Europe, and Asia. Adults with deep second-/third-degree burns covering ≥20% TBSA requiring skin grafting were randomized to IV vitamin C 50 mg/kg every 6 hours for 96 hours vs placebo (N=238; mean age 48.9 years, 79% male, mean TBSA 37.0%). Trial stopped early at first prespecified interim analysis for futility/harm. Primary composite outcome (28-day mortality + persistent organ dysfunction at day 28): 40.8% vitamin C vs 29.7% placebo (adjusted RR 1.28, 95% CI 0.99-1.65; p=0.06 — crossed futility/harm threshold). 28-day mortality: 15.0% vs 7.6% (adjusted RR 1.96, 95% CI 1.32-2.90; p=0.001). Hospital mortality: 23.3% vs 16.1% (adjusted RR 1.44, 95% CI 1.03-2.00; p=0.03). Time to hospital discharge not improved.",
   "impact": "practice-changing",
   "digests": [
-   "2026-W24"
+   "2026-W24",
+   "2026-W38"
   ],
   "first_seen": "2026-09-05",
   "source": "weekly",
@@ -3142,6 +3143,39 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://jamanetwork.com/journals/jama/fullarticle/2850392"
+ },
+ {
+  "doi": "10.1001/jama.2026.10617",
+  "pmid": "42268591",
+  "title": "Integrated Telehealth Rehabilitation and Quality of Life in Mechanically Ventilated Adults: A Randomized Clinical Trial",
+  "authors": [
+   "Rosa RG",
+   "Moraes RB",
+   "Trott G"
+  ],
+  "journal": "JAMA",
+  "year": 2026,
+  "pub_date": "2026-09-15",
+  "pub_types": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Multicenter Study"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [],
+  "take": "Stepped-wedge cluster RCT across 20 Brazilian public-hospital ICUs (N=1916) testing an integrated ICU-to-postdischarge telehealth rehabilitation program in adults with acute hypoxemic respiratory failure requiring invasive ventilation. The intervention group had higher 90-day EQ-5D-3L utility scores overall (adjusted difference 0.049, 95% CI 0.0002–0.098), lower 90-day all-cause mortality (71.8% vs 78.3%, adjusted difference -7.6%, 95% CI -14.7 to -0.6, P=.03), and shorter mechanical ventilation duration (9.9 vs 15.5 days, adjusted difference -6.2 days, 95% CI -8.5 to -3.9).",
+  "impact": "confirmatory of benefit from structured, integrated rehabilitation spanning icu through postdischarge care; mortality and ventilation-duration effects were statistically robust, though the quality-of-life benefit among survivors specifically was not significant",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://jamanetwork.com/journals/jama/fullarticle/2850403"
  },
  {
   "doi": "10.1001/jama.2026.10628",
@@ -33485,6 +33519,105 @@
   "url": "https://link.springer.com/10.1007/s00431-026-07396-2"
  },
  {
+  "doi": "10.1007/s00431-026-07419-y",
+  "pmid": "42760401",
+  "title": "Risk factors for acute kidney injury after pediatric liver transplantation: a systematic review and meta-analysis",
+  "authors": [
+   "Cai W",
+   "Wang D",
+   "Zhu L",
+   "Liu X"
+  ],
+  "journal": "Eur J Pediatr",
+  "year": 2026,
+  "pub_date": "2026-09-19",
+  "pub_types": [
+   "Journal Article",
+   "Systematic Review",
+   "Meta-Analysis"
+  ],
+  "section": "Renal",
+  "subtopic": null,
+  "tags": [],
+  "take": "Systematic review and meta-analysis of 17 retrospective cohorts (2986 pediatric liver transplant recipients) estimating AKI incidence and risk factors. Pooled AKI incidence was 30.7% (95% CI 25.0%–36.3%); perioperative factors implicated included preoperative hepatic impairment, coagulopathy, inadequate nutrition/oxygen delivery, intraoperative blood loss and transfusion burden, and ischemia-reperfusion injury, though most individual risk factors were assessed in only a small number of studies.",
+  "impact": "confirmatory epidemiology establishing aki as a common post-transplant complication in children; individual risk-factor estimates should be interpreted cautiously given sparse per-factor data",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://link.springer.com/10.1007/s00431-026-07419-y"
+ },
+ {
+  "doi": "10.1007/s00431-026-07428-x",
+  "pmid": "42749845",
+  "title": "Comparison of diaphragmatic thickness fraction between prone and supine positioning in preterm and sick term neonates: a prospective study",
+  "authors": [
+   "Ishimaru M",
+   "Zuiki M",
+   "Ota M"
+  ],
+  "journal": "Eur J Pediatr",
+  "year": 2026,
+  "pub_date": "2026-09-16",
+  "pub_types": [
+   "Journal Article",
+   "Comparative Study",
+   "Observational Study"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [],
+  "take": "Prospective single-center study of 11 preterm and sick term neonates using diaphragmatic ultrasound across prone-supine-prone position changes. Diaphragmatic thickness fraction was significantly lower prone than supine (23.5% vs 38.0%, P<0.001), reproducing when returned to prone, suggesting reduced diaphragmatic contraction effort in the prone position.",
+  "impact": "hypothesis-generating physiology in a small (n=11) cohort; supports diaphragmatic ultrasound as a non-invasive bedside tool for respiratory-effort assessment during positioning changes in the nicu",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://link.springer.com/10.1007/s00431-026-07428-x"
+ },
+ {
+  "doi": "10.1007/s00431-026-07438-9",
+  "pmid": "42763313",
+  "title": "Epidemiology, multimorbidity patterns and outcomes of paediatric sepsis admissions in Ireland 2020-2025",
+  "authors": [
+   "Ravichandran N",
+   "Fitzgerald A",
+   "Quinlan D"
+  ],
+  "journal": "Eur J Pediatr",
+  "year": 2026,
+  "pub_date": "2026-09-19",
+  "pub_types": [
+   "Journal Article",
+   "Observational Study"
+  ],
+  "section": "Shock & Sepsis",
+  "subtopic": null,
+  "tags": [],
+  "take": "National retrospective review of 4442 pediatric sepsis admissions in Ireland (2020–2025), split into hospital-onset (30.7%) and community-onset (69.3%) episodes. Hospital-onset sepsis carried markedly higher rates of critical-care admission (84.0% vs 32.3%) and mortality (7.6% vs 1.8%) than community-onset disease; among community-onset cases, comorbidity independently raised the odds of critical-care admission and death, though severe outcomes also occurred in previously healthy children.",
+  "impact": "confirmatory descriptive epidemiology with a direct clinical-care implication",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://link.springer.com/10.1007/s00431-026-07438-9"
+ },
+ {
   "doi": "10.1007/s00467-021-05180-y",
   "pmid": null,
   "title": "Survival of infants treated with CKRT: comparing adapted adult platforms with the Carpediem™",
@@ -40383,6 +40516,37 @@
   "url": "https://linkinghub.elsevier.com/retrieve/pii/S0003497526004352"
  },
  {
+  "doi": "10.1016/j.athoracsur.2026.09.014",
+  "pmid": "42753882",
+  "title": "Outcomes of ventricular assist device placement in pediatric patients with renal dysfunction requiring dialysis: an ACTION registry analysis",
+  "authors": [
+   "Catalano MA",
+   "Edelson JB",
+   "Amdani S"
+  ],
+  "journal": "Ann Thorac Surg",
+  "year": 2026,
+  "pub_date": "2026-09-01",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Renal",
+  "subtopic": null,
+  "tags": [],
+  "take": "ACTION registry analysis (57 North American sites, April 2018–June 2025) of 1607 pediatric VAD recipients, 75 (4.7%) of whom required RRT at surgery. RRT patients had worse baseline status (more ECMO support, higher INTERMACS class), lower transplant rates (44.0% vs 61.4%), and lower one-year survival (58.4% vs 78.3%, P<0.001) — but RRT itself was not independently associated with one-year mortality on multivariable Cox analysis (HR 1.31, 95% CI 0.81–2.10).",
+  "impact": "confirmatory with an important nuance",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0003497526009276"
+ },
+ {
   "doi": "10.1016/j.aucc.2021.06.004",
   "pmid": null,
   "title": "Midazolam exposure in the paediatric intensive care unit predicts acute post-traumatic stress symptoms in children",
@@ -43812,6 +43976,42 @@
   "oa": false,
   "has_abstract": false,
   "url": "https://doi.org/10.1016/j.chest.2026.07.5239"
+ },
+ {
+  "doi": "10.1016/j.chest.2026.08.050",
+  "pmid": "42762982",
+  "title": "Multicomponent Pulmonary Rehabilitation for Prolonged Mechanical Ventilation in Patients Aged 80 Years or Older: A Randomized Controlled Trial",
+  "authors": [
+   "Liu T",
+   "Kou T",
+   "Wei G",
+   "Zhang H",
+   "Li G",
+   "Hou H",
+   "Liu B",
+   "Zhao J"
+  ],
+  "journal": "Chest",
+  "year": 2026,
+  "pub_date": "2026-09-01",
+  "pub_types": [
+   "journal-article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [],
+  "take": "Single-center, assessor-blinded RCT randomizing patients ≥80 years on prolonged mechanical ventilation to a multicomponent pulmonary rehabilitation program or standard rehabilitation (75 per arm). Successful weaning occurred in 45.3% of the intervention group versus 12.0% of controls (adjusted HR 5.11, 95% CI 2.46–11.23, P<0.001), with lower ventilator-associated pneumonia at days 60–90 and no significant difference in 90-day mortality or DVT.",
+  "impact": "practice-changing",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0012369226066729"
  },
  {
   "doi": "10.1016/j.chstcc.2023.100010",
@@ -49653,7 +49853,9 @@
   ],
   "section": "Respiratory/ARDS",
   "subtopic": null,
-  "tags": [],
+  "tags": [
+   "borderline"
+  ],
   "take": "Retrospective eICU cohort of 43,880 adults starting invasive ventilation across 114 US hospitals. Rebuilding hospital ventilator-liberation benchmarks on a competing-risk footing (rather than treating death as a short ventilation run) reversed outlier classification for most flagged hospitals (weighted kappa 0.00 versus the conventional metric); 16 hospitals with significantly worse liberation went unflagged by the conventional method and had higher risk-standardized ICU mortality (18.2% vs 13.6%, p<0.001).",
   "impact": "confirmatory/methodological",
   "digests": [
@@ -68784,7 +68986,8 @@
   "impact": "confirmatory null result",
   "digests": [
    "2026-W24",
-   "2026-06"
+   "2026-06",
+   "2026-W38"
   ],
   "first_seen": "2026-09-05",
   "source": "weekly",
@@ -70623,6 +70826,53 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://academic.oup.com/ajrccm/article/212/9/2159/8711923"
+ },
+ {
+  "doi": "10.1093/ajrccm/aamag457",
+  "pmid": "42742361",
+  "title": "Mechanical ventilation-induced neutrophil extracellular vesicles as mediators of postoperative pulmonary complications",
+  "authors": [
+   "Stephens JR",
+   "Heng S",
+   "Cutting A",
+   "Walsh R",
+   "Boshier PR",
+   "Iki Y",
+   "Sugarman J",
+   "Cheng X",
+   "Wilson MR",
+   "Baldi RF",
+   "Shah A",
+   "Patel S",
+   "Gordon AC",
+   "Hanna GB",
+   "Takata M",
+   "Soni S"
+  ],
+  "journal": "Am J Respir Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-09-15",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [
+   "borderline",
+   "section-inferred"
+  ],
+  "take": "",
+  "impact": null,
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://academic.oup.com/ajrccm/advance-article/doi/10.1093/ajrccm/aamag457/8796056"
  },
  {
   "doi": "10.1093/annalsats/aaoag042",
@@ -73843,6 +74093,46 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://www.ovid.com/10.1097/ALN.0000000000006143"
+ },
+ {
+  "doi": "10.1097/aln.0000000000006373",
+  "pmid": "42752513",
+  "title": "Short-term Modification of Postoperative Ventilation Phenotypes With Electrical Impedance Tomography-guided Positive End-expiratory Pressure Titration",
+  "authors": [
+   "Hoshino T",
+   "Yoshida Y",
+   "Maezawa T",
+   "Iwata H",
+   "Taenaka H",
+   "Hashimoto H",
+   "Koyama Y",
+   "Yamada T",
+   "Yoshida T"
+  ],
+  "journal": "Anesthesiology",
+  "year": 2026,
+  "pub_date": "2026-09-17",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [
+   "borderline",
+   "section-inferred"
+  ],
+  "take": "",
+  "impact": null,
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/ALN.0000000000006373"
  },
  {
   "doi": "10.1097/ana.0000000000000607",
@@ -80685,6 +80975,37 @@
   "url": "https://www.ovid.com/10.1097/CCM.0000000000007341"
  },
  {
+  "doi": "10.1097/ccm.0000000000007363",
+  "pmid": "42752385",
+  "title": "Epidemiology of Critically Ill Patients With Cirrhosis Undergoing Continuous Renal Replacement Therapy: A Contemporaneous Parallel Analysis of the HRS-HARMONY and CRRTnet Registries",
+  "authors": [
+   "Karvellas CJ",
+   "Lambert J",
+   "Ouyang T"
+  ],
+  "journal": "Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-09-17",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Renal",
+  "subtopic": null,
+  "tags": [],
+  "take": "Parallel analysis of two North American registries (HARMONY, n=245; CRRTnet, n=206) describing CRRT process and outcomes in ICU patients with cirrhosis/acute-on-chronic liver failure. Survival to discharge was low in both cohorts (30–34%); higher CLIF-C ACLF scores independently predicted mortality in HARMONY, and in CRRTnet a prescribed CRRT dose above 30 mL/kg/hr was independently associated with higher in-hospital mortality (adjusted OR 2.69, 95% CI 1.3–5.64).",
+  "impact": "hypothesis-generating on crrt dosing",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/CCM.0000000000007363"
+ },
+ {
   "doi": "10.1097/ccm.0000000000007364",
   "pmid": "42725818",
   "title": "Mortality Effect of Peripheral Perfusion-Guided Resuscitation in Vasodilatory Shock: A Systematic Review and Dual Frequentist-Bayesian Meta-Analysis of Randomized Trials",
@@ -83497,6 +83818,37 @@
   "url": "https://www.ovid.com/10.1097/MAT.0000000000002839"
  },
  {
+  "doi": "10.1097/mat.0000000000002840",
+  "pmid": "42758971",
+  "title": "Antithrombin Activity and Inflammatory Phenotypes as Predictors of Outcome in Venovenous Extracorporeal Membrane Oxygenation",
+  "authors": [
+   "Del Signore R",
+   "Shetty S",
+   "Sanderson B"
+  ],
+  "journal": "ASAIO J",
+  "year": 2026,
+  "pub_date": "2026-09-18",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "ECMO",
+  "subtopic": null,
+  "tags": [],
+  "take": "Single-center retrospective cohort of 734 adults on VV-ECMO (2013–2023) examining baseline antithrombin (AT) activity against ischemic, thrombotic, bleeding, and mortality outcomes. Nearly two-thirds were AT-deficient (<77%) at initiation; AT deficiency tracked with more frequent ischemic complications (7.6% vs 1.9%), and each 1% rise in AT activity independently lowered ischemic-event odds (OR 0.97, 95% CI 0.95–0.98, AUC 0.74 at a threshold of 49%). Unsupervised clustering identified a \"consumptive\" subphenotype with the lowest AT activity and highest ischemic/mortality burden.",
+  "impact": "hypothesis-generating risk-stratification signal; baseline at activity and inflammatory subphenotyping may identify vv-ecmo patients at elevated ischemic risk, warranting prospective validation before altering anticoagulation practice",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/MAT.0000000000002840"
+ },
+ {
   "doi": "10.1097/mat.0000000000002842",
   "pmid": "42691312",
   "title": "Upper-Body Versus Femoral Return in Peripheral Veno-Arterial Extracorporeal Membrane Oxygenation: A Systematic Review and Meta-analysis",
@@ -83596,6 +83948,100 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://www.ovid.com/10.1097/MAT.0000000000002849"
+ },
+ {
+  "doi": "10.1097/mat.0000000000002854",
+  "pmid": "42748413",
+  "title": "Plasma Angiotensin Levels and Postoperative Hypotension in Patients With and Without Chronic Heart Failure Undergoing Cardiac Surgery",
+  "authors": [
+   "DiChiacchio L",
+   "Hamouche R",
+   "Maneta E"
+  ],
+  "journal": "ASAIO J",
+  "year": 2026,
+  "pub_date": "2026-09-16",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Cardiac CC",
+  "subtopic": null,
+  "tags": [],
+  "take": "Prospective single-institution pilot study (10 patients per arm) measuring angiotensin I and II before and after cardiopulmonary bypass in patients with and without chronic systolic heart failure. Preoperative angiotensin levels were higher in the heart-failure group and remained so postoperatively; lower postoperative angiotensin II correlated with lower mean arterial pressure and a trend toward higher pressor requirement, but only in heart-failure patients.",
+  "impact": "hypothesis-generating pilot data (n=20); suggests a role for characterizing raas function to anticipate postcardiotomy vasoplegia in heart-failure patients, not yet actionable at the bedside",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/MAT.0000000000002854"
+ },
+ {
+  "doi": "10.1097/mat.0000000000002856",
+  "pmid": "42733143",
+  "title": "Chorda Tendinea Obstruction of Impella Causing Massive Hemolysis Detected by Methemoglobinemia: A Case Report",
+  "authors": [
+   "Schmidt A",
+   "Erlebach R",
+   "Locher P"
+  ],
+  "journal": "ASAIO J",
+  "year": 2026,
+  "pub_date": "2026-09-14",
+  "pub_types": [
+   "Journal Article",
+   "Case Reports"
+  ],
+  "section": "Cardiac CC",
+  "subtopic": null,
+  "tags": [],
+  "take": "Case report of a 60-year-old with cardiogenic shock on Impella CP support who developed massive hemolysis (hemoglobin 9.2→4.6 g/dL in 14 hours) and severe methemoglobinemia due to a native chorda tendinea obstructing the impeller, identified on device explantation; hemolysis resolved promptly after explantation and the patient recovered.",
+  "impact": "descriptive case; the authors propose routine blood-gas methemoglobin as an early bedside marker of evolving impeller-related hemolysis, and rising motor current with unchanged purge flow as a clue to intraluminal obstruction",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/MAT.0000000000002856"
+ },
+ {
+  "doi": "10.1097/mat.0000000000002862",
+  "pmid": "42758972",
+  "title": "Quantitative Electroencephalography Correlates With Acute Neurologic Events in Extracorporeal Membrane Oxygenation: A Pediatric Case Series",
+  "authors": [
+   "Hwang J",
+   "Raman L",
+   "McGetrick M"
+  ],
+  "journal": "ASAIO J",
+  "year": 2026,
+  "pub_date": "2026-09-18",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "ECMO",
+  "subtopic": null,
+  "tags": [],
+  "take": "Two pediatric patients on ECMO underwent continuous EEG within 6 hours of cannulation, with quantitative metrics (global suppression percentage and total power) tracked against clinical neurologic events. Acute insults — cardiac arrest, cerebral infarction, and intracranial hemorrhage — each coincided with rising suppression percentage and falling total power, an inverse pattern consistent across injury mechanisms.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/MAT.0000000000002862"
  },
  {
   "doi": "10.1097/mcc.0000000000000774",
@@ -91530,6 +91976,69 @@
   "url": "https://www.ovid.com/10.1097/PCC.0000000000004043"
  },
  {
+  "doi": "10.1097/pcc.0000000000004054",
+  "pmid": "42734438",
+  "title": "Inspiratory Flow Amplitude in Pediatric Acute Respiratory Distress Syndrome: Outcomes in a Single-Center Cohort, 2023-2024",
+  "authors": [
+   "Caviedes P",
+   "Díaz F",
+   "Cruces P"
+  ],
+  "journal": "Pediatr Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-09-14",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [],
+  "take": "Post hoc analysis of 48 mechanically ventilated children with early PARDS ventilated within lung-protective limits. Higher inspiratory flow amplitude — a ventilator-reported, setting-dependent metric — was independently associated with a lower hazard of successful extubation (HR 0.20, 95% CI 0.06–0.75, P=.017) after adjustment for age, oxygenation index, tidal volume, respiratory rate, and resistive airway pressure; each 0.1 L/min/kg increase tracked with roughly 3.5 additional hours of ventilation.",
+  "impact": "hypothesis-generating; the authors explicitly label the finding observational, proposing inspiratory flow amplitude as an integrative dynamic-load marker worth prospective study, not yet a weaning-decision tool",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/PCC.0000000000004054"
+ },
+ {
+  "doi": "10.1097/pcc.0000000000004055",
+  "pmid": "42734436",
+  "title": "Secondary analysis of the 2021-2023 Sepsis Epidemiology in Australian and New Zealand Children Observational Dataset: Association Between Presenting Venous Lactate Concentration and 72-Hour Outcomes",
+  "authors": [
+   "Long E",
+   "Hearps S",
+   "Butt W",
+   "(PREDICT Network)"
+  ],
+  "journal": "Pediatr Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-09-14",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Shock & Sepsis",
+  "subtopic": null,
+  "tags": [],
+  "take": "Planned secondary analysis of the SENTINEL dataset (4806 children, 11 Australian/New Zealand emergency departments, 2021–2023) testing initial venous lactate against 72-hour need for extracorporeal life support or death. A lactate threshold of 3.5 mmol/L had sensitivity 72.7%, specificity 84.9%, and AUROC 0.79, shifting pretest-to-posttest probability from 0.7% to 3.2%.",
+  "impact": "hypothesis-generating; the authors themselves note the \"acceptable-to-fair\" discrimination and low absolute post-test probability shift limit lactate's standalone decision utility in pediatric sepsis triage",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/PCC.0000000000004055"
+ },
+ {
   "doi": "10.1097/pcc.0000000000004057",
   "pmid": "42725820",
   "title": "Survival in Extracorporeal Cardiopulmonary Resuscitation for Pediatric In-Hospital Cardiac Arrest: Nationwide Cohort Study in Japan, 2011-2022",
@@ -92038,6 +92547,37 @@
   "url": "https://www.ovid.com/10.1097/SHK.0000000000002936"
  },
  {
+  "doi": "10.1097/shk.0000000000002939",
+  "pmid": "42735045",
+  "title": "Admission whole-blood transcriptomic characterization of a neutrophil-predominant systemic immune response in patients with acute traumatic brain injury",
+  "authors": [
+   "Nishida T",
+   "Nakamura Y",
+   "Matsumoto H"
+  ],
+  "journal": "Shock",
+  "year": 2026,
+  "pub_date": "2026-09-14",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Neurocritical Care",
+  "subtopic": null,
+  "tags": [],
+  "take": "Single-center prospective study performing whole-blood RNA sequencing on arrival samples from 42 patients with acute TBI versus 21 healthy controls, identifying 996 upregulated and 863 downregulated genes dominated by neutrophil degranulation and innate-immunity pathways; the neutrophil-degranulation signature correlated with Injury Severity Score (rho +0.55).",
+  "impact": "hypothesis-generating mechanistic work only",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/SHK.0000000000002939"
+ },
+ {
   "doi": "10.1097/sih.0000000000000693",
   "pmid": "36730866",
   "title": "Interprofessional Extracorporeal Membrane Oxygenation Cardiopulmonary Resuscitation Simulations Aimed at Decreasing Actual Cannulation Times: A Longitudinal Study.",
@@ -92265,6 +92805,39 @@
   "oa": true,
   "has_abstract": false,
   "url": "https://journals.lww.com/jtrauma/Fulltext/2023/01001/Pediatric_traumatic_hemorrhagic_shock_consensus.2.aspx"
+ },
+ {
+  "doi": "10.1097/ta.0000000000005170",
+  "pmid": "42743555",
+  "title": "Venous thromboembolism in pediatric traumatic brain injury: A systematic review and meta-analysis",
+  "authors": [
+   "Hoffmann I",
+   "Chit M",
+   "Mayeden S"
+  ],
+  "journal": "J Trauma Acute Care Surg",
+  "year": 2026,
+  "pub_date": null,
+  "pub_types": [
+   "Journal Article",
+   "Systematic Review",
+   "Meta-Analysis"
+  ],
+  "section": "Neurocritical Care",
+  "subtopic": null,
+  "tags": [],
+  "take": "Systematic review and meta-analysis pooling 20 of 29 identified studies (64,215 children with severe TBI) to estimate VTE frequency. Pooled VTE frequency was 7% (95% CI 4.4%–10.2%), rising to 20% among children with central venous lines; injury severity and multimodality treatment were consistent risk factors, though registry-based designs and inconsistent surveillance likely underestimate true incidence.",
+  "impact": "confirmatory risk-quantification; supports targeted vte surveillance or prophylaxis consideration in severe pediatric tbi with central venous access, pending prospective studies with standardized surveillance",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": false,
+  "url": null
  },
  {
   "doi": "10.1097/wnf.0b013e3181b77d07",
@@ -96414,6 +96987,37 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://bmjpaedsopen.bmj.com/lookup/doi/10.1136/bmjpo-2026-005014"
+ },
+ {
+  "doi": "10.1136/bmjpo-2026-005037",
+  "pmid": "42754395",
+  "title": "Temporal changes in bronchopulmonary dysplasia severity distribution associated with evolving respiratory practices in very preterm infants",
+  "authors": [
+   "Ali K",
+   "Aljarbou T",
+   "Algarni S"
+  ],
+  "journal": "BMJ Paediatr Open",
+  "year": 2026,
+  "pub_date": "2026-09-01",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [],
+  "take": "Retrospective cohort of 1259 infants born before 32 weeks across three practice eras (2017–2025) at a single NICU, tracking respiratory management alongside BPD outcomes. High-flow nasal cannula use rose from 43.7% to 70.6% and non-invasive support duration nearly tripled across eras; moderate-to-severe BPD rose correspondingly (adjusted OR 3.29, 95% CI 2.15–5.05, comparing era 3 to era 1), driven by grade 2 disease, while grade 3 BPD and mortality remained stable.",
+  "impact": "confirmatory association, not causal (era-based comparison); the shift toward prolonged non-invasive support tracks with more moderate bpd without a corresponding rise in severe disease or death",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://bmjpaedsopen.bmj.com/lookup/doi/10.1136/bmjpo-2026-005037"
  },
  {
   "doi": "10.1136/emermed-2023-213730",
@@ -133614,6 +134218,69 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://link.springer.com/10.1186/s13054-026-06300-6"
+ },
+ {
+  "doi": "10.1186/s13054-026-06304-2",
+  "pmid": "42750044",
+  "title": "Nurse-led respiratory care bundle and pneumonia prevention in critically ill patients with abdominal sepsis: a multicenter before-and-after controlled study",
+  "authors": [
+   "Xu Y",
+   "Zheng Y",
+   "Huang L"
+  ],
+  "journal": "Crit Care",
+  "year": 2026,
+  "pub_date": "2026-09-14",
+  "pub_types": [
+   "Journal Article",
+   "Multicenter Study"
+  ],
+  "section": "Shock & Sepsis",
+  "subtopic": null,
+  "tags": [],
+  "take": "Before-and-after study across five centers comparing traditional respiratory care (263 patients, 2021–2023) with a nurse-led respiratory care bundle (606 patients, 2023–2026) in abdominal sepsis. The bundle period showed lower pneumonia incidence (42.2% vs 25.6%, adjusted OR 0.39, 95% CI 0.28–0.54), shorter hospital stay, and lower 28-day mortality (22.8% vs 18.3%, OR 0.66, 95% CI 0.45–0.95), consistent across five sensitivity analyses.",
+  "impact": "confirmatory association only",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://link.springer.com/10.1186/s13054-026-06304-2"
+ },
+ {
+  "doi": "10.1186/s13054-026-06334-w",
+  "pmid": "42754897",
+  "title": "Personalised energy targeting during venovenous ECMO: serial assessment of resting energy expenditure reveals phase-dependent metabolic demand and systematic discordance with predictive equations",
+  "authors": [
+   "Wilke SK",
+   "Behnel N",
+   "Weber-Carstens S"
+  ],
+  "journal": "Crit Care",
+  "year": 2026,
+  "pub_date": "2026-09-16",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "ECMO",
+  "subtopic": null,
+  "tags": [],
+  "take": "Post-hoc analysis of 9 adults on VV-ECMO for ARDS at a single German center, using a specialized protocol (75 measurements) to directly measure energy expenditure despite membrane-lung gas exchange. Feeding equipoise (actual intake within 80–110% of measured expenditure) was achieved on only 40% of measurement-days; standard ESPEN weight-based dosing (25 kcal/kg/day) misclassified equipoise on more than half of days regardless of which body-weight convention was used.",
+  "impact": "hypothesis-generating given n=9; static weight-based nutrition targets appear systematically discordant with measured metabolic demand on vv-ecmo, supporting phase-specific, serially-measured dosing over fixed predictive equations",
+  "digests": [
+   "2026-W38"
+  ],
+  "first_seen": "2026-09-20",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://link.springer.com/10.1186/s13054-026-06334-w"
  },
  {
   "doi": "10.1186/s13063-021-05618-6",

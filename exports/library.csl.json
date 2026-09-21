@@ -5310,7 +5310,34 @@
     ]
    ]
   },
-  "keyword": "Shock & Sepsis; 2026-W24"
+  "keyword": "Shock & Sepsis; 2026-W24; 2026-W38"
+ },
+ {
+  "id": "10.1001/jama.2026.10617",
+  "type": "article-journal",
+  "title": "Integrated Telehealth Rehabilitation and Quality of Life in Mechanically Ventilated Adults: A Randomized Clinical Trial",
+  "author": [
+   {
+    "family": "Rosa RG"
+   },
+   {
+    "family": "Moraes RB"
+   },
+   {
+    "family": "Trott G"
+   }
+  ],
+  "container-title": "JAMA",
+  "DOI": "10.1001/jama.2026.10617",
+  "URL": "https://jamanetwork.com/journals/jama/fullarticle/2850403",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W38"
  },
  {
   "id": "10.1001/jama.2026.10628",
@@ -65434,6 +65461,90 @@
   "keyword": "Misc; 2026-W38"
  },
  {
+  "id": "10.1007/s00431-026-07419-y",
+  "type": "article-journal",
+  "title": "Risk factors for acute kidney injury after pediatric liver transplantation: a systematic review and meta-analysis",
+  "author": [
+   {
+    "family": "Cai W"
+   },
+   {
+    "family": "Wang D"
+   },
+   {
+    "family": "Zhu L"
+   },
+   {
+    "family": "Liu X"
+   }
+  ],
+  "container-title": "Eur J Pediatr",
+  "DOI": "10.1007/s00431-026-07419-y",
+  "URL": "https://link.springer.com/10.1007/s00431-026-07419-y",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Renal; 2026-W38"
+ },
+ {
+  "id": "10.1007/s00431-026-07428-x",
+  "type": "article-journal",
+  "title": "Comparison of diaphragmatic thickness fraction between prone and supine positioning in preterm and sick term neonates: a prospective study",
+  "author": [
+   {
+    "family": "Ishimaru M"
+   },
+   {
+    "family": "Zuiki M"
+   },
+   {
+    "family": "Ota M"
+   }
+  ],
+  "container-title": "Eur J Pediatr",
+  "DOI": "10.1007/s00431-026-07428-x",
+  "URL": "https://link.springer.com/10.1007/s00431-026-07428-x",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W38"
+ },
+ {
+  "id": "10.1007/s00431-026-07438-9",
+  "type": "article-journal",
+  "title": "Epidemiology, multimorbidity patterns and outcomes of paediatric sepsis admissions in Ireland 2020-2025",
+  "author": [
+   {
+    "family": "Ravichandran N"
+   },
+   {
+    "family": "Fitzgerald A"
+   },
+   {
+    "family": "Quinlan D"
+   }
+  ],
+  "container-title": "Eur J Pediatr",
+  "DOI": "10.1007/s00431-026-07438-9",
+  "URL": "https://link.springer.com/10.1007/s00431-026-07438-9",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-W38"
+ },
+ {
   "id": "10.1007/s00467-021-05180-y",
   "type": "article-journal",
   "title": "Survival of infants treated with CKRT: comparing adapted adult platforms with the Carpediem™",
@@ -74580,6 +74691,33 @@
   "keyword": "Cardiac CC; 2026-06"
  },
  {
+  "id": "10.1016/j.athoracsur.2026.09.014",
+  "type": "article-journal",
+  "title": "Outcomes of ventricular assist device placement in pediatric patients with renal dysfunction requiring dialysis: an ACTION registry analysis",
+  "author": [
+   {
+    "family": "Catalano MA"
+   },
+   {
+    "family": "Edelson JB"
+   },
+   {
+    "family": "Amdani S"
+   }
+  ],
+  "container-title": "Ann Thorac Surg",
+  "DOI": "10.1016/j.athoracsur.2026.09.014",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0003497526009276",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Renal; 2026-W38"
+ },
+ {
   "id": "10.1016/j.aucc.2021.06.004",
   "type": "article-journal",
   "title": "Midazolam exposure in the paediatric intensive care unit predicts acute post-traumatic stress symptoms in children",
@@ -79604,6 +79742,48 @@
    ]
   },
   "keyword": "Misc; 2026-W35"
+ },
+ {
+  "id": "10.1016/j.chest.2026.08.050",
+  "type": "article-journal",
+  "title": "Multicomponent Pulmonary Rehabilitation for Prolonged Mechanical Ventilation in Patients Aged 80 Years or Older: A Randomized Controlled Trial",
+  "author": [
+   {
+    "family": "Liu T"
+   },
+   {
+    "family": "Kou T"
+   },
+   {
+    "family": "Wei G"
+   },
+   {
+    "family": "Zhang H"
+   },
+   {
+    "family": "Li G"
+   },
+   {
+    "family": "Hou H"
+   },
+   {
+    "family": "Liu B"
+   },
+   {
+    "family": "Zhao J"
+   }
+  ],
+  "container-title": "Chest",
+  "DOI": "10.1016/j.chest.2026.08.050",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0012369226066729",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W38"
  },
  {
   "id": "10.1016/j.chstcc.2023.100010",
@@ -88310,7 +88490,7 @@
     ]
    ]
   },
-  "keyword": "Respiratory/ARDS; 2026-W38"
+  "keyword": "Respiratory/ARDS; 2026-W38; borderline"
  },
  {
   "id": "10.1016/j.jelectrocard.2021.02.001",
@@ -122841,7 +123021,7 @@
     ]
    ]
   },
-  "keyword": "Renal; 2026-W24; 2026-06"
+  "keyword": "Renal; 2026-W24; 2026-06; 2026-W38"
  },
  {
   "id": "10.1056/nejmoa2601969",
@@ -125924,6 +126104,72 @@
    ]
   },
   "keyword": "ECMO; 2026-06"
+ },
+ {
+  "id": "10.1093/ajrccm/aamag457",
+  "type": "article-journal",
+  "title": "Mechanical ventilation-induced neutrophil extracellular vesicles as mediators of postoperative pulmonary complications",
+  "author": [
+   {
+    "family": "Stephens JR"
+   },
+   {
+    "family": "Heng S"
+   },
+   {
+    "family": "Cutting A"
+   },
+   {
+    "family": "Walsh R"
+   },
+   {
+    "family": "Boshier PR"
+   },
+   {
+    "family": "Iki Y"
+   },
+   {
+    "family": "Sugarman J"
+   },
+   {
+    "family": "Cheng X"
+   },
+   {
+    "family": "Wilson MR"
+   },
+   {
+    "family": "Baldi RF"
+   },
+   {
+    "family": "Shah A"
+   },
+   {
+    "family": "Patel S"
+   },
+   {
+    "family": "Gordon AC"
+   },
+   {
+    "family": "Hanna GB"
+   },
+   {
+    "family": "Takata M"
+   },
+   {
+    "family": "Soni S"
+   }
+  ],
+  "container-title": "Am J Respir Crit Care Med",
+  "DOI": "10.1093/ajrccm/aamag457",
+  "URL": "https://academic.oup.com/ajrccm/advance-article/doi/10.1093/ajrccm/aamag457/8796056",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W38; borderline; section-inferred"
  },
  {
   "id": "10.1093/annalsats/aaoag042",
@@ -130393,6 +130639,51 @@
    ]
   },
   "keyword": "ECMO; 2026-W31"
+ },
+ {
+  "id": "10.1097/aln.0000000000006373",
+  "type": "article-journal",
+  "title": "Short-term Modification of Postoperative Ventilation Phenotypes With Electrical Impedance Tomography-guided Positive End-expiratory Pressure Titration",
+  "author": [
+   {
+    "family": "Hoshino T"
+   },
+   {
+    "family": "Yoshida Y"
+   },
+   {
+    "family": "Maezawa T"
+   },
+   {
+    "family": "Iwata H"
+   },
+   {
+    "family": "Taenaka H"
+   },
+   {
+    "family": "Hashimoto H"
+   },
+   {
+    "family": "Koyama Y"
+   },
+   {
+    "family": "Yamada T"
+   },
+   {
+    "family": "Yoshida T"
+   }
+  ],
+  "container-title": "Anesthesiology",
+  "DOI": "10.1097/aln.0000000000006373",
+  "URL": "https://www.ovid.com/10.1097/ALN.0000000000006373",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W38; borderline; section-inferred"
  },
  {
   "id": "10.1097/ana.0000000000000607",
@@ -139705,6 +139996,33 @@
   "keyword": "Misc; 2026-W38"
  },
  {
+  "id": "10.1097/ccm.0000000000007363",
+  "type": "article-journal",
+  "title": "Epidemiology of Critically Ill Patients With Cirrhosis Undergoing Continuous Renal Replacement Therapy: A Contemporaneous Parallel Analysis of the HRS-HARMONY and CRRTnet Registries",
+  "author": [
+   {
+    "family": "Karvellas CJ"
+   },
+   {
+    "family": "Lambert J"
+   },
+   {
+    "family": "Ouyang T"
+   }
+  ],
+  "container-title": "Crit Care Med",
+  "DOI": "10.1097/ccm.0000000000007363",
+  "URL": "https://www.ovid.com/10.1097/CCM.0000000000007363",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Renal; 2026-W38"
+ },
+ {
   "id": "10.1097/ccm.0000000000007364",
   "type": "article-journal",
   "title": "Mortality Effect of Peripheral Perfusion-Guided Resuscitation in Vasodilatory Shock: A Systematic Review and Dual Frequentist-Bayesian Meta-Analysis of Randomized Trials",
@@ -143125,6 +143443,33 @@
   "keyword": "ECMO; 2026-W38"
  },
  {
+  "id": "10.1097/mat.0000000000002840",
+  "type": "article-journal",
+  "title": "Antithrombin Activity and Inflammatory Phenotypes as Predictors of Outcome in Venovenous Extracorporeal Membrane Oxygenation",
+  "author": [
+   {
+    "family": "Del Signore R"
+   },
+   {
+    "family": "Shetty S"
+   },
+   {
+    "family": "Sanderson B"
+   }
+  ],
+  "container-title": "ASAIO J",
+  "DOI": "10.1097/mat.0000000000002840",
+  "URL": "https://www.ovid.com/10.1097/MAT.0000000000002840",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-W38"
+ },
+ {
   "id": "10.1097/mat.0000000000002842",
   "type": "article-journal",
   "title": "Upper-Body Versus Femoral Return in Peripheral Veno-Arterial Extracorporeal Membrane Oxygenation: A Systematic Review and Meta-analysis",
@@ -143220,6 +143565,87 @@
   "container-title": "ASAIO J",
   "DOI": "10.1097/mat.0000000000002849",
   "URL": "https://www.ovid.com/10.1097/MAT.0000000000002849",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-W38"
+ },
+ {
+  "id": "10.1097/mat.0000000000002854",
+  "type": "article-journal",
+  "title": "Plasma Angiotensin Levels and Postoperative Hypotension in Patients With and Without Chronic Heart Failure Undergoing Cardiac Surgery",
+  "author": [
+   {
+    "family": "DiChiacchio L"
+   },
+   {
+    "family": "Hamouche R"
+   },
+   {
+    "family": "Maneta E"
+   }
+  ],
+  "container-title": "ASAIO J",
+  "DOI": "10.1097/mat.0000000000002854",
+  "URL": "https://www.ovid.com/10.1097/MAT.0000000000002854",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Cardiac CC; 2026-W38"
+ },
+ {
+  "id": "10.1097/mat.0000000000002856",
+  "type": "article-journal",
+  "title": "Chorda Tendinea Obstruction of Impella Causing Massive Hemolysis Detected by Methemoglobinemia: A Case Report",
+  "author": [
+   {
+    "family": "Schmidt A"
+   },
+   {
+    "family": "Erlebach R"
+   },
+   {
+    "family": "Locher P"
+   }
+  ],
+  "container-title": "ASAIO J",
+  "DOI": "10.1097/mat.0000000000002856",
+  "URL": "https://www.ovid.com/10.1097/MAT.0000000000002856",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Cardiac CC; 2026-W38"
+ },
+ {
+  "id": "10.1097/mat.0000000000002862",
+  "type": "article-journal",
+  "title": "Quantitative Electroencephalography Correlates With Acute Neurologic Events in Extracorporeal Membrane Oxygenation: A Pediatric Case Series",
+  "author": [
+   {
+    "family": "Hwang J"
+   },
+   {
+    "family": "Raman L"
+   },
+   {
+    "family": "McGetrick M"
+   }
+  ],
+  "container-title": "ASAIO J",
+  "DOI": "10.1097/mat.0000000000002862",
+  "URL": "https://www.ovid.com/10.1097/MAT.0000000000002862",
   "issued": {
    "date-parts": [
     [
@@ -153492,6 +153918,63 @@
   "keyword": "Renal; 2026-W38"
  },
  {
+  "id": "10.1097/pcc.0000000000004054",
+  "type": "article-journal",
+  "title": "Inspiratory Flow Amplitude in Pediatric Acute Respiratory Distress Syndrome: Outcomes in a Single-Center Cohort, 2023-2024",
+  "author": [
+   {
+    "family": "Caviedes P"
+   },
+   {
+    "family": "Díaz F"
+   },
+   {
+    "family": "Cruces P"
+   }
+  ],
+  "container-title": "Pediatr Crit Care Med",
+  "DOI": "10.1097/pcc.0000000000004054",
+  "URL": "https://www.ovid.com/10.1097/PCC.0000000000004054",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W38"
+ },
+ {
+  "id": "10.1097/pcc.0000000000004055",
+  "type": "article-journal",
+  "title": "Secondary analysis of the 2021-2023 Sepsis Epidemiology in Australian and New Zealand Children Observational Dataset: Association Between Presenting Venous Lactate Concentration and 72-Hour Outcomes",
+  "author": [
+   {
+    "family": "Long E"
+   },
+   {
+    "family": "Hearps S"
+   },
+   {
+    "family": "Butt W"
+   },
+   {
+    "family": "(PREDICT Network)"
+   }
+  ],
+  "container-title": "Pediatr Crit Care Med",
+  "DOI": "10.1097/pcc.0000000000004055",
+  "URL": "https://www.ovid.com/10.1097/PCC.0000000000004055",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-W38"
+ },
+ {
   "id": "10.1097/pcc.0000000000004057",
   "type": "article-journal",
   "title": "Survival in Extracorporeal Cardiopulmonary Resuscitation for Pediatric In-Hospital Cardiac Arrest: Nationwide Cohort Study in Japan, 2011-2022",
@@ -154042,6 +154525,33 @@
   "keyword": "Shock & Sepsis; 2026-W38; borderline; section-inferred"
  },
  {
+  "id": "10.1097/shk.0000000000002939",
+  "type": "article-journal",
+  "title": "Admission whole-blood transcriptomic characterization of a neutrophil-predominant systemic immune response in patients with acute traumatic brain injury",
+  "author": [
+   {
+    "family": "Nishida T"
+   },
+   {
+    "family": "Nakamura Y"
+   },
+   {
+    "family": "Matsumoto H"
+   }
+  ],
+  "container-title": "Shock",
+  "DOI": "10.1097/shk.0000000000002939",
+  "URL": "https://www.ovid.com/10.1097/SHK.0000000000002939",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W38"
+ },
+ {
   "id": "10.1097/sih.0000000000000693",
   "type": "article-journal",
   "title": "Interprofessional Extracorporeal Membrane Oxygenation Cardiopulmonary Resuscitation Simulations Aimed at Decreasing Actual Cannulation Times: A Longitudinal Study.",
@@ -154340,6 +154850,33 @@
    ]
   },
   "keyword": "Shock & Sepsis; general; 2023-01"
+ },
+ {
+  "id": "10.1097/ta.0000000000005170",
+  "type": "article-journal",
+  "title": "Venous thromboembolism in pediatric traumatic brain injury: A systematic review and meta-analysis",
+  "author": [
+   {
+    "family": "Hoffmann I"
+   },
+   {
+    "family": "Chit M"
+   },
+   {
+    "family": "Mayeden S"
+   }
+  ],
+  "container-title": "J Trauma Acute Care Surg",
+  "DOI": "10.1097/ta.0000000000005170",
+  "URL": "",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W38"
  },
  {
   "id": "10.1097/wnf.0b013e3181b77d07",
@@ -159863,6 +160400,33 @@
   "container-title": "BMJ Paediatr Open",
   "DOI": "10.1136/bmjpo-2026-005014",
   "URL": "https://bmjpaedsopen.bmj.com/lookup/doi/10.1136/bmjpo-2026-005014",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W38"
+ },
+ {
+  "id": "10.1136/bmjpo-2026-005037",
+  "type": "article-journal",
+  "title": "Temporal changes in bronchopulmonary dysplasia severity distribution associated with evolving respiratory practices in very preterm infants",
+  "author": [
+   {
+    "family": "Ali K"
+   },
+   {
+    "family": "Aljarbou T"
+   },
+   {
+    "family": "Algarni S"
+   }
+  ],
+  "container-title": "BMJ Paediatr Open",
+  "DOI": "10.1136/bmjpo-2026-005037",
+  "URL": "https://bmjpaedsopen.bmj.com/lookup/doi/10.1136/bmjpo-2026-005037",
   "issued": {
    "date-parts": [
     [
@@ -225774,6 +226338,60 @@
    ]
   },
   "keyword": "ECMO; 2026-W37"
+ },
+ {
+  "id": "10.1186/s13054-026-06304-2",
+  "type": "article-journal",
+  "title": "Nurse-led respiratory care bundle and pneumonia prevention in critically ill patients with abdominal sepsis: a multicenter before-and-after controlled study",
+  "author": [
+   {
+    "family": "Xu Y"
+   },
+   {
+    "family": "Zheng Y"
+   },
+   {
+    "family": "Huang L"
+   }
+  ],
+  "container-title": "Crit Care",
+  "DOI": "10.1186/s13054-026-06304-2",
+  "URL": "https://link.springer.com/10.1186/s13054-026-06304-2",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-W38"
+ },
+ {
+  "id": "10.1186/s13054-026-06334-w",
+  "type": "article-journal",
+  "title": "Personalised energy targeting during venovenous ECMO: serial assessment of resting energy expenditure reveals phase-dependent metabolic demand and systematic discordance with predictive equations",
+  "author": [
+   {
+    "family": "Wilke SK"
+   },
+   {
+    "family": "Behnel N"
+   },
+   {
+    "family": "Weber-Carstens S"
+   }
+  ],
+  "container-title": "Crit Care",
+  "DOI": "10.1186/s13054-026-06334-w",
+  "URL": "https://link.springer.com/10.1186/s13054-026-06334-w",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-W38"
  },
  {
   "id": "10.1186/s13063-021-05618-6",

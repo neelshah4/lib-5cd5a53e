@@ -239,6 +239,20 @@ KW  - 2025-04
 ER  - 
 
 TY  - JOUR
+TI  - Integrated Telehealth Rehabilitation and Quality of Life in Mechanically Ventilated Adults: A Randomized Clinical Trial
+AU  - Rosa RG
+AU  - Moraes RB
+AU  - Trott G
+JO  - JAMA
+PY  - 2026
+DO  - 10.1001/jama.2026.10617
+AN  - 42268591
+UR  - https://jamanetwork.com/journals/jama/fullarticle/2850403
+KW  - Respiratory/ARDS
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
 TI  - Prone Positioning in Infants With Acute Bronchiolitis: The PROPOSITIS Randomized Clinical Trial
 AU  - Baudin F
 AU  - Pouyau R
@@ -4181,6 +4195,20 @@ KW  - 2026-W34
 ER  - 
 
 TY  - JOUR
+TI  - Comparison of diaphragmatic thickness fraction between prone and supine positioning in preterm and sick term neonates: a prospective study
+AU  - Ishimaru M
+AU  - Zuiki M
+AU  - Ota M
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07428-x
+AN  - 42749845
+UR  - https://link.springer.com/10.1007/s00431-026-07428-x
+KW  - Respiratory/ARDS
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
 TI  - Electrical impedance tomography for PEEP titration in ARDS patients: a systematic review and meta-analysis
 AU  - Sanchez-Piedra, Carlos
 AU  - Rodríguez-Ortiz-de-Salazar, Begoña
@@ -5036,6 +5064,25 @@ KW  - section-inferred
 ER  - 
 
 TY  - JOUR
+TI  - Multicomponent Pulmonary Rehabilitation for Prolonged Mechanical Ventilation in Patients Aged 80 Years or Older: A Randomized Controlled Trial
+AU  - Liu T
+AU  - Kou T
+AU  - Wei G
+AU  - Zhang H
+AU  - Li G
+AU  - Hou H
+AU  - Liu B
+AU  - Zhao J
+JO  - Chest
+PY  - 2026
+DO  - 10.1016/j.chest.2026.08.050
+AN  - 42762982
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0012369226066729
+KW  - Respiratory/ARDS
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
 TI  - Circulating Biomarkers of Endothelial Dysfunction Associated With Ventilatory Ratio and Mortality in ARDS Resulting From SARS-CoV-2 Infection Treated With Antiinflammatory Therapies
 AU  - Alladina, Jehan W.
 AU  - Giacona, Francesca L.
@@ -5619,6 +5666,7 @@ AN  - 42732730
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126003217
 KW  - Respiratory/ARDS
 KW  - 2026-W38
+KW  - borderline
 ER  - 
 
 TY  - JOUR
@@ -7963,6 +8011,35 @@ KW  - 2026-W25
 ER  - 
 
 TY  - JOUR
+TI  - Mechanical ventilation-induced neutrophil extracellular vesicles as mediators of postoperative pulmonary complications
+AU  - Stephens JR
+AU  - Heng S
+AU  - Cutting A
+AU  - Walsh R
+AU  - Boshier PR
+AU  - Iki Y
+AU  - Sugarman J
+AU  - Cheng X
+AU  - Wilson MR
+AU  - Baldi RF
+AU  - Shah A
+AU  - Patel S
+AU  - Gordon AC
+AU  - Hanna GB
+AU  - Takata M
+AU  - Soni S
+JO  - Am J Respir Crit Care Med
+PY  - 2026
+DO  - 10.1093/ajrccm/aamag457
+AN  - 42742361
+UR  - https://academic.oup.com/ajrccm/advance-article/doi/10.1093/ajrccm/aamag457/8796056
+KW  - Respiratory/ARDS
+KW  - 2026-W38
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
 TI  - Sequential Likelihood Ratios and E-processes in the Analysis of the RENOVATE Trial
 AU  - Zampieri FG
 AU  - Cavalcanti AB
@@ -8168,6 +8245,28 @@ AN  - 42101008
 UR  - https://www.ovid.com/10.1097/ALN.0000000000006128
 KW  - Respiratory/ARDS
 KW  - 2026-W29
+ER  - 
+
+TY  - JOUR
+TI  - Short-term Modification of Postoperative Ventilation Phenotypes With Electrical Impedance Tomography-guided Positive End-expiratory Pressure Titration
+AU  - Hoshino T
+AU  - Yoshida Y
+AU  - Maezawa T
+AU  - Iwata H
+AU  - Taenaka H
+AU  - Hashimoto H
+AU  - Koyama Y
+AU  - Yamada T
+AU  - Yoshida T
+JO  - Anesthesiology
+PY  - 2026
+DO  - 10.1097/aln.0000000000006373
+AN  - 42752513
+UR  - https://www.ovid.com/10.1097/ALN.0000000000006373
+KW  - Respiratory/ARDS
+KW  - 2026-W38
+KW  - borderline
+KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -9952,6 +10051,20 @@ KW  - 2026-W38
 ER  - 
 
 TY  - JOUR
+TI  - Inspiratory Flow Amplitude in Pediatric Acute Respiratory Distress Syndrome: Outcomes in a Single-Center Cohort, 2023-2024
+AU  - Caviedes P
+AU  - Díaz F
+AU  - Cruces P
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004054
+AN  - 42734438
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004054
+KW  - Respiratory/ARDS
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
 TI  - Cleaved caspase-3 in lung epithelium of children who died with acute respiratory distress syndrome.
 AU  - Bem RA
 AU  - van der Loos CM
@@ -10303,6 +10416,20 @@ PY  - 2026
 DO  - 10.1136/bmjpo-2026-005014
 AN  - 42716543
 UR  - https://bmjpaedsopen.bmj.com/lookup/doi/10.1136/bmjpo-2026-005014
+KW  - Respiratory/ARDS
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
+TI  - Temporal changes in bronchopulmonary dysplasia severity distribution associated with evolving respiratory practices in very preterm infants
+AU  - Ali K
+AU  - Aljarbou T
+AU  - Algarni S
+JO  - BMJ Paediatr Open
+PY  - 2026
+DO  - 10.1136/bmjpo-2026-005037
+AN  - 42754395
+UR  - https://bmjpaedsopen.bmj.com/lookup/doi/10.1136/bmjpo-2026-005037
 KW  - Respiratory/ARDS
 KW  - 2026-W38
 ER  - 

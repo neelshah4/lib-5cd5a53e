@@ -1,4 +1,65 @@
 TY  - JOUR
+TI  - High-Dose Intravenous Vitamin C and Mortality and Organ Dysfunction in Severe Burn Injury: The VICTORY Randomized Clinical Trial
+AU  - Stoppe C
+AU  - Hill A
+AU  - Cancio LC
+AU  - Day AG
+AU  - Pruskowski KA
+AU  - Turgeon AF
+AU  - Pham T
+AU  - Bélisle S
+AU  - Martínez-Jiménez MA
+AU  - Limper U
+AU  - Gille J
+AU  - Wisler J
+AU  - Savetamal A
+AU  - Pollack J
+AU  - Grau Domínguez D
+AU  - Jennes S
+AU  - Shupp JW
+AU  - Jeschke MG
+AU  - Colpaert K
+AU  - Hundeshagen G
+AU  - Beier JP
+AU  - Muangman P
+AU  - Echeverri McCandless A
+AU  - Meybohm P
+AU  - Grune T
+AU  - Dresen E
+AU  - Weber D
+AU  - Güttler C
+AU  - Lew CCH
+AU  - Jiang X
+AU  - Froese S
+AU  - Dansereau M
+AU  - Lee ZY
+AU  - Heyland DK
+AU  - VICTORY Study Team
+JO  - JAMA
+PY  - 2026
+DO  - 10.1001/jama.2026.10616
+AN  - 42267875
+UR  - https://jamanetwork.com/journals/jama/fullarticle/2850392
+KW  - Shock & Sepsis
+KW  - 2026-W24
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
+TI  - Integrated Telehealth Rehabilitation and Quality of Life in Mechanically Ventilated Adults: A Randomized Clinical Trial
+AU  - Rosa RG
+AU  - Moraes RB
+AU  - Trott G
+JO  - JAMA
+PY  - 2026
+DO  - 10.1001/jama.2026.10617
+AN  - 42268591
+UR  - https://jamanetwork.com/journals/jama/fullarticle/2850403
+KW  - Respiratory/ARDS
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
 TI  - Gastric Residual Volume Assessment in Critically Ill Children: The GASTRIC-PICU Randomized Clinical Trial
 AU  - Tume LN
 AU  - Mouncey PR
@@ -169,6 +230,49 @@ KW  - 2026-W38
 ER  - 
 
 TY  - JOUR
+TI  - Risk factors for acute kidney injury after pediatric liver transplantation: a systematic review and meta-analysis
+AU  - Cai W
+AU  - Wang D
+AU  - Zhu L
+AU  - Liu X
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07419-y
+AN  - 42760401
+UR  - https://link.springer.com/10.1007/s00431-026-07419-y
+KW  - Renal
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
+TI  - Comparison of diaphragmatic thickness fraction between prone and supine positioning in preterm and sick term neonates: a prospective study
+AU  - Ishimaru M
+AU  - Zuiki M
+AU  - Ota M
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07428-x
+AN  - 42749845
+UR  - https://link.springer.com/10.1007/s00431-026-07428-x
+KW  - Respiratory/ARDS
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
+TI  - Epidemiology, multimorbidity patterns and outcomes of paediatric sepsis admissions in Ireland 2020-2025
+AU  - Ravichandran N
+AU  - Fitzgerald A
+AU  - Quinlan D
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07438-9
+AN  - 42763313
+UR  - https://link.springer.com/10.1007/s00431-026-07438-9
+KW  - Shock & Sepsis
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
 TI  - DexSAH: A Systematic Review and Meta-analysis of Dexmedetomidine in Aneurysmal Subarachnoid Hemorrhage
 AU  - Hrishi AP
 AU  - Palaniswamy SR
@@ -199,6 +303,39 @@ DO  - 10.1007/s12028-026-02646-5
 AN  - 42711629
 UR  - https://link.springer.com/10.1007/s12028-026-02646-5
 KW  - Neurocritical Care
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
+TI  - Outcomes of ventricular assist device placement in pediatric patients with renal dysfunction requiring dialysis: an ACTION registry analysis
+AU  - Catalano MA
+AU  - Edelson JB
+AU  - Amdani S
+JO  - Ann Thorac Surg
+PY  - 2026
+DO  - 10.1016/j.athoracsur.2026.09.014
+AN  - 42753882
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0003497526009276
+KW  - Renal
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
+TI  - Multicomponent Pulmonary Rehabilitation for Prolonged Mechanical Ventilation in Patients Aged 80 Years or Older: A Randomized Controlled Trial
+AU  - Liu T
+AU  - Kou T
+AU  - Wei G
+AU  - Zhang H
+AU  - Li G
+AU  - Hou H
+AU  - Liu B
+AU  - Zhao J
+JO  - Chest
+PY  - 2026
+DO  - 10.1016/j.chest.2026.08.050
+AN  - 42762982
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0012369226066729
+KW  - Respiratory/ARDS
 KW  - 2026-W38
 ER  - 
 
@@ -269,6 +406,7 @@ AN  - 42732730
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126003217
 KW  - Respiratory/ARDS
 KW  - 2026-W38
+KW  - borderline
 ER  - 
 
 TY  - JOUR
@@ -298,6 +436,99 @@ DO  - 10.1016/j.resuscitation.2026.111310
 AN  - 42727697
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226023579
 KW  - Shock & Sepsis
+KW  - 2026-W38
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - Sodium Bicarbonate for Critically Ill Adults with Metabolic Acidosis and Shock
+AU  - SODa-BIC Investigators and the Australian and New Zealand Intensive Care Society Clinical Trials Group
+AU  - Serpa Neto A
+AU  - McNamara M
+AU  - White K
+AU  - Cooper DJ
+AU  - Fujii T
+AU  - Higgins AM
+AU  - Hodgson CL
+AU  - Navarra L
+AU  - Nichol A
+AU  - Peake S
+AU  - Réa-Neto A
+AU  - Secombe P
+AU  - Osborne F
+AU  - Burrill H
+AU  - See E
+AU  - Young M
+AU  - Zampieri FG
+AU  - Plummer M
+AU  - Christie C
+AU  - Nunnink L
+AU  - Mackay J
+AU  - McGuinness S
+AU  - Marmol J
+AU  - Tiruvoipati R
+AU  - Bailey M
+AU  - Young PJ
+AU  - Bellomo R
+AU  - Udy A
+JO  - New England Journal of Medicine
+PY  - 2026
+DO  - 10.1056/nejmoa2600526
+AN  - 42283370
+UR  - http://www.nejm.org/doi/10.1056/NEJMoa2600526
+KW  - Renal
+KW  - 2026-W24
+KW  - 2026-06
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
+TI  - Mechanical ventilation-induced neutrophil extracellular vesicles as mediators of postoperative pulmonary complications
+AU  - Stephens JR
+AU  - Heng S
+AU  - Cutting A
+AU  - Walsh R
+AU  - Boshier PR
+AU  - Iki Y
+AU  - Sugarman J
+AU  - Cheng X
+AU  - Wilson MR
+AU  - Baldi RF
+AU  - Shah A
+AU  - Patel S
+AU  - Gordon AC
+AU  - Hanna GB
+AU  - Takata M
+AU  - Soni S
+JO  - Am J Respir Crit Care Med
+PY  - 2026
+DO  - 10.1093/ajrccm/aamag457
+AN  - 42742361
+UR  - https://academic.oup.com/ajrccm/advance-article/doi/10.1093/ajrccm/aamag457/8796056
+KW  - Respiratory/ARDS
+KW  - 2026-W38
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - Short-term Modification of Postoperative Ventilation Phenotypes With Electrical Impedance Tomography-guided Positive End-expiratory Pressure Titration
+AU  - Hoshino T
+AU  - Yoshida Y
+AU  - Maezawa T
+AU  - Iwata H
+AU  - Taenaka H
+AU  - Hashimoto H
+AU  - Koyama Y
+AU  - Yamada T
+AU  - Yoshida T
+JO  - Anesthesiology
+PY  - 2026
+DO  - 10.1097/aln.0000000000006373
+AN  - 42752513
+UR  - https://www.ovid.com/10.1097/ALN.0000000000006373
+KW  - Respiratory/ARDS
 KW  - 2026-W38
 KW  - borderline
 KW  - section-inferred
@@ -344,6 +575,20 @@ DO  - 10.1097/ccm.0000000000007341
 AN  - 42704275
 UR  - https://www.ovid.com/10.1097/CCM.0000000000007341
 KW  - Misc
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
+TI  - Epidemiology of Critically Ill Patients With Cirrhosis Undergoing Continuous Renal Replacement Therapy: A Contemporaneous Parallel Analysis of the HRS-HARMONY and CRRTnet Registries
+AU  - Karvellas CJ
+AU  - Lambert J
+AU  - Ouyang T
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007363
+AN  - 42752385
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007363
+KW  - Renal
 KW  - 2026-W38
 ER  - 
 
@@ -399,6 +644,20 @@ KW  - 2026-W38
 ER  - 
 
 TY  - JOUR
+TI  - Antithrombin Activity and Inflammatory Phenotypes as Predictors of Outcome in Venovenous Extracorporeal Membrane Oxygenation
+AU  - Del Signore R
+AU  - Shetty S
+AU  - Sanderson B
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002840
+AN  - 42758971
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002840
+KW  - ECMO
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
 TI  - Circuit Change, Peri-Change Anticoagulation and Transfusion, and Survival in Pediatric Postcardiotomy Extracorporeal Membrane Oxygenation
 AU  - Nishida K
 AU  - Yanai T
@@ -430,6 +689,48 @@ PY  - 2026
 DO  - 10.1097/mat.0000000000002849
 AN  - 42727036
 UR  - https://www.ovid.com/10.1097/MAT.0000000000002849
+KW  - ECMO
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
+TI  - Plasma Angiotensin Levels and Postoperative Hypotension in Patients With and Without Chronic Heart Failure Undergoing Cardiac Surgery
+AU  - DiChiacchio L
+AU  - Hamouche R
+AU  - Maneta E
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002854
+AN  - 42748413
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002854
+KW  - Cardiac CC
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
+TI  - Chorda Tendinea Obstruction of Impella Causing Massive Hemolysis Detected by Methemoglobinemia: A Case Report
+AU  - Schmidt A
+AU  - Erlebach R
+AU  - Locher P
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002856
+AN  - 42733143
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002856
+KW  - Cardiac CC
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
+TI  - Quantitative Electroencephalography Correlates With Acute Neurologic Events in Extracorporeal Membrane Oxygenation: A Pediatric Case Series
+AU  - Hwang J
+AU  - Raman L
+AU  - McGetrick M
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002862
+AN  - 42758972
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002862
 KW  - ECMO
 KW  - 2026-W38
 ER  - 
@@ -499,6 +800,35 @@ KW  - 2026-W38
 ER  - 
 
 TY  - JOUR
+TI  - Inspiratory Flow Amplitude in Pediatric Acute Respiratory Distress Syndrome: Outcomes in a Single-Center Cohort, 2023-2024
+AU  - Caviedes P
+AU  - Díaz F
+AU  - Cruces P
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004054
+AN  - 42734438
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004054
+KW  - Respiratory/ARDS
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
+TI  - Secondary analysis of the 2021-2023 Sepsis Epidemiology in Australian and New Zealand Children Observational Dataset: Association Between Presenting Venous Lactate Concentration and 72-Hour Outcomes
+AU  - Long E
+AU  - Hearps S
+AU  - Butt W
+AU  - (PREDICT Network)
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004055
+AN  - 42734436
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004055
+KW  - Shock & Sepsis
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
 TI  - Survival in Extracorporeal Cardiopulmonary Resuscitation for Pediatric In-Hospital Cardiac Arrest: Nationwide Cohort Study in Japan, 2011-2022
 AU  - Ikeyama T
 AU  - Shiima Y
@@ -537,6 +867,33 @@ KW  - section-inferred
 ER  - 
 
 TY  - JOUR
+TI  - Admission whole-blood transcriptomic characterization of a neutrophil-predominant systemic immune response in patients with acute traumatic brain injury
+AU  - Nishida T
+AU  - Nakamura Y
+AU  - Matsumoto H
+JO  - Shock
+PY  - 2026
+DO  - 10.1097/shk.0000000000002939
+AN  - 42735045
+UR  - https://www.ovid.com/10.1097/SHK.0000000000002939
+KW  - Neurocritical Care
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
+TI  - Venous thromboembolism in pediatric traumatic brain injury: A systematic review and meta-analysis
+AU  - Hoffmann I
+AU  - Chit M
+AU  - Mayeden S
+JO  - J Trauma Acute Care Surg
+PY  - 2026
+DO  - 10.1097/ta.0000000000005170
+AN  - 42743555
+KW  - Neurocritical Care
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
 TI  - Triggering modalities to synchronise non-invasive respiratory support in preterm infants: a systematic review and meta-analysis
 AU  - Blom FA
 AU  - van Leuteren RW
@@ -546,6 +903,20 @@ PY  - 2026
 DO  - 10.1136/bmjpo-2026-005014
 AN  - 42716543
 UR  - https://bmjpaedsopen.bmj.com/lookup/doi/10.1136/bmjpo-2026-005014
+KW  - Respiratory/ARDS
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
+TI  - Temporal changes in bronchopulmonary dysplasia severity distribution associated with evolving respiratory practices in very preterm infants
+AU  - Ali K
+AU  - Aljarbou T
+AU  - Algarni S
+JO  - BMJ Paediatr Open
+PY  - 2026
+DO  - 10.1136/bmjpo-2026-005037
+AN  - 42754395
+UR  - https://bmjpaedsopen.bmj.com/lookup/doi/10.1136/bmjpo-2026-005037
 KW  - Respiratory/ARDS
 KW  - 2026-W38
 ER  - 
@@ -576,6 +947,34 @@ DO  - 10.1177/19433654261476554
 AN  - 42708275
 UR  - https://journals.sagepub.com/doi/10.1177/19433654261476554
 KW  - Respiratory/ARDS
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
+TI  - Nurse-led respiratory care bundle and pneumonia prevention in critically ill patients with abdominal sepsis: a multicenter before-and-after controlled study
+AU  - Xu Y
+AU  - Zheng Y
+AU  - Huang L
+JO  - Crit Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06304-2
+AN  - 42750044
+UR  - https://link.springer.com/10.1186/s13054-026-06304-2
+KW  - Shock & Sepsis
+KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
+TI  - Personalised energy targeting during venovenous ECMO: serial assessment of resting energy expenditure reveals phase-dependent metabolic demand and systematic discordance with predictive equations
+AU  - Wilke SK
+AU  - Behnel N
+AU  - Weber-Carstens S
+JO  - Crit Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06334-w
+AN  - 42754897
+UR  - https://link.springer.com/10.1186/s13054-026-06334-w
+KW  - ECMO
 KW  - 2026-W38
 ER  - 
 
