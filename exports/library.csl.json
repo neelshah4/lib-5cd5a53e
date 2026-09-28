@@ -12657,6 +12657,33 @@
   "keyword": "Misc; methods-stats; 2023-04"
  },
  {
+  "id": "10.1002/14651858.cd009946.pub3",
+  "type": "article-journal",
+  "title": "Semi-recumbent position for the prevention of ventilator-associated pneumonia in adults requiring mechanical ventilation",
+  "author": [
+   {
+    "family": "Jiang W"
+   },
+   {
+    "family": "Chen Y"
+   },
+   {
+    "family": "Li X"
+   }
+  ],
+  "container-title": "Cochrane Database Syst Rev",
+  "DOI": "10.1002/14651858.cd009946.pub3",
+  "URL": "http://doi.wiley.com/10.1002/14651858.CD009946.pub3",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W39"
+ },
+ {
   "id": "10.1002/14651858.cd011136.pub3",
   "type": "article-journal",
   "title": "Videolaryngoscopy versus direct laryngoscopy for adults undergoing tracheal intubation",
@@ -65518,6 +65545,75 @@
   "keyword": "Respiratory/ARDS; 2026-W38"
  },
  {
+  "id": "10.1007/s00431-026-07429-w",
+  "type": "article-journal",
+  "title": "Cardiorespiratory coupling during high-frequency oscillatory ventilation with volume guarantee in extremely preterm infants",
+  "author": [
+   {
+    "family": "Ali K"
+   },
+   {
+    "family": "Homedi A"
+   },
+   {
+    "family": "Alshareef M"
+   }
+  ],
+  "container-title": "Eur J Pediatr",
+  "DOI": "10.1007/s00431-026-07429-w",
+  "URL": "https://link.springer.com/10.1007/s00431-026-07429-w",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W39"
+ },
+ {
+  "id": "10.1007/s00431-026-07431-2",
+  "type": "article-journal",
+  "title": "Expanded versus classical assessments for identifying mandate for lung ultrasound-guided surfactant therapy in preterm neonates (EXCLAIM-LUS): a retrospective comparative study",
+  "author": [
+   {
+    "family": "Chetan C"
+   },
+   {
+    "family": "Majumder S"
+   },
+   {
+    "family": "Kaur R"
+   },
+   {
+    "family": "Jaybhaye D"
+   },
+   {
+    "family": "Kaur A"
+   },
+   {
+    "family": "Debnath A"
+   },
+   {
+    "family": "Gupta D"
+   },
+   {
+    "family": "Patra S"
+   }
+  ],
+  "container-title": "Eur J Pediatr",
+  "DOI": "10.1007/s00431-026-07431-2",
+  "URL": "https://link.springer.com/10.1007/s00431-026-07431-2",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W39; borderline; section-inferred"
+ },
+ {
   "id": "10.1007/s00431-026-07438-9",
   "type": "article-journal",
   "title": "Epidemiology, multimorbidity patterns and outcomes of paediatric sepsis admissions in Ireland 2020-2025",
@@ -66680,6 +66776,57 @@
    ]
   },
   "keyword": "Neurocritical Care; 2026-W27; borderline; section-inferred"
+ },
+ {
+  "id": "10.1007/s10143-026-04496-3",
+  "type": "article-journal",
+  "title": "Dual intracranial pressure monitoring in neuro-ICU patients: A retrospective observational study",
+  "author": [
+   {
+    "family": "Cam EL"
+   },
+   {
+    "family": "Salette R"
+   },
+   {
+    "family": "Abdennour L"
+   },
+   {
+    "family": "Jullien V"
+   },
+   {
+    "family": "Sarfati VD"
+   },
+   {
+    "family": "Mathon B"
+   },
+   {
+    "family": "Boch AL"
+   },
+   {
+    "family": "Shotar E"
+   },
+   {
+    "family": "Clarençon F"
+   },
+   {
+    "family": "Degos V"
+   },
+   {
+    "family": "Jacquens A"
+   }
+  ],
+  "container-title": "Neurosurg Rev",
+  "DOI": "10.1007/s10143-026-04496-3",
+  "URL": "https://link.springer.com/10.1007/s10143-026-04496-3",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W39; borderline; section-inferred"
  },
  {
   "id": "10.1007/s10877-022-00848-8",
@@ -70515,6 +70662,63 @@
   "keyword": "Neurocritical Care; 2026-W35"
  },
  {
+  "id": "10.1007/s12028-026-02601-4",
+  "type": "article-journal",
+  "title": "Treatment of Antithrombotic-Associated Intracranial Hemorrhage in Adults: A Focused Guideline Update from the Neurocritical Care Society and the Society of Critical Care Medicine",
+  "author": [
+   {
+    "family": "Vallejo MC"
+   },
+   {
+    "family": "Kennedy LS"
+   },
+   {
+    "family": "Dengler B"
+   },
+   {
+    "family": "Barthol C"
+   },
+   {
+    "family": "Belley-Cote EP"
+   },
+   {
+    "family": "Burns JD"
+   },
+   {
+    "family": "Chau VK"
+   },
+   {
+    "family": "Cordonnier C"
+   },
+   {
+    "family": "Cuker A"
+   },
+   {
+    "family": "Honarmand K"
+   },
+   {
+    "family": "Mahmoud SH"
+   },
+   {
+    "family": "Wilcox ME"
+   },
+   {
+    "family": "Kumar MA"
+   }
+  ],
+  "container-title": "Neurocrit Care",
+  "DOI": "10.1007/s12028-026-02601-4",
+  "URL": "https://link.springer.com/10.1007/s12028-026-02601-4",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W39"
+ },
+ {
   "id": "10.1007/s12028-026-02602-3",
   "type": "article-journal",
   "title": "Etiologies, Clinical Characteristics, and Prognostic Impact of Increased Intracranial Pressure in Adults with Encephalitis",
@@ -70738,6 +70942,60 @@
    ]
   },
   "keyword": "Neurocritical Care; 2026-W38"
+ },
+ {
+  "id": "10.1007/s12028-026-02653-6",
+  "type": "article-journal",
+  "title": "Pediatric MOGAD in the Intensive Care Unit: A Case Series",
+  "author": [
+   {
+    "family": "Runco AD"
+   },
+   {
+    "family": "Davila-Williams D"
+   },
+   {
+    "family": "Moeller KK"
+   }
+  ],
+  "container-title": "Neurocrit Care",
+  "DOI": "10.1007/s12028-026-02653-6",
+  "URL": "https://link.springer.com/10.1007/s12028-026-02653-6",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W39"
+ },
+ {
+  "id": "10.1007/s12028-026-02661-6",
+  "type": "article-journal",
+  "title": "Extension of the FUNC Score for Prediction of 12-Month Functional Independence after Primary Intracerebral Hemorrhage",
+  "author": [
+   {
+    "family": "Neves Briard J"
+   },
+   {
+    "family": "Kansara V"
+   },
+   {
+    "family": "Shen Q"
+   }
+  ],
+  "container-title": "Neurocrit Care",
+  "DOI": "10.1007/s12028-026-02661-6",
+  "URL": "https://link.springer.com/10.1007/s12028-026-02661-6",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W39"
  },
  {
   "id": "10.1007/s12072-021-10164-z",
@@ -79786,6 +80044,138 @@
   "keyword": "Respiratory/ARDS; 2026-W38"
  },
  {
+  "id": "10.1016/j.chest.2026.08.054",
+  "type": "article-journal",
+  "title": "Epithelial injury and inflammatory phenotypes for personalized ventilation in ARDS: Secondary analysis of the LIVE trial",
+  "author": [
+   {
+    "family": "Pensier J"
+   },
+   {
+    "family": "Renard-Triché L"
+   },
+   {
+    "family": "Theilliere C"
+   }
+  ],
+  "container-title": "Chest",
+  "DOI": "10.1016/j.chest.2026.08.054",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0012369226067073",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W39"
+ },
+ {
+  "id": "10.1016/j.chest.2026.09.009",
+  "type": "article-journal",
+  "title": "The Role of Regret in Extracorporeal Membrane Oxygenation Candidacy Decision-Making",
+  "author": [
+   {
+    "family": "Rubin J"
+   },
+   {
+    "family": "Jacobs A"
+   },
+   {
+    "family": "Siegal A"
+   }
+  ],
+  "container-title": "Chest",
+  "DOI": "10.1016/j.chest.2026.09.009",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0012369226066663",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-W39"
+ },
+ {
+  "id": "10.1016/j.chest.2026.09.022",
+  "type": "article-journal",
+  "title": "Continuing ECMO without Potential Recovery, Transplant, or Device",
+  "author": [
+   {
+    "family": "Supady A"
+   },
+   {
+    "family": "Allen WL"
+   },
+   {
+    "family": "Pope TM."
+   }
+  ],
+  "container-title": "Chest",
+  "DOI": "10.1016/j.chest.2026.09.022",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0012369226067127",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-W39"
+ },
+ {
+  "id": "10.1016/j.chest.2026.09.023",
+  "type": "article-journal",
+  "title": "Cough function during mechanical ventilation",
+  "author": [
+   {
+    "family": "Bonny V"
+   },
+   {
+    "family": "Dres M"
+   },
+   {
+    "family": "Madotto F"
+   },
+   {
+    "family": "Urbina T"
+   },
+   {
+    "family": "Missri L"
+   },
+   {
+    "family": "Joffre J"
+   },
+   {
+    "family": "Maury É"
+   },
+   {
+    "family": "Piquilloud L"
+   },
+   {
+    "family": "Rodrigues A"
+   },
+   {
+    "family": "Brochard L"
+   },
+   {
+    "family": "Ait-Oufella H"
+   }
+  ],
+  "container-title": "Chest",
+  "DOI": "10.1016/j.chest.2026.09.023",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0012369226067139",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W39; borderline; section-inferred"
+ },
+ {
   "id": "10.1016/j.chstcc.2023.100010",
   "type": "article-journal",
   "title": "Effects of Prone Position in Patients With COVID-19 Treated With Extracorporeal Membrane Oxygenation",
@@ -88491,6 +88881,153 @@
    ]
   },
   "keyword": "Respiratory/ARDS; 2026-W38; borderline"
+ },
+ {
+  "id": "10.1016/j.jcrc.2026.155745",
+  "type": "article-journal",
+  "title": "Disparities between peripheral perfusion and sublingual and nailfold microcirculation in patients with septic shock and healthy volunteers",
+  "author": [
+   {
+    "family": "Romano JD"
+   },
+   {
+    "family": "Dubin A"
+   },
+   {
+    "family": "Mugno M"
+   },
+   {
+    "family": "Monnet X"
+   },
+   {
+    "family": "Kanoore Edul"
+   }
+  ],
+  "container-title": "J Crit Care",
+  "DOI": "10.1016/j.jcrc.2026.155745",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126003230",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-W39"
+ },
+ {
+  "id": "10.1016/j.jcrc.2026.155750",
+  "type": "article-journal",
+  "title": "Comparative efficacy and safety of hydrocortisone-based regimens in septic shock: A network meta-analysis",
+  "author": [
+   {
+    "family": "Kwon S"
+   },
+   {
+    "family": "Kwak SG"
+   },
+   {
+    "family": "Hong HL."
+   }
+  ],
+  "container-title": "J Crit Care",
+  "DOI": "10.1016/j.jcrc.2026.155750",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S088394412600328X",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-W39"
+ },
+ {
+  "id": "10.1016/j.jcrc.2026.155752",
+  "type": "article-journal",
+  "title": "Association between cerebral autoregulation and optimal cerebral perfusion pressure after hypertensive intracerebral hemorrhage under neuromultimodal monitoring",
+  "author": [
+   {
+    "family": "Xia J"
+   },
+   {
+    "family": "Shi Y"
+   },
+   {
+    "family": "Xu W"
+   }
+  ],
+  "container-title": "J Crit Care",
+  "DOI": "10.1016/j.jcrc.2026.155752",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126003308",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W39"
+ },
+ {
+  "id": "10.1016/j.jcrc.2026.155757",
+  "type": "article-journal",
+  "title": "The impact of acute kidney injury on the urea-to-creatinine ratio - A single-center retrospective analysis",
+  "author": [
+   {
+    "family": "Hillinger P"
+   },
+   {
+    "family": "Markl-Le Lévé A"
+   },
+   {
+    "family": "Woyke S"
+   },
+   {
+    "family": "Ronzani M"
+   },
+   {
+    "family": "Rugg C."
+   }
+  ],
+  "container-title": "J Crit Care",
+  "DOI": "10.1016/j.jcrc.2026.155757",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126003357",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Renal; 2026-W39"
+ },
+ {
+  "id": "10.1016/j.jcrc.2026.155762",
+  "type": "article-journal",
+  "title": "Effects of vasopressor dose on microcirculation despite preserved macrohemodynamic targets in septic shock: a prospective observational study",
+  "author": [
+   {
+    "family": "Özakın O"
+   },
+   {
+    "family": "Şehirlioğlu S"
+   },
+   {
+    "family": "Özakın FÇ"
+   }
+  ],
+  "container-title": "J Crit Care",
+  "DOI": "10.1016/j.jcrc.2026.155762",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126003400",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-W39"
  },
  {
   "id": "10.1016/j.jelectrocard.2021.02.001",
@@ -126172,6 +126709,57 @@
   "keyword": "Respiratory/ARDS; 2026-W38; borderline; section-inferred"
  },
  {
+  "id": "10.1093/ajrccm/aamag471",
+  "type": "article-journal",
+  "title": "Limited Heterogeneity of Treatment Effect of Venovenous ECMO in Severe ARDS: A Secondary Analysis of the EOLIA Trial",
+  "author": [
+   {
+    "family": "Granton D"
+   },
+   {
+    "family": "Chen Z"
+   },
+   {
+    "family": "Hajage D"
+   }
+  ],
+  "container-title": "Am J Respir Crit Care Med",
+  "DOI": "10.1093/ajrccm/aamag471",
+  "URL": "https://academic.oup.com/ajrccm/advance-article/doi/10.1093/ajrccm/aamag471/8834146",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-W39"
+ },
+ {
+  "id": "10.1093/ajrccm/aamag511",
+  "type": "article-journal",
+  "title": "Revisiting diastolic arterial pressure in the 2026 Surviving Sepsis Campaign Guidelines",
+  "author": [
+   {
+    "family": "Sanchez-Escalante C"
+   },
+   {
+    "family": "Teboul JL."
+   }
+  ],
+  "container-title": "Am J Respir Crit Care Med",
+  "DOI": "10.1093/ajrccm/aamag511",
+  "URL": "https://academic.oup.com/ajrccm/advance-article/doi/10.1093/ajrccm/aamag511/8834101",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-W39"
+ },
+ {
   "id": "10.1093/annalsats/aaoag042",
   "type": "article-journal",
   "title": "Sequential Likelihood Ratios and E-processes in the Analysis of the RENOVATE Trial",
@@ -130641,6 +131229,33 @@
   "keyword": "ECMO; 2026-W31"
  },
  {
+  "id": "10.1097/aln.0000000000006296",
+  "type": "article-journal",
+  "title": "Dose-Response Effects of Anterior Chest Wall Loading on Lung Mechanics, Regional Ventilation, and Hemodynamics in Acute Respiratory Distress Syndrome: A Prospective Physiologic Study",
+  "author": [
+   {
+    "family": "Boesing C"
+   },
+   {
+    "family": "Thieme H"
+   },
+   {
+    "family": "Schaefer L"
+   }
+  ],
+  "container-title": "Anesthesiology",
+  "DOI": "10.1097/aln.0000000000006296",
+  "URL": "https://www.ovid.com/10.1097/ALN.0000000000006296",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W39"
+ },
+ {
   "id": "10.1097/aln.0000000000006373",
   "type": "article-journal",
   "title": "Short-term Modification of Postoperative Ventilation Phenotypes With Electrical Impedance Tomography-guided Positive End-expiratory Pressure Titration",
@@ -133150,6 +133765,63 @@
    ]
   },
   "keyword": "Renal; 2026-W38"
+ },
+ {
+  "id": "10.1097/cce.0000000000001490",
+  "type": "article-journal",
+  "title": "Sepsis Diagnostic Excellence: Development and Validation of a Theoretical Framework for Conceptualizing Accurate, Timely Sepsis Diagnosis",
+  "author": [
+   {
+    "family": "Birken SA"
+   },
+   {
+    "family": "Shrestha S"
+   },
+   {
+    "family": "Clark LS"
+   }
+  ],
+  "container-title": "Crit Care Explor",
+  "DOI": "10.1097/cce.0000000000001490",
+  "URL": "https://www.ovid.com/10.1097/CCE.0000000000001490",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-W39"
+ },
+ {
+  "id": "10.1097/cce.0000000000001494",
+  "type": "article-journal",
+  "title": "Validation of a Natural Language Processing-Assisted Chart Review Method for Identifying Advance Care Planning Documentation in Pediatric Critical Illness",
+  "author": [
+   {
+    "family": "Upham EJ"
+   },
+   {
+    "family": "Gouda SR"
+   },
+   {
+    "family": "Lindvall C"
+   },
+   {
+    "family": "DeCourcey DD."
+   }
+  ],
+  "container-title": "Crit Care Explor",
+  "DOI": "10.1097/cce.0000000000001494",
+  "URL": "https://www.ovid.com/10.1097/CCE.0000000000001494",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W39"
  },
  {
   "id": "10.1097/ccm.0000000000000192",
@@ -139969,6 +140641,33 @@
   "keyword": "Shock & Sepsis; 2026-W36"
  },
  {
+  "id": "10.1097/ccm.0000000000007335",
+  "type": "article-journal",
+  "title": "Epilepsy After Antipsychotic Prescription in Survivors of Traumatic Brain Injury: A Population-Based Cohort Study",
+  "author": [
+   {
+    "family": "Ferraris A"
+   },
+   {
+    "family": "Szmulewicz AG"
+   },
+   {
+    "family": "Adhikari NKJ"
+   }
+  ],
+  "container-title": "Crit Care Med",
+  "DOI": "10.1097/ccm.0000000000007335",
+  "URL": "https://www.ovid.com/10.1097/CCM.0000000000007335",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W39"
+ },
+ {
   "id": "10.1097/ccm.0000000000007341",
   "type": "article-journal",
   "title": "Ketamine for Analgosedation in Mechanically Ventilated Adults: A Double-Blind Randomized Trial",
@@ -143654,6 +144353,36 @@
    ]
   },
   "keyword": "ECMO; 2026-W38"
+ },
+ {
+  "id": "10.1097/mat.0000000000002867",
+  "type": "article-journal",
+  "title": "Intravascular Retrieval of a Kinked Inferior Vena Cava Cannula Complicating Venovenous Extracorporeal Life Support",
+  "author": [
+   {
+    "family": "Conrad TS"
+   },
+   {
+    "family": "Botelho PG"
+   },
+   {
+    "family": "Peek GJ"
+   },
+   {
+    "family": "Conrad SA."
+   }
+  ],
+  "container-title": "ASAIO J",
+  "DOI": "10.1097/mat.0000000000002867",
+  "URL": "https://www.ovid.com/10.1097/MAT.0000000000002867",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-W39"
  },
  {
   "id": "10.1097/mcc.0000000000000774",
@@ -153916,6 +154645,33 @@
    ]
   },
   "keyword": "Renal; 2026-W38"
+ },
+ {
+  "id": "10.1097/pcc.0000000000004046",
+  "type": "article-journal",
+  "title": "Meropenem Dosing for Pediatric Critical Care Patients: Multisite Pharmacokinetic Study, 2012-2020",
+  "author": [
+   {
+    "family": "Nguyen ATV"
+   },
+   {
+    "family": "Dhont E"
+   },
+   {
+    "family": "Tan Z"
+   }
+  ],
+  "container-title": "Pediatr Crit Care Med",
+  "DOI": "10.1097/pcc.0000000000004046",
+  "URL": "https://www.ovid.com/10.1097/PCC.0000000000004046",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W39"
  },
  {
   "id": "10.1097/pcc.0000000000004054",
@@ -180742,6 +181498,33 @@
    ]
   },
   "keyword": "Respiratory/ARDS; 2026-W38"
+ },
+ {
+  "id": "10.1177/19433654261487238",
+  "type": "article-journal",
+  "title": "The Response of Dorsal Lung Compliance to Prone Positioning Differs by Body Mass Index in ARDS",
+  "author": [
+   {
+    "family": "Gaulton TG"
+   },
+   {
+    "family": "César Araújo Morais C"
+   },
+   {
+    "family": "Ribeiro De Santis Santiago R"
+   }
+  ],
+  "container-title": "Respir Care",
+  "DOI": "10.1177/19433654261487238",
+  "URL": "https://journals.sagepub.com/doi/10.1177/19433654261487238",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W39"
  },
  {
   "id": "10.1177/2048872618789052",
@@ -226367,6 +227150,33 @@
   "keyword": "Shock & Sepsis; 2026-W38"
  },
  {
+  "id": "10.1186/s13054-026-06306-0",
+  "type": "article-journal",
+  "title": "Dosing of anti-infective drugs in patients undergoing therapeutic plasma exchange - considerations for practical application: a narrative review",
+  "author": [
+   {
+    "family": "Nachtigall MB"
+   },
+   {
+    "family": "Schmidt JJ"
+   },
+   {
+    "family": "Scherneck S"
+   }
+  ],
+  "container-title": "Crit Care",
+  "DOI": "10.1186/s13054-026-06306-0",
+  "URL": "https://link.springer.com/10.1186/s13054-026-06306-0",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W39"
+ },
+ {
   "id": "10.1186/s13054-026-06334-w",
   "type": "article-journal",
   "title": "Personalised energy targeting during venovenous ECMO: serial assessment of resting energy expenditure reveals phase-dependent metabolic demand and systematic discordance with predictive equations",
@@ -226392,6 +227202,72 @@
    ]
   },
   "keyword": "ECMO; 2026-W38"
+ },
+ {
+  "id": "10.1186/s13054-026-06345-7",
+  "type": "article-journal",
+  "title": "Increased ureagenesis revealing metabolic intolerance to enhanced nutrition in the PICU: a secondary analysis of the PEPaNIC RCT",
+  "author": [
+   {
+    "family": "Vanhorebeek I"
+   },
+   {
+    "family": "Umman Serin N"
+   },
+   {
+    "family": "Verbruggen SCAT"
+   },
+   {
+    "family": "Joosten KFM"
+   },
+   {
+    "family": "Van den Berghe G"
+   },
+   {
+    "family": "Gunst J"
+   }
+  ],
+  "container-title": "Crit Care",
+  "DOI": "10.1186/s13054-026-06345-7",
+  "URL": "https://link.springer.com/10.1186/s13054-026-06345-7",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Renal; 2026-W39"
+ },
+ {
+  "id": "10.1186/s13054-026-06348-4",
+  "type": "article-journal",
+  "title": "Eligibility criteria in sepsis-associated AKI trials preferentially exclude patients at risk to develop adverse kidney outcomes",
+  "author": [
+   {
+    "family": "Kamdem KV"
+   },
+   {
+    "family": "Vardon F"
+   },
+   {
+    "family": "Silva S"
+   },
+   {
+    "family": "Faguer S."
+   }
+  ],
+  "container-title": "Crit Care",
+  "DOI": "10.1186/s13054-026-06348-4",
+  "URL": "https://link.springer.com/10.1186/s13054-026-06348-4",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Renal; 2026-W39"
  },
  {
   "id": "10.1186/s13063-021-05618-6",
