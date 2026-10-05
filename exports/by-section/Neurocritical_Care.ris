@@ -2560,6 +2560,7 @@ AN  - 42618770
 UR  - https://doi.org/10.1007/s00134-026-08562-8
 KW  - Neurocritical Care
 KW  - 2026-W35
+KW  - 2026-W40
 ER  - 
 
 TY  - JOUR
@@ -4022,6 +4023,20 @@ KW  - 2026-W39
 ER  - 
 
 TY  - JOUR
+TI  - Early Arterial Oxygen Tension Thresholds for Mechanically Ventilated Patients with Non-traumatic Acute Brain Injury: A Bayesian Analysis of Three Large Neurocritical Care Datasets
+AU  - Premraj L
+AU  - Camarda C
+AU  - Romero-Garcia N
+JO  - Neurocrit Care
+PY  - 2026
+DO  - 10.1007/s12028-026-02659-0
+AN  - 42806265
+UR  - https://link.springer.com/10.1007/s12028-026-02659-0
+KW  - Neurocritical Care
+KW  - 2026-W40
+ER  - 
+
+TY  - JOUR
 TI  - Extension of the FUNC Score for Prediction of 12-Month Functional Independence after Primary Intracerebral Hemorrhage
 AU  - Neves Briard J
 AU  - Kansara V
@@ -4033,6 +4048,35 @@ AN  - 42768267
 UR  - https://link.springer.com/10.1007/s12028-026-02661-6
 KW  - Neurocritical Care
 KW  - 2026-W39
+ER  - 
+
+TY  - JOUR
+TI  - Automated Cerebral Edema Detection using Electroencephalography in Post-cardiac Arrest Patients
+AU  - Stafford RA
+AU  - Srivastava V
+AU  - Altaf AZ
+AU  - Tang L
+AU  - Sachdeva AS
+AU  - Elman D
+AU  - Mallinger LA
+AU  - Reinert AL
+AU  - Madipally SSK
+AU  - Salvati LR
+AU  - Wahlster S
+AU  - Chen D
+AU  - Gilmore EJ
+AU  - Greer DM
+AU  - Cheng H
+AU  - Ong CJ
+JO  - Neurocrit Care
+PY  - 2026
+DO  - 10.1007/s12028-026-02668-z
+AN  - 42806266
+UR  - https://link.springer.com/10.1007/s12028-026-02668-z
+KW  - Neurocritical Care
+KW  - 2026-W40
+KW  - borderline
+KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -4178,6 +4222,20 @@ AN  - 42202614
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S1388245726004414
 KW  - Neurocritical Care
 KW  - 2026-06
+ER  - 
+
+TY  - JOUR
+TI  - Exploring state changes/sleep-wake cycling in mechanically ventilated children using amplitude-integrated EEG
+AU  - van der Steen D
+AU  - Koopman AA
+AU  - Oppersma E
+JO  - Clin Neurophysiol
+PY  - 2026
+DO  - 10.1016/j.clinph.2026.2112328
+AN  - 42424670
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S138824572600828X
+KW  - Neurocritical Care
+KW  - 2026-W40
 ER  - 
 
 TY  - JOUR
@@ -4461,6 +4519,20 @@ AN  - 42600769
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226003138
 KW  - Neurocritical Care
 KW  - 2026-W34
+ER  - 
+
+TY  - JOUR
+TI  - A multimodal model integrating early clinical and biomarker data to predict 1-year outcomes after pediatric cardiac arrest
+AU  - Yver H
+AU  - Kochanek PM
+AU  - Clark RSB
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111278
+AN  - 42637215
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226003254
+KW  - Neurocritical Care
+KW  - 2026-W40
 ER  - 
 
 TY  - JOUR
@@ -5809,6 +5881,20 @@ UR  - https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(21)00138-1
 KW  - Neurocritical Care
 KW  - neuromonitoring
 KW  - 2021-06
+ER  - 
+
+TY  - JOUR
+TI  - Haemodynamic and neurophysiological assessments for 2-year outcome prediction in neonates with hypoxic-ischaemic encephalopathy treated with therapeutic hypothermia: a systematic review and meta-analysis
+AU  - Noureldein M
+AU  - So V
+AU  - Hayawi LM
+JO  - BMJ Paediatr Open
+PY  - 2026
+DO  - 10.1136/bmjpo-2026-004810
+AN  - 42829213
+UR  - https://bmjpaedsopen.bmj.com/lookup/doi/10.1136/bmjpo-2026-004810
+KW  - Neurocritical Care
+KW  - 2026-W40
 ER  - 
 
 TY  - JOUR

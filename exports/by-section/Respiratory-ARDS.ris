@@ -3975,6 +3975,7 @@ AN  - 42714473
 UR  - https://link.springer.com/10.1007/s00134-026-08592-2
 KW  - Respiratory/ARDS
 KW  - 2026-W38
+KW  - 2026-W40
 ER  - 
 
 TY  - JOUR
@@ -4234,6 +4235,20 @@ AN  - 42776329
 UR  - https://link.springer.com/10.1007/s00431-026-07429-w
 KW  - Respiratory/ARDS
 KW  - 2026-W39
+ER  - 
+
+TY  - JOUR
+TI  - Evolution of diaphragmatic thickness and function in preterm infants on non-invasive neurally adjusted ventilatory assist
+AU  - Lefevere J
+AU  - Vermeulen H
+AU  - De Potter L
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07448-7
+AN  - 42821134
+UR  - https://link.springer.com/10.1007/s00431-026-07448-7
+KW  - Respiratory/ARDS
+KW  - 2026-W40
 ER  - 
 
 TY  - JOUR
@@ -5149,6 +5164,40 @@ KW  - section-inferred
 ER  - 
 
 TY  - JOUR
+TI  - Effect of ondansetron on respiratory drive in patients with acute respiratory distress syndrome
+AU  - Cavayas YA
+AU  - Caissy JA
+AU  - St-Pierre M
+AU  - Williams V
+AU  - Albert M
+AU  - Charbonney E
+AU  - Williamson D
+JO  - Chest
+PY  - 2026
+DO  - 10.1016/j.chest.2026.09.086
+AN  - 42810428
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0012369226067760
+KW  - Respiratory/ARDS
+KW  - 2026-W40
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - TISA-818, an Anti-inflammatory Conjugate of Montelukast-Decapeptide, in Acute Respiratory Distress Syndrome Due to Pulmonary Infection: A Phase 2 Randomized Trial Using the 2023 Global Definition
+AU  - Huang L
+AU  - Huang X
+AU  - Jiao F
+JO  - Chest
+PY  - 2026
+DO  - 10.1016/j.chest.2026.09.095
+AN  - 42829168
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0012369226067863
+KW  - Respiratory/ARDS
+KW  - 2026-W40
+ER  - 
+
+TY  - JOUR
 TI  - Circulating Biomarkers of Endothelial Dysfunction Associated With Ventilatory Ratio and Mortality in ARDS Resulting From SARS-CoV-2 Infection Treated With Antiinflammatory Therapies
 AU  - Alladina, Jehan W.
 AU  - Giacona, Francesca L.
@@ -5633,10 +5682,12 @@ AU  - Irribarren, Juan
 JO  - Journal of Critical Care
 PY  - 2026
 DO  - 10.1016/j.jcrc.2026.155617
+AN  - 42177858
 UR  - https://www.sciencedirect.com/science/article/abs/pii/S0883944126001954?via%3Dihub
 KW  - Respiratory/ARDS
 KW  - general
 KW  - 2026-05
+KW  - 2026-W40
 ER  - 
 
 TY  - JOUR
@@ -5675,6 +5726,7 @@ AN  - 42242063
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126002236
 KW  - Respiratory/ARDS
 KW  - 2026-07
+KW  - 2026-W40
 ER  - 
 
 TY  - JOUR
@@ -18860,6 +18912,20 @@ AN  - 42568095
 UR  - https://link.springer.com/10.1186/s13054-026-06234-z
 KW  - Respiratory/ARDS
 KW  - 2026-W33
+ER  - 
+
+TY  - JOUR
+TI  - A specialist-led interprofessional weaning program to prevent weaning failure in high-risk patients: the PRiVENT study
+AU  - Trudzinski FC
+AU  - Neetz B
+AU  - Joveš B
+JO  - Crit Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06357-3
+AN  - 42823746
+UR  - https://link.springer.com/10.1186/s13054-026-06357-3
+KW  - Respiratory/ARDS
+KW  - 2026-W40
 ER  - 
 
 TY  - JOUR
