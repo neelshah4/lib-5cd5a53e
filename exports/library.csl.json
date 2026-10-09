@@ -6078,7 +6078,7 @@
     ]
    ]
   },
-  "keyword": "Shock & Sepsis; 2026-W40"
+  "keyword": "Shock & Sepsis; 2026-W40; 2026-10"
  },
  {
   "id": "10.1001/jama.2026.2567",
@@ -7064,6 +7064,207 @@
    ]
   },
   "keyword": "Renal; 2026-W34"
+ },
+ {
+  "id": "10.1001/jama.2026.9268",
+  "type": "article-journal",
+  "title": "Dapagliflozin and Acute Kidney Injury Following Cardiac Surgery: A Randomized Clinical Trial",
+  "author": [
+   {
+    "family": "Oosterom-Eijmael MJP"
+   },
+   {
+    "family": "Hulst AH"
+   },
+   {
+    "family": "de Oliveira NPM"
+   },
+   {
+    "family": "Niesten ED"
+   },
+   {
+    "family": "Wietsma NE"
+   },
+   {
+    "family": "Gerritse BM"
+   },
+   {
+    "family": "Scohy TV"
+   },
+   {
+    "family": "Rettig TCD"
+   },
+   {
+    "family": "Snellen FTF"
+   },
+   {
+    "family": "Voogd MF"
+   },
+   {
+    "family": "Godfried MB"
+   },
+   {
+    "family": "de Boer RN"
+   },
+   {
+    "family": "Wink J"
+   },
+   {
+    "family": "van der Werff LMM"
+   },
+   {
+    "family": "Cobbaert CM"
+   },
+   {
+    "family": "Ruhaak LR"
+   },
+   {
+    "family": "Eberl S"
+   },
+   {
+    "family": "Preckel B"
+   },
+   {
+    "family": "Hollmann MW"
+   },
+   {
+    "family": "Schenk J"
+   },
+   {
+    "family": "Hermanides J"
+   },
+   {
+    "family": "van Raalte DH"
+   },
+   {
+    "family": "MERCURI-2 Study Group"
+   },
+   {
+    "family": "El Benhaji T"
+   },
+   {
+    "family": "Bouman CS"
+   },
+   {
+    "family": "Bruggemans EF"
+   },
+   {
+    "family": "Chen N"
+   },
+   {
+    "family": "Cherpanath TG"
+   },
+   {
+    "family": "Cox G"
+   },
+   {
+    "family": "Dijkgraaf MG"
+   },
+   {
+    "family": "Grewal N"
+   },
+   {
+    "family": "Herrema H"
+   },
+   {
+    "family": "Huizing NJ"
+   },
+   {
+    "family": "Jordens YJ"
+   },
+   {
+    "family": "Klautz RJ"
+   },
+   {
+    "family": "Knaap LG"
+   },
+   {
+    "family": "Kopatz WG"
+   },
+   {
+    "family": "van der Meer NJ"
+   },
+   {
+    "family": "Müller MC"
+   },
+   {
+    "family": "Murray AJ"
+   },
+   {
+    "family": "Pap AC"
+   },
+   {
+    "family": "Paulus F"
+   },
+   {
+    "family": "Pieters GL"
+   },
+   {
+    "family": "Polderman JA"
+   },
+   {
+    "family": "Reijrink M"
+   },
+   {
+    "family": "Roest A"
+   },
+   {
+    "family": "Schmitz C"
+   },
+   {
+    "family": "Schut Y"
+   },
+   {
+    "family": "Snel LI"
+   },
+   {
+    "family": "Steijn NG"
+   },
+   {
+    "family": "Stobbe AY"
+   },
+   {
+    "family": "Taârnit H"
+   },
+   {
+    "family": "Tegel LT"
+   },
+   {
+    "family": "Thio MS"
+   },
+   {
+    "family": "Tika DP"
+   },
+   {
+    "family": "Tolsma M"
+   },
+   {
+    "family": "Uddin I"
+   },
+   {
+    "family": "Veelo DP"
+   },
+   {
+    "family": "Verhagen M"
+   },
+   {
+    "family": "Vlaar AP"
+   },
+   {
+    "family": "Wesselink HJ"
+   }
+  ],
+  "container-title": "JAMA",
+  "DOI": "10.1001/jama.2026.9268",
+  "URL": "https://jamanetwork.com/journals/jama/fullarticle/2852324",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Renal; 2026-10"
  },
  {
   "id": "10.1001/jama.292.18.2211-b",
@@ -9997,6 +10198,555 @@
    ]
   },
   "keyword": "Respiratory/ARDS; 2026-W24; 2026-06"
+ },
+ {
+  "id": "10.1001/jamanetworkopen.2026.32555",
+  "type": "article-journal",
+  "title": "Restrictive vs Liberal Transfusion Strategy in Traumatic Brain Injury: A Secondary Analysis of the TRAIN Trial",
+  "author": [
+   {
+    "family": "Zernini IS"
+   },
+   {
+    "family": "Faso C"
+   },
+   {
+    "family": "Rynkowski CB"
+   },
+   {
+    "family": "Moller K"
+   },
+   {
+    "family": "Lormans P"
+   },
+   {
+    "family": "Diaz MQ"
+   },
+   {
+    "family": "Caricato A"
+   },
+   {
+    "family": "Beumier M"
+   },
+   {
+    "family": "Voets E"
+   },
+   {
+    "family": "Arias M"
+   },
+   {
+    "family": "Quintard H"
+   },
+   {
+    "family": "Morocho D"
+   },
+   {
+    "family": "Kurtz P"
+   },
+   {
+    "family": "Pognuz ER"
+   },
+   {
+    "family": "Huet O"
+   },
+   {
+    "family": "Mahmoodpoor A"
+   },
+   {
+    "family": "Blandino-Ortiz A"
+   },
+   {
+    "family": "Alcantara S"
+   },
+   {
+    "family": "Chabanne R"
+   },
+   {
+    "family": "Cicho F"
+   },
+   {
+    "family": "Popugaev S"
+   },
+   {
+    "family": "Giacomucci A"
+   },
+   {
+    "family": "Dibu J"
+   },
+   {
+    "family": "Cinotti R"
+   },
+   {
+    "family": "Bouzat P"
+   },
+   {
+    "family": "Vincent JL"
+   },
+   {
+    "family": "Bogossian EG"
+   },
+   {
+    "family": "Taccone FS"
+   },
+   {
+    "family": "TRAIN Study Trial Group"
+   },
+   {
+    "family": "Díaz C"
+   },
+   {
+    "family": "Saravia A"
+   },
+   {
+    "family": "Bayrlee A"
+   },
+   {
+    "family": "Nedolast L"
+   },
+   {
+    "family": "Elkambergy H"
+   },
+   {
+    "family": "Siddique H"
+   },
+   {
+    "family": "Mallat J"
+   },
+   {
+    "family": "AlJaberi N"
+   },
+   {
+    "family": "Shoshan S"
+   },
+   {
+    "family": "Mandi A"
+   },
+   {
+    "family": "De Oliveira B"
+   },
+   {
+    "family": "Prasanna M"
+   },
+   {
+    "family": "Haque R"
+   },
+   {
+    "family": "Munde D"
+   },
+   {
+    "family": "Chaffee S"
+   },
+   {
+    "family": "Alawadhi F"
+   },
+   {
+    "family": "Dibu J"
+   },
+   {
+    "family": "Junttila E"
+   },
+   {
+    "family": "Luoto T"
+   },
+   {
+    "family": "Šteblaj S"
+   },
+   {
+    "family": "Creteur J"
+   },
+   {
+    "family": "Durand D"
+   },
+   {
+    "family": "Abbenhuijs C"
+   },
+   {
+    "family": "Itesa Matumikina N"
+   },
+   {
+    "family": "Annoni F"
+   },
+   {
+    "family": "Nobile L"
+   },
+   {
+    "family": "Ulloa Bersatti M"
+   },
+   {
+    "family": "Yovenko I"
+   },
+   {
+    "family": "Tsarev A"
+   },
+   {
+    "family": "Dubois J"
+   },
+   {
+    "family": "Voets E"
+   },
+   {
+    "family": "Janssen L"
+   },
+   {
+    "family": "Zattera L"
+   },
+   {
+    "family": "Pedrosa L"
+   },
+   {
+    "family": "Monleon Lopez B"
+   },
+   {
+    "family": "Serrano A"
+   },
+   {
+    "family": "Romero-García N"
+   },
+   {
+    "family": "Wittebole X"
+   },
+   {
+    "family": "Dell'Anna AM"
+   },
+   {
+    "family": "Gelormini C"
+   },
+   {
+    "family": "Stival E"
+   },
+   {
+    "family": "Marcos Neira P"
+   },
+   {
+    "family": "Roig Pineda R"
+   },
+   {
+    "family": "Bielsa Berrocal L"
+   },
+   {
+    "family": "Misis del Campo M"
+   },
+   {
+    "family": "Bendel S"
+   },
+   {
+    "family": "Mejía-Mantilla JH"
+   },
+   {
+    "family": "Marulanda Á"
+   },
+   {
+    "family": "Dabrowski W"
+   },
+   {
+    "family": "Damgaard Nielsen R"
+   },
+   {
+    "family": "Harboe Olsen M"
+   },
+   {
+    "family": "Ravnholt Jensen H"
+   },
+   {
+    "family": "Møller Larsen I"
+   },
+   {
+    "family": "Tallarico R"
+   },
+   {
+    "family": "Lucangelo U"
+   },
+   {
+    "family": "Gonzales Perez MI"
+   },
+   {
+    "family": "Ichai C"
+   },
+   {
+    "family": "Asenhoune K"
+   },
+   {
+    "family": "Lakhal K"
+   },
+   {
+    "family": "Fernandez-Canal C"
+   },
+   {
+    "family": "Gay S"
+   },
+   {
+    "family": "Lebouc M"
+   },
+   {
+    "family": "Bougon D"
+   },
+   {
+    "family": "Escudier E"
+   },
+   {
+    "family": "Sirodot M"
+   },
+   {
+    "family": "Levrat A"
+   },
+   {
+    "family": "Courouau A"
+   },
+   {
+    "family": "Duranteau J"
+   },
+   {
+    "family": "Rodrigues A"
+   },
+   {
+    "family": "Makouche N"
+   },
+   {
+    "family": "Francony G"
+   },
+   {
+    "family": "Vincent O"
+   },
+   {
+    "family": "Boucheix P"
+   },
+   {
+    "family": "Schilte C"
+   },
+   {
+    "family": "Adolle A"
+   },
+   {
+    "family": "Gargadennec T"
+   },
+   {
+    "family": "Dias P"
+   },
+   {
+    "family": "Desanglois G"
+   },
+   {
+    "family": "Meheut A"
+   },
+   {
+    "family": "Cam P"
+   },
+   {
+    "family": "Meyfroidt G"
+   },
+   {
+    "family": "Mebis L"
+   },
+   {
+    "family": "Hendrickx A"
+   },
+   {
+    "family": "Wouters P"
+   },
+   {
+    "family": "Van Hulle S"
+   },
+   {
+    "family": "D'Hondt A"
+   },
+   {
+    "family": "Beumier M"
+   },
+   {
+    "family": "Burgeois M"
+   },
+   {
+    "family": "Simonet O"
+   },
+   {
+    "family": "Vallot F"
+   },
+   {
+    "family": "Centeno P"
+   },
+   {
+    "family": "Anchorena M"
+   },
+   {
+    "family": "Benavente X"
+   },
+   {
+    "family": "D'Onofrio M"
+   },
+   {
+    "family": "Funes N"
+   },
+   {
+    "family": "Barra de Oca A"
+   },
+   {
+    "family": "Izzo G"
+   },
+   {
+    "family": "Castelain C"
+   },
+   {
+    "family": "Soetens F"
+   },
+   {
+    "family": "Arias M"
+   },
+   {
+    "family": "Morocho D"
+   },
+   {
+    "family": "Jabaja M"
+   },
+   {
+    "family": "Tutillo D"
+   },
+   {
+    "family": "Popugaev S"
+   },
+   {
+    "family": "Dias C"
+   },
+   {
+    "family": "Perez Solada E"
+   },
+   {
+    "family": "Justo P"
+   },
+   {
+    "family": "Lopez Gomez A"
+   },
+   {
+    "family": "Alcantara S"
+   },
+   {
+    "family": "Chico F"
+   },
+   {
+    "family": "Garcia MF"
+   },
+   {
+    "family": "Picoita F"
+   },
+   {
+    "family": "Velasco Eichler S"
+   },
+   {
+    "family": "Nonticuri Bianchi G"
+   },
+   {
+    "family": "Britz JP"
+   },
+   {
+    "family": "Almeida Pimentel J"
+   },
+   {
+    "family": "Fernandes MS"
+   },
+   {
+    "family": "Gharsallah H"
+   },
+   {
+    "family": "Hajjej Z"
+   },
+   {
+    "family": "Samoud W"
+   },
+   {
+    "family": "Grebenchikov O"
+   },
+   {
+    "family": "Likhvantsev V"
+   },
+   {
+    "family": "Stroiteleva E"
+   },
+   {
+    "family": "Markou N"
+   },
+   {
+    "family": "Bakali D"
+   },
+   {
+    "family": "Koutrafouri D"
+   },
+   {
+    "family": "Subhy Alsheikhly A"
+   },
+   {
+    "family": "Giacomucci A"
+   },
+   {
+    "family": "Maccherani S"
+   },
+   {
+    "family": "Horn J"
+   },
+   {
+    "family": "Elbahnasawy M"
+   },
+   {
+    "family": "Ahmadi A"
+   },
+   {
+    "family": "Decaesteker L"
+   },
+   {
+    "family": "Decruyenaere D"
+   },
+   {
+    "family": "Demeersseman R"
+   },
+   {
+    "family": "Devriendt Y"
+   },
+   {
+    "family": "Embo K"
+   },
+   {
+    "family": "van Duijn D"
+   },
+   {
+    "family": "Ormskerk P"
+   },
+   {
+    "family": "Glasbergen-van Beijeren M"
+   },
+   {
+    "family": "Njimi H"
+   },
+   {
+    "family": "Cariou A"
+   },
+   {
+    "family": "Lelubre C"
+   },
+   {
+    "family": "Ristagno G"
+   },
+   {
+    "family": "Stocchetti N"
+   },
+   {
+    "family": "Oddo M"
+   },
+   {
+    "family": "De Deyne C"
+   },
+   {
+    "family": "Citerio G"
+   }
+  ],
+  "container-title": "JAMA Network Open",
+  "DOI": "10.1001/jamanetworkopen.2026.32555",
+  "URL": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2853805",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-10"
  },
  {
   "id": "10.1001/jamanetworkopen.2026.6127",
@@ -54551,6 +55301,42 @@
   "keyword": "Neurocritical Care; TBI; 2025-04"
  },
  {
+  "id": "10.1007/s00134-025-07873-6",
+  "type": "article-journal",
+  "title": "Sepsis subphenotypes, theragnostics and personalized sepsis care",
+  "author": [
+   {
+    "family": "Antcliffe DB"
+   },
+   {
+    "family": "Burrell A"
+   },
+   {
+    "family": "Boyle AJ"
+   },
+   {
+    "family": "Gordon AC"
+   },
+   {
+    "family": "McAuley DF"
+   },
+   {
+    "family": "Silversides J"
+   }
+  ],
+  "container-title": "Intensive Care Medicine",
+  "DOI": "10.1007/s00134-025-07873-6",
+  "URL": "https://link.springer.com/10.1007/s00134-025-07873-6",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-10"
+ },
+ {
   "id": "10.1007/s00134-025-07877-2",
   "type": "article-journal",
   "title": "Prone positioning during veno-venous extracorporeal membrane oxygenation: a systematic review and meta-analysis",
@@ -60717,6 +61503,36 @@
   "keyword": "Neurocritical Care; neuromonitoring; 2026-05"
  },
  {
+  "id": "10.1007/s00134-026-08421-6",
+  "type": "article-journal",
+  "title": "Right ventricular-protective ventilation in ARDS: thinking beyond lung protection",
+  "author": [
+   {
+    "family": "Slobod D"
+   },
+   {
+    "family": "Yusuff H"
+   },
+   {
+    "family": "Zochios V"
+   },
+   {
+    "family": "the Protecting the Right Ventricle network (PRORVnet)"
+   }
+  ],
+  "container-title": "Intensive Care Medicine",
+  "DOI": "10.1007/s00134-026-08421-6",
+  "URL": "https://link.springer.com/10.1007/s00134-026-08421-6",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-10"
+ },
+ {
   "id": "10.1007/s00134-026-08430-5",
   "type": "article-journal",
   "title": "Vasopressor weaning in septic shock: the missing piece in the 2026 guidelines",
@@ -61408,7 +62224,7 @@
     ]
    ]
   },
-  "keyword": "Respiratory/ARDS; 2026-06"
+  "keyword": "Respiratory/ARDS; 2026-06; 2026-10"
  },
  {
   "id": "10.1007/s00134-026-08501-7",
@@ -61720,6 +62536,96 @@
   "keyword": "ECMO; 2026-06; 2026-07"
  },
  {
+  "id": "10.1007/s00134-026-08503-5",
+  "type": "article-journal",
+  "title": "Imaging in ARDS: physiology-guided decisions in the AI era",
+  "author": [
+   {
+    "family": "Ball L"
+   },
+   {
+    "family": "Camporota L"
+   },
+   {
+    "family": "Constantin JM"
+   }
+  ],
+  "container-title": "Intensive Care Medicine",
+  "DOI": "10.1007/s00134-026-08503-5",
+  "URL": "https://link.springer.com/10.1007/s00134-026-08503-5",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-10"
+ },
+ {
+  "id": "10.1007/s00134-026-08511-5",
+  "type": "article-journal",
+  "title": "PEEP and alveolar recruitment after 60 years of acute respiratory distress syndrome",
+  "author": [
+   {
+    "family": "Grieco DL"
+   },
+   {
+    "family": "Coudroy R"
+   },
+   {
+    "family": "Jonkman AH"
+   },
+   {
+    "family": "Liu L"
+   },
+   {
+    "family": "Collino F"
+   },
+   {
+    "family": "Menga LS"
+   },
+   {
+    "family": "Rosà T"
+   },
+   {
+    "family": "Alcala G"
+   },
+   {
+    "family": "Vaporidi K"
+   },
+   {
+    "family": "Telias I"
+   },
+   {
+    "family": "Camporota L"
+   },
+   {
+    "family": "Ranieri VM"
+   },
+   {
+    "family": "Antonelli M"
+   },
+   {
+    "family": "Brochard L"
+   },
+   {
+    "family": "Maggiore SM"
+   }
+  ],
+  "container-title": "Intensive Care Medicine",
+  "DOI": "10.1007/s00134-026-08511-5",
+  "URL": "https://link.springer.com/10.1007/s00134-026-08511-5",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-10"
+ },
+ {
   "id": "10.1007/s00134-026-08519-x",
   "type": "article-journal",
   "title": "ECMO for patients with obesity: evidence and practice",
@@ -61837,7 +62743,7 @@
     ]
    ]
   },
-  "keyword": "Respiratory/ARDS; 2026-06"
+  "keyword": "Respiratory/ARDS; 2026-06; 2026-10"
  },
  {
   "id": "10.1007/s00134-026-08533-z",
@@ -61975,6 +62881,33 @@
   "keyword": "Respiratory/ARDS; 2026-07"
  },
  {
+  "id": "10.1007/s00134-026-08536-w",
+  "type": "article-journal",
+  "title": "EIT in ARDS: what we know and what we still do not",
+  "author": [
+   {
+    "family": "Mauri T"
+   },
+   {
+    "family": "Thille AW"
+   },
+   {
+    "family": "Grieco DL"
+   }
+  ],
+  "container-title": "Intensive Care Medicine",
+  "DOI": "10.1007/s00134-026-08536-w",
+  "URL": "https://link.springer.com/10.1007/s00134-026-08536-w",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-10"
+ },
+ {
   "id": "10.1007/s00134-026-08542-y",
   "type": "article-journal",
   "title": "ARDS 60th anniversary: spontaneous breathing in ARDS",
@@ -61999,7 +62932,7 @@
     ]
    ]
   },
-  "keyword": "Respiratory/ARDS; 2026-07"
+  "keyword": "Respiratory/ARDS; 2026-07; 2026-10"
  },
  {
   "id": "10.1007/s00134-026-08543-x",
@@ -62029,7 +62962,7 @@
     ]
    ]
   },
-  "keyword": "Respiratory/ARDS; 2026-W31; 2026-07"
+  "keyword": "Respiratory/ARDS; 2026-W31; 2026-07; 2026-10"
  },
  {
   "id": "10.1007/s00134-026-08544-w",
@@ -62876,6 +63809,33 @@
   "keyword": "Shock & Sepsis; 2026-W35"
  },
  {
+  "id": "10.1007/s00134-026-08583-3",
+  "type": "article-journal",
+  "title": "Heart-lung interactions in ARDS: practical bedside implications",
+  "author": [
+   {
+    "family": "Cecconi M"
+   },
+   {
+    "family": "Collino F"
+   },
+   {
+    "family": "Pinsky MR"
+   }
+  ],
+  "container-title": "Intensive Care Medicine",
+  "DOI": "10.1007/s00134-026-08583-3",
+  "URL": "https://link.springer.com/10.1007/s00134-026-08583-3",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-10"
+ },
+ {
   "id": "10.1007/s00134-026-08591-3",
   "type": "article-journal",
   "title": "Impact of a strategy using multiplex PCR on targeted antibiotic therapy for patients with suspected ventilator-associated pneumonia or hospital-acquired pneumonia requiring mechanical ventilation: a randomized, single-blind trial",
@@ -62957,7 +63917,7 @@
     ]
    ]
   },
-  "keyword": "Respiratory/ARDS; 2026-W38; 2026-W40"
+  "keyword": "Respiratory/ARDS; 2026-W38; 2026-W40; 2026-10"
  },
  {
   "id": "10.1007/s00134-026-08595-z",
@@ -66857,6 +67817,69 @@
    ]
   },
   "keyword": "Neurocritical Care; 2026-W27; borderline; section-inferred"
+ },
+ {
+  "id": "10.1007/s10143-026-04470-z",
+  "type": "article-journal",
+  "title": "Magnesium administration for vasospasm prevention in acute aneurysmal SAH: a multicenter randomized controlled trial",
+  "author": [
+   {
+    "family": "Kim M"
+   },
+   {
+    "family": "Kim JH"
+   },
+   {
+    "family": "Jung H"
+   },
+   {
+    "family": "Kim SB"
+   },
+   {
+    "family": "Hwang JH"
+   },
+   {
+    "family": "Jeon H"
+   },
+   {
+    "family": "Chung Y"
+   },
+   {
+    "family": "Shim Y"
+   },
+   {
+    "family": "Kim JH"
+   },
+   {
+    "family": "Byun J"
+   },
+   {
+    "family": "Cousins A"
+   },
+   {
+    "family": "Park W"
+   },
+   {
+    "family": "Park JC"
+   },
+   {
+    "family": "Ahn JS"
+   },
+   {
+    "family": "Lee S"
+   }
+  ],
+  "container-title": "Neurosurgical Review",
+  "DOI": "10.1007/s10143-026-04470-z",
+  "URL": "https://link.springer.com/10.1007/s10143-026-04470-z",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-10"
  },
  {
   "id": "10.1007/s10143-026-04496-3",
@@ -70797,7 +71820,7 @@
     ]
    ]
   },
-  "keyword": "Neurocritical Care; 2026-W39"
+  "keyword": "Neurocritical Care; 2026-W39; 2026-10"
  },
  {
   "id": "10.1007/s12028-026-02602-3",
@@ -71022,7 +72045,7 @@
     ]
    ]
   },
-  "keyword": "Neurocritical Care; 2026-W38"
+  "keyword": "Neurocritical Care; 2026-W38; 2026-10"
  },
  {
   "id": "10.1007/s12028-026-02653-6",
@@ -73742,6 +74765,69 @@
   "keyword": "Cardiac CC; 2026-06"
  },
  {
+  "id": "10.1016/j.aicoj.2026.100160",
+  "type": "article-journal",
+  "title": "Clinical practice guidelines: management of non-post-operative supra-ventricular tachycardia in neonates and children less than 18 years old hospitalized in a Pediatric Intensive Care Unit",
+  "author": [
+   {
+    "family": "Breinig S"
+   },
+   {
+    "family": "Amadieu R"
+   },
+   {
+    "family": "Béranger A"
+   },
+   {
+    "family": "Dulac Y"
+   },
+   {
+    "family": "Goyer I"
+   },
+   {
+    "family": "Grimaud M"
+   },
+   {
+    "family": "Ny ML"
+   },
+   {
+    "family": "Levy Y"
+   },
+   {
+    "family": "Maltret A"
+   },
+   {
+    "family": "Marquis C"
+   },
+   {
+    "family": "Paranon S"
+   },
+   {
+    "family": "Recher M"
+   },
+   {
+    "family": "Jandeaux LM"
+   },
+   {
+    "family": "Kuteifan K"
+   },
+   {
+    "family": "Starck J"
+   }
+  ],
+  "container-title": "Annals of Intensive Care",
+  "DOI": "10.1016/j.aicoj.2026.100160",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2110582026001950",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Cardiac CC; 2026-10"
+ },
+ {
   "id": "10.1016/j.ajem.2021.05.007",
   "type": "article-journal",
   "title": "The effect of early vasopressin use on patients with septic shock: A systematic review and meta-analysis",
@@ -75147,7 +76233,7 @@
     ]
    ]
   },
-  "keyword": "Renal; 2026-W38"
+  "keyword": "Renal; 2026-W38; 2026-10"
  },
  {
   "id": "10.1016/j.aucc.2021.06.004",
@@ -81711,6 +82797,48 @@
   "keyword": "Misc; nutrition; 2024-06"
  },
  {
+  "id": "10.1016/j.clnu.2026.106776",
+  "type": "article-journal",
+  "title": "Gastrointestinal complications in patients supported by venoarterial extracorporeal membrane oxygenation: Pathophysiological mechanisms and clinical implications",
+  "author": [
+   {
+    "family": "Cruz-Sánchez JJ"
+   },
+   {
+    "family": "Osuna-Padilla IA"
+   },
+   {
+    "family": "Ceballos G"
+   },
+   {
+    "family": "González-Escudero EA"
+   },
+   {
+    "family": "González-Ruiz FJ"
+   },
+   {
+    "family": "Santos-Martínez LE"
+   },
+   {
+    "family": "Rojas-Velasco G"
+   },
+   {
+    "family": "Stoppe C"
+   }
+  ],
+  "container-title": "Clinical Nutrition",
+  "DOI": "10.1016/j.clnu.2026.106776",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0261561426002037",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-10"
+ },
+ {
   "id": "10.1016/j.cmi.2020.10.017",
   "type": "article-journal",
   "title": "Clinical course and outcomes of critically ill patients with COVID-19 infection: a systematic review",
@@ -84433,7 +85561,7 @@
     ]
    ]
   },
-  "keyword": "Cardiac CC; 2026-W38"
+  "keyword": "Cardiac CC; 2026-W38; 2026-10"
  },
  {
   "id": "10.1016/j.hrthm.2021.11.021",
@@ -89087,6 +90215,33 @@
   "keyword": "Shock & Sepsis; 2026-W35"
  },
  {
+  "id": "10.1016/j.jcrc.2026.155729",
+  "type": "article-journal",
+  "title": "Vasopressor weaning in septic shock: Why the field has been asking the wrong question",
+  "author": [
+   {
+    "family": "Zaidi SAA"
+   },
+   {
+    "family": "Kapoor S"
+   },
+   {
+    "family": "Abdulmajeed F"
+   }
+  ],
+  "container-title": "Journal of Critical Care",
+  "DOI": "10.1016/j.jcrc.2026.155729",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126003072",
+  "issued": {
+   "date-parts": [
+    [
+     2027
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-10"
+ },
+ {
   "id": "10.1016/j.jcrc.2026.155735",
   "type": "article-journal",
   "title": "Epidemiology of continuous renal replacement therapy in critically ill adults on ECMO: A multicenter cohort study",
@@ -89144,7 +90299,7 @@
     ]
    ]
   },
-  "keyword": "Renal; 2026-W38"
+  "keyword": "Renal; 2026-W38; 2026-10"
  },
  {
   "id": "10.1016/j.jcrc.2026.155740",
@@ -91935,6 +93090,36 @@
    ]
   },
   "keyword": "Cardiac CC; 2026-06"
+ },
+ {
+  "id": "10.1016/j.resplu.2026.101468",
+  "type": "article-journal",
+  "title": "Assessing accessibility to the extracorporeal cardiopulmonary resuscitation pathway for out-of-hospital cardiac arrests in London",
+  "author": [
+   {
+    "family": "Sahay A"
+   },
+   {
+    "family": "Sears C"
+   },
+   {
+    "family": "Faulkner M"
+   },
+   {
+    "family": "Fothergill R"
+   }
+  ],
+  "container-title": "Resuscitation Plus",
+  "DOI": "10.1016/j.resplu.2026.101468",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2666520426002535",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-10"
  },
  {
   "id": "10.1016/j.resuscitation.2005.08.011",
@@ -94931,7 +96116,7 @@
     ]
    ]
   },
-  "keyword": "Neurocritical Care; 2026-W25; 2026-W37"
+  "keyword": "Neurocritical Care; 2026-W25; 2026-W37; 2026-10"
  },
  {
   "id": "10.1016/j.resuscitation.2026.111179",
@@ -95036,7 +96221,7 @@
     ]
    ]
   },
-  "keyword": "Cardiac CC; 2026-W37"
+  "keyword": "Cardiac CC; 2026-W37; 2026-10"
  },
  {
   "id": "10.1016/j.resuscitation.2026.111203",
@@ -95408,7 +96593,7 @@
     ]
    ]
   },
-  "keyword": "Neurocritical Care; 2026-W38"
+  "keyword": "Neurocritical Care; 2026-W38; 2026-10"
  },
  {
   "id": "10.1016/j.resuscitation.2026.111310",
@@ -105871,6 +107056,48 @@
   "keyword": "Cardiac CC; CHD-postop; 2026-02"
  },
  {
+  "id": "10.1038/s41390-026-05369-7",
+  "type": "article-journal",
+  "title": "Impact of high fraction of inspired oxygen before extubation on incidence of postoperative atelectasis in children: a randomized controlled trial",
+  "author": [
+   {
+    "family": "Gupta A"
+   },
+   {
+    "family": "Shephali S"
+   },
+   {
+    "family": "Yaddanapudi S"
+   },
+   {
+    "family": "Bhardwaj N"
+   },
+   {
+    "family": "Malik MA"
+   },
+   {
+    "family": "Kumar S"
+   },
+   {
+    "family": "Khanal S"
+   },
+   {
+    "family": "Patnaik S"
+   }
+  ],
+  "container-title": "Pediatric Research",
+  "DOI": "10.1038/s41390-026-05369-7",
+  "URL": "https://www.nature.com/articles/s41390-026-05369-7",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-10"
+ },
+ {
   "id": "10.1038/s41392-025-02127-9",
   "type": "article-journal",
   "title": "Advances in acute respiratory distress syndrome: focusing on heterogeneity, pathophysiology, and therapeutic strategies",
@@ -109030,6 +110257,51 @@
    ]
   },
   "keyword": "Renal; 2026-W27"
+ },
+ {
+  "id": "10.1053/j.jvca.2026.04.014",
+  "type": "article-journal",
+  "title": "Clinical Outcomes of Different Heparin Anticoagulation Monitoring Targets in Extracorporeal Membrane Oxygenation: A Systematic Review and Meta-analysis",
+  "author": [
+   {
+    "family": "Rahhal A"
+   },
+   {
+    "family": "Alamami A"
+   },
+   {
+    "family": "Tawel R"
+   },
+   {
+    "family": "Shebani A"
+   },
+   {
+    "family": "El Daezli HF"
+   },
+   {
+    "family": "Elbuzidi A"
+   },
+   {
+    "family": "Kharma N"
+   },
+   {
+    "family": "Omar A"
+   },
+   {
+    "family": "Shehatta AL"
+   }
+  ],
+  "container-title": "Journal of Cardiothoracic and Vascular Anesthesia",
+  "DOI": "10.1053/j.jvca.2026.04.014",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1053077026003277",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-10"
  },
  {
   "id": "10.1053/j.jvca.2026.05.023",
@@ -124442,6 +125714,102 @@
   "keyword": "Respiratory/ARDS; 2026-W25; 2026-06"
  },
  {
+  "id": "10.1056/nejmoa2608012",
+  "type": "article-journal",
+  "title": "Catheter-Directed Thrombolysis in Intermediate-High-Risk Pulmonary Embolism",
+  "author": [
+   {
+    "family": "Kroupa J"
+   },
+   {
+    "family": "Radvan M"
+   },
+   {
+    "family": "Mrozek J"
+   },
+   {
+    "family": "Sluka M"
+   },
+   {
+    "family": "Jirous S"
+   },
+   {
+    "family": "Hlinomaz O"
+   },
+   {
+    "family": "Pliva M"
+   },
+   {
+    "family": "Pudil J"
+   },
+   {
+    "family": "Voberkova H"
+   },
+   {
+    "family": "Bartoskova K"
+   },
+   {
+    "family": "Poloczek M"
+   },
+   {
+    "family": "Kamenik M"
+   },
+   {
+    "family": "Brabec M"
+   },
+   {
+    "family": "Lichnerova E"
+   },
+   {
+    "family": "Hutyra M"
+   },
+   {
+    "family": "Bernat I"
+   },
+   {
+    "family": "Novak M"
+   },
+   {
+    "family": "Horakova J"
+   },
+   {
+    "family": "Jelinkova L"
+   },
+   {
+    "family": "Knize T"
+   },
+   {
+    "family": "Tousek P"
+   },
+   {
+    "family": "Stechovsky C"
+   },
+   {
+    "family": "Varhanik F"
+   },
+   {
+    "family": "Coufal Z"
+   },
+   {
+    "family": "Jarkovsky J"
+   },
+   {
+    "family": "Kocka V"
+   }
+  ],
+  "container-title": "The New England Journal of Medicine",
+  "DOI": "10.1056/nejmoa2608012",
+  "URL": "http://www.nejm.org/doi/10.1056/NEJMoa2608012",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Cardiac CC; 2026-10"
+ },
+ {
   "id": "10.1056/nejmp2303120",
   "type": "article-journal",
   "title": "Xylazine — Medical and Public Health Imperatives",
@@ -126790,7 +128158,7 @@
     ]
    ]
   },
-  "keyword": "Respiratory/ARDS; 2026-W37"
+  "keyword": "Respiratory/ARDS; 2026-W37; 2026-10"
  },
  {
   "id": "10.1093/ajrccm/aamag246",
@@ -126856,7 +128224,7 @@
     ]
    ]
   },
-  "keyword": "Respiratory/ARDS; general; 2026-05"
+  "keyword": "Respiratory/ARDS; general; 2026-05; 2026-10"
  },
  {
   "id": "10.1093/ajrccm/aamag293",
@@ -126961,7 +128329,7 @@
     ]
    ]
   },
-  "keyword": "Respiratory/ARDS; 2026-W37"
+  "keyword": "Respiratory/ARDS; 2026-W37; 2026-10"
  },
  {
   "id": "10.1093/ajrccm/aamag305",
@@ -127010,6 +128378,114 @@
    ]
   },
   "keyword": "Respiratory/ARDS; 2026-W25"
+ },
+ {
+  "id": "10.1093/ajrccm/aamag309",
+  "type": "article-journal",
+  "title": "Airway mucus plugs in asthma and chronic obstructive pulmonary disease: pathobiology, imaging, and implications for clinical trials",
+  "author": [
+   {
+    "family": "Bosma CB"
+   },
+   {
+    "family": "Aaron SD"
+   },
+   {
+    "family": "Celli BR"
+   },
+   {
+    "family": "Parraga G"
+   },
+   {
+    "family": "Seymour S"
+   },
+   {
+    "family": "Washko GR"
+   },
+   {
+    "family": "Allinson JP"
+   },
+   {
+    "family": "Baraldi F"
+   },
+   {
+    "family": "Boucher RC"
+   },
+   {
+    "family": "Castro M"
+   },
+   {
+    "family": "Chotirmall SH"
+   },
+   {
+    "family": "Diaz AA"
+   },
+   {
+    "family": "Fahy JV"
+   },
+   {
+    "family": "Goldin JG"
+   },
+   {
+    "family": "Halayko AJ"
+   },
+   {
+    "family": "Halpin DMG"
+   },
+   {
+    "family": "Hoffman E"
+   },
+   {
+    "family": "Labaki WW"
+   },
+   {
+    "family": "Lugogo N"
+   },
+   {
+    "family": "Kazerooni E"
+   },
+   {
+    "family": "Kesimer M"
+   },
+   {
+    "family": "Papi A"
+   },
+   {
+    "family": "Ram S"
+   },
+   {
+    "family": "Ramsey KA"
+   },
+   {
+    "family": "San José Estépar R"
+   },
+   {
+    "family": "Tanabe N"
+   },
+   {
+    "family": "Whelan K"
+   },
+   {
+    "family": "Wedzicha JA"
+   },
+   {
+    "family": "Martinez FJ"
+   },
+   {
+    "family": "Han MK"
+   }
+  ],
+  "container-title": "American Journal of Respiratory and Critical Care Medicine",
+  "DOI": "10.1093/ajrccm/aamag309",
+  "URL": "https://academic.oup.com/ajrccm/article/212/9/1947/8713440",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-10"
  },
  {
   "id": "10.1093/ajrccm/aamag321",
@@ -127096,7 +128572,7 @@
     ]
    ]
   },
-  "keyword": "ECMO; 2026-06"
+  "keyword": "ECMO; 2026-06; 2026-10"
  },
  {
   "id": "10.1093/ajrccm/aamag457",
@@ -134247,7 +135723,7 @@
     ]
    ]
   },
-  "keyword": "Renal; 2026-W38"
+  "keyword": "Renal; 2026-W38; 2026-10"
  },
  {
   "id": "10.1097/cce.0000000000001490",
@@ -141094,7 +142570,7 @@
     ]
    ]
   },
-  "keyword": "ECMO; 2026-W37"
+  "keyword": "ECMO; 2026-W37; 2026-10"
  },
  {
   "id": "10.1097/ccm.0000000000007319",
@@ -141175,7 +142651,7 @@
     ]
    ]
   },
-  "keyword": "Misc; 2026-W38"
+  "keyword": "Misc; 2026-W38; 2026-10"
  },
  {
   "id": "10.1097/ccm.0000000000007363",
@@ -141229,7 +142705,7 @@
     ]
    ]
   },
-  "keyword": "Shock & Sepsis; 2026-W38"
+  "keyword": "Shock & Sepsis; 2026-W38; 2026-10"
  },
  {
   "id": "10.1097/ccm.0b013e3181c65a12",
@@ -143426,7 +144902,7 @@
     ]
    ]
   },
-  "keyword": "Renal; 2026-W37"
+  "keyword": "Renal; 2026-W37; 2026-10"
  },
  {
   "id": "10.1097/mat.0000000000002594",
@@ -144631,7 +146107,7 @@
     ]
    ]
   },
-  "keyword": "ECMO; 2026-W37"
+  "keyword": "ECMO; 2026-W37; 2026-10"
  },
  {
   "id": "10.1097/mat.0000000000002833",
@@ -144658,7 +146134,7 @@
     ]
    ]
   },
-  "keyword": "ECMO; 2026-W37"
+  "keyword": "ECMO; 2026-W37; 2026-10"
  },
  {
   "id": "10.1097/mat.0000000000002836",
@@ -144739,7 +146215,7 @@
     ]
    ]
   },
-  "keyword": "ECMO; 2026-W38"
+  "keyword": "ECMO; 2026-W38; 2026-10"
  },
  {
   "id": "10.1097/mat.0000000000002840",
@@ -144766,7 +146242,7 @@
     ]
    ]
   },
-  "keyword": "ECMO; 2026-W38"
+  "keyword": "ECMO; 2026-W38; 2026-10"
  },
  {
   "id": "10.1097/mat.0000000000002842",
@@ -144871,7 +146347,7 @@
     ]
    ]
   },
-  "keyword": "ECMO; 2026-W38"
+  "keyword": "ECMO; 2026-W38; 2026-10"
  },
  {
   "id": "10.1097/mat.0000000000002854",
@@ -154827,6 +156303,16 @@
   "keyword": "ECMO; 2026-W33"
  },
  {
+  "id": "10.1097/pcc.0000000000004019",
+  "type": "article-journal",
+  "title": "Extracorporeal Membrane Oxygenation for Pediatric Lung Transplantation: An Extracorporeal Life Support Organization Registry Study, 2000-2022",
+  "author": [],
+  "container-title": "Pediatric Critical Care Medicine",
+  "DOI": "10.1097/pcc.0000000000004019",
+  "URL": "",
+  "keyword": "ECMO; 2026-10"
+ },
+ {
   "id": "10.1097/pcc.0000000000004021",
   "type": "article-journal",
   "title": "Enteral Nutrition Intolerance and Delivery Adequacy in Pediatric Critical Care: Development of a Score Using a 2018 Multinational Cohort Study Dataset",
@@ -154857,7 +156343,7 @@
     ]
    ]
   },
-  "keyword": "Misc; 2026-W38"
+  "keyword": "Misc; 2026-W38; 2026-10"
  },
  {
   "id": "10.1097/pcc.0000000000004023",
@@ -155055,7 +156541,7 @@
     ]
    ]
   },
-  "keyword": "Neurocritical Care; 2026-W35"
+  "keyword": "Neurocritical Care; 2026-W35; 2026-10"
  },
  {
   "id": "10.1097/pcc.0000000000004031",
@@ -155148,7 +156634,7 @@
     ]
    ]
   },
-  "keyword": "Respiratory/ARDS; 2026-W38"
+  "keyword": "Respiratory/ARDS; 2026-W38; 2026-10"
  },
  {
   "id": "10.1097/pcc.0000000000004035",
@@ -155175,7 +156661,7 @@
     ]
    ]
   },
-  "keyword": "ECMO; 2026-W38"
+  "keyword": "ECMO; 2026-W38; 2026-10"
  },
  {
   "id": "10.1097/pcc.0000000000004037",
@@ -155244,7 +156730,7 @@
     ]
    ]
   },
-  "keyword": "Renal; 2026-W38"
+  "keyword": "Renal; 2026-W38; 2026-10"
  },
  {
   "id": "10.1097/pcc.0000000000004046",
@@ -155274,6 +156760,56 @@
   "keyword": "Misc; 2026-W39"
  },
  {
+  "id": "10.1097/pcc.0000000000004049",
+  "type": "article-journal",
+  "title": "The Short and Long View of Extracorporeal Membrane Oxygenation as a Bridge to Lung Transplant in Children",
+  "author": [],
+  "container-title": "Pediatric Critical Care Medicine",
+  "DOI": "10.1097/pcc.0000000000004049",
+  "URL": "",
+  "keyword": "ECMO; 2026-10"
+ },
+ {
+  "id": "10.1097/pcc.0000000000004052",
+  "type": "article-journal",
+  "title": "Outcomes of Acute Kidney Injury in Pediatric Liver Transplant: Retrospective Cohort Study, 2013-2023",
+  "author": [],
+  "container-title": "Pediatric Critical Care Medicine",
+  "DOI": "10.1097/pcc.0000000000004052",
+  "URL": "",
+  "keyword": "Renal; 2026-10"
+ },
+ {
+  "id": "10.1097/pcc.0000000000004053",
+  "type": "article-journal",
+  "title": "Trust, Advocacy, Inequity, and Information: A Qualitative Study of PICU Communication Experiences Among Low-Income Families in the United States",
+  "author": [
+   {
+    "family": "Kemper E"
+   },
+   {
+    "family": "Eakin MN"
+   },
+   {
+    "family": "Taylor J"
+   },
+   {
+    "family": "Kudchadkar SR"
+   }
+  ],
+  "container-title": "Pediatric Critical Care Medicine",
+  "DOI": "10.1097/pcc.0000000000004053",
+  "URL": "https://www.ovid.com/10.1097/PCC.0000000000004053",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-10"
+ },
+ {
   "id": "10.1097/pcc.0000000000004054",
   "type": "article-journal",
   "title": "Inspiratory Flow Amplitude in Pediatric Acute Respiratory Distress Syndrome: Outcomes in a Single-Center Cohort, 2023-2024",
@@ -155298,7 +156834,7 @@
     ]
    ]
   },
-  "keyword": "Respiratory/ARDS; 2026-W38"
+  "keyword": "Respiratory/ARDS; 2026-W38; 2026-10"
  },
  {
   "id": "10.1097/pcc.0000000000004055",
@@ -155328,7 +156864,7 @@
     ]
    ]
   },
-  "keyword": "Shock & Sepsis; 2026-W38"
+  "keyword": "Shock & Sepsis; 2026-W38; 2026-10"
  },
  {
   "id": "10.1097/pcc.0000000000004057",
@@ -155356,6 +156892,48 @@
    ]
   },
   "keyword": "ECMO; 2026-W38"
+ },
+ {
+  "id": "10.1097/pcc.0000000000004058",
+  "type": "article-journal",
+  "title": "Preoperative Pulmonary Blood Flow, Cardiopulmonary Bypass, and Lung Inflammation in Children With Congenital Heart Disease: Post Hoc Analysis of a Single-Center Prospective Cohort",
+  "author": [
+   {
+    "family": "Sartori A"
+   },
+   {
+    "family": "Simonato M"
+   },
+   {
+    "family": "Carnielli V"
+   },
+   {
+    "family": "Carollo C"
+   },
+   {
+    "family": "Di Salvo G"
+   },
+   {
+    "family": "Vida V"
+   },
+   {
+    "family": "Padalino M"
+   },
+   {
+    "family": "Cogo P"
+   }
+  ],
+  "container-title": "Pediatric Critical Care Medicine",
+  "DOI": "10.1097/pcc.0000000000004058",
+  "URL": "https://www.ovid.com/10.1097/PCC.0000000000004058",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Cardiac CC; 2026-10"
  },
  {
   "id": "10.1097/pcc.0b013e3181b7fa1f",
@@ -155878,7 +157456,7 @@
     ]
    ]
   },
-  "keyword": "Shock & Sepsis; 2026-W38; borderline; section-inferred"
+  "keyword": "Renal; 2026-W38; 2026-10; borderline"
  },
  {
   "id": "10.1097/shk.0000000000002939",
@@ -161790,7 +163368,7 @@
     ]
    ]
   },
-  "keyword": "Respiratory/ARDS; 2026-W38"
+  "keyword": "Respiratory/ARDS; 2026-W38; 2026-10"
  },
  {
   "id": "10.1136/bmjpo-2026-005037",
@@ -165749,6 +167327,57 @@
    ]
   },
   "keyword": "Renal; 2026-W31"
+ },
+ {
+  "id": "10.1161/svin.125.002212",
+  "type": "article-journal",
+  "title": "Active Cerebrospinal Fluid Exchange Versus External Ventricular Drainage in IVH and SAH: A Meta-Analysis",
+  "author": [
+   {
+    "family": "Bahadori AR"
+   },
+   {
+    "family": "Röblom A"
+   },
+   {
+    "family": "Niemelä M"
+   },
+   {
+    "family": "Salman SD"
+   },
+   {
+    "family": "Siddiqui A"
+   },
+   {
+    "family": "Tawk RG"
+   },
+   {
+    "family": "Jahromi B"
+   },
+   {
+    "family": "Freeman WD"
+   },
+   {
+    "family": "Kashefiolasl S"
+   },
+   {
+    "family": "Dashti R"
+   },
+   {
+    "family": "Rezai Jahromi B"
+   }
+  ],
+  "container-title": "Stroke: Vascular and Interventional Neurology",
+  "DOI": "10.1161/svin.125.002212",
+  "URL": "https://www.ahajournals.org/doi/10.1161/SVIN.125.002212",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-10"
  },
  {
   "id": "10.1162/2e3983f5.56d41668",
@@ -180293,6 +181922,60 @@
   "keyword": "ECMO; general; 2026-05"
  },
  {
+  "id": "10.1177/02676591261487320",
+  "type": "article-journal",
+  "title": "Membrane lung dead space and membrane lung impairment: An exploratory retrospective study in COVID-19 patients",
+  "author": [
+   {
+    "family": "Lino G"
+   },
+   {
+    "family": "Rossetti M"
+   },
+   {
+    "family": "Capitanio G"
+   },
+   {
+    "family": "Coppolecchia S"
+   },
+   {
+    "family": "Occhipinti G"
+   },
+   {
+    "family": "Longo R"
+   },
+   {
+    "family": "Tuzzolino F"
+   },
+   {
+    "family": "Arcadipane A"
+   },
+   {
+    "family": "Martucci G"
+   },
+   {
+    "family": "Antonini MV"
+   },
+   {
+    "family": "Lorusso R"
+   },
+   {
+    "family": "Panarello G"
+   }
+  ],
+  "container-title": "Perfusion",
+  "DOI": "10.1177/02676591261487320",
+  "URL": "https://journals.sagepub.com/doi/10.1177/02676591261487320",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-10"
+ },
+ {
   "id": "10.1177/02729890122062569",
   "type": "article-journal",
   "title": "In Search of Tools to Aid Logical Thinking and Communicating about Medical Decision Making",
@@ -181048,6 +182731,60 @@
    ]
   },
   "keyword": "Shock & Sepsis; general; 2026-05"
+ },
+ {
+  "id": "10.1177/08977151261481325",
+  "type": "article-journal",
+  "title": "Association Between Individualized Intracranial Pressure Thresholds and Long-Term Outcomes in Moderate-to-Severe TBI: A CAHR-TBI Multicenter Study",
+  "author": [
+   {
+    "family": "Stein KY"
+   },
+   {
+    "family": "Griesdale D"
+   },
+   {
+    "family": "Sekhon M"
+   },
+   {
+    "family": "Bernard F"
+   },
+   {
+    "family": "Gallagher C"
+   },
+   {
+    "family": "Thelin EP"
+   },
+   {
+    "family": "Raj R"
+   },
+   {
+    "family": "Aries M"
+   },
+   {
+    "family": "Froese L"
+   },
+   {
+    "family": "Mathieu F"
+   },
+   {
+    "family": "Kramer A"
+   },
+   {
+    "family": "Zeiler FA"
+   }
+  ],
+  "container-title": "Journal of Neurotrauma",
+  "DOI": "10.1177/08977151261481325",
+  "URL": "https://journals.sagepub.com/doi/10.1177/08977151261481325",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-10"
  },
  {
   "id": "10.1177/097206341001200204",
@@ -181806,7 +183543,7 @@
     ]
    ]
   },
-  "keyword": "Respiratory/ARDS; 2026-W23; 2026-W37"
+  "keyword": "Respiratory/ARDS; 2026-W23; 2026-W37; 2026-10"
  },
  {
   "id": "10.1177/19433654261450212",
@@ -182124,7 +183861,7 @@
     ]
    ]
   },
-  "keyword": "Respiratory/ARDS; 2026-W38"
+  "keyword": "Respiratory/ARDS; 2026-W38; 2026-10"
  },
  {
   "id": "10.1177/19433654261487238",
@@ -182366,6 +184103,132 @@
    ]
   },
   "keyword": "Misc; transfusion; 2021-08"
+ },
+ {
+  "id": "10.1183/13993003.00344-2026",
+  "type": "article-journal",
+  "title": "Needle aspiration versus intercostal chest drain for secondary spontaneous pneumothorax (the PRINCE-SSP trial): a pragmatic, open-label, multi-centre, non-inferiority, randomised controlled trial",
+  "author": [
+   {
+    "family": "Walker S"
+   },
+   {
+    "family": "Creanor S"
+   },
+   {
+    "family": "Carlton E"
+   },
+   {
+    "family": "Taylor E"
+   },
+   {
+    "family": "Cook H"
+   },
+   {
+    "family": "Chaudhuri E"
+   },
+   {
+    "family": "Connors J"
+   },
+   {
+    "family": "Luengo-fernandez R"
+   },
+   {
+    "family": "Palmer-Welsh A"
+   },
+   {
+    "family": "Ratushnyak S"
+   },
+   {
+    "family": "Smithies A"
+   },
+   {
+    "family": "Marciniak SJ"
+   },
+   {
+    "family": "Corcoran JP"
+   },
+   {
+    "family": "Ashraf A"
+   },
+   {
+    "family": "Walters J"
+   },
+   {
+    "family": "Abdelrehem E"
+   },
+   {
+    "family": "Bloom B"
+   },
+   {
+    "family": "Daneshvar C"
+   },
+   {
+    "family": "Anning L"
+   },
+   {
+    "family": "Russell P"
+   },
+   {
+    "family": "de Fonseka D"
+   },
+   {
+    "family": "Holme J"
+   },
+   {
+    "family": "Anwar A"
+   },
+   {
+    "family": "Hassan T"
+   },
+   {
+    "family": "Corbett C"
+   },
+   {
+    "family": "Elkhodair S"
+   },
+   {
+    "family": "Boggaram G"
+   },
+   {
+    "family": "Panchal RK"
+   },
+   {
+    "family": "Zeya K"
+   },
+   {
+    "family": "Sarvesh B"
+   },
+   {
+    "family": "Ponsworno K"
+   },
+   {
+    "family": "Barton EC"
+   },
+   {
+    "family": "Bhatnagar R"
+   },
+   {
+    "family": "Jeyabalan A"
+   },
+   {
+    "family": "Miller RF"
+   },
+   {
+    "family": "Maskell N"
+   }
+  ],
+  "container-title": "European Respiratory Journal",
+  "DOI": "10.1183/13993003.00344-2026",
+  "URL": "https://publications.ersnet.org/lookup/doi/10.1183/13993003.00344-2026",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-10"
  },
  {
   "id": "10.1183/13993003.01724-2021",
@@ -226358,6 +228221,93 @@
   "keyword": "Renal; 2026-W31"
  },
  {
+  "id": "10.1186/s13054-026-06100-y",
+  "type": "article-journal",
+  "title": "Beta-lactam antibiotics have immunomodulatory effects in vitro, including changes consistent with sepsis-induced immunosuppression",
+  "author": [
+   {
+    "family": "Snow TAC"
+   },
+   {
+    "family": "Charoenpong S"
+   },
+   {
+    "family": "Kim H"
+   },
+   {
+    "family": "Carthigesan K"
+   },
+   {
+    "family": "Gallagher L"
+   },
+   {
+    "family": "Elkhodair S"
+   },
+   {
+    "family": "Avraham R"
+   },
+   {
+    "family": "Das A"
+   },
+   {
+    "family": "Singer M"
+   },
+   {
+    "family": "Brealey D"
+   },
+   {
+    "family": "Arulkumaran N"
+   },
+   {
+    "family": "the University College London Hospitals Critical Care Research Team"
+   },
+   {
+    "family": "Bercades G"
+   },
+   {
+    "family": "Cesar A"
+   },
+   {
+    "family": "Hass I"
+   },
+   {
+    "family": "Martinez AZ"
+   },
+   {
+    "family": "Martir G"
+   },
+   {
+    "family": "Pan H"
+   },
+   {
+    "family": "Pisciotta W"
+   },
+   {
+    "family": "Ryckaert F"
+   },
+   {
+    "family": "Saleem N"
+   },
+   {
+    "family": "Smyth D"
+   },
+   {
+    "family": "Waller AV"
+   }
+  ],
+  "container-title": "Critical Care",
+  "DOI": "10.1186/s13054-026-06100-y",
+  "URL": "https://link.springer.com/10.1186/s13054-026-06100-y",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-10"
+ },
+ {
   "id": "10.1186/s13054-026-06102-w",
   "type": "article-journal",
   "title": "Time Course of Energy Expenditure in Persistent Critical Illness: A Prospective Multicentre Study",
@@ -227213,7 +229163,7 @@
     ]
    ]
   },
-  "keyword": "Shock & Sepsis; 2026-W31"
+  "keyword": "Shock & Sepsis; 2026-W31; 2026-10"
  },
  {
   "id": "10.1186/s13054-026-06172-w",
@@ -227606,6 +229556,39 @@
   "keyword": "Renal; 2026-07"
  },
  {
+  "id": "10.1186/s13054-026-06212-5",
+  "type": "article-journal",
+  "title": "The impact of medical errors on healthcare professionals: a cross-sectional propensity score-matched comparison of second victim syndrome between Japan and the United States",
+  "author": [
+   {
+    "family": "Takatani Y"
+   },
+   {
+    "family": "Minami T"
+   },
+   {
+    "family": "Kato G"
+   },
+   {
+    "family": "Carino GP"
+   },
+   {
+    "family": "Ohtsuru S"
+   }
+  ],
+  "container-title": "Critical Care",
+  "DOI": "10.1186/s13054-026-06212-5",
+  "URL": "https://link.springer.com/10.1186/s13054-026-06212-5",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-10"
+ },
+ {
   "id": "10.1186/s13054-026-06213-4",
   "type": "article-journal",
   "title": "Left ventricular unloading during VA-ECMO for refractory cardiogenic shock: a target trial emulation multicenter analysis",
@@ -227723,6 +229706,165 @@
   "keyword": "Respiratory/ARDS; 2026-W33"
  },
  {
+  "id": "10.1186/s13054-026-06252-x",
+  "type": "article-journal",
+  "title": "AKI as a systemic syndrome and its impact on other organ systems",
+  "author": [
+   {
+    "family": "Manca B"
+   },
+   {
+    "family": "Forni L"
+   },
+   {
+    "family": "Booke H"
+   },
+   {
+    "family": "Meuth S"
+   },
+   {
+    "family": "Koyner J"
+   },
+   {
+    "family": "La A"
+   },
+   {
+    "family": "Zarbock A"
+   }
+  ],
+  "container-title": "Critical Care",
+  "DOI": "10.1186/s13054-026-06252-x",
+  "URL": "https://link.springer.com/10.1186/s13054-026-06252-x",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Renal; 2026-10"
+ },
+ {
+  "id": "10.1186/s13054-026-06255-8",
+  "type": "article-journal",
+  "title": "Death determination at the bedside: clinical judgement beyond criteria",
+  "author": [
+   {
+    "family": "Le Dorze M"
+   },
+   {
+    "family": "Nicolas-Robin A"
+   },
+   {
+    "family": "Carvallo S"
+   },
+   {
+    "family": "Maglio M"
+   },
+   {
+    "family": "Molina-Pérez A"
+   }
+  ],
+  "container-title": "Critical Care",
+  "DOI": "10.1186/s13054-026-06255-8",
+  "URL": "https://link.springer.com/10.1186/s13054-026-06255-8",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-10"
+ },
+ {
+  "id": "10.1186/s13054-026-06272-7",
+  "type": "article-journal",
+  "title": "Indirect calorimetry-guided nutrition during weaning from prolonged mechanical ventilation: a double-blind randomized controlled trial",
+  "author": [
+   {
+    "family": "Fradkin M"
+   },
+   {
+    "family": "Elyashiv M"
+   },
+   {
+    "family": "Brik M"
+   },
+   {
+    "family": "Agay N"
+   },
+   {
+    "family": "Kait MG"
+   },
+   {
+    "family": "Bornstein L"
+   },
+   {
+    "family": "Margalit T"
+   },
+   {
+    "family": "Singer P"
+   },
+   {
+    "family": "Dankner R"
+   }
+  ],
+  "container-title": "Critical Care",
+  "DOI": "10.1186/s13054-026-06272-7",
+  "URL": "https://link.springer.com/10.1186/s13054-026-06272-7",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-10"
+ },
+ {
+  "id": "10.1186/s13054-026-06294-1",
+  "type": "article-journal",
+  "title": "Effect of positive end-expiratory pressure on intracranial pressure, cerebral perfusion pressure and brain-tissue oxygenation in acute brain injury: a systematic review and dose-response meta-analysis",
+  "author": [
+   {
+    "family": "Ramírez-Esteban J"
+   },
+   {
+    "family": "Sarrió E"
+   },
+   {
+    "family": "Ruiz-Pacheco A"
+   },
+   {
+    "family": "Cots A"
+   },
+   {
+    "family": "Romero-García N"
+   },
+   {
+    "family": "Iannuzzi F"
+   },
+   {
+    "family": "Robba C"
+   },
+   {
+    "family": "Badenes R"
+   }
+  ],
+  "container-title": "Critical Care",
+  "DOI": "10.1186/s13054-026-06294-1",
+  "URL": "https://link.springer.com/10.1186/s13054-026-06294-1",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-10"
+ },
+ {
   "id": "10.1186/s13054-026-06300-6",
   "type": "article-journal",
   "title": "Extracorporeal CO2 elimination for acute exacerbation of severe COPD requiring invasive mechanical ventilation: the X-COPD trial",
@@ -227804,6 +229946,126 @@
   "keyword": "Misc; 2026-W39"
  },
  {
+  "id": "10.1186/s13054-026-06310-4",
+  "type": "article-journal",
+  "title": "Hyperoxia and neurologic complications in pediatric veno-arterial extracorporeal membrane oxygenation: a retrospective ELSO registry study",
+  "author": [
+   {
+    "family": "Kwong R"
+   },
+   {
+    "family": "Sanford E"
+   },
+   {
+    "family": "Li X"
+   },
+   {
+    "family": "Hoskote A"
+   },
+   {
+    "family": "Thiagarajan R"
+   },
+   {
+    "family": "Raman L"
+   },
+   {
+    "family": "Shah N"
+   }
+  ],
+  "container-title": "Crit Care",
+  "DOI": "10.1186/s13054-026-06310-4",
+  "URL": "https://link.springer.com/10.1186/s13054-026-06310-4",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-09"
+ },
+ {
+  "id": "10.1186/s13054-026-06323-z",
+  "type": "article-journal",
+  "title": "Early multimodal vasopressor strategy in septic shock: results of the TRICYCLE randomized controlled trial",
+  "author": [
+   {
+    "family": "Kalamar Ž"
+   },
+   {
+    "family": "Landoni G"
+   },
+   {
+    "family": "Gorenjak M"
+   },
+   {
+    "family": "Cestar I"
+   },
+   {
+    "family": "Fluher J"
+   },
+   {
+    "family": "Horvat M"
+   },
+   {
+    "family": "Jerenec K"
+   },
+   {
+    "family": "Kit B"
+   },
+   {
+    "family": "Marinšek M"
+   },
+   {
+    "family": "Puklavec N"
+   },
+   {
+    "family": "Svenšek F"
+   },
+   {
+    "family": "Radonić R"
+   },
+   {
+    "family": "Šundalić S"
+   },
+   {
+    "family": "Brajković AV"
+   },
+   {
+    "family": "Vujević A"
+   },
+   {
+    "family": "Erjavc N"
+   },
+   {
+    "family": "Petek D"
+   },
+   {
+    "family": "Košir AS"
+   },
+   {
+    "family": "Homšak E"
+   },
+   {
+    "family": "Knehtl MC"
+   },
+   {
+    "family": "Markota A"
+   }
+  ],
+  "container-title": "Critical Care",
+  "DOI": "10.1186/s13054-026-06323-z",
+  "URL": "https://link.springer.com/10.1186/s13054-026-06323-z",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-10"
+ },
+ {
   "id": "10.1186/s13054-026-06334-w",
   "type": "article-journal",
   "title": "Personalised energy targeting during venovenous ECMO: serial assessment of resting energy expenditure reveals phase-dependent metabolic demand and systematic discordance with predictive equations",
@@ -227828,7 +230090,7 @@
     ]
    ]
   },
-  "keyword": "ECMO; 2026-W38"
+  "keyword": "ECMO; 2026-W38; 2026-10"
  },
  {
   "id": "10.1186/s13054-026-06345-7",
@@ -247773,6 +250035,60 @@
    ]
   },
   "keyword": "Shock & Sepsis; general; 2026-05"
+ },
+ {
+  "id": "10.3389/fmed.2026.1846773",
+  "type": "article-journal",
+  "title": "Controlled low central venous pressure after cardiopulmonary bypass reduces acute kidney injury following cardiac surgery: a randomized controlled trial",
+  "author": [
+   {
+    "family": "Chen L"
+   },
+   {
+    "family": "Hu L"
+   },
+   {
+    "family": "He Y"
+   },
+   {
+    "family": "Kong S"
+   },
+   {
+    "family": "Liu J"
+   },
+   {
+    "family": "Ding K"
+   },
+   {
+    "family": "Zhang C"
+   },
+   {
+    "family": "Zhu D"
+   },
+   {
+    "family": "Cheng Y"
+   },
+   {
+    "family": "Shi H"
+   },
+   {
+    "family": "Zhou J"
+   },
+   {
+    "family": "Ge Y"
+   }
+  ],
+  "container-title": "Frontiers in Medicine",
+  "DOI": "10.3389/fmed.2026.1846773",
+  "URL": "https://www.frontiersin.org/articles/10.3389/fmed.2026.1846773/full",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Cardiac CC; 2026-10"
  },
  {
   "id": "10.3389/fmicb.2026.1794341",

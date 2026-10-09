@@ -175,6 +175,7 @@ AN  - 42806496
 UR  - https://jamanetwork.com/journals/jama/fullarticle/2854755
 KW  - Shock & Sepsis
 KW  - 2026-W40
+KW  - 2026-10
 ER  - 
 
 TY  - JOUR
@@ -1660,6 +1661,23 @@ UR  - https://link.springer.com/article/10.1007/s00134-025-07859-4
 KW  - Shock & Sepsis
 KW  - general
 KW  - 2025-04
+ER  - 
+
+TY  - JOUR
+TI  - Sepsis subphenotypes, theragnostics and personalized sepsis care
+AU  - Antcliffe DB
+AU  - Burrell A
+AU  - Boyle AJ
+AU  - Gordon AC
+AU  - McAuley DF
+AU  - Silversides J
+JO  - Intensive Care Medicine
+PY  - 2025
+DO  - 10.1007/s00134-025-07873-6
+AN  - 40163135
+UR  - https://link.springer.com/10.1007/s00134-025-07873-6
+KW  - Shock & Sepsis
+KW  - 2026-10
 ER  - 
 
 TY  - JOUR
@@ -3388,6 +3406,20 @@ AN  - 42628456
 UR  - https://doi.org/10.1016/j.jcrc.2026.155719
 KW  - Shock & Sepsis
 KW  - 2026-W35
+ER  - 
+
+TY  - JOUR
+TI  - Vasopressor weaning in septic shock: Why the field has been asking the wrong question
+AU  - Zaidi SAA
+AU  - Kapoor S
+AU  - Abdulmajeed F
+JO  - Journal of Critical Care
+PY  - 2027
+DO  - 10.1016/j.jcrc.2026.155729
+AN  - 42660067
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126003072
+KW  - Shock & Sepsis
+KW  - 2026-10
 ER  - 
 
 TY  - JOUR
@@ -5670,6 +5702,7 @@ AN  - 42725818
 UR  - https://www.ovid.com/10.1097/CCM.0000000000007364
 KW  - Shock & Sepsis
 KW  - 2026-W38
+KW  - 2026-10
 ER  - 
 
 TY  - JOUR
@@ -6221,6 +6254,7 @@ AN  - 42734436
 UR  - https://www.ovid.com/10.1097/PCC.0000000000004055
 KW  - Shock & Sepsis
 KW  - 2026-W38
+KW  - 2026-10
 ER  - 
 
 TY  - JOUR
@@ -6324,30 +6358,6 @@ AN  - 42320014
 UR  - https://journals.lww.com/10.1097/SHK.0000000000002895
 KW  - Shock & Sepsis
 KW  - 2026-W27
-ER  - 
-
-TY  - JOUR
-TI  - Early renal perfusion phenotypes and renal recovery in critically ill patients with or at risk for acute kidney injury: a prospective multicenter cohort study
-AU  - Fu Y
-AU  - Ke L
-AU  - Lv C
-AU  - Wang Y
-AU  - Zhang S
-AU  - Yan J
-AU  - Zhang X
-AU  - Liu W
-AU  - Hu Y
-AU  - Zhang D
-AU  - Li H
-JO  - Shock
-PY  - 2026
-DO  - 10.1097/shk.0000000000002936
-AN  - 42704056
-UR  - https://www.ovid.com/10.1097/SHK.0000000000002936
-KW  - Shock & Sepsis
-KW  - 2026-W38
-KW  - borderline
-KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -9281,6 +9291,40 @@ KW  - 2026-W21
 ER  - 
 
 TY  - JOUR
+TI  - Beta-lactam antibiotics have immunomodulatory effects in vitro, including changes consistent with sepsis-induced immunosuppression
+AU  - Snow TAC
+AU  - Charoenpong S
+AU  - Kim H
+AU  - Carthigesan K
+AU  - Gallagher L
+AU  - Elkhodair S
+AU  - Avraham R
+AU  - Das A
+AU  - Singer M
+AU  - Brealey D
+AU  - Arulkumaran N
+AU  - the University College London Hospitals Critical Care Research Team
+AU  - Bercades G
+AU  - Cesar A
+AU  - Hass I
+AU  - Martinez AZ
+AU  - Martir G
+AU  - Pan H
+AU  - Pisciotta W
+AU  - Ryckaert F
+AU  - Saleem N
+AU  - Smyth D
+AU  - Waller AV
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06100-y
+AN  - 42608714
+UR  - https://link.springer.com/10.1186/s13054-026-06100-y
+KW  - Shock & Sepsis
+KW  - 2026-10
+ER  - 
+
+TY  - JOUR
 TI  - Current and Future Strategies Aiming at Reducing Catecholamine Exposure in Septic Shock
 AU  - Dubech A
 AU  - Picod A
@@ -9401,6 +9445,7 @@ AN  - 42498933
 UR  - https://link.springer.com/10.1186/s13054-026-06168-6
 KW  - Shock & Sepsis
 KW  - 2026-W31
+KW  - 2026-10
 ER  - 
 
 TY  - JOUR
@@ -9514,6 +9559,38 @@ AN  - 42750044
 UR  - https://link.springer.com/10.1186/s13054-026-06304-2
 KW  - Shock & Sepsis
 KW  - 2026-W38
+ER  - 
+
+TY  - JOUR
+TI  - Early multimodal vasopressor strategy in septic shock: results of the TRICYCLE randomized controlled trial
+AU  - Kalamar Ž
+AU  - Landoni G
+AU  - Gorenjak M
+AU  - Cestar I
+AU  - Fluher J
+AU  - Horvat M
+AU  - Jerenec K
+AU  - Kit B
+AU  - Marinšek M
+AU  - Puklavec N
+AU  - Svenšek F
+AU  - Radonić R
+AU  - Šundalić S
+AU  - Brajković AV
+AU  - Vujević A
+AU  - Erjavc N
+AU  - Petek D
+AU  - Košir AS
+AU  - Homšak E
+AU  - Knehtl MC
+AU  - Markota A
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06323-z
+AN  - 42827265
+UR  - https://link.springer.com/10.1186/s13054-026-06323-z
+KW  - Shock & Sepsis
+KW  - 2026-10
 ER  - 
 
 TY  - JOUR

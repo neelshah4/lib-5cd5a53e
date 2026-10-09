@@ -164,6 +164,78 @@ KW  - 2026-W34
 ER  - 
 
 TY  - JOUR
+TI  - Dapagliflozin and Acute Kidney Injury Following Cardiac Surgery: A Randomized Clinical Trial
+AU  - Oosterom-Eijmael MJP
+AU  - Hulst AH
+AU  - de Oliveira NPM
+AU  - Niesten ED
+AU  - Wietsma NE
+AU  - Gerritse BM
+AU  - Scohy TV
+AU  - Rettig TCD
+AU  - Snellen FTF
+AU  - Voogd MF
+AU  - Godfried MB
+AU  - de Boer RN
+AU  - Wink J
+AU  - van der Werff LMM
+AU  - Cobbaert CM
+AU  - Ruhaak LR
+AU  - Eberl S
+AU  - Preckel B
+AU  - Hollmann MW
+AU  - Schenk J
+AU  - Hermanides J
+AU  - van Raalte DH
+AU  - MERCURI-2 Study Group
+AU  - El Benhaji T
+AU  - Bouman CS
+AU  - Bruggemans EF
+AU  - Chen N
+AU  - Cherpanath TG
+AU  - Cox G
+AU  - Dijkgraaf MG
+AU  - Grewal N
+AU  - Herrema H
+AU  - Huizing NJ
+AU  - Jordens YJ
+AU  - Klautz RJ
+AU  - Knaap LG
+AU  - Kopatz WG
+AU  - van der Meer NJ
+AU  - Müller MC
+AU  - Murray AJ
+AU  - Pap AC
+AU  - Paulus F
+AU  - Pieters GL
+AU  - Polderman JA
+AU  - Reijrink M
+AU  - Roest A
+AU  - Schmitz C
+AU  - Schut Y
+AU  - Snel LI
+AU  - Steijn NG
+AU  - Stobbe AY
+AU  - Taârnit H
+AU  - Tegel LT
+AU  - Thio MS
+AU  - Tika DP
+AU  - Tolsma M
+AU  - Uddin I
+AU  - Veelo DP
+AU  - Verhagen M
+AU  - Vlaar AP
+AU  - Wesselink HJ
+JO  - JAMA
+PY  - 2026
+DO  - 10.1001/jama.2026.9268
+AN  - 42530910
+UR  - https://jamanetwork.com/journals/jama/fullarticle/2852324
+KW  - Renal
+KW  - 2026-10
+ER  - 
+
+TY  - JOUR
 TI  - Correction Rates and Clinical Outcomes in Hospitalized Adults With Severe Hyponatremia
 AU  - Ayus, Juan Carlos
 AU  - Moritz, Michael L.
@@ -1797,6 +1869,7 @@ AN  - 42753882
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0003497526009276
 KW  - Renal
 KW  - 2026-W38
+KW  - 2026-10
 ER  - 
 
 TY  - JOUR
@@ -1978,6 +2051,7 @@ AN  - 42732731
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126003138
 KW  - Renal
 KW  - 2026-W38
+KW  - 2026-10
 ER  - 
 
 TY  - JOUR
@@ -3067,6 +3141,7 @@ AN  - 42708120
 UR  - https://www.ovid.com/10.1097/CCE.0000000000001482
 KW  - Renal
 KW  - 2026-W38
+KW  - 2026-10
 ER  - 
 
 TY  - JOUR
@@ -3269,6 +3344,7 @@ AN  - 41168142
 UR  - https://www.ovid.com/10.1097/MAT.0000000000002589
 KW  - Renal
 KW  - 2026-W37
+KW  - 2026-10
 ER  - 
 
 TY  - JOUR
@@ -3475,6 +3551,39 @@ AN  - 42725842
 UR  - https://www.ovid.com/10.1097/PCC.0000000000004043
 KW  - Renal
 KW  - 2026-W38
+KW  - 2026-10
+ER  - 
+
+TY  - JOUR
+TI  - Outcomes of Acute Kidney Injury in Pediatric Liver Transplant: Retrospective Cohort Study, 2013-2023
+JO  - Pediatric Critical Care Medicine
+DO  - 10.1097/pcc.0000000000004052
+KW  - Renal
+KW  - 2026-10
+ER  - 
+
+TY  - JOUR
+TI  - Early renal perfusion phenotypes and renal recovery in critically ill patients with or at risk for acute kidney injury: a prospective multicenter cohort study
+AU  - Fu Y
+AU  - Ke L
+AU  - Lv C
+AU  - Wang Y
+AU  - Zhang S
+AU  - Yan J
+AU  - Zhang X
+AU  - Liu W
+AU  - Hu Y
+AU  - Zhang D
+AU  - Li H
+JO  - Shock
+PY  - 2026
+DO  - 10.1097/shk.0000000000002936
+AN  - 42704056
+UR  - https://www.ovid.com/10.1097/SHK.0000000000002936
+KW  - Renal
+KW  - 2026-W38
+KW  - 2026-10
+KW  - borderline
 ER  - 
 
 TY  - JOUR
@@ -4749,6 +4858,24 @@ AN  - 42472834
 UR  - https://link.springer.com/10.1186/s13054-026-06206-3
 KW  - Renal
 KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - AKI as a systemic syndrome and its impact on other organ systems
+AU  - Manca B
+AU  - Forni L
+AU  - Booke H
+AU  - Meuth S
+AU  - Koyner J
+AU  - La A
+AU  - Zarbock A
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06252-x
+AN  - 42632888
+UR  - https://link.springer.com/10.1186/s13054-026-06252-x
+KW  - Renal
+KW  - 2026-10
 ER  - 
 
 TY  - JOUR
