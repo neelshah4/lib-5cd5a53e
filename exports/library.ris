@@ -2250,6 +2250,20 @@ KW  - 2026-06
 ER  - 
 
 TY  - JOUR
+TI  - Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial
+AU  - Jerath A
+AU  - Slessarev M
+AU  - Martin C
+JO  - JAMA
+PY  - 2026
+DO  - 10.1001/jama.2026.18471
+AN  - 42872958
+UR  - https://jamanetwork.com/journals/jama/fullarticle/2855464
+KW  - Respiratory/ARDS
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
 TI  - Permissive Blood Pressure Targets in Pediatric Critical Care: The PRESSURE Randomized Clinical Trial
 AU  - Inwald DP
 AU  - Laing E
@@ -2262,6 +2276,48 @@ UR  - https://jamanetwork.com/journals/jama/fullarticle/2854755
 KW  - Shock & Sepsis
 KW  - 2026-W40
 KW  - 2026-10
+ER  - 
+
+TY  - JOUR
+TI  - Fluid Therapy in Mechanically Ventilated Critically Ill Adult Patients
+AU  - Blok SG
+AU  - de Grooth HJ
+AU  - Pisani L
+JO  - JAMA
+PY  - 2026
+DO  - 10.1001/jama.2026.21291
+AN  - 42872606
+UR  - https://jamanetwork.com/journals/jama/fullarticle/2855458
+KW  - Respiratory/ARDS
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
+TI  - Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury in Septic Shock: A Randomized Clinical Trial
+AU  - Chu L
+AU  - Xie G
+AU  - Shi R
+JO  - JAMA
+PY  - 2026
+DO  - 10.1001/jama.2026.21322
+AN  - 42872914
+UR  - https://jamanetwork.com/journals/jama/fullarticle/2855463
+KW  - Shock & Sepsis
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
+TI  - Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial
+AU  - Peltan ID
+AU  - Groat D
+AU  - Jacobs JR
+JO  - JAMA
+PY  - 2026
+DO  - 10.1001/jama.2026.21333
+AN  - 42872917
+UR  - https://jamanetwork.com/journals/jama/fullarticle/2855462
+KW  - Shock & Sepsis
+KW  - 2026-W42
 ER  - 
 
 TY  - JOUR
@@ -21292,6 +21348,20 @@ KW  - 2026-W36
 ER  - 
 
 TY  - JOUR
+TI  - The pulmonary circulation in ARDS: from pathophysiology to clinical applications
+AU  - Vieillard-Baron A
+AU  - Chew M
+AU  - Pinsky MR
+JO  - Intensive Care Med
+PY  - 2026
+DO  - 10.1007/s00134-026-08597-x
+AN  - 42862322
+UR  - https://link.springer.com/10.1007/s00134-026-08597-x
+KW  - Respiratory/ARDS
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
 TI  - Early mobilization for mechanical ventilation for sepsis or acute respiratory failure (EVER): a multicenter randomized controlled trial with 12-month outcomes
 AU  - Chung CR
 AU  - Hong SK
@@ -22485,6 +22555,49 @@ AN  - 42848056
 UR  - https://link.springer.com/10.1007/s00431-026-07458-5
 KW  - Respiratory/ARDS
 KW  - 2026-W41
+ER  - 
+
+TY  - JOUR
+TI  - The PVL threat: A multicenter, single-cohort retrospective study of Panton-Valentine leukocidin staphylococcal infections in critically ill children
+AU  - Portaccio I
+AU  - Bonanomi E
+AU  - Chidini G
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07495-0
+AN  - 42873304
+UR  - https://link.springer.com/article/10.1007/s00431-026-07495-0
+KW  - Shock & Sepsis
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
+TI  - Pediatric Venous Excess Ultrasound Score (P-VExUS): a novel approach to assess central venous pressure in the PICU
+AU  - Carioca FL
+AU  - Franzon NH
+AU  - Krzesinski LDS
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07515-z
+AN  - 42886274
+UR  - https://link.springer.com/article/10.1007/s00431-026-07515-z
+KW  - Shock & Sepsis
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
+TI  - Lactate-albumin ratio as an early predictor of mortality in critically ill children: A prospective cohort study
+AU  - C HP
+AU  - Kumar PA
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07525-x
+AN  - 42881277
+UR  - https://link.springer.com/article/10.1007/s00431-026-07525-x
+KW  - Misc
+KW  - 2026-W42
+KW  - borderline
+KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -24606,6 +24719,20 @@ KW  - 2026-W34
 ER  - 
 
 TY  - JOUR
+TI  - Artificial Intelligence for Early Prediction of Intracranial Hypertension: From Single-Centre Development to Multicentre Validation
+AU  - Galos P
+AU  - Hult L
+AU  - Citerio G
+JO  - Neurocrit Care
+PY  - 2026
+DO  - 10.1007/s12028-026-02633-w
+AN  - 42873412
+UR  - https://link.springer.com/article/10.1007/s12028-026-02633-w
+KW  - Neurocritical Care
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
 TI  - DexSAH: A Systematic Review and Meta-analysis of Dexmedetomidine in Aneurysmal Subarachnoid Hemorrhage
 AU  - Hrishi AP
 AU  - Palaniswamy SR
@@ -24721,6 +24848,40 @@ AN  - 42806266
 UR  - https://link.springer.com/10.1007/s12028-026-02668-z
 KW  - Neurocritical Care
 KW  - 2026-W40
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - Use of Desmopressin in Spontaneous Nontraumatic Intracerebral Hemorrhage Among Patients Taking Antiplatelet Therapy: Systematic Review and Bayesian Meta-analysis
+AU  - Lajczak P
+AU  - de Oliveira RR
+AU  - Lajczak A
+JO  - Neurocrit Care
+PY  - 2026
+DO  - 10.1007/s12028-026-02672-3
+AN  - 42864513
+UR  - https://link.springer.com/10.1007/s12028-026-02672-3
+KW  - Neurocritical Care
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
+TI  - Diagnostic and Prognostic Value of Sonographic Optic Nerve Sheath Diameter in Patients with Ischemic Stroke or Hypertensive Intracerebral Hemorrhage
+AU  - Alasar H
+AU  - Kandeel A
+AU  - Hamdi M
+AU  - Fotooh AMA
+AU  - Amin F
+AU  - Abdeltawab M
+AU  - Kenawy M
+JO  - Neurocrit Care
+PY  - 2026
+DO  - 10.1007/s12028-026-02697-8
+AN  - 42881356
+UR  - https://link.springer.com/article/10.1007/s12028-026-02697-8
+KW  - Neurocritical Care
+KW  - 2026-W42
 KW  - borderline
 KW  - section-inferred
 ER  - 
@@ -32059,6 +32220,19 @@ KW  - 2026-W41
 ER  - 
 
 TY  - JOUR
+TI  - What every intensivist should know about dynamic left ventricular outflow tract obstruction
+AU  - Rola P
+AU  - Augustin K
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155773
+AN  - 42874286
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126003515
+KW  - Shock & Sepsis
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
 TI  - STEMI: A transitional fossil in MI classification?
 AU  - Aslanger, Emre K.
 AU  - Meyers, Pendell H.
@@ -34573,6 +34747,20 @@ AN  - 42838495
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226023889
 KW  - Cardiac CC
 KW  - 2026-W41
+ER  - 
+
+TY  - JOUR
+TI  - Mechanical versus manual bag-valve ventilation during cardiopulmonary resuscitation in adults with cardiac arrest: A systematic review and Bayesian meta-analysis
+AU  - Chu YQ
+AU  - Su EH
+AU  - Li H
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111345
+AN  - 42863592
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226023920
+KW  - Cardiac CC
+KW  - 2026-W42
 ER  - 
 
 TY  - JOUR
@@ -38002,6 +38190,24 @@ AN  - 42813535
 UR  - https://www.cambridge.org/core/product/identifier/S1047951126124196/type/journal_article
 KW  - Shock & Sepsis
 KW  - 2026-W40
+ER  - 
+
+TY  - JOUR
+TI  - Predicting prolonged mechanical ventilation in neonates after cardiac surgery: development of a nomogram for risk prediction based on preoperative and intraoperative factors
+AU  - Lian J
+AU  - Zhang J
+AU  - Liang J
+AU  - Wang S
+AU  - Lu C
+JO  - Cardiol Young
+PY  - 2026
+DO  - 10.1017/s1047951126124536
+AN  - 42885529
+UR  - https://www.cambridge.org/core/product/identifier/S1047951126124536/type/journal_article
+KW  - Respiratory/ARDS
+KW  - 2026-W42
+KW  - borderline
+KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -44529,6 +44735,20 @@ KW  - 2026-10
 ER  - 
 
 TY  - JOUR
+TI  - Intermittent or Continuous Renal-Replacement Therapy in Acute Kidney Injury
+AU  - Gaudry S
+AU  - Boubaya M
+AU  - Louis G
+JO  - N Engl J Med
+PY  - 2026
+DO  - 10.1056/nejmoa2608397
+AN  - 42873070
+UR  - http://www.nejm.org/doi/10.1056/NEJMoa2608397
+KW  - Renal
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
 TI  - Xylazine — Medical and Public Health Imperatives
 AU  - Gupta, Rahul
 AU  - Holtgrave, David R.
@@ -46270,6 +46490,20 @@ AN  - 42668424
 UR  - https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag636/8772908
 KW  - Cardiac CC
 KW  - 2026-W36
+ER  - 
+
+TY  - JOUR
+TI  - Temporary mechanical circulatory support in cardiogenic shock
+AU  - Chieffo A
+AU  - Iannaccone M
+AU  - Hassager C
+JO  - Eur Heart J
+PY  - 2026
+DO  - 10.1093/eurheartj/ehag708
+AN  - 42870411
+UR  - https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag708/8914824
+KW  - Cardiac CC
+KW  - 2026-W42
 ER  - 
 
 TY  - JOUR
@@ -48513,6 +48747,20 @@ UR  - https://www.ovid.com/10.1097/CCE.0000000000001494
 KW  - Misc
 KW  - 2026-W39
 KW  - 2026-W40
+ER  - 
+
+TY  - JOUR
+TI  - Integrated Use of Extracorporeal Membrane Oxygenation and Molecular Adsorbent Recirculating System for Refractory Cardiotoxic Ingestion: A Single-Center Case Series
+AU  - Ehrhardt T
+AU  - Zalesky CC
+AU  - Shepherd A
+JO  - Crit Care Explor
+PY  - 2026
+DO  - 10.1097/cce.0000000000001499
+AN  - 42872940
+UR  - https://www.ovid.com/10.1097/CCE.0000000000001499
+KW  - ECMO
+KW  - 2026-W42
 ER  - 
 
 TY  - JOUR
@@ -51327,6 +51575,62 @@ KW  - 2026-10
 ER  - 
 
 TY  - JOUR
+TI  - Association of Oliguria With Acute Kidney Injury, Chronic Kidney Disease, and Mortality: Determining the Optimal Threshold in Critically Ill Patients
+AU  - Mossberg R
+AU  - Lipcsey M
+AU  - Marks-Hultstrom M
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007370
+AN  - 42872921
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007370
+KW  - Renal
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
+TI  - Developing Models for Complicated Outcomes in Acutely Intoxicated ICU Patients With and Without Toxicity Information
+AU  - Zwaag SM
+AU  - van Sabben N
+AU  - van den Hengel-Koot IS
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007376
+AN  - 42878613
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007376
+KW  - Misc
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
+TI  - Long-Lasting Mental Disorders in Caregivers of ICU Sepsis Survivors and Their Association With Patients' Post-Intensive Care Syndrome: A Prospective Multicenter Cohort Study
+AU  - Shirasaki K
+AU  - Liu K
+AU  - Kawauchi A
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007378
+AN  - 42872916
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007378
+KW  - Misc
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
+TI  - Weaning Strategies for High-Flow Nasal Cannula in Critically Ill Adults: A Randomized Clinical Trial
+AU  - Kim T
+AU  - Kwack WG
+AU  - Park S
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007379
+AN  - 42878628
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007379
+KW  - Respiratory/ARDS
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
 TI  - Derivation and Validation of Operational Definitions From Claims Data for Identifying Cardiogenic Shock.
 AU  - Choi KH
 AU  - Cha JH
@@ -51338,6 +51642,48 @@ AN  - 42831735
 UR  - https://www.ovid.com/10.1097/CCM.0000000000007380
 KW  - Cardiac CC
 KW  - 2026-W41
+ER  - 
+
+TY  - JOUR
+TI  - Pediatric Cardiopulmonary Resuscitation Ventilation Rates and Outcomes
+AU  - Shepard LN
+AU  - Friess SH
+AU  - Reeder RW
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007381
+AN  - 42872941
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007381
+KW  - Cardiac CC
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
+TI  - Ventilatory Management in Neurocritical Versus Non-Neurocritical Care Patients: A Pooled Analysis From the PRIME Database
+AU  - Serafini SC
+AU  - Cinotti R
+AU  - Asehnoune K
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007385
+AN  - 42878609
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007385
+KW  - Respiratory/ARDS
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
+TI  - Open Visiting Policy and Delirium in Adult Patients in ICUs: A Systematic Review and Meta-Analysis of Randomized Clinical Trials
+AU  - Sella N
+AU  - Pettenuzzo T
+AU  - Bruni A
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007393
+AN  - 42878614
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007393
+KW  - Misc
+KW  - 2026-W42
 ER  - 
 
 TY  - JOUR
@@ -52996,6 +53342,20 @@ KW  - 2026-W39
 ER  - 
 
 TY  - JOUR
+TI  - Forty-Eight Hour Lactate Normalization Predicts Favorable Neurologic Recovery and Survival in Venoarterial ECMO for Cardiogenic Shock
+AU  - Park GT
+AU  - Park IH
+AU  - Yang JH
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002869
+AN  - 42864741
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002869
+KW  - ECMO
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
 TI  - Letter to the Editor: Cardiopulmonary Outcomes After Venovenous Extracorporeal Membrane Oxygenation in Acute Respiratory Distress Syndrome.
 AU  - Song C
 AU  - Ren X
@@ -53007,6 +53367,34 @@ AN  - 42830435
 UR  - https://www.ovid.com/10.1097/MAT.0000000000002870
 KW  - ECMO
 KW  - 2026-W41
+ER  - 
+
+TY  - JOUR
+TI  - Microcirculatory Hemodynamic Changes on Full Support Microaxial Flow Pump in Cardiogenic Shock
+AU  - Schurr JW
+AU  - Niculcea J
+AU  - Shah T
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002879
+AN  - 42879791
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002879
+KW  - Cardiac CC
+KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
+TI  - Computed Tomography-Derived Psoas Muscle Quantity, Attenuation, and 1 Year Mortality in Venovenous Extracorporeal Membrane Oxygenation
+AU  - Jang JH
+AU  - Choi E
+AU  - Cho WH
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002883
+AN  - 42870337
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002883
+KW  - ECMO
+KW  - 2026-W42
 ER  - 
 
 TY  - JOUR
@@ -86317,6 +86705,20 @@ AN  - 42479996
 UR  - https://www.neurology.org/doi/10.1212/WNL.0000000000218281
 KW  - Neurocritical Care
 KW  - 2026-W31
+ER  - 
+
+TY  - JOUR
+TI  - Diagnostic Yield and Therapeutic Impact of Etiologic Investigations After Status Epilepticus: Insights From the ICTAL Registry
+AU  - Repplinger S
+AU  - Chelly J
+AU  - Lesieur O
+JO  - Neurology
+PY  - 2026
+DO  - 10.1212/wnl.0000000000218544
+AN  - 42766827
+UR  - https://www.neurology.org/doi/10.1212/WNL.0000000000218544
+KW  - Neurocritical Care
+KW  - 2026-W42
 ER  - 
 
 TY  - JOUR

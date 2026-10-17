@@ -3509,6 +3509,37 @@
   "url": "https://jamanetwork.com/journals/jama/fullarticle/2850559"
  },
  {
+  "doi": "10.1001/jama.2026.18471",
+  "pmid": "42872958",
+  "title": "Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial",
+  "authors": [
+   "Jerath A",
+   "Slessarev M",
+   "Martin C"
+  ],
+  "journal": "JAMA",
+  "year": 2026,
+  "pub_date": "2026-10-14",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [],
+  "take": "Pragmatic, open-label, superiority RCT in 14 Canadian ICUs; 780 of 786 randomized patients were analyzed. Hospital mortality was 42.5% with inhaled isoflurane sedation vs 43.8% with intravenous sedation (RR 0.98, 95% CI 0.84-1.14). Ventilator-free days were similar; the isoflurane group received more adjunctive hypoxemia therapies and had fewer delirium- and coma-free days (difference -0.95 days, -1.69 to -0.22).",
+  "impact": "null for the primary outcome; no mortality benefit from an inhaled sedation strategy in ahrf",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://jamanetwork.com/journals/jama/fullarticle/2855464"
+ },
+ {
   "doi": "10.1001/jama.2026.19747",
   "pmid": "42806496",
   "title": "Permissive Blood Pressure Targets in Pediatric Critical Care: The PRESSURE Randomized Clinical Trial",
@@ -3539,6 +3570,99 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://jamanetwork.com/journals/jama/fullarticle/2854755"
+ },
+ {
+  "doi": "10.1001/jama.2026.21291",
+  "pmid": "42872606",
+  "title": "Fluid Therapy in Mechanically Ventilated Critically Ill Adult Patients",
+  "authors": [
+   "Blok SG",
+   "de Grooth HJ",
+   "Pisani L"
+  ],
+  "journal": "JAMA",
+  "year": 2026,
+  "pub_date": "2026-10-14",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [],
+  "take": "PRoFLUID: international prospective observational cohort, 206 ICUs in 41 countries, 2,454 ventilated adults. Maintenance/replacement fluids (31.9%) and creep fluids (30.9%) accounted for most volume; resuscitation fluids were 16.0%. Balanced crystalloids were 48.9% and saline 27.0%. Between-site variation persisted after case-mix adjustment.",
+  "impact": "descriptive; characterizes practice variation and the volume contributed by non-resuscitation fluids",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://jamanetwork.com/journals/jama/fullarticle/2855458"
+ },
+ {
+  "doi": "10.1001/jama.2026.21322",
+  "pmid": "42872914",
+  "title": "Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury in Septic Shock: A Randomized Clinical Trial",
+  "authors": [
+   "Chu L",
+   "Xie G",
+   "Shi R"
+  ],
+  "journal": "JAMA",
+  "year": 2026,
+  "pub_date": "2026-10-14",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Shock & Sepsis",
+  "subtopic": null,
+  "tags": [],
+  "take": "Open-label RCT in 39 Chinese tertiary hospitals; 584 adults with septic shock undergoing surgical source control. New or worsening KDIGO AKI within 7 days occurred in 22.8% with dobutamine plus norepinephrine vs 34.7% with norepinephrine alone (ARR 0.64, 95% CI 0.49-0.83). Tachycardia was more frequent with dobutamine; 9 of 11 secondary outcomes did not differ.",
+  "impact": "hypothesis-generating for practice change",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://jamanetwork.com/journals/jama/fullarticle/2855463"
+ },
+ {
+  "doi": "10.1001/jama.2026.21333",
+  "pmid": "42872917",
+  "title": "Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial",
+  "authors": [
+   "Peltan ID",
+   "Groat D",
+   "Jacobs JR"
+  ],
+  "journal": "JAMA",
+  "year": 2026,
+  "pub_date": "2026-10-14",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Shock & Sepsis",
+  "subtopic": null,
+  "tags": [],
+  "take": "Cluster-randomized, cluster-crossover pragmatic trial across 13 hospitals in Idaho and Utah; 3,959 patients with septic shock. Vasopressin at a 0.1 vs 0.4 ug/kg/min norepinephrine-equivalent threshold gave 28-day mortality of 31.8% vs 33.0% (adjusted marginal OR 0.98, 95% CI 0.87-1.06). Kidney replacement therapy-free days did not differ.",
+  "impact": "null; earlier vasopressin initiation did not reduce 28-day mortality",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://jamanetwork.com/journals/jama/fullarticle/2855462"
  },
  {
   "doi": "10.1001/jama.2026.2567",
@@ -32260,6 +32384,37 @@
   "url": "https://link.springer.com/10.1007/s00134-026-08595-z"
  },
  {
+  "doi": "10.1007/s00134-026-08597-x",
+  "pmid": "42862322",
+  "title": "The pulmonary circulation in ARDS: from pathophysiology to clinical applications",
+  "authors": [
+   "Vieillard-Baron A",
+   "Chew M",
+   "Pinsky MR"
+  ],
+  "journal": "Intensive Care Med",
+  "year": 2026,
+  "pub_date": "2026-10-12",
+  "pub_types": [
+   "Editorial"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [],
+  "take": "Editorial; PubMed carries no abstract. Admitted as a Tier 1 editorial on ARDS physiology; no summary beyond the title is possible.",
+  "impact": "not assessable (no abstract)",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": false,
+  "url": "https://link.springer.com/10.1007/s00134-026-08597-x"
+ },
+ {
   "doi": "10.1007/s00134-026-08598-w",
   "pmid": "42645557",
   "title": "Early mobilization for mechanical ventilation for sepsis or acute respiratory failure (EVER): a multicenter randomized controlled trial with 12-month outcomes",
@@ -34481,6 +34636,101 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://link.springer.com/10.1007/s00431-026-07458-5"
+ },
+ {
+  "doi": "10.1007/s00431-026-07495-0",
+  "pmid": "42873304",
+  "title": "The PVL threat: A multicenter, single-cohort retrospective study of Panton-Valentine leukocidin staphylococcal infections in critically ill children",
+  "authors": [
+   "Portaccio I",
+   "Bonanomi E",
+   "Chidini G"
+  ],
+  "journal": "Eur J Pediatr",
+  "year": 2026,
+  "pub_date": "2026-10-14",
+  "pub_types": [
+   "Journal Article; Multicenter Study"
+  ],
+  "section": "Shock & Sepsis",
+  "subtopic": null,
+  "tags": [],
+  "take": "Retrospective study of 44 children with PVL-producing S. aureus admitted to NICUs/PICUs at 13 Italian centers (2022-2025). Necrotizing pneumonia predominated; 41% had ARDS, 34% septic shock, and 9% received ECMO. Median PICU stay was 17 days; mortality 5%. Septic shock was associated with prolonged stay (OR 7.2, 95% CI 1.5-49.3); methicillin resistance was not. Authors label predictors exploratory.",
+  "impact": "hypothesis-generating; small exploratory cohort",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://link.springer.com/article/10.1007/s00431-026-07495-0"
+ },
+ {
+  "doi": "10.1007/s00431-026-07515-z",
+  "pmid": "42886274",
+  "title": "Pediatric Venous Excess Ultrasound Score (P-VExUS): a novel approach to assess central venous pressure in the PICU",
+  "authors": [
+   "Carioca FL",
+   "Franzon NH",
+   "Krzesinski LDS"
+  ],
+  "journal": "Eur J Pediatr",
+  "year": 2026,
+  "pub_date": "2026-10-16",
+  "pub_types": [
+   "Journal Article; Observational Study"
+  ],
+  "section": "Shock & Sepsis",
+  "subtopic": null,
+  "tags": [],
+  "take": "Prospective single-center study of 56 mechanically ventilated children with bedside venous Doppler (IVC, hepatic, portal, intrarenal veins). A point-based 0-7 model predicted CVP above 12 mmHg with AUROC 0.94 (95% CI 0.84-0.98; sensitivity 82%, specificity 91%), outperforming a categorical grade (AUROC 0.74). Intrarenal vein patterns had the highest single-component discrimination (AUROC 0.92).",
+  "impact": "hypothesis-generating; single-center derivation without external validation",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://link.springer.com/article/10.1007/s00431-026-07515-z"
+ },
+ {
+  "doi": "10.1007/s00431-026-07525-x",
+  "pmid": "42881277",
+  "title": "Lactate-albumin ratio as an early predictor of mortality in critically ill children: A prospective cohort study",
+  "authors": [
+   "C HP",
+   "Kumar PA"
+  ],
+  "journal": "Eur J Pediatr",
+  "year": 2026,
+  "pub_date": "2026-10-16",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Misc",
+  "subtopic": null,
+  "tags": [
+   "borderline",
+   "section-inferred"
+  ],
+  "take": "",
+  "impact": null,
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://link.springer.com/article/10.1007/s00431-026-07525-x"
  },
  {
   "doi": "10.1007/s00467-021-05180-y",
@@ -38226,6 +38476,37 @@
   "url": "https://link.springer.com/10.1007/s12028-026-02615-y"
  },
  {
+  "doi": "10.1007/s12028-026-02633-w",
+  "pmid": "42873412",
+  "title": "Artificial Intelligence for Early Prediction of Intracranial Hypertension: From Single-Centre Development to Multicentre Validation",
+  "authors": [
+   "Galos P",
+   "Hult L",
+   "Citerio G"
+  ],
+  "journal": "Neurocrit Care",
+  "year": 2026,
+  "pub_date": "2026-10-14",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Neurocritical Care",
+  "subtopic": null,
+  "tags": [],
+  "take": "External validation of an XGBoost model predicting ICP insults within 30 min from minute-level ICP and arterial pressure over a 4 h window. Uppsala (n=602) to CENTER-TBI (n=255): AUROC 97.4%, sensitivity 93.8%, specificity 98.6%. Reverse direction: AUROC 96.1%, sensitivity 81.2%. The authors call for local evaluation before clinical use.",
+  "impact": "hypothesis-generating; retrospective external validation, no prospective impact testing",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://link.springer.com/article/10.1007/s12028-026-02633-w"
+ },
+ {
   "doi": "10.1007/s12028-026-02644-7",
   "pmid": "42711630",
   "title": "DexSAH: A Systematic Review and Meta-analysis of Dexmedetomidine in Aneurysmal Subarachnoid Hemorrhage",
@@ -38465,6 +38746,75 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://link.springer.com/10.1007/s12028-026-02668-z"
+ },
+ {
+  "doi": "10.1007/s12028-026-02672-3",
+  "pmid": "42864513",
+  "title": "Use of Desmopressin in Spontaneous Nontraumatic Intracerebral Hemorrhage Among Patients Taking Antiplatelet Therapy: Systematic Review and Bayesian Meta-analysis",
+  "authors": [
+   "Lajczak P",
+   "de Oliveira RR",
+   "Lajczak A"
+  ],
+  "journal": "Neurocrit Care",
+  "year": 2026,
+  "pub_date": "2026-10-12",
+  "pub_types": [
+   "Journal Article; Review"
+  ],
+  "section": "Neurocritical Care",
+  "subtopic": null,
+  "tags": [],
+  "take": "Seven studies comparing desmopressin with control in antiplatelet-associated ICH. No difference in mortality (OR 1.23, 95% CrI 0.79-1.91) or good functional outcome (OR 0.66, 0.34-1.31). Posterior distributions suggested a possible increase in thromboembolic complications and poor neurologic outcome.",
+  "impact": "null for benefit with a harm signal; the authors find no well-supported recommendation to give desmopressin in this setting",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://link.springer.com/10.1007/s12028-026-02672-3"
+ },
+ {
+  "doi": "10.1007/s12028-026-02697-8",
+  "pmid": "42881356",
+  "title": "Diagnostic and Prognostic Value of Sonographic Optic Nerve Sheath Diameter in Patients with Ischemic Stroke or Hypertensive Intracerebral Hemorrhage",
+  "authors": [
+   "Alasar H",
+   "Kandeel A",
+   "Hamdi M",
+   "Fotooh AMA",
+   "Amin F",
+   "Abdeltawab M",
+   "Kenawy M"
+  ],
+  "journal": "Neurocrit Care",
+  "year": 2026,
+  "pub_date": "2026-10-15",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Neurocritical Care",
+  "subtopic": null,
+  "tags": [
+   "borderline",
+   "section-inferred"
+  ],
+  "take": "",
+  "impact": null,
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://link.springer.com/article/10.1007/s12028-026-02697-8"
  },
  {
   "doi": "10.1007/s12072-021-10164-z",
@@ -51708,6 +52058,36 @@
   "url": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126003473"
  },
  {
+  "doi": "10.1016/j.jcrc.2026.155773",
+  "pmid": "42874286",
+  "title": "What every intensivist should know about dynamic left ventricular outflow tract obstruction",
+  "authors": [
+   "Rola P",
+   "Augustin K"
+  ],
+  "journal": "J Crit Care",
+  "year": 2026,
+  "pub_date": "2027-02-01",
+  "pub_types": [
+   "Journal Article; Review"
+  ],
+  "section": "Shock & Sepsis",
+  "subtopic": null,
+  "tags": [],
+  "take": "Narrative review of dynamic LVOTO as a load-dependent, often iatrogenic cause of shock in the ICU (septic shock, hypovolemia, postoperative states, RV failure). Inotropes and afterload reduction may worsen obstruction. Diagnosis rests on bedside echocardiography; management restores preload, raises afterload, and limits contractility.",
+  "impact": "educational; narrative review, no new data",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126003515"
+ },
+ {
   "doi": "10.1016/j.jelectrocard.2021.02.001",
   "pmid": null,
   "title": "STEMI: A transitional fossil in MI classification?",
@@ -56295,6 +56675,37 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://linkinghub.elsevier.com/retrieve/pii/S0300957226023889"
+ },
+ {
+  "doi": "10.1016/j.resuscitation.2026.111345",
+  "pmid": "42863592",
+  "title": "Mechanical versus manual bag-valve ventilation during cardiopulmonary resuscitation in adults with cardiac arrest: A systematic review and Bayesian meta-analysis",
+  "authors": [
+   "Chu YQ",
+   "Su EH",
+   "Li H"
+  ],
+  "journal": "Resuscitation",
+  "year": 2026,
+  "pub_date": "2026-10-01",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Cardiac CC",
+  "subtopic": null,
+  "tags": [],
+  "take": "Eight studies, 6,847 patients. Mechanical ventilation during CPR was associated with higher ROSC (pooled RR 1.20, 95% CrI 1.04-1.42; 99% posterior probability of benefit). Posterior probabilities for survival to admission, discharge, and favorable neurologic outcome were 92.3%, 93.6%, and 92.2%. Pneumothorax was similar.",
+  "impact": "hypothesis-generating; current guidelines do not recommend mechanical over manual ventilation, and the survival and neurologic evidence remains imprecise",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0300957226023920"
  },
  {
   "doi": "10.1016/j.resuscitation.2026.111346",
@@ -61550,6 +61961,42 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://www.cambridge.org/core/product/identifier/S1047951126124196/type/journal_article"
+ },
+ {
+  "doi": "10.1017/s1047951126124536",
+  "pmid": "42885529",
+  "title": "Predicting prolonged mechanical ventilation in neonates after cardiac surgery: development of a nomogram for risk prediction based on preoperative and intraoperative factors",
+  "authors": [
+   "Lian J",
+   "Zhang J",
+   "Liang J",
+   "Wang S",
+   "Lu C"
+  ],
+  "journal": "Cardiol Young",
+  "year": 2026,
+  "pub_date": "2026-10-16",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [
+   "borderline",
+   "section-inferred"
+  ],
+  "take": "",
+  "impact": null,
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.cambridge.org/core/product/identifier/S1047951126124536/type/journal_article"
  },
  {
   "doi": "10.1021/acs.analchem.8b04313.s001",
@@ -71468,6 +71915,37 @@
   "url": "http://www.nejm.org/doi/10.1056/NEJMoa2608012"
  },
  {
+  "doi": "10.1056/nejmoa2608397",
+  "pmid": "42873070",
+  "title": "Intermittent or Continuous Renal-Replacement Therapy in Acute Kidney Injury",
+  "authors": [
+   "Gaudry S",
+   "Boubaya M",
+   "Louis G"
+  ],
+  "journal": "N Engl J Med",
+  "year": 2026,
+  "pub_date": "2026-10-14",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Renal",
+  "subtopic": null,
+  "tags": [],
+  "take": "ICRAKI: multicenter, open-label noninferiority RCT (NCT06032884) in critically ill adults with AKI and RRT indications; stopped early for a mortality signal. In 535 ITT patients, MAKE90 was 78.1% with intermittent hemodialysis vs 71.6% with CRRT (adjusted ARD 6.28 points, 95% CI -1.22 to 13.79); intermittent HD was not shown noninferior. Day-90 death was 63.1% vs 53.5% (HR 1.30, 1.04-1.63).",
+  "impact": "potentially practice-informing but not flagged: the relative mortality difference is below the 25% rule threshold and the primary-outcome interval includes the null",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "http://www.nejm.org/doi/10.1056/NEJMoa2608397"
+ },
+ {
   "doi": "10.1056/nejmp2303120",
   "pmid": null,
   "title": "Xylazine — Medical and Public Health Imperatives",
@@ -74312,6 +74790,37 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag636/8772908"
+ },
+ {
+  "doi": "10.1093/eurheartj/ehag708",
+  "pmid": "42870411",
+  "title": "Temporary mechanical circulatory support in cardiogenic shock",
+  "authors": [
+   "Chieffo A",
+   "Iannaccone M",
+   "Hassager C"
+  ],
+  "journal": "Eur Heart J",
+  "year": 2026,
+  "pub_date": "2026-10-14",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Cardiac CC",
+  "subtopic": null,
+  "tags": [],
+  "take": "Clinical consensus statement from EAPCI and ACVC of the ESC updating the 2020 expert consensus. It places phenotype-driven selection (SCAI and SHARC classifications), shock teams, hub-and-spoke systems, and structured escalation and futility protocols at the center. The abstract cites one recent RCT of a percutaneous microaxial pump in STEMI-related cardiogenic shock and notes that routine VA-ECMO in AMI-complicated shock has not improved survival.",
+  "impact": "consensus guidance; the abstract does not state a graded recommendation change, so it is not flagged practice-changing",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag708/8914824"
  },
  {
   "doi": "10.1093/eurheartj/ehv194",
@@ -78606,6 +79115,37 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://www.ovid.com/10.1097/CCE.0000000000001494"
+ },
+ {
+  "doi": "10.1097/cce.0000000000001499",
+  "pmid": "42872940",
+  "title": "Integrated Use of Extracorporeal Membrane Oxygenation and Molecular Adsorbent Recirculating System for Refractory Cardiotoxic Ingestion: A Single-Center Case Series",
+  "authors": [
+   "Ehrhardt T",
+   "Zalesky CC",
+   "Shepherd A"
+  ],
+  "journal": "Crit Care Explor",
+  "year": 2026,
+  "pub_date": "2026-10-01",
+  "pub_types": [
+   "Journal Article; Case Reports"
+  ],
+  "section": "ECMO",
+  "subtopic": null,
+  "tags": [],
+  "take": "Five consecutive patients with calcium-channel blocker or beta-blocker poisoning managed through a regional transfer pathway. All received MARS; two needed VV ECMO for refractory hypoxemia. Four survived to discharge. Complications included CRRT filter clotting and catheter-associated thrombosis. PubMed lists an electronic date of 2026 Oct 01.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/CCE.0000000000001499"
  },
  {
   "doi": "10.1097/ccm.0000000000000192",
@@ -83639,6 +84179,130 @@
   "url": "https://www.ovid.com/10.1097/CCM.0000000000007364"
  },
  {
+  "doi": "10.1097/ccm.0000000000007370",
+  "pmid": "42872921",
+  "title": "Association of Oliguria With Acute Kidney Injury, Chronic Kidney Disease, and Mortality: Determining the Optimal Threshold in Critically Ill Patients",
+  "authors": [
+   "Mossberg R",
+   "Lipcsey M",
+   "Marks-Hultstrom M"
+  ],
+  "journal": "Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-10-14",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Renal",
+  "subtopic": null,
+  "tags": [],
+  "take": "Single-center retrospective cohort of 4,999 adult ICU patients without preexisting CKD (Uppsala, 2017-2024). Lowest mean diuresis thresholds associated with outcomes were 0.41-0.53 mL/kg/h for AKI, 0.21-0.43 for incident CKD, and 0.16-0.39 for 90-day mortality across 3-24 h windows. Mortality and CKD risk rose at urine output below the current 0.5 mL/kg/h AKI definition.",
+  "impact": "hypothesis-generating for future aki definitions; single-center and retrospective",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/CCM.0000000000007370"
+ },
+ {
+  "doi": "10.1097/ccm.0000000000007376",
+  "pmid": "42878613",
+  "title": "Developing Models for Complicated Outcomes in Acutely Intoxicated ICU Patients With and Without Toxicity Information",
+  "authors": [
+   "Zwaag SM",
+   "van Sabben N",
+   "van den Hengel-Koot IS"
+  ],
+  "journal": "Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-10-15",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Misc",
+  "subtopic": null,
+  "tags": [],
+  "take": "Multicenter prospective cohort across 78 ICUs; 2,265 adults with acute intoxication. ICU complications or death occurred in 22.5%. Two prediction models (laboratory-based and exposure-based using a mean Lethality Risk Score) had internal-validation AUROCs of 0.79 and 0.77 with good calibration. The mean LRS added value only when laboratory results were absent.",
+  "impact": "hypothesis-generating; internal validation only",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/CCM.0000000000007376"
+ },
+ {
+  "doi": "10.1097/ccm.0000000000007378",
+  "pmid": "42872916",
+  "title": "Long-Lasting Mental Disorders in Caregivers of ICU Sepsis Survivors and Their Association With Patients' Post-Intensive Care Syndrome: A Prospective Multicenter Cohort Study",
+  "authors": [
+   "Shirasaki K",
+   "Liu K",
+   "Kawauchi A"
+  ],
+  "journal": "Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-10-14",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Misc",
+  "subtopic": null,
+  "tags": [],
+  "take": "Prospective cohort in 21 mixed ICUs; 94 caregiver-patient dyads followed 3, 6, and 12 months. Mental PICS-F prevalence was 43% at 3 months and 42% at 12 months. Patient PICS was associated with caregiver PICS-F (adjusted OR 3.00, 95% CI 1.54-5.88), driven by patients' mental PICS domain (OR 3.71, 2.03-6.77).",
+  "impact": "hypothesis-generating; small sample, associational",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/CCM.0000000000007378"
+ },
+ {
+  "doi": "10.1097/ccm.0000000000007379",
+  "pmid": "42878628",
+  "title": "Weaning Strategies for High-Flow Nasal Cannula in Critically Ill Adults: A Randomized Clinical Trial",
+  "authors": [
+   "Kim T",
+   "Kwack WG",
+   "Park S"
+  ],
+  "journal": "Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-10-15",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [],
+  "take": "Multicenter RCT (SLOWH) across three tertiary hospitals; 87 of 102 enrolled adults completed. Weaning success was 94% (flow reduction first), 81% (FiO2 reduction first), and 77% (simultaneous), p=0.15. Weaning duration did not differ (p=0.87).",
+  "impact": "null and underpowered; no hfnc weaning sequence was shown superior",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/CCM.0000000000007379"
+ },
+ {
   "doi": "10.1097/ccm.0000000000007380",
   "pmid": "42831735",
   "title": "Derivation and Validation of Operational Definitions From Claims Data for Identifying Cardiogenic Shock.",
@@ -83668,6 +84332,99 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://www.ovid.com/10.1097/CCM.0000000000007380"
+ },
+ {
+  "doi": "10.1097/ccm.0000000000007381",
+  "pmid": "42872941",
+  "title": "Pediatric Cardiopulmonary Resuscitation Ventilation Rates and Outcomes",
+  "authors": [
+   "Shepard LN",
+   "Friess SH",
+   "Reeder RW"
+  ],
+  "journal": "Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-10-14",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Cardiac CC",
+  "subtopic": null,
+  "tags": [],
+  "take": "Ancillary prospective cohort of ICU-RESUS (NCT02837497): 234 in-hospital pediatric arrest events in 18 ICUs. Only 36.8% had guideline-range ventilation rates (20-30/min). Guideline-range rates were not associated with survival to discharge (aRR 0.95, 95% CI 0.75-1.21). In exploratory analysis, rates of 26/min or more in children under 8 years were associated with survival (aRR 1.32, 1.00-1.73).",
+  "impact": "hypothesis-generating; the age-stratified threshold is exploratory and needs confirmation",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/CCM.0000000000007381"
+ },
+ {
+  "doi": "10.1097/ccm.0000000000007385",
+  "pmid": "42878609",
+  "title": "Ventilatory Management in Neurocritical Versus Non-Neurocritical Care Patients: A Pooled Analysis From the PRIME Database",
+  "authors": [
+   "Serafini SC",
+   "Cinotti R",
+   "Asehnoune K"
+  ],
+  "journal": "Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-10-15",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [],
+  "take": "Post hoc pooled individual-patient analysis of three prospective observational studies (PRoVENT, PRoVENT-iMiC, ENIO); 3,848 patients, 1,702 neurocritical. Neurocritical patients received lower Vt, PEEP, FiO2, driving pressure, and mechanical power. ARDS was diagnosed more often (8.7% vs 3.9%) with lower ICU mortality (14.3% vs 22.8%). Within the neurocritical group, Vt per predicted body weight was independently associated with ARDS development.",
+  "impact": "hypothesis-generating; observational, post hoc",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/CCM.0000000000007385"
+ },
+ {
+  "doi": "10.1097/ccm.0000000000007393",
+  "pmid": "42878614",
+  "title": "Open Visiting Policy and Delirium in Adult Patients in ICUs: A Systematic Review and Meta-Analysis of Randomized Clinical Trials",
+  "authors": [
+   "Sella N",
+   "Pettenuzzo T",
+   "Bruni A"
+  ],
+  "journal": "Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-10-15",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Misc",
+  "subtopic": null,
+  "tags": [],
+  "take": "Thirteen RCTs, 3,861 patients. Open or flexible family presence was associated with less delirium (RR 0.48, 95% CI 0.29-0.81; low certainty) and shorter invasive ventilation (MD -0.36 d, -0.46 to -0.26; low certainty). ICU length of stay, hospital-acquired infection, and ICU mortality did not differ.",
+  "impact": "supportive of open visiting; certainty is low and heterogeneity substantial",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/CCM.0000000000007393"
  },
  {
   "doi": "10.1097/ccm.0b013e3181c65a12",
@@ -86845,6 +87602,37 @@
   "url": "https://www.ovid.com/10.1097/MAT.0000000000002867"
  },
  {
+  "doi": "10.1097/mat.0000000000002869",
+  "pmid": "42864741",
+  "title": "Forty-Eight Hour Lactate Normalization Predicts Favorable Neurologic Recovery and Survival in Venoarterial ECMO for Cardiogenic Shock",
+  "authors": [
+   "Park GT",
+   "Park IH",
+   "Yang JH"
+  ],
+  "journal": "ASAIO J",
+  "year": 2026,
+  "pub_date": "2026-10-13",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "ECMO",
+  "subtopic": null,
+  "tags": [],
+  "take": "Retrospective analysis of 662 patients from the multicenter RESCUE II registry who stayed on VA-ECMO at least 48 h. Lactate below 2.0 mmol/L at 48 h (n=371) was associated with favorable neurologic discharge (71.4% vs 41.9%; adjusted OR 3.12, 95% CI 2.21-4.41) and lower 12-month all-cause death (HR 0.49, 0.38-0.64).",
+  "impact": "confirmatory prognostic signal; observational and associational, no intervention tested",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/MAT.0000000000002869"
+ },
+ {
   "doi": "10.1097/mat.0000000000002870",
   "pmid": "42830435",
   "title": "Letter to the Editor: Cardiopulmonary Outcomes After Venovenous Extracorporeal Membrane Oxygenation in Acute Respiratory Distress Syndrome.",
@@ -86874,6 +87662,68 @@
   "oa": false,
   "has_abstract": false,
   "url": "https://www.ovid.com/10.1097/MAT.0000000000002870"
+ },
+ {
+  "doi": "10.1097/mat.0000000000002879",
+  "pmid": "42879791",
+  "title": "Microcirculatory Hemodynamic Changes on Full Support Microaxial Flow Pump in Cardiogenic Shock",
+  "authors": [
+   "Schurr JW",
+   "Niculcea J",
+   "Shah T"
+  ],
+  "journal": "ASAIO J",
+  "year": 2026,
+  "pub_date": "2026-10-15",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Cardiac CC",
+  "subtopic": null,
+  "tags": [],
+  "take": "Prospective single-arm study of sublingual videomicroscopy in 18 patients with cardiogenic shock receiving Impella 5.5. Microvascular flow index (p=0.004) and proportion of perfused vessels (p=0.003) improved on support, most in patients with impaired baseline microcirculation. Device effect could not be separated from overall clinical improvement.",
+  "impact": "hypothesis-generating; authors describe the findings as exploratory",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/MAT.0000000000002879"
+ },
+ {
+  "doi": "10.1097/mat.0000000000002883",
+  "pmid": "42870337",
+  "title": "Computed Tomography-Derived Psoas Muscle Quantity, Attenuation, and 1 Year Mortality in Venovenous Extracorporeal Membrane Oxygenation",
+  "authors": [
+   "Jang JH",
+   "Choi E",
+   "Cho WH"
+  ],
+  "journal": "ASAIO J",
+  "year": 2026,
+  "pub_date": "2026-10-14",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "ECMO",
+  "subtopic": null,
+  "tags": [],
+  "take": "Single-center retrospective study of 92 adults on VV ECMO for severe respiratory failure with abdominal CT within 48 h before cannulation. Psoas muscle index (PMI) and attenuation came from an artificial intelligence-based pipeline. One-year mortality was 57.6%. Higher PMI (aHR 0.58 per SD; 95% CI 0.41-0.82) and higher attenuation (aHR 0.87 per 5 HU; 0.77-0.97) were associated with lower mortality; only PMI stayed significant in the joint model. The low PMI/low attenuation phenotype carried aHR 5.30 (2.10-13.34).",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/MAT.0000000000002883"
  },
  {
   "doi": "10.1097/mcc.0000000000000774",
@@ -143355,6 +144205,37 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000218281"
+ },
+ {
+  "doi": "10.1212/wnl.0000000000218544",
+  "pmid": "42766827",
+  "title": "Diagnostic Yield and Therapeutic Impact of Etiologic Investigations After Status Epilepticus: Insights From the ICTAL Registry",
+  "authors": [
+   "Repplinger S",
+   "Chelly J",
+   "Lesieur O"
+  ],
+  "journal": "Neurology",
+  "year": 2026,
+  "pub_date": "2026-10-13",
+  "pub_types": [
+   "Journal Article; Multicenter Study"
+  ],
+  "section": "Neurocritical Care",
+  "subtopic": null,
+  "tags": [],
+  "take": "Prospective multicenter cohort in 26 French ICUs; 1,123 adults with status epilepticus. Within high-pretest-probability strata, first-line tests confirmed the suspected etiology in 8.5%-44.5% and reclassified it in 22.1%-35.1%. Brain MRI most often changed management (up to 58.3%), then brain CT (up to 56.9%) and lumbar puncture (39.4%).",
+  "impact": "supports pretest-probability-stratified etiologic workup; observational",
+  "digests": [
+   "2026-W42"
+  ],
+  "first_seen": "2026-10-17",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000218544"
  },
  {
   "doi": "10.1212/wnl.0000000000218565",
