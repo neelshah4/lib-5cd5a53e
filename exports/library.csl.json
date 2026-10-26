@@ -6054,6 +6054,33 @@
   "keyword": "Respiratory/ARDS; 2026-06"
  },
  {
+  "id": "10.1001/jama.2026.14201",
+  "type": "article-journal",
+  "title": "Oxygen vs Air at Birth for Moderate- to Late-Preterm Infants: The AIROPLANE Cluster Randomized Crossover Trial",
+  "author": [
+   {
+    "family": "Peart SR"
+   },
+   {
+    "family": "Manley BJ"
+   },
+   {
+    "family": "Cheong JLY"
+   }
+  ],
+  "container-title": "JAMA",
+  "DOI": "10.1001/jama.2026.14201",
+  "URL": "https://jamanetwork.com/journals/jama/fullarticle/2853874",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W43"
+ },
+ {
   "id": "10.1001/jama.2026.18471",
   "type": "article-journal",
   "title": "Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial",
@@ -6079,6 +6106,33 @@
    ]
   },
   "keyword": "Respiratory/ARDS; 2026-W42"
+ },
+ {
+  "id": "10.1001/jama.2026.18574",
+  "type": "article-journal",
+  "title": "Individualized Cardiac Index-Guided Hemodynamic Therapy in High-Risk Patients Undergoing Elective Major Abdominal Surgery: The PELICAN Randomized Clinical Trial",
+  "author": [
+   {
+    "family": "Saugel B"
+   },
+   {
+    "family": "Meidert AS"
+   },
+   {
+    "family": "Meyhoff CS"
+   }
+  ],
+  "container-title": "JAMA",
+  "DOI": "10.1001/jama.2026.18574",
+  "URL": "https://jamanetwork.com/journals/jama/fullarticle/2855713",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-W43"
  },
  {
   "id": "10.1001/jama.2026.19747",
@@ -67042,6 +67096,33 @@
   "keyword": "Misc; 2026-W42; borderline; section-inferred"
  },
  {
+  "id": "10.1007/s00431-026-07544-8",
+  "type": "article-journal",
+  "title": "Immediate vs delayed extubation after pediatric liver transplantation: a systematic review and meta-analysis",
+  "author": [
+   {
+    "family": "Daverio M"
+   },
+   {
+    "family": "Laucaityte G"
+   },
+   {
+    "family": "Goldstein MA"
+   }
+  ],
+  "container-title": "Eur J Pediatr",
+  "DOI": "10.1007/s00431-026-07544-8",
+  "URL": "https://link.springer.com/article/10.1007/s00431-026-07544-8",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W43"
+ },
+ {
   "id": "10.1007/s00467-021-05180-y",
   "type": "article-journal",
   "title": "Survival of infants treated with CKRT: comparing adapted adult platforms with the Carpediem™",
@@ -72673,6 +72754,60 @@
    ]
   },
   "keyword": "Neurocritical Care; 2026-W42"
+ },
+ {
+  "id": "10.1007/s12028-026-02675-0",
+  "type": "article-journal",
+  "title": "Intracranial EEG for Detecting Epileptic Activity in Acute Brain Injury: A Systematic Review and Meta-analysis",
+  "author": [
+   {
+    "family": "Smeijers S"
+   },
+   {
+    "family": "Segreti M"
+   },
+   {
+    "family": "Gijs J"
+   }
+  ],
+  "container-title": "Neurocrit Care",
+  "DOI": "10.1007/s12028-026-02675-0",
+  "URL": "https://link.springer.com/article/10.1007/s12028-026-02675-0",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W43"
+ },
+ {
+  "id": "10.1007/s12028-026-02683-0",
+  "type": "article-journal",
+  "title": "Contrast-Enhanced NeuroPOCUS in Neurocritical Care: Overcoming Technical Barriers to Bedside Transcranial Ultrasound",
+  "author": [
+   {
+    "family": "Bianchini A"
+   },
+   {
+    "family": "Malferrari G"
+   },
+   {
+    "family": "Zanoni A"
+   }
+  ],
+  "container-title": "Neurocrit Care",
+  "DOI": "10.1007/s12028-026-02683-0",
+  "URL": "https://link.springer.com/article/10.1007/s12028-026-02683-0",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W43"
  },
  {
   "id": "10.1007/s12028-026-02697-8",
@@ -97359,6 +97494,135 @@
    ]
   },
   "keyword": "Cardiac CC; 2026-W41"
+ },
+ {
+  "id": "10.1016/j.resuscitation.2026.111358",
+  "type": "article-journal",
+  "title": "Association Between Capnographic Changes During Pulse Checks of Varying Durations and Clinical Outcomes During Cardiopulmonary Resuscitation: A Multicenter Study From Türkiye (CaPTuRe)",
+  "author": [
+   {
+    "family": "Yılmaz G"
+   },
+   {
+    "family": "Özer MR"
+   },
+   {
+    "family": "Köylü R"
+   }
+  ],
+  "container-title": "Resuscitation",
+  "DOI": "10.1016/j.resuscitation.2026.111358",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0300957226024056",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Cardiac CC; 2026-W43"
+ },
+ {
+  "id": "10.1016/j.resuscitation.2026.111359",
+  "type": "article-journal",
+  "title": "Fatigue, Anxiety and Depression 12 Months After Out-of-Hospital Cardiac Arrest: A Population Based Cohort Study",
+  "author": [
+   {
+    "family": "Okyere DO"
+   },
+   {
+    "family": "Nehme E"
+   },
+   {
+    "family": "Bray J"
+   }
+  ],
+  "container-title": "Resuscitation",
+  "DOI": "10.1016/j.resuscitation.2026.111359",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0300957226024068",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Cardiac CC; 2026-W43"
+ },
+ {
+  "id": "10.1016/j.resuscitation.2026.111360",
+  "type": "article-journal",
+  "title": "Association between burst-suppression with identical bursts and multimodal measures of cerebral oxygenation after cardiac arrest",
+  "author": [
+   {
+    "family": "Faiver L"
+   },
+   {
+    "family": "Tam J"
+   },
+   {
+    "family": "Ratay CR"
+   }
+  ],
+  "container-title": "Resuscitation",
+  "DOI": "10.1016/j.resuscitation.2026.111360",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S030095722602407X",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W43"
+ },
+ {
+  "id": "10.1016/j.resuscitation.2026.111362",
+  "type": "article-journal",
+  "title": "Regional implementation of a prehospital advanced life support program with video-assisted physician direction and outcomes after out-of-hospital cardiac arrest",
+  "author": [
+   {
+    "family": "Choi Y."
+   }
+  ],
+  "container-title": "Resuscitation",
+  "DOI": "10.1016/j.resuscitation.2026.111362",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0300957226024093",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Cardiac CC; 2026-W43"
+ },
+ {
+  "id": "10.1016/j.resuscitation.2026.111368",
+  "type": "article-journal",
+  "title": "Pitfalls in assessing graft outcomes from donors initially treated with ECPR for out-of-hospital cardiac arrest",
+  "author": [
+   {
+    "family": "Soumagnac T"
+   },
+   {
+    "family": "Raphalen JH"
+   },
+   {
+    "family": "Vimpere D"
+   }
+  ],
+  "container-title": "Resuscitation",
+  "DOI": "10.1016/j.resuscitation.2026.111368",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0300957226024159",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-W43"
  },
  {
   "id": "10.1016/j.rmed.2021.106555",
@@ -129511,6 +129775,54 @@
   "keyword": "Renal; 2026-W41"
  },
  {
+  "id": "10.1093/ajrccm/aamag570",
+  "type": "article-journal",
+  "title": "Association between baseline mean perfusion pressure and mortality in ARDS may depend on age",
+  "author": [
+   {
+    "family": "Gkirgkiris K"
+   },
+   {
+    "family": "Konstantinou G"
+   },
+   {
+    "family": "Papoutsi E"
+   },
+   {
+    "family": "Giannaki C"
+   },
+   {
+    "family": "Aligeorgas K"
+   },
+   {
+    "family": "Soundoulounaki S"
+   },
+   {
+    "family": "Tsolaki V"
+   },
+   {
+    "family": "Parissis J"
+   },
+   {
+    "family": "Dimopoulou I"
+   },
+   {
+    "family": "Siempos II"
+   }
+  ],
+  "container-title": "Am J Respir Crit Care Med",
+  "DOI": "10.1093/ajrccm/aamag570",
+  "URL": "https://academic.oup.com/ajrccm/advance-article/doi/10.1093/ajrccm/aamag570/8990028",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W43; borderline; section-inferred"
+ },
+ {
   "id": "10.1093/annalsats/aaoag042",
   "type": "article-journal",
   "title": "Sequential Likelihood Ratios and E-processes in the Analysis of the RENOVATE Trial",
@@ -129611,6 +129923,33 @@
    ]
   },
   "keyword": "Respiratory/ARDS; 2026-W24; borderline; section-inferred"
+ },
+ {
+  "id": "10.1093/annalsats/aaoag326",
+  "type": "article-journal",
+  "title": "Eligibility for Early Mobilization in Mechanically Ventilated Adults: A Multicenter Study",
+  "author": [
+   {
+    "family": "Patel BK"
+   },
+   {
+    "family": "Chhikara K"
+   },
+   {
+    "family": "Jain S"
+   }
+  ],
+  "container-title": "Ann Am Thorac Soc",
+  "DOI": "10.1093/annalsats/aaoag326",
+  "URL": "https://academic.oup.com/annalsats/advance-article/doi/10.1093/annalsats/aaoag326/8943974",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W43"
  },
  {
   "id": "10.1093/brain/awaf459",
@@ -132067,6 +132406,33 @@
    ]
   },
   "keyword": "Misc; 2026-W40"
+ },
+ {
+  "id": "10.1093/jamiaopen/ooag202",
+  "type": "article-journal",
+  "title": "P-WIN deployment: real-time personalized machine learning to predict critical deterioration in a pediatric intensive care unit",
+  "author": [
+   {
+    "family": "Tweedy E"
+   },
+   {
+    "family": "Mehta S"
+   },
+   {
+    "family": "Grover S"
+   }
+  ],
+  "container-title": "JAMIA Open",
+  "DOI": "10.1093/jamiaopen/ooag202",
+  "URL": "https://academic.oup.com/jamiaopen/article/doi/10.1093/jamiaopen/ooag202/8943928",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W43"
  },
  {
   "id": "10.1093/jbmrpl/ziag008",
@@ -136627,6 +136993,60 @@
    ]
   },
   "keyword": "Misc; 2026-W39; 2026-W40"
+ },
+ {
+  "id": "10.1097/cce.0000000000001495",
+  "type": "article-journal",
+  "title": "Diagnostic Performance of the Radiographic Assessment of Lung Edema Score for Acute Respiratory Distress Syndrome-Post Hoc Analysis of the \"Validating Acute Lung Injury Biomarkers for Diagnosis\" Study",
+  "author": [
+   {
+    "family": "Zimatore C"
+   },
+   {
+    "family": "Jabaudon M"
+   },
+   {
+    "family": "Pisani L"
+   }
+  ],
+  "container-title": "Crit Care Explor",
+  "DOI": "10.1097/cce.0000000000001495",
+  "URL": "https://www.ovid.com/10.1097/CCE.0000000000001495",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W43"
+ },
+ {
+  "id": "10.1097/cce.0000000000001496",
+  "type": "article-journal",
+  "title": "Proenkephalin A and Heterogeneity of Hydrocortisone Treatment Effect in Septic Shock: A Post Hoc Analysis of the VANISH Trial",
+  "author": [
+   {
+    "family": "Antcliffe DB"
+   },
+   {
+    "family": "Uhle F"
+   },
+   {
+    "family": "Marshall DC"
+   }
+  ],
+  "container-title": "Crit Care Explor",
+  "DOI": "10.1097/cce.0000000000001496",
+  "URL": "https://www.ovid.com/10.1097/CCE.0000000000001496",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-W43"
  },
  {
   "id": "10.1097/cce.0000000000001499",
@@ -143608,6 +144028,33 @@
   "keyword": "Renal; 2026-W42"
  },
  {
+  "id": "10.1097/ccm.0000000000007372",
+  "type": "article-journal",
+  "title": "Music Therapy During Weaning From Invasive Mechanical Ventilation in the ICU: A Randomized Controlled Trial",
+  "author": [
+   {
+    "family": "Pereiro S"
+   },
+   {
+    "family": "Corral E"
+   },
+   {
+    "family": "Del Campo P"
+   }
+  ],
+  "container-title": "Crit Care Med",
+  "DOI": "10.1097/ccm.0000000000007372",
+  "URL": "https://www.ovid.com/10.1097/CCM.0000000000007372",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W43"
+ },
+ {
   "id": "10.1097/ccm.0000000000007376",
   "type": "article-journal",
   "title": "Developing Models for Complicated Outcomes in Acutely Intoxicated ICU Patients With and Without Toxicity Information",
@@ -143743,6 +144190,33 @@
   "keyword": "Cardiac CC; 2026-W42"
  },
  {
+  "id": "10.1097/ccm.0000000000007384",
+  "type": "article-journal",
+  "title": "Association of Acute Respiratory Distress Syndrome Radiographic Findings Identified by Machine Learning and Outcomes of Patients Receiving Invasive Mechanical Ventilation",
+  "author": [
+   {
+    "family": "Zhong Y"
+   },
+   {
+    "family": "Nuppnau M"
+   },
+   {
+    "family": "Farzaneh N"
+   }
+  ],
+  "container-title": "Crit Care Med",
+  "DOI": "10.1097/ccm.0000000000007384",
+  "URL": "https://www.ovid.com/10.1097/CCM.0000000000007384",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W43"
+ },
+ {
   "id": "10.1097/ccm.0000000000007385",
   "type": "article-journal",
   "title": "Ventilatory Management in Neurocritical Versus Non-Neurocritical Care Patients: A Pooled Analysis From the PRIME Database",
@@ -143770,6 +144244,168 @@
   "keyword": "Respiratory/ARDS; 2026-W42"
  },
  {
+  "id": "10.1097/ccm.0000000000007386",
+  "type": "article-journal",
+  "title": "Cluster Versus Individual Randomization in Prehospital, Emergency and Critical Care Trials: A Meta-Epidemiological Study",
+  "author": [
+   {
+    "family": "Lønstrup S"
+   },
+   {
+    "family": "Petersen PL"
+   },
+   {
+    "family": "Bruun NH"
+   }
+  ],
+  "container-title": "Crit Care Med",
+  "DOI": "10.1097/ccm.0000000000007386",
+  "URL": "https://www.ovid.com/10.1097/CCM.0000000000007386",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W43"
+ },
+ {
+  "id": "10.1097/ccm.0000000000007387",
+  "type": "article-journal",
+  "title": "Assessment of Tidal Volume in Patients Undergoing Noninvasive Ventilation: Systematic Review and Meta-Analysis",
+  "author": [
+   {
+    "family": "Santa Cruz R"
+   },
+   {
+    "family": "Matesa A"
+   },
+   {
+    "family": "Jara M"
+   }
+  ],
+  "container-title": "Crit Care Med",
+  "DOI": "10.1097/ccm.0000000000007387",
+  "URL": "https://www.ovid.com/10.1097/CCM.0000000000007387",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W43"
+ },
+ {
+  "id": "10.1097/ccm.0000000000007388",
+  "type": "article-journal",
+  "title": "Infections Acquired in the ICU Among Cancer and Other Immunosuppressed Patients: A Nationwide Cohort Study",
+  "author": [
+   {
+    "family": "Daltro-Oliveira R"
+   },
+   {
+    "family": "Dos Santos SS"
+   },
+   {
+    "family": "Sanches LC"
+   }
+  ],
+  "container-title": "Crit Care Med",
+  "DOI": "10.1097/ccm.0000000000007388",
+  "URL": "https://www.ovid.com/10.1097/CCM.0000000000007388",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W43"
+ },
+ {
+  "id": "10.1097/ccm.0000000000007390",
+  "type": "article-journal",
+  "title": "Comparative Analysis of Tracheal Intubation-Associated Cardiac Arrest in 2015-2023: A Report From the National Emergency Airway Registry for Children Multicenter Registry",
+  "author": [
+   {
+    "family": "Padiyath A"
+   },
+   {
+    "family": "Padiyath F"
+   },
+   {
+    "family": "Berg RA"
+   }
+  ],
+  "container-title": "Crit Care Med",
+  "DOI": "10.1097/ccm.0000000000007390",
+  "URL": "https://www.ovid.com/10.1097/CCM.0000000000007390",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Cardiac CC; 2026-W43"
+ },
+ {
+  "id": "10.1097/ccm.0000000000007391",
+  "type": "article-journal",
+  "title": "Brachial-to-Radial Pressure Gradient in Critically Ill Patients Treated With Vasoactive Agents: A Prospective Observational Study",
+  "author": [
+   {
+    "family": "Putowski Z"
+   },
+   {
+    "family": "Gawda R"
+   },
+   {
+    "family": "Czarnik T"
+   }
+  ],
+  "container-title": "Crit Care Med",
+  "DOI": "10.1097/ccm.0000000000007391",
+  "URL": "https://www.ovid.com/10.1097/CCM.0000000000007391",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-W43"
+ },
+ {
+  "id": "10.1097/ccm.0000000000007392",
+  "type": "article-journal",
+  "title": "Furosemide Stress Test in Adults and Children With Acute Kidney Injury: A Systematic Review and Meta-Analysis",
+  "author": [
+   {
+    "family": "Tran PNT"
+   },
+   {
+    "family": "Luong HM"
+   },
+   {
+    "family": "Doan ND."
+   }
+  ],
+  "container-title": "Crit Care Med",
+  "DOI": "10.1097/ccm.0000000000007392",
+  "URL": "https://www.ovid.com/10.1097/CCM.0000000000007392",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Renal; 2026-W43"
+ },
+ {
   "id": "10.1097/ccm.0000000000007393",
   "type": "article-journal",
   "title": "Open Visiting Policy and Delirium in Adult Patients in ICUs: A Systematic Review and Meta-Analysis of Randomized Clinical Trials",
@@ -143795,6 +144431,33 @@
    ]
   },
   "keyword": "Misc; 2026-W42"
+ },
+ {
+  "id": "10.1097/ccm.0000000000007395",
+  "type": "article-journal",
+  "title": "Delay From Hypotension Onset to Appropriate Antifungal Therapy Initiation Is the Critical Determinant of Outcome in Candida Septic Shock",
+  "author": [
+   {
+    "family": "Abhishek A"
+   },
+   {
+    "family": "Mashhadiagha G"
+   },
+   {
+    "family": "Ramezani A"
+   }
+  ],
+  "container-title": "Crit Care Med",
+  "DOI": "10.1097/ccm.0000000000007395",
+  "URL": "https://www.ovid.com/10.1097/CCM.0000000000007395",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-W43"
  },
  {
   "id": "10.1097/ccm.0b013e3181c65a12",
@@ -147629,6 +148292,33 @@
    ]
   },
   "keyword": "Cardiac CC; 2026-W42"
+ },
+ {
+  "id": "10.1097/mat.0000000000002881",
+  "type": "article-journal",
+  "title": "Predictors of Survival in Extracorporeal Membrane Oxygenation Supported Immunocompromised Acute Respiratory Distress Syndrome Patients",
+  "author": [
+   {
+    "family": "Li M"
+   },
+   {
+    "family": "Zhou L"
+   },
+   {
+    "family": "Qin C"
+   }
+  ],
+  "container-title": "ASAIO J",
+  "DOI": "10.1097/mat.0000000000002881",
+  "URL": "https://www.ovid.com/10.1097/MAT.0000000000002881",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-W43"
  },
  {
   "id": "10.1097/mat.0000000000002883",
@@ -158289,6 +158979,33 @@
   "keyword": "Misc; 2026-W41"
  },
  {
+  "id": "10.1097/pcc.0000000000004064",
+  "type": "article-journal",
+  "title": "Hemodynamic Patterns Relative to Vasopressin Initiation and Subsequent Septic Shock Progression in Children: A Retrospective Cohort, 2020-2023",
+  "author": [
+   {
+    "family": "Gelbart B"
+   },
+   {
+    "family": "Hall G"
+   },
+   {
+    "family": "Carter BG"
+   }
+  ],
+  "container-title": "Pediatr Crit Care Med",
+  "DOI": "10.1097/pcc.0000000000004064",
+  "URL": "https://www.ovid.com/10.1097/PCC.0000000000004064",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-W43"
+ },
+ {
   "id": "10.1097/pcc.0000000000004065",
   "type": "article-journal",
   "title": "Pediatric Noninvasive Ventilation Mask Fit: This Should Not Be a Cinderella Story.",
@@ -158311,6 +159028,66 @@
    ]
   },
   "keyword": "Respiratory/ARDS; 2026-W41"
+ },
+ {
+  "id": "10.1097/pcc.0000000000004081",
+  "type": "article-journal",
+  "title": "Efficacy of an Ultrasound Guided Intravenous Access Training Program in a Pediatric Cardiac Intensive Care Unit",
+  "author": [
+   {
+    "family": "Alvarado AM"
+   },
+   {
+    "family": "Englert AA"
+   },
+   {
+    "family": "Bell-Reid D"
+   },
+   {
+    "family": "Groves AM"
+   }
+  ],
+  "container-title": "Pediatr Crit Care Med",
+  "DOI": "10.1097/pcc.0000000000004081",
+  "URL": "https://www.ovid.com/10.1097/PCC.0000000000004081",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Cardiac CC; 2026-W43; borderline; section-inferred"
+ },
+ {
+  "id": "10.1097/pcc.0000000000004088",
+  "type": "article-journal",
+  "title": "Development of a PICU-Based Food Shelf to Support Families With Food Insecurity",
+  "author": [
+   {
+    "family": "Zweber H"
+   },
+   {
+    "family": "Hume JR"
+   },
+   {
+    "family": "Loomis A"
+   },
+   {
+    "family": "Heneghan JA"
+   }
+  ],
+  "container-title": "Pediatr Crit Care Med",
+  "DOI": "10.1097/pcc.0000000000004088",
+  "URL": "https://www.ovid.com/10.1097/PCC.0000000000004088",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W43; borderline; section-inferred"
  },
  {
   "id": "10.1097/pcc.0b013e3181b7fa1f",
