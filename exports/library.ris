@@ -5232,6 +5232,25 @@ KW  - 2025-02
 ER  - 
 
 TY  - JOUR
+TI  - Therapeutic donor hypothermia following brain death to improve the quality of transplanted organs
+AU  - Amarnath DR
+AU  - Tingle SJ
+AU  - Hoather TJ
+AU  - Thompson ER
+AU  - Wilson CH
+AU  - supported by Cochrane Kidney and Transplant
+JO  - Cochrane Database Syst Rev
+PY  - 2026
+DO  - 10.1002/14651858.cd015190.pub2
+AN  - 42495907
+UR  - http://doi.wiley.com/10.1002/14651858.CD015190.pub2
+KW  - Neurocritical Care
+KW  - 2026-W31
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
 TI  - Minimizing blood sampling in preterm infants
 AU  - Nissimov S
 AU  - Sibrecht G
@@ -22218,6 +22237,22 @@ KW  - 2026-W33
 ER  - 
 
 TY  - JOUR
+TI  - Continuous renal replacement therapy for septic shock: practicalities for a pediatric intensivist
+AU  - Titherington LM
+AU  - Bottesi T
+AU  - Guzzi F
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07290-x
+AN  - 42525046
+UR  - https://link.springer.com/10.1007/s00431-026-07290-x
+KW  - Shock & Sepsis
+KW  - 2026-W33
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
 TI  - Combined metabolic risk and admission lactate-to-bicarbonate ratio in critically ill children: a retrospective pediatric intensive care cohort study
 AU  - Guvenc KB
 AU  - Sahin EG
@@ -22289,6 +22324,24 @@ AN  - 42613466
 UR  - https://doi.org/10.1007/s00431-026-07319-1
 KW  - Respiratory/ARDS
 KW  - 2026-W35
+ER  - 
+
+TY  - JOUR
+TI  - Early total enteral feeding versus conventional incremental feeding in preterm infants weighing 1000-1250 g: a single-center open-label randomized controlled trial
+AU  - Mishra A
+AU  - Raha SJ
+AU  - Kumar J
+AU  - Bandyopadhyay T
+AU  - Debata PK
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07321-7
+AN  - 42593689
+UR  - https://link.springer.com/10.1007/s00431-026-07321-7
+KW  - Misc
+KW  - 2026-W34
+KW  - borderline
+KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -23046,6 +23099,85 @@ AN  - 42390633
 UR  - https://link.springer.com/10.1007/s10143-026-04385-9
 KW  - Neurocritical Care
 KW  - 2026-W27
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - Prognostic value of automated pupillometry in traumatic brain injury: a systematic review and meta-analysis
+AU  - Vieira RC
+AU  - Duarte dos Santos CS
+AU  - Stracieri Janchevis Preiss M
+AU  - Rabello PHM
+AU  - Carlotti CG
+AU  - Figueiredo EG
+JO  - Neurosurg Rev
+PY  - 2026
+DO  - 10.1007/s10143-026-04391-x
+AN  - 42477220
+UR  - https://link.springer.com/10.1007/s10143-026-04391-x
+KW  - Neurocritical Care
+KW  - 2026-W31
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - Development and validation of the FLATS score to predict periprocedural ischemic events after stent-assisted coiling for ruptured intracranial aneurysms in the acute phase
+AU  - Huang C
+AU  - Zhong H
+AU  - Bi Y
+AU  - Zhong W
+AU  - Wen Z
+AU  - Chen Y
+AU  - Duan C
+AU  - Zhang Y
+AU  - Huang M
+AU  - Li Z
+AU  - Chen W
+AU  - Dai L
+AU  - Ouyang Y
+AU  - Huang J
+AU  - Su S
+AU  - Zhang X
+AU  - Guo Z
+AU  - Liang S
+AU  - Li J
+AU  - Wen C
+AU  - Zhang X
+AU  - Feng X
+AU  - Li X
+AU  - Gong S
+AU  - Liu A
+AU  - Duan C
+JO  - Neurosurgical Review
+PY  - 2026
+DO  - 10.1007/s10143-026-04396-6
+AN  - 42455171
+UR  - https://link.springer.com/10.1007/s10143-026-04396-6
+KW  - Neurocritical Care
+KW  - 2026-W29
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - Prophylactic use of antiepileptics in spontaneous intracerebral hemorrhage: a systematic review and meta-analysis focusing on early seizures and clinical determinants
+AU  - Ning X
+AU  - Wang N
+AU  - Tang Y
+AU  - Li X
+AU  - Li Z
+AU  - Yang A
+AU  - Zhang Y
+AU  - Zhao Q
+JO  - Neurosurg Rev
+PY  - 2026
+DO  - 10.1007/s10143-026-04461-0
+AN  - 42631764
+UR  - https://link.springer.com/10.1007/s10143-026-04461-0
+KW  - Neurocritical Care
+KW  - 2026-W35
 KW  - borderline
 KW  - section-inferred
 ER  - 
@@ -24383,6 +24515,31 @@ KW  - 2026-W37
 ER  - 
 
 TY  - JOUR
+TI  - Determinants of Brain Tissue Normoxia in Patients with Large Spontaneous Intracerebral Hemorrhage
+AU  - Berek A
+AU  - Kindl P
+AU  - Ianosi B
+AU  - Gaasch M
+AU  - Kofler M
+AU  - Bergmann M
+AU  - Putnina L
+AU  - Helbok R
+AU  - Schiefecker AJ
+AU  - Pfausler B
+AU  - Beer R
+AU  - Rass V
+JO  - Neurocrit Care
+PY  - 2026
+DO  - 10.1007/s12028-026-02560-w
+AN  - 42332281
+UR  - https://link.springer.com/article/10.1007/s12028-026-02560-w
+KW  - Neurocritical Care
+KW  - 2026-W27
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
 TI  - CN-105 in Participants with Acute Supratentorial Intracerebral Hemorrhage Trial in Singapore (S-CATCH): A Phase 2b, Randomized, Double-blind, Placebo-Controlled Trial
 AU  - Cheong TM
 AU  - James ML
@@ -24761,6 +24918,54 @@ KW  - 2026-W34
 ER  - 
 
 TY  - JOUR
+TI  - Monitoring from the Injury Site After Spinal Cord Injury: Case Series of 109 Patients from Five Intensive Care Units
+AU  - Ilochonwu LC
+AU  - Asif H
+AU  - Kopač C
+AU  - Jug M
+AU  - Depreitere B
+AU  - Sansinenea IP
+AU  - Gómez-Abascal AL
+AU  - Thygesen MM
+AU  - Rasmussen MM
+AU  - Bosetta E
+AU  - Zoumprouli A
+AU  - Papadopoulos MC
+AU  - Saadoun S
+AU  - The SOPRANI Collaborators
+AU  - Urban A
+AU  - Baud E
+AU  - Moberg D
+AU  - Meyfroidt G
+AU  - Depreitere B
+AU  - Gonçalves F
+AU  - Tokmak F
+AU  - Scheijen E
+AU  - Dreier JP
+AU  - Mohammad M
+AU  - Smielewski P
+AU  - Xu W
+AU  - Helbok R
+AU  - Turella S
+AU  - Steyerberg EW
+AU  - Erler NS
+AU  - Driusso E
+AU  - Merlin A
+AU  - Peul WC
+AU  - van Essen TA
+AU  - Rehber C
+JO  - Neurocrit Care
+PY  - 2026
+DO  - 10.1007/s12028-026-02629-6
+AN  - 42601564
+UR  - https://link.springer.com/10.1007/s12028-026-02629-6
+KW  - Neurocritical Care
+KW  - 2026-W34
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
 TI  - Artificial Intelligence for Early Prediction of Intracranial Hypertension: From Single-Centre Development to Multicentre Validation
 AU  - Galos P
 AU  - Hult L
@@ -24772,6 +24977,28 @@ AN  - 42873412
 UR  - https://link.springer.com/article/10.1007/s12028-026-02633-w
 KW  - Neurocritical Care
 KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
+TI  - A Meta-epidemiologic Analysis of Differences in Treatment-Effect Estimates According to Outcome Scale (GOS vs. GOSE) in Moderate-to-Severe Traumatic Brain Injury Trials
+AU  - Raccagni NG
+AU  - Dotti M
+AU  - Lightfoot YA
+AU  - Loda R
+AU  - Baker MS
+AU  - Heihre JM
+AU  - Helmy A
+AU  - Cinotti R
+AU  - Citerio G
+JO  - Neurocrit Care
+PY  - 2026
+DO  - 10.1007/s12028-026-02634-9
+AN  - 42625005
+UR  - https://link.springer.com/10.1007/s12028-026-02634-9
+KW  - Neurocritical Care
+KW  - 2026-W35
+KW  - borderline
+KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -31993,6 +32220,24 @@ KW  - 2026-07
 ER  - 
 
 TY  - JOUR
+TI  - Social inequalities in ICU admission for COPD exacerbations: Insights from a matched case-control study
+AU  - Hamelin A
+AU  - Cuchet P
+AU  - du Cheyron D
+AU  - Daubin C
+AU  - Guillouët S
+JO  - Journal of Critical Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155693
+AN  - 42492185
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126002716
+KW  - Misc
+KW  - 2026-W31
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
 TI  - Interventions with a significant mortality difference in acute respiratory distress syndrome: A systematic review and comparison with Guidelines
 AU  - Sartini C
 AU  - Stati R
@@ -34581,6 +34826,24 @@ KW  - 2026-W25
 ER  - 
 
 TY  - JOUR
+TI  - Association of Rescue Breathing With Outcomes in Adult Suffocation-Related Cardiac Arrest
+AU  - Okada A
+AU  - Tominaga T
+AU  - Iwakura M
+AU  - Jung S
+AU  - Nomura K
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111189
+AN  - 42361892
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226002364
+KW  - Cardiac CC
+KW  - 2026-W27
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
 TI  - Telemedicine-Assisted vs Conventional Telephone Instruction in Cardiopulmonary Resuscitation: The TACTIC Cluster Randomized Trial
 AU  - Riyapan S
 AU  - Laopran W
@@ -34742,6 +35005,29 @@ AN  - 42600769
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226003138
 KW  - Neurocritical Care
 KW  - 2026-W34
+ER  - 
+
+TY  - JOUR
+TI  - Targeting BCAA/PPAR-γ axis with pioglitazone reverses insulin resistance and mitigates post-cardiac arrest injury
+AU  - Sang W
+AU  - Pan X
+AU  - Xu F
+AU  - Zhao X
+AU  - Guo J
+AU  - Pan C
+AU  - Xue L
+AU  - Yue H
+AU  - Guo Y
+AU  - Xu F
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111272
+AN  - 42624195
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226003199
+KW  - Misc
+KW  - 2026-W35
+KW  - borderline
+KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -39443,6 +39729,40 @@ AN  - 42320578
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0272638626009716
 KW  - Renal
 KW  - 2026-W37
+ER  - 
+
+TY  - JOUR
+TI  - Key Elements of Clinical Communication After Inpatient Acute Kidney Injury: Modified Delphi Study From the AKINow Recovery Workgroup
+AU  - Kwong YD
+AU  - Silver SA
+AU  - Neyra JA
+AU  - McCoy IE
+AU  - Ng JH
+AU  - Abdel-Rahman EM
+AU  - Gewin LS
+AU  - Barreto EF
+AU  - Freshly BL
+AU  - Koester KA
+AU  - Vijayan A
+AU  - Kwong
+AU  - Silver
+AU  - Neyra
+AU  - McCoy
+AU  - Ng
+AU  - Abdel-Rahman
+AU  - Gewin
+AU  - Barreto
+AU  - Vijayan
+AU  - Freshly
+JO  - Am J Kidney Dis
+PY  - 2026
+DO  - 10.1053/j.ajkd.2026.05.018
+AN  - 42575335
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0272638626010474
+KW  - Renal
+KW  - 2026-W34
+KW  - borderline
+KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -45902,6 +46222,39 @@ UR  - https://academic.oup.com/ajrccm/article/212/9/2159/8711923
 KW  - ECMO
 KW  - 2026-06
 KW  - 2026-10
+ER  - 
+
+TY  - JOUR
+TI  - Incretins Predict Response to Enteral Nutrition Strategies in the EDEN Trial: A Secondary Analysis
+AU  - Hansell CE
+AU  - Aneis HA
+AU  - Yang Z
+AU  - Kitsios GD
+AU  - Yende SP
+AU  - Bain WG
+AU  - Wang Y
+AU  - Nouraie SM
+AU  - Sharma L
+AU  - Zhao Y
+AU  - Petro N
+AU  - Girard TD
+AU  - Huang DT
+AU  - Ramakrishnan S
+AU  - Patel J
+AU  - Morris A
+AU  - McVerry BJ
+AU  - Zhang Y
+AU  - Talisa VB
+AU  - Shah FA
+JO  - Am J Respir Crit Care Med
+PY  - 2026
+DO  - 10.1093/ajrccm/aamag366
+AN  - 42439515
+UR  - https://academic.oup.com/ajrccm/advance-article/doi/10.1093/ajrccm/aamag366/8733254
+KW  - Misc
+KW  - 2026-W29
+KW  - borderline
+KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -53405,6 +53758,22 @@ AN  - 42574647
 UR  - https://www.ovid.com/10.1097/MAT.0000000000002805
 KW  - ECMO
 KW  - 2026-W34
+ER  - 
+
+TY  - JOUR
+TI  - Liquid Lung Rest During Extracorporeal Life Support in a Neonatal Porcine Model of Acute Lung Injury
+AU  - Blauvelt DG
+AU  - Hesek A
+AU  - Golecki M
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002806
+AN  - 42525882
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002806
+KW  - ECMO
+KW  - 2026-W33
+KW  - borderline
+KW  - section-inferred
 ER  - 
 
 TY  - JOUR

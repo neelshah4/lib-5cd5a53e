@@ -13887,6 +13887,42 @@
   "keyword": "Renal; AKI; 2025-02"
  },
  {
+  "id": "10.1002/14651858.cd015190.pub2",
+  "type": "article-journal",
+  "title": "Therapeutic donor hypothermia following brain death to improve the quality of transplanted organs",
+  "author": [
+   {
+    "family": "Amarnath DR"
+   },
+   {
+    "family": "Tingle SJ"
+   },
+   {
+    "family": "Hoather TJ"
+   },
+   {
+    "family": "Thompson ER"
+   },
+   {
+    "family": "Wilson CH"
+   },
+   {
+    "family": "supported by Cochrane Kidney and Transplant"
+   }
+  ],
+  "container-title": "Cochrane Database Syst Rev",
+  "DOI": "10.1002/14651858.cd015190.pub2",
+  "URL": "http://doi.wiley.com/10.1002/14651858.CD015190.pub2",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W31; borderline; section-inferred"
+ },
+ {
   "id": "10.1002/14651858.cd016077.pub2",
   "type": "article-journal",
   "title": "Minimizing blood sampling in preterm infants",
@@ -66229,6 +66265,33 @@
   "keyword": "Renal; 2026-W33"
  },
  {
+  "id": "10.1007/s00431-026-07290-x",
+  "type": "article-journal",
+  "title": "Continuous renal replacement therapy for septic shock: practicalities for a pediatric intensivist",
+  "author": [
+   {
+    "family": "Titherington LM"
+   },
+   {
+    "family": "Bottesi T"
+   },
+   {
+    "family": "Guzzi F"
+   }
+  ],
+  "container-title": "Eur J Pediatr",
+  "DOI": "10.1007/s00431-026-07290-x",
+  "URL": "https://link.springer.com/10.1007/s00431-026-07290-x",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-W33; borderline; section-inferred"
+ },
+ {
   "id": "10.1007/s00431-026-07291-w",
   "type": "article-journal",
   "title": "Combined metabolic risk and admission lactate-to-bicarbonate ratio in critically ill children: a retrospective pediatric intensive care cohort study",
@@ -66386,6 +66449,39 @@
    ]
   },
   "keyword": "Respiratory/ARDS; 2026-W35"
+ },
+ {
+  "id": "10.1007/s00431-026-07321-7",
+  "type": "article-journal",
+  "title": "Early total enteral feeding versus conventional incremental feeding in preterm infants weighing 1000-1250 g: a single-center open-label randomized controlled trial",
+  "author": [
+   {
+    "family": "Mishra A"
+   },
+   {
+    "family": "Raha SJ"
+   },
+   {
+    "family": "Kumar J"
+   },
+   {
+    "family": "Bandyopadhyay T"
+   },
+   {
+    "family": "Debata PK"
+   }
+  ],
+  "container-title": "Eur J Pediatr",
+  "DOI": "10.1007/s00431-026-07321-7",
+  "URL": "https://link.springer.com/10.1007/s00431-026-07321-7",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W34; borderline; section-inferred"
  },
  {
   "id": "10.1007/s00431-026-07322-6",
@@ -68258,6 +68354,180 @@
    ]
   },
   "keyword": "Neurocritical Care; 2026-W27; borderline; section-inferred"
+ },
+ {
+  "id": "10.1007/s10143-026-04391-x",
+  "type": "article-journal",
+  "title": "Prognostic value of automated pupillometry in traumatic brain injury: a systematic review and meta-analysis",
+  "author": [
+   {
+    "family": "Vieira RC"
+   },
+   {
+    "family": "Duarte dos Santos CS"
+   },
+   {
+    "family": "Stracieri Janchevis Preiss M"
+   },
+   {
+    "family": "Rabello PHM"
+   },
+   {
+    "family": "Carlotti CG"
+   },
+   {
+    "family": "Figueiredo EG"
+   }
+  ],
+  "container-title": "Neurosurg Rev",
+  "DOI": "10.1007/s10143-026-04391-x",
+  "URL": "https://link.springer.com/10.1007/s10143-026-04391-x",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W31; borderline; section-inferred"
+ },
+ {
+  "id": "10.1007/s10143-026-04396-6",
+  "type": "article-journal",
+  "title": "Development and validation of the FLATS score to predict periprocedural ischemic events after stent-assisted coiling for ruptured intracranial aneurysms in the acute phase",
+  "author": [
+   {
+    "family": "Huang C"
+   },
+   {
+    "family": "Zhong H"
+   },
+   {
+    "family": "Bi Y"
+   },
+   {
+    "family": "Zhong W"
+   },
+   {
+    "family": "Wen Z"
+   },
+   {
+    "family": "Chen Y"
+   },
+   {
+    "family": "Duan C"
+   },
+   {
+    "family": "Zhang Y"
+   },
+   {
+    "family": "Huang M"
+   },
+   {
+    "family": "Li Z"
+   },
+   {
+    "family": "Chen W"
+   },
+   {
+    "family": "Dai L"
+   },
+   {
+    "family": "Ouyang Y"
+   },
+   {
+    "family": "Huang J"
+   },
+   {
+    "family": "Su S"
+   },
+   {
+    "family": "Zhang X"
+   },
+   {
+    "family": "Guo Z"
+   },
+   {
+    "family": "Liang S"
+   },
+   {
+    "family": "Li J"
+   },
+   {
+    "family": "Wen C"
+   },
+   {
+    "family": "Zhang X"
+   },
+   {
+    "family": "Feng X"
+   },
+   {
+    "family": "Li X"
+   },
+   {
+    "family": "Gong S"
+   },
+   {
+    "family": "Liu A"
+   },
+   {
+    "family": "Duan C"
+   }
+  ],
+  "container-title": "Neurosurgical Review",
+  "DOI": "10.1007/s10143-026-04396-6",
+  "URL": "https://link.springer.com/10.1007/s10143-026-04396-6",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W29; borderline; section-inferred"
+ },
+ {
+  "id": "10.1007/s10143-026-04461-0",
+  "type": "article-journal",
+  "title": "Prophylactic use of antiepileptics in spontaneous intracerebral hemorrhage: a systematic review and meta-analysis focusing on early seizures and clinical determinants",
+  "author": [
+   {
+    "family": "Ning X"
+   },
+   {
+    "family": "Wang N"
+   },
+   {
+    "family": "Tang Y"
+   },
+   {
+    "family": "Li X"
+   },
+   {
+    "family": "Li Z"
+   },
+   {
+    "family": "Yang A"
+   },
+   {
+    "family": "Zhang Y"
+   },
+   {
+    "family": "Zhao Q"
+   }
+  ],
+  "container-title": "Neurosurg Rev",
+  "DOI": "10.1007/s10143-026-04461-0",
+  "URL": "https://link.springer.com/10.1007/s10143-026-04461-0",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W35; borderline; section-inferred"
  },
  {
   "id": "10.1007/s10143-026-04470-z",
@@ -71556,6 +71826,60 @@
   "keyword": "Neurocritical Care; 2026-W37"
  },
  {
+  "id": "10.1007/s12028-026-02560-w",
+  "type": "article-journal",
+  "title": "Determinants of Brain Tissue Normoxia in Patients with Large Spontaneous Intracerebral Hemorrhage",
+  "author": [
+   {
+    "family": "Berek A"
+   },
+   {
+    "family": "Kindl P"
+   },
+   {
+    "family": "Ianosi B"
+   },
+   {
+    "family": "Gaasch M"
+   },
+   {
+    "family": "Kofler M"
+   },
+   {
+    "family": "Bergmann M"
+   },
+   {
+    "family": "Putnina L"
+   },
+   {
+    "family": "Helbok R"
+   },
+   {
+    "family": "Schiefecker AJ"
+   },
+   {
+    "family": "Pfausler B"
+   },
+   {
+    "family": "Beer R"
+   },
+   {
+    "family": "Rass V"
+   }
+  ],
+  "container-title": "Neurocrit Care",
+  "DOI": "10.1007/s12028-026-02560-w",
+  "URL": "https://link.springer.com/article/10.1007/s12028-026-02560-w",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W27; borderline; section-inferred"
+ },
+ {
   "id": "10.1007/s12028-026-02563-7",
   "type": "article-journal",
   "title": "CN-105 in Participants with Acute Supratentorial Intracerebral Hemorrhage Trial in Singapore (S-CATCH): A Phase 2b, Randomized, Double-blind, Placebo-Controlled Trial",
@@ -72462,6 +72786,129 @@
   "keyword": "Neurocritical Care; 2026-W34"
  },
  {
+  "id": "10.1007/s12028-026-02629-6",
+  "type": "article-journal",
+  "title": "Monitoring from the Injury Site After Spinal Cord Injury: Case Series of 109 Patients from Five Intensive Care Units",
+  "author": [
+   {
+    "family": "Ilochonwu LC"
+   },
+   {
+    "family": "Asif H"
+   },
+   {
+    "family": "Kopač C"
+   },
+   {
+    "family": "Jug M"
+   },
+   {
+    "family": "Depreitere B"
+   },
+   {
+    "family": "Sansinenea IP"
+   },
+   {
+    "family": "Gómez-Abascal AL"
+   },
+   {
+    "family": "Thygesen MM"
+   },
+   {
+    "family": "Rasmussen MM"
+   },
+   {
+    "family": "Bosetta E"
+   },
+   {
+    "family": "Zoumprouli A"
+   },
+   {
+    "family": "Papadopoulos MC"
+   },
+   {
+    "family": "Saadoun S"
+   },
+   {
+    "family": "The SOPRANI Collaborators"
+   },
+   {
+    "family": "Urban A"
+   },
+   {
+    "family": "Baud E"
+   },
+   {
+    "family": "Moberg D"
+   },
+   {
+    "family": "Meyfroidt G"
+   },
+   {
+    "family": "Depreitere B"
+   },
+   {
+    "family": "Gonçalves F"
+   },
+   {
+    "family": "Tokmak F"
+   },
+   {
+    "family": "Scheijen E"
+   },
+   {
+    "family": "Dreier JP"
+   },
+   {
+    "family": "Mohammad M"
+   },
+   {
+    "family": "Smielewski P"
+   },
+   {
+    "family": "Xu W"
+   },
+   {
+    "family": "Helbok R"
+   },
+   {
+    "family": "Turella S"
+   },
+   {
+    "family": "Steyerberg EW"
+   },
+   {
+    "family": "Erler NS"
+   },
+   {
+    "family": "Driusso E"
+   },
+   {
+    "family": "Merlin A"
+   },
+   {
+    "family": "Peul WC"
+   },
+   {
+    "family": "van Essen TA"
+   },
+   {
+    "family": "Rehber C"
+   }
+  ],
+  "container-title": "Neurocrit Care",
+  "DOI": "10.1007/s12028-026-02629-6",
+  "URL": "https://link.springer.com/10.1007/s12028-026-02629-6",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W34; borderline; section-inferred"
+ },
+ {
   "id": "10.1007/s12028-026-02633-w",
   "type": "article-journal",
   "title": "Artificial Intelligence for Early Prediction of Intracranial Hypertension: From Single-Centre Development to Multicentre Validation",
@@ -72487,6 +72934,51 @@
    ]
   },
   "keyword": "Neurocritical Care; 2026-W42"
+ },
+ {
+  "id": "10.1007/s12028-026-02634-9",
+  "type": "article-journal",
+  "title": "A Meta-epidemiologic Analysis of Differences in Treatment-Effect Estimates According to Outcome Scale (GOS vs. GOSE) in Moderate-to-Severe Traumatic Brain Injury Trials",
+  "author": [
+   {
+    "family": "Raccagni NG"
+   },
+   {
+    "family": "Dotti M"
+   },
+   {
+    "family": "Lightfoot YA"
+   },
+   {
+    "family": "Loda R"
+   },
+   {
+    "family": "Baker MS"
+   },
+   {
+    "family": "Heihre JM"
+   },
+   {
+    "family": "Helmy A"
+   },
+   {
+    "family": "Cinotti R"
+   },
+   {
+    "family": "Citerio G"
+   }
+  ],
+  "container-title": "Neurocrit Care",
+  "DOI": "10.1007/s12028-026-02634-9",
+  "URL": "https://link.springer.com/10.1007/s12028-026-02634-9",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W35; borderline; section-inferred"
  },
  {
   "id": "10.1007/s12028-026-02644-7",
@@ -90599,6 +91091,39 @@
   "keyword": "ECMO; 2026-W29; 2026-07"
  },
  {
+  "id": "10.1016/j.jcrc.2026.155693",
+  "type": "article-journal",
+  "title": "Social inequalities in ICU admission for COPD exacerbations: Insights from a matched case-control study",
+  "author": [
+   {
+    "family": "Hamelin A"
+   },
+   {
+    "family": "Cuchet P"
+   },
+   {
+    "family": "du Cheyron D"
+   },
+   {
+    "family": "Daubin C"
+   },
+   {
+    "family": "Guillouët S"
+   }
+  ],
+  "container-title": "Journal of Critical Care",
+  "DOI": "10.1016/j.jcrc.2026.155693",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126002716",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W31; borderline; section-inferred"
+ },
+ {
   "id": "10.1016/j.jcrc.2026.155703",
   "type": "article-journal",
   "title": "Interventions with a significant mortality difference in acute respiratory distress syndrome: A systematic review and comparison with Guidelines",
@@ -96893,6 +97418,39 @@
   "keyword": "Cardiac CC; 2026-W25"
  },
  {
+  "id": "10.1016/j.resuscitation.2026.111189",
+  "type": "article-journal",
+  "title": "Association of Rescue Breathing With Outcomes in Adult Suffocation-Related Cardiac Arrest",
+  "author": [
+   {
+    "family": "Okada A"
+   },
+   {
+    "family": "Tominaga T"
+   },
+   {
+    "family": "Iwakura M"
+   },
+   {
+    "family": "Jung S"
+   },
+   {
+    "family": "Nomura K"
+   }
+  ],
+  "container-title": "Resuscitation",
+  "DOI": "10.1016/j.resuscitation.2026.111189",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0300957226002364",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Cardiac CC; 2026-W27; borderline; section-inferred"
+ },
+ {
   "id": "10.1016/j.resuscitation.2026.111191",
   "type": "article-journal",
   "title": "Telemedicine-Assisted vs Conventional Telephone Instruction in Cardiopulmonary Resuscitation: The TACTIC Cluster Randomized Trial",
@@ -97245,6 +97803,54 @@
    ]
   },
   "keyword": "Neurocritical Care; 2026-W34"
+ },
+ {
+  "id": "10.1016/j.resuscitation.2026.111272",
+  "type": "article-journal",
+  "title": "Targeting BCAA/PPAR-γ axis with pioglitazone reverses insulin resistance and mitigates post-cardiac arrest injury",
+  "author": [
+   {
+    "family": "Sang W"
+   },
+   {
+    "family": "Pan X"
+   },
+   {
+    "family": "Xu F"
+   },
+   {
+    "family": "Zhao X"
+   },
+   {
+    "family": "Guo J"
+   },
+   {
+    "family": "Pan C"
+   },
+   {
+    "family": "Xue L"
+   },
+   {
+    "family": "Yue H"
+   },
+   {
+    "family": "Guo Y"
+   },
+   {
+    "family": "Xu F"
+   }
+  ],
+  "container-title": "Resuscitation",
+  "DOI": "10.1016/j.resuscitation.2026.111272",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0300957226003199",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W35; borderline; section-inferred"
  },
  {
   "id": "10.1016/j.resuscitation.2026.111278",
@@ -110027,6 +110633,87 @@
    ]
   },
   "keyword": "Renal; 2026-W37"
+ },
+ {
+  "id": "10.1053/j.ajkd.2026.05.018",
+  "type": "article-journal",
+  "title": "Key Elements of Clinical Communication After Inpatient Acute Kidney Injury: Modified Delphi Study From the AKINow Recovery Workgroup",
+  "author": [
+   {
+    "family": "Kwong YD"
+   },
+   {
+    "family": "Silver SA"
+   },
+   {
+    "family": "Neyra JA"
+   },
+   {
+    "family": "McCoy IE"
+   },
+   {
+    "family": "Ng JH"
+   },
+   {
+    "family": "Abdel-Rahman EM"
+   },
+   {
+    "family": "Gewin LS"
+   },
+   {
+    "family": "Barreto EF"
+   },
+   {
+    "family": "Freshly BL"
+   },
+   {
+    "family": "Koester KA"
+   },
+   {
+    "family": "Vijayan A"
+   },
+   {
+    "family": "Kwong"
+   },
+   {
+    "family": "Silver"
+   },
+   {
+    "family": "Neyra"
+   },
+   {
+    "family": "McCoy"
+   },
+   {
+    "family": "Ng"
+   },
+   {
+    "family": "Abdel-Rahman"
+   },
+   {
+    "family": "Gewin"
+   },
+   {
+    "family": "Barreto"
+   },
+   {
+    "family": "Vijayan"
+   },
+   {
+    "family": "Freshly"
+   }
+  ],
+  "container-title": "Am J Kidney Dis",
+  "DOI": "10.1053/j.ajkd.2026.05.018",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0272638626010474",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Renal; 2026-W34; borderline; section-inferred"
  },
  {
   "id": "10.1053/j.jvca.2020.09.137",
@@ -129631,6 +130318,84 @@
   "keyword": "ECMO; 2026-06; 2026-10"
  },
  {
+  "id": "10.1093/ajrccm/aamag366",
+  "type": "article-journal",
+  "title": "Incretins Predict Response to Enteral Nutrition Strategies in the EDEN Trial: A Secondary Analysis",
+  "author": [
+   {
+    "family": "Hansell CE"
+   },
+   {
+    "family": "Aneis HA"
+   },
+   {
+    "family": "Yang Z"
+   },
+   {
+    "family": "Kitsios GD"
+   },
+   {
+    "family": "Yende SP"
+   },
+   {
+    "family": "Bain WG"
+   },
+   {
+    "family": "Wang Y"
+   },
+   {
+    "family": "Nouraie SM"
+   },
+   {
+    "family": "Sharma L"
+   },
+   {
+    "family": "Zhao Y"
+   },
+   {
+    "family": "Petro N"
+   },
+   {
+    "family": "Girard TD"
+   },
+   {
+    "family": "Huang DT"
+   },
+   {
+    "family": "Ramakrishnan S"
+   },
+   {
+    "family": "Patel J"
+   },
+   {
+    "family": "Morris A"
+   },
+   {
+    "family": "McVerry BJ"
+   },
+   {
+    "family": "Zhang Y"
+   },
+   {
+    "family": "Talisa VB"
+   },
+   {
+    "family": "Shah FA"
+   }
+  ],
+  "container-title": "Am J Respir Crit Care Med",
+  "DOI": "10.1093/ajrccm/aamag366",
+  "URL": "https://academic.oup.com/ajrccm/advance-article/doi/10.1093/ajrccm/aamag366/8733254",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W29; borderline; section-inferred"
+ },
+ {
   "id": "10.1093/ajrccm/aamag457",
   "type": "article-journal",
   "title": "Mechanical ventilation-induced neutrophil extracellular vesicles as mediators of postoperative pulmonary complications",
@@ -147650,6 +148415,33 @@
    ]
   },
   "keyword": "ECMO; 2026-W34"
+ },
+ {
+  "id": "10.1097/mat.0000000000002806",
+  "type": "article-journal",
+  "title": "Liquid Lung Rest During Extracorporeal Life Support in a Neonatal Porcine Model of Acute Lung Injury",
+  "author": [
+   {
+    "family": "Blauvelt DG"
+   },
+   {
+    "family": "Hesek A"
+   },
+   {
+    "family": "Golecki M"
+   }
+  ],
+  "container-title": "ASAIO J",
+  "DOI": "10.1097/mat.0000000000002806",
+  "URL": "https://www.ovid.com/10.1097/MAT.0000000000002806",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-W33; borderline; section-inferred"
  },
  {
   "id": "10.1097/mat.0000000000002808",
