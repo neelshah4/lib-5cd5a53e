@@ -4426,6 +4426,19 @@ KW  - 2025-10
 ER  - 
 
 TY  - JOUR
+TI  - Understanding Neurogenic Patient-Ventilator Discordance and its Management.
+AU  - Wijdicks EF
+AU  - LeTourneau WM.
+JO  - Neurocrit Care
+PY  - 2026
+DO  - 10.1007/s12028-026-02611-2
+AN  - 42934457
+UR  - https://link.springer.com/article/10.1007/s12028-026-02611-2
+KW  - Respiratory/ARDS
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
 TI  - Restricted versus Usual/Liberal Maintenance Fluid Strategy in Mechanically Ventilated Children: An Open-Label Randomized Trial (ReLiSCh Trial).
 AU  - Charaya S
 AU  - Angurana SK
@@ -6162,6 +6175,19 @@ UR  - https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01485-4
 KW  - Respiratory/ARDS
 KW  - general
 KW  - 2022-09
+ER  - 
+
+TY  - JOUR
+TI  - Prone positioning and high-frequency oscillatory ventilation in early paediatric acute respiratory distress syndrome (PROSpect): an international, two-by-two factorial, response-adaptive, phase 3, randomised controlled trial.
+AU  - Curley MAQ
+AU  - Kneyber MCJ
+AU  - Cheifetz IM
+JO  - Lancet
+PY  - 2026
+DO  - 10.1016/s0140-6736(26
+AN  - 42956771
+KW  - Respiratory/ARDS
+KW  - 2026-W45
 ER  - 
 
 TY  - JOUR
@@ -8382,6 +8408,20 @@ KW  - 2026-10
 ER  - 
 
 TY  - JOUR
+TI  - Identification of nonventilated, nonperfused regions using computed tomography-derived lung boundaries and electrical impedance tomography.
+AU  - Di C
+AU  - Xu M
+AU  - Zhao Z
+JO  - Am J Respir Crit Care Med
+PY  - 2026
+DO  - 10.1093/ajrccm/aamag317
+AN  - 42412520
+UR  - https://academic.oup.com/ajrccm/article/212/11/2812/8726255
+KW  - Respiratory/ARDS
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
 TI  - Mechanical ventilation-induced neutrophil extracellular vesicles as mediators of postoperative pulmonary complications
 AU  - Stephens JR
 AU  - Heng S
@@ -8475,6 +8515,25 @@ AN  - 41723830
 UR  - https://academic.oup.com/annalsats/article/23/6/927/8494540
 KW  - Respiratory/ARDS
 KW  - 2026-W24
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - Inspiratory muscle activity as a noninvasive, continuous, complementary marker of dyspnea during mechanical ventilation
+AU  - Gutierrez G
+AU  - Türkan H
+AU  - Irrazabal C
+AU  - Tunçer Peker T
+AU  - Sosa C
+AU  - Wulf-Gutierrez M
+JO  - Ann Am Thorac Soc
+PY  - 2026
+DO  - 10.1093/annalsats/aaoag173
+AN  - 42360725
+UR  - https://academic.oup.com/annalsats/article/23/11/1706/8719026
+KW  - Respiratory/ARDS
+KW  - 2026-W45
 KW  - borderline
 KW  - section-inferred
 ER  - 
@@ -19351,6 +19410,20 @@ AN  - 42449426
 UR  - https://link.springer.com/10.1186/s13054-026-06195-3
 KW  - Respiratory/ARDS
 KW  - 2026-W29
+ER  - 
+
+TY  - JOUR
+TI  - Chlorhexidine within a standardized oral-care bundle for the prevention of ventilator-associated pneumonia: a pragmatic cluster-randomized crossover trial in six medical intensive care units.
+AU  - Anushapreethi S
+AU  - Chhotray P
+AU  - Samal S
+JO  - Crit Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06217-0
+AN  - 42958418
+UR  - https://link.springer.com/article/10.1186/s13054-026-06217-0
+KW  - Respiratory/ARDS
+KW  - 2026-W45
 ER  - 
 
 TY  - JOUR
