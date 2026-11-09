@@ -6081,6 +6081,33 @@
   "keyword": "Respiratory/ARDS; 2026-W43"
  },
  {
+  "id": "10.1001/jama.2026.15496",
+  "type": "article-journal",
+  "title": "Tenecteplase Before Thrombectomy at 4.5 to 24 Hours for Basilar Artery Occlusion: The ATTENTION LATE Randomized Clinical Trial.",
+  "author": [
+   {
+    "family": "Li R"
+   },
+   {
+    "family": "Yao X"
+   },
+   {
+    "family": "Nogueira RG"
+   }
+  ],
+  "container-title": "JAMA",
+  "DOI": "10.1001/jama.2026.15496",
+  "URL": "https://jamanetwork.com/journals/jama/fullarticle/2854449",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W45"
+ },
+ {
   "id": "10.1001/jama.2026.18471",
   "type": "article-journal",
   "title": "Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial",
@@ -64253,6 +64280,60 @@
   "keyword": "Shock & Sepsis; 2026-W36"
  },
  {
+  "id": "10.1007/s00134-026-08635-8",
+  "type": "article-journal",
+  "title": "Individualized treatment effects of high flow nasal oxygen in immunocompromised patients.",
+  "author": [
+   {
+    "family": "Maillard A"
+   },
+   {
+    "family": "Métais M"
+   },
+   {
+    "family": "Lemiale V"
+   }
+  ],
+  "container-title": "Intensive Care Med",
+  "DOI": "10.1007/s00134-026-08635-8",
+  "URL": "https://link.springer.com/article/10.1007/s00134-026-08635-8",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W45"
+ },
+ {
+  "id": "10.1007/s00134-026-08659-0",
+  "type": "article-journal",
+  "title": "Consensus on a core outcome set for ventilation trials in critically ill patients with acute brain injury: results of an international Delphi consensus study.",
+  "author": [
+   {
+    "family": "Fong N"
+   },
+   {
+    "family": "Burns G"
+   },
+   {
+    "family": "Phillips J"
+   }
+  ],
+  "container-title": "Intensive Care Med",
+  "DOI": "10.1007/s00134-026-08659-0",
+  "URL": "https://link.springer.com/article/10.1007/s00134-026-08659-0",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W45"
+ },
+ {
   "id": "10.1007/s001340050246",
   "type": "article-journal",
   "title": "Tissue hypoxia (3rd European Consensus Conference in Intensive Care Medicine Organized by the Soci�t� de R�animation de Langue Fran�aise Co-sponsored by the American Thoracic Society In conjunction with the European Society of Intensive Care Medicine)",
@@ -67217,6 +67298,51 @@
    ]
   },
   "keyword": "Misc; 2026-W43"
+ },
+ {
+  "id": "10.1007/s00431-026-07565-3",
+  "type": "article-journal",
+  "title": "Fluid choice in pediatric diabetic ketoacidosis: a Systematic Review and Meta-Analysis.",
+  "author": [
+   {
+    "family": "Rabelo AA"
+   },
+   {
+    "family": "Oliveira JFCe"
+   },
+   {
+    "family": "Oliveira LF"
+   },
+   {
+    "family": "Melim PB"
+   },
+   {
+    "family": "Castro DC"
+   },
+   {
+    "family": "Carolino GGS"
+   },
+   {
+    "family": "Corrêa CA"
+   },
+   {
+    "family": "Negrato CA"
+   },
+   {
+    "family": "Barhight MF"
+   }
+  ],
+  "container-title": "Eur J Pediatr",
+  "DOI": "10.1007/s00431-026-07565-3",
+  "URL": "https://link.springer.com/article/10.1007/s00431-026-07565-3",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W45; borderline; section-inferred"
  },
  {
   "id": "10.1007/s00431-026-07567-1",
@@ -73445,6 +73571,33 @@
   "container-title": "Neurocrit Care",
   "DOI": "10.1007/s12028-026-02703-z",
   "URL": "https://link.springer.com/article/10.1007/s12028-026-02703-z",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W45"
+ },
+ {
+  "id": "10.1007/s12028-026-02705-x",
+  "type": "article-journal",
+  "title": "Brain Tissue Oxygenation in the Contralateral Hemisphere of Critically Ill Patients with Spontaneous Intracerebral Hemorrhage: A Prospective Observational Study.",
+  "author": [
+   {
+    "family": "Ferreira A"
+   },
+   {
+    "family": "Dias M"
+   },
+   {
+    "family": "Silva PA"
+   }
+  ],
+  "container-title": "Neurocrit Care",
+  "DOI": "10.1007/s12028-026-02705-x",
+  "URL": "https://link.springer.com/article/10.1007/s12028-026-02705-x",
   "issued": {
    "date-parts": [
     [
@@ -82789,6 +82942,33 @@
   "keyword": "Respiratory/ARDS; 2026-W41"
  },
  {
+  "id": "10.1016/j.chest.2026.10.033",
+  "type": "article-journal",
+  "title": "Efficacy and Safety of Ulinastatin in the Treatment of Patients with Sepsis: The ADJUST Trial.",
+  "author": [
+   {
+    "family": "Chen Y"
+   },
+   {
+    "family": "Jiang W"
+   },
+   {
+    "family": "Yu X"
+   }
+  ],
+  "container-title": "Chest",
+  "DOI": "10.1016/j.chest.2026.10.033",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S001236922606945X",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-W45"
+ },
+ {
   "id": "10.1016/j.chstcc.2023.100010",
   "type": "article-journal",
   "title": "Effects of Prone Position in Patients With COVID-19 Treated With Extracorporeal Membrane Oxygenation",
@@ -91931,6 +92111,93 @@
   "keyword": "Shock & Sepsis; 2026-W45"
  },
  {
+  "id": "10.1016/j.jcrc.2026.155798",
+  "type": "article-journal",
+  "title": "Remimazolam versus propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials.",
+  "author": [
+   {
+    "family": "Nakahara S"
+   },
+   {
+    "family": "Velarde-Pineda AA"
+   },
+   {
+    "family": "Romero Bonifaz CA"
+   }
+  ],
+  "container-title": "J Crit Care",
+  "DOI": "10.1016/j.jcrc.2026.155798",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S088394412600376X",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W45"
+ },
+ {
+  "id": "10.1016/j.jcrc.2026.155806",
+  "type": "article-journal",
+  "title": "Oxygen consumption as a measure of metabolic demand during early rehabilitation and bedside activity in critically ill adults receiving invasive mechanical ventilation: A systematic review and meta-analysis.",
+  "author": [
+   {
+    "family": "Fernández-Morales C"
+   },
+   {
+    "family": "Santiago-Triviño MdlÁ"
+   },
+   {
+    "family": "Cardero-Durán MdlÁ"
+   },
+   {
+    "family": "Espejo-Antúnez L"
+   },
+   {
+    "family": "Cerezo-Arias MdlO"
+   }
+  ],
+  "container-title": "J Crit Care",
+  "DOI": "10.1016/j.jcrc.2026.155806",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126003849",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W45; borderline; section-inferred"
+ },
+ {
+  "id": "10.1016/j.jcrc.2026.155808",
+  "type": "article-journal",
+  "title": "Real-world outcomes of continuous infusion of sedative agents in critically ill patients with invasive mechanical ventilation.",
+  "author": [
+   {
+    "family": "Wu CC"
+   },
+   {
+    "family": "Chien HT"
+   },
+   {
+    "family": "Lu SH"
+   }
+  ],
+  "container-title": "J Crit Care",
+  "DOI": "10.1016/j.jcrc.2026.155808",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126003862",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W45"
+ },
+ {
   "id": "10.1016/j.jelectrocard.2021.02.001",
   "type": "article-journal",
   "title": "STEMI: A transitional fossil in MI classification?",
@@ -98216,6 +98483,33 @@
   "keyword": "Shock & Sepsis; 2026-W38; borderline; section-inferred"
  },
  {
+  "id": "10.1016/j.resuscitation.2026.111328",
+  "type": "article-journal",
+  "title": "2026 International Liaison Committee on Resuscitation Consensus on Science With Treatment Recommendations: Summary from the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces.",
+  "author": [
+   {
+    "family": "Bray JE"
+   },
+   {
+    "family": "Djarv T"
+   },
+   {
+    "family": "Drennan IR"
+   }
+  ],
+  "container-title": "Resuscitation",
+  "DOI": "10.1016/j.resuscitation.2026.111328",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0300957226023750",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Cardiac CC; 2026-W45"
+ },
+ {
   "id": "10.1016/j.resuscitation.2026.111341",
   "type": "article-journal",
   "title": "Prehospital Prognostication after Out-of-Hospital Cardiac Arrest in Tertiary Care Centers: The R-EDByUS Score in the JAAM-OHCA Registry.",
@@ -98505,6 +98799,60 @@
    ]
   },
   "keyword": "Cardiac CC; 2026-W45"
+ },
+ {
+  "id": "10.1016/j.resuscitation.2026.111378",
+  "type": "article-journal",
+  "title": "Wearable-based automated cardiac arrest detection and alerting: A systematic review.",
+  "author": [
+   {
+    "family": "Jansen CE"
+   },
+   {
+    "family": "Pol LR"
+   },
+   {
+    "family": "Edgar R"
+   }
+  ],
+  "container-title": "Resuscitation",
+  "DOI": "10.1016/j.resuscitation.2026.111378",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0300957226024251",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Cardiac CC; 2026-W45"
+ },
+ {
+  "id": "10.1016/j.resuscitation.2026.111379",
+  "type": "article-journal",
+  "title": "Long-Term Survival Following Extracorporeal Cardiopulmonary Resuscitation: A Two-Center Five-Year Analysis.",
+  "author": [
+   {
+    "family": "Alexy T"
+   },
+   {
+    "family": "Beery J"
+   },
+   {
+    "family": "Gottula AL"
+   }
+  ],
+  "container-title": "Resuscitation",
+  "DOI": "10.1016/j.resuscitation.2026.111379",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0300957226024263",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-W45"
  },
  {
   "id": "10.1016/j.rmed.2021.106555",
@@ -108169,6 +108517,33 @@
    ]
   },
   "keyword": "Respiratory/ARDS; 2026-W42; borderline; section-inferred"
+ },
+ {
+  "id": "10.1017/s1047951126124755",
+  "type": "article-journal",
+  "title": "Circulatory effects of intravenous magnesium sulphate in children in the cardiac ICU: insights using high-fidelity physiologic monitoring.",
+  "author": [
+   {
+    "family": "Griffiths J"
+   },
+   {
+    "family": "Shah AD"
+   },
+   {
+    "family": "Sourour W"
+   }
+  ],
+  "container-title": "Cardiol Young",
+  "DOI": "10.1017/s1047951126124755",
+  "URL": "https://www.cambridge.org/core/product/identifier/S1047951126124755/type/journal_article",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Cardiac CC; 2026-W45"
  },
  {
   "id": "10.1021/acs.analchem.8b04313.s001",
@@ -138312,6 +138687,33 @@
   "keyword": "Misc; 2026-W45"
  },
  {
+  "id": "10.1097/cce.0000000000001501",
+  "type": "article-journal",
+  "title": "A Novel Resource-Adapted Neurocritical Care Education Program in Tanzania: Implementation, Outcomes, and a Framework for Sustainable Training.",
+  "author": [
+   {
+    "family": "Rajagopalan S"
+   },
+   {
+    "family": "Koffman L"
+   },
+   {
+    "family": "Rincon F"
+   }
+  ],
+  "container-title": "Crit Care Explor",
+  "DOI": "10.1097/cce.0000000000001501",
+  "URL": "https://www.ovid.com/10.1097/CCE.0000000000001501",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W45"
+ },
+ {
   "id": "10.1097/ccm.0000000000000192",
   "type": "article-journal",
   "title": "Surviving Sepsis Campaign",
@@ -145723,6 +146125,33 @@
   "keyword": "Shock & Sepsis; 2026-W43"
  },
  {
+  "id": "10.1097/ccm.0000000000007415",
+  "type": "article-journal",
+  "title": "Long-Term Mortality in Sepsis Survivors: A Population-Based Study During 15 Years.",
+  "author": [
+   {
+    "family": "Lorencio-Cárdenas C"
+   },
+   {
+    "family": "Vela E"
+   },
+   {
+    "family": "Esteban-Torné E"
+   }
+  ],
+  "container-title": "Crit Care Med",
+  "DOI": "10.1097/ccm.0000000000007415",
+  "URL": "https://www.ovid.com/10.1097/CCM.0000000000007415",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-W45"
+ },
+ {
   "id": "10.1097/ccm.0b013e3181c65a12",
   "type": "article-journal",
   "title": "Pay for performance in critical care: An executive summary of the position paper by the Society of Critical Care Medicine: Erratum",
@@ -149744,6 +150173,60 @@
    ]
   },
   "keyword": "Cardiac CC; 2026-W45"
+ },
+ {
+  "id": "10.1097/mat.0000000000002909",
+  "type": "article-journal",
+  "title": "Current Global Trends and Challenges of Pediatric Ventricular Assist Device Programs: An ACTION Collaborative Survey.",
+  "author": [
+   {
+    "family": "Kim AY"
+   },
+   {
+    "family": "Asante-Korang A"
+   },
+   {
+    "family": "Kim HJ"
+   }
+  ],
+  "container-title": "ASAIO J",
+  "DOI": "10.1097/mat.0000000000002909",
+  "URL": "https://www.ovid.com/10.1097/MAT.0000000000002909",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Cardiac CC; 2026-W45"
+ },
+ {
+  "id": "10.1097/mat.0000000000002911",
+  "type": "article-journal",
+  "title": "Cardiac Output From Right Ventricular Pressure: Not the Solution for Venovenous Extracorporeal Membrane Oxygenation.",
+  "author": [
+   {
+    "family": "Lescroart M"
+   },
+   {
+    "family": "Pequignot B"
+   },
+   {
+    "family": "Groubatch F"
+   }
+  ],
+  "container-title": "ASAIO J",
+  "DOI": "10.1097/mat.0000000000002911",
+  "URL": "https://www.ovid.com/10.1097/MAT.0000000000002911",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-W45"
  },
  {
   "id": "10.1097/mcc.0000000000000774",
@@ -160206,6 +160689,33 @@
   "keyword": "Shock & Sepsis; 2026-W38; 2026-10"
  },
  {
+  "id": "10.1097/pcc.0000000000004056",
+  "type": "article-journal",
+  "title": "Extubation Failure and Duration of Respiratory Support Postextubation in Children: Australian and New Zealand Multicenter, ICU Registry Data, 2014-2021.",
+  "author": [
+   {
+    "family": "Schibler A"
+   },
+   {
+    "family": "Franklin D"
+   },
+   {
+    "family": "El-Heneidy A"
+   }
+  ],
+  "container-title": "Pediatr Crit Care Med",
+  "DOI": "10.1097/pcc.0000000000004056",
+  "URL": "https://www.ovid.com/10.1097/PCC.0000000000004056",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W45"
+ },
+ {
   "id": "10.1097/pcc.0000000000004057",
   "type": "article-journal",
   "title": "Survival in Extracorporeal Cardiopulmonary Resuscitation for Pediatric In-Hospital Cardiac Arrest: Nationwide Cohort Study in Japan, 2011-2022",
@@ -160428,6 +160938,150 @@
   "keyword": "Respiratory/ARDS; 2026-W41"
  },
  {
+  "id": "10.1097/pcc.0000000000004073",
+  "type": "article-journal",
+  "title": "Lung Morphology Assessed by Ultrasound and Positive End-Expiratory Pressure During Mechanical Ventilation for Acute Hypoxemic Respiratory Failure: Secondary Analysis of a Multicenter PICU Cohort From Spain and Portugal, 2020-2021.",
+  "author": [
+   {
+    "family": "Oulego-Erroz I"
+   },
+   {
+    "family": "de Castro-Vecino MDP"
+   },
+   {
+    "family": "González-Cortés R"
+   }
+  ],
+  "container-title": "Pediatr Crit Care Med",
+  "DOI": "10.1097/pcc.0000000000004073",
+  "URL": "https://www.ovid.com/10.1097/PCC.0000000000004073",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W45"
+ },
+ {
+  "id": "10.1097/pcc.0000000000004074",
+  "type": "article-journal",
+  "title": "Flow-to-Compliance Ratio as a Bedside Marker of Strain Rate in Pediatric Acute Respiratory Distress Syndrome: Analysis of Observational Cohort Data From 2022.",
+  "author": [
+   {
+    "family": "Cruces P"
+   },
+   {
+    "family": "Améstica M"
+   },
+   {
+    "family": "Cruces JP"
+   }
+  ],
+  "container-title": "Pediatr Crit Care Med",
+  "DOI": "10.1097/pcc.0000000000004074",
+  "URL": "https://www.ovid.com/10.1097/PCC.0000000000004074",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W45"
+ },
+ {
+  "id": "10.1097/pcc.0000000000004075",
+  "type": "article-journal",
+  "title": "Extubation Failure in Pediatric Critical Care: A Secondary Analysis of the 2018-2019 Sedation and Weaning in Children (SandWiCh) Trial.",
+  "author": [
+   {
+    "family": "Arthur S"
+   },
+   {
+    "family": "Ray S"
+   },
+   {
+    "family": "McDowell C"
+   }
+  ],
+  "container-title": "Pediatr Crit Care Med",
+  "DOI": "10.1097/pcc.0000000000004075",
+  "URL": "https://www.ovid.com/10.1097/PCC.0000000000004075",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-W45"
+ },
+ {
+  "id": "10.1097/pcc.0000000000004076",
+  "type": "article-journal",
+  "title": "Platelet Transfusion Practices in the PICUs: Multicenter, Observational Study, in Türkiye and Northern Cyprus, 2024.",
+  "author": [
+   {
+    "family": "Ödek Ç"
+   },
+   {
+    "family": "Aydoğdu F"
+   },
+   {
+    "family": "Arslan D"
+   }
+  ],
+  "container-title": "Pediatr Crit Care Med",
+  "DOI": "10.1097/pcc.0000000000004076",
+  "URL": "https://www.ovid.com/10.1097/PCC.0000000000004076",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W45"
+ },
+ {
+  "id": "10.1097/pcc.0000000000004079",
+  "type": "article-journal",
+  "title": "Peripheral IV Catheter Longevity With Ultrasound Guidance in the PICU: Single-Center Retrospective Cohort, 2016-2018.",
+  "author": [
+   {
+    "family": "Amorese J"
+   },
+   {
+    "family": "Bohn N"
+   },
+   {
+    "family": "Ruddy T"
+   },
+   {
+    "family": "Snider J"
+   },
+   {
+    "family": "Kane M"
+   },
+   {
+    "family": "Su E"
+   }
+  ],
+  "container-title": "Peripheral IV Catheter Longevity With Ultrasound Guidance in the PICU: Single-Center Retrospective Cohort",
+  "DOI": "10.1097/pcc.0000000000004079",
+  "URL": "https://www.ovid.com/10.1097/PCC.0000000000004079",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W45; borderline; section-inferred"
+ },
+ {
   "id": "10.1097/pcc.0000000000004081",
   "type": "article-journal",
   "title": "Efficacy of an Ultrasound Guided Intravenous Access Training Program in a Pediatric Cardiac Intensive Care Unit",
@@ -160488,6 +161142,33 @@
   "keyword": "Misc; 2026-W43; borderline; section-inferred"
  },
  {
+  "id": "10.1097/pcc.0000000000004093",
+  "type": "article-journal",
+  "title": "Propofol Infusion in a Mixed PICU: Prevalence of Propofol-Related Infusion Syndrome in a Retrospective Cohort, 2019-2022.",
+  "author": [
+   {
+    "family": "Burnhill G"
+   },
+   {
+    "family": "Cavagnero F"
+   },
+   {
+    "family": "Lillie J"
+   }
+  ],
+  "container-title": "Pediatr Crit Care Med",
+  "DOI": "10.1097/pcc.0000000000004093",
+  "URL": "https://www.ovid.com/10.1097/PCC.0000000000004093",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W45"
+ },
+ {
   "id": "10.1097/pcc.0000000000004094",
   "type": "article-journal",
   "title": "Timing of the Adrenaline Administration in Witnessed Pediatric Out-of-Hospital Cardiac Arrest: Retrospective, National Cohort Study in Japan, Using a 2014-2020 Dataset.",
@@ -160513,6 +161194,60 @@
    ]
   },
   "keyword": "Cardiac CC; 2026-W45"
+ },
+ {
+  "id": "10.1097/pcc.0000000000004095",
+  "type": "article-journal",
+  "title": "Fluid-Refractory Septic Shock in Children and Milrinone: Outcomes in a Two-Center, Retrospective Cohort in France, 2011-2021.",
+  "author": [
+   {
+    "family": "Bonjour G"
+   },
+   {
+    "family": "Cailliau E"
+   },
+   {
+    "family": "Raimbault S"
+   }
+  ],
+  "container-title": "Pediatr Crit Care Med",
+  "DOI": "10.1097/pcc.0000000000004095",
+  "URL": "https://www.ovid.com/10.1097/PCC.0000000000004095",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Shock & Sepsis; 2026-W45"
+ },
+ {
+  "id": "10.1097/pcc.0000000000004101",
+  "type": "article-journal",
+  "title": "Prevalence and Outcomes of Refeeding Syndrome in Critically Ill Children: A Retrospective Study in a Tertiary Care Setting.",
+  "author": [
+   {
+    "family": "Upanan K"
+   },
+   {
+    "family": "Sitthikarnkha P"
+   },
+   {
+    "family": "Uppala R"
+   }
+  ],
+  "container-title": "Pediatr Crit Care Med",
+  "DOI": "10.1097/pcc.0000000000004101",
+  "URL": "https://www.ovid.com/10.1097/PCC.0000000000004101",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Misc; 2026-W45"
  },
  {
   "id": "10.1097/pcc.0b013e3181b7fa1f",
@@ -233871,6 +234606,33 @@
    ]
   },
   "keyword": "Respiratory/ARDS; 2026-W40"
+ },
+ {
+  "id": "10.1186/s13054-026-06414-x",
+  "type": "article-journal",
+  "title": "Differentiated effect of hypothermia versus normothermia after cardiac arrest by neurological status and clinical correlates of ischemic burden.",
+  "author": [
+   {
+    "family": "Lileikyte G"
+   },
+   {
+    "family": "Marinho LL"
+   },
+   {
+    "family": "Lu Y"
+   }
+  ],
+  "container-title": "Crit Care",
+  "DOI": "10.1186/s13054-026-06414-x",
+  "URL": "https://link.springer.com/article/10.1186/s13054-026-06414-x",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Neurocritical Care; 2026-W45"
  },
  {
   "id": "10.1186/s13063-021-05618-6",

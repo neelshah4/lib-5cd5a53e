@@ -2264,6 +2264,20 @@ KW  - 2026-W43
 ER  - 
 
 TY  - JOUR
+TI  - Tenecteplase Before Thrombectomy at 4.5 to 24 Hours for Basilar Artery Occlusion: The ATTENTION LATE Randomized Clinical Trial.
+AU  - Li R
+AU  - Yao X
+AU  - Nogueira RG
+JO  - JAMA
+PY  - 2026
+DO  - 10.1001/jama.2026.15496
+AN  - 42776543
+UR  - https://jamanetwork.com/journals/jama/fullarticle/2854449
+KW  - Neurocritical Care
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
 TI  - Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial
 AU  - Jerath A
 AU  - Slessarev M
@@ -21424,6 +21438,34 @@ KW  - 2026-W36
 ER  - 
 
 TY  - JOUR
+TI  - Individualized treatment effects of high flow nasal oxygen in immunocompromised patients.
+AU  - Maillard A
+AU  - Métais M
+AU  - Lemiale V
+JO  - Intensive Care Med
+PY  - 2026
+DO  - 10.1007/s00134-026-08635-8
+AN  - 42970133
+UR  - https://link.springer.com/article/10.1007/s00134-026-08635-8
+KW  - Respiratory/ARDS
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
+TI  - Consensus on a core outcome set for ventilation trials in critically ill patients with acute brain injury: results of an international Delphi consensus study.
+AU  - Fong N
+AU  - Burns G
+AU  - Phillips J
+JO  - Intensive Care Med
+PY  - 2026
+DO  - 10.1007/s00134-026-08659-0
+AN  - 42986439
+UR  - https://link.springer.com/article/10.1007/s00134-026-08659-0
+KW  - Neurocritical Care
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
 TI  - Tissue hypoxia (3rd European Consensus Conference in Intensive Care Medicine Organized by the Soci�t� de R�animation de Langue Fran�aise Co-sponsored by the American Thoracic Society In conjunction with the European Society of Intensive Care Medicine)
 AU  - Not Available, Not Available
 JO  - Intensive Care Medicine
@@ -22694,6 +22736,28 @@ AN  - 42909632
 UR  - https://link.springer.com/article/10.1007/s00431-026-07544-8
 KW  - Misc
 KW  - 2026-W43
+ER  - 
+
+TY  - JOUR
+TI  - Fluid choice in pediatric diabetic ketoacidosis: a Systematic Review and Meta-Analysis.
+AU  - Rabelo AA
+AU  - Oliveira JFCe
+AU  - Oliveira LF
+AU  - Melim PB
+AU  - Castro DC
+AU  - Carolino GGS
+AU  - Corrêa CA
+AU  - Negrato CA
+AU  - Barhight MF
+JO  - Eur J Pediatr
+PY  - 2026
+DO  - 10.1007/s00431-026-07565-3
+AN  - 42977847
+UR  - https://link.springer.com/article/10.1007/s00431-026-07565-3
+KW  - Misc
+KW  - 2026-W45
+KW  - borderline
+KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -25240,6 +25304,20 @@ PY  - 2026
 DO  - 10.1007/s12028-026-02703-z
 AN  - 42955701
 UR  - https://link.springer.com/article/10.1007/s12028-026-02703-z
+KW  - Neurocritical Care
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
+TI  - Brain Tissue Oxygenation in the Contralateral Hemisphere of Critically Ill Patients with Spontaneous Intracerebral Hemorrhage: A Prospective Observational Study.
+AU  - Ferreira A
+AU  - Dias M
+AU  - Silva PA
+JO  - Neurocrit Care
+PY  - 2026
+DO  - 10.1007/s12028-026-02705-x
+AN  - 42980976
+UR  - https://link.springer.com/article/10.1007/s12028-026-02705-x
 KW  - Neurocritical Care
 KW  - 2026-W45
 ER  - 
@@ -29059,6 +29137,20 @@ KW  - 2026-W41
 ER  - 
 
 TY  - JOUR
+TI  - Efficacy and Safety of Ulinastatin in the Treatment of Patients with Sepsis: The ADJUST Trial.
+AU  - Chen Y
+AU  - Jiang W
+AU  - Yu X
+JO  - Chest
+PY  - 2026
+DO  - 10.1016/j.chest.2026.10.033
+AN  - 42994751
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S001236922606945X
+KW  - Shock & Sepsis
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
 TI  - Effects of Prone Position in Patients With COVID-19 Treated With Extracorporeal Membrane Oxygenation
 AU  - García-de-Acilu, Marina
 AU  - Pacheco, Andrés
@@ -32637,6 +32729,52 @@ KW  - 2026-W45
 ER  - 
 
 TY  - JOUR
+TI  - Remimazolam versus propofol for sedation in mechanically ventilated ICU patients: A systematic review and meta-analysis of randomized controlled trials.
+AU  - Nakahara S
+AU  - Velarde-Pineda AA
+AU  - Romero Bonifaz CA
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155798
+AN  - 42981695
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S088394412600376X
+KW  - Misc
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
+TI  - Oxygen consumption as a measure of metabolic demand during early rehabilitation and bedside activity in critically ill adults receiving invasive mechanical ventilation: A systematic review and meta-analysis.
+AU  - Fernández-Morales C
+AU  - Santiago-Triviño MdlÁ
+AU  - Cardero-Durán MdlÁ
+AU  - Espejo-Antúnez L
+AU  - Cerezo-Arias MdlO
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155806
+AN  - 42981693
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126003849
+KW  - Respiratory/ARDS
+KW  - 2026-W45
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - Real-world outcomes of continuous infusion of sedative agents in critically ill patients with invasive mechanical ventilation.
+AU  - Wu CC
+AU  - Chien HT
+AU  - Lu SH
+JO  - J Crit Care
+PY  - 2026
+DO  - 10.1016/j.jcrc.2026.155808
+AN  - 42976438
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126003862
+KW  - Misc
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
 TI  - STEMI: A transitional fossil in MI classification?
 AU  - Aslanger, Emre K.
 AU  - Meyers, Pendell H.
@@ -35223,6 +35361,20 @@ KW  - section-inferred
 ER  - 
 
 TY  - JOUR
+TI  - 2026 International Liaison Committee on Resuscitation Consensus on Science With Treatment Recommendations: Summary from the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces.
+AU  - Bray JE
+AU  - Djarv T
+AU  - Drennan IR
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111328
+AN  - 42988037
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226023750
+KW  - Cardiac CC
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
 TI  - Prehospital Prognostication after Out-of-Hospital Cardiac Arrest in Tertiary Care Centers: The R-EDByUS Score in the JAAM-OHCA Registry.
 AU  - Shimada T
 AU  - Kawai R
@@ -35371,6 +35523,34 @@ DO  - 10.1016/j.resuscitation.2026.111373
 AN  - 42956925
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226024202
 KW  - Cardiac CC
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
+TI  - Wearable-based automated cardiac arrest detection and alerting: A systematic review.
+AU  - Jansen CE
+AU  - Pol LR
+AU  - Edgar R
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111378
+AN  - 42971312
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226024251
+KW  - Cardiac CC
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
+TI  - Long-Term Survival Following Extracorporeal Cardiopulmonary Resuscitation: A Two-Center Five-Year Analysis.
+AU  - Alexy T
+AU  - Beery J
+AU  - Gottula AL
+JO  - Resuscitation
+PY  - 2026
+DO  - 10.1016/j.resuscitation.2026.111379
+AN  - 42971311
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226024263
+KW  - ECMO
 KW  - 2026-W45
 ER  - 
 
@@ -38790,6 +38970,20 @@ KW  - Respiratory/ARDS
 KW  - 2026-W42
 KW  - borderline
 KW  - section-inferred
+ER  - 
+
+TY  - JOUR
+TI  - Circulatory effects of intravenous magnesium sulphate in children in the cardiac ICU: insights using high-fidelity physiologic monitoring.
+AU  - Griffiths J
+AU  - Shah AD
+AU  - Sourour W
+JO  - Cardiol Young
+PY  - 2026
+DO  - 10.1017/s1047951126124755
+AN  - 42990107
+UR  - https://www.cambridge.org/core/product/identifier/S1047951126124755/type/journal_article
+KW  - Cardiac CC
+KW  - 2026-W45
 ER  - 
 
 TY  - JOUR
@@ -49580,6 +49774,20 @@ KW  - 2026-W45
 ER  - 
 
 TY  - JOUR
+TI  - A Novel Resource-Adapted Neurocritical Care Education Program in Tanzania: Implementation, Outcomes, and a Framework for Sustainable Training.
+AU  - Rajagopalan S
+AU  - Koffman L
+AU  - Rincon F
+JO  - Crit Care Explor
+PY  - 2026
+DO  - 10.1097/cce.0000000000001501
+AN  - 42953567
+UR  - https://www.ovid.com/10.1097/CCE.0000000000001501
+KW  - Neurocritical Care
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
 TI  - Surviving Sepsis Campaign
 JO  - Critical Care Medicine
 PY  - 2014
@@ -52643,6 +52851,20 @@ KW  - 2026-W43
 ER  - 
 
 TY  - JOUR
+TI  - Long-Term Mortality in Sepsis Survivors: A Population-Based Study During 15 Years.
+AU  - Lorencio-Cárdenas C
+AU  - Vela E
+AU  - Esteban-Torné E
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007415
+AN  - 42987192
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007415
+KW  - Shock & Sepsis
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
 TI  - Pay for performance in critical care: An executive summary of the position paper by the Society of Critical Care Medicine: Erratum
 JO  - Critical Care Medicine
 PY  - 2009
@@ -54437,6 +54659,34 @@ DO  - 10.1097/mat.0000000000002903
 AN  - 42962225
 UR  - https://www.ovid.com/10.1097/MAT.0000000000002903
 KW  - Cardiac CC
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
+TI  - Current Global Trends and Challenges of Pediatric Ventricular Assist Device Programs: An ACTION Collaborative Survey.
+AU  - Kim AY
+AU  - Asante-Korang A
+AU  - Kim HJ
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002909
+AN  - 42987331
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002909
+KW  - Cardiac CC
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
+TI  - Cardiac Output From Right Ventricular Pressure: Not the Solution for Venovenous Extracorporeal Membrane Oxygenation.
+AU  - Lescroart M
+AU  - Pequignot B
+AU  - Groubatch F
+JO  - ASAIO J
+PY  - 2026
+DO  - 10.1097/mat.0000000000002911
+AN  - 42987328
+UR  - https://www.ovid.com/10.1097/MAT.0000000000002911
+KW  - ECMO
 KW  - 2026-W45
 ER  - 
 
@@ -58780,6 +59030,20 @@ KW  - 2026-10
 ER  - 
 
 TY  - JOUR
+TI  - Extubation Failure and Duration of Respiratory Support Postextubation in Children: Australian and New Zealand Multicenter, ICU Registry Data, 2014-2021.
+AU  - Schibler A
+AU  - Franklin D
+AU  - El-Heneidy A
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004056
+AN  - 42975426
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004056
+KW  - Respiratory/ARDS
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
 TI  - Survival in Extracorporeal Cardiopulmonary Resuscitation for Pediatric In-Hospital Cardiac Arrest: Nationwide Cohort Study in Japan, 2011-2022
 AU  - Ikeyama T
 AU  - Shiima Y
@@ -58894,6 +59158,81 @@ KW  - 2026-W41
 ER  - 
 
 TY  - JOUR
+TI  - Lung Morphology Assessed by Ultrasound and Positive End-Expiratory Pressure During Mechanical Ventilation for Acute Hypoxemic Respiratory Failure: Secondary Analysis of a Multicenter PICU Cohort From Spain and Portugal, 2020-2021.
+AU  - Oulego-Erroz I
+AU  - de Castro-Vecino MDP
+AU  - González-Cortés R
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004073
+AN  - 42980518
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004073
+KW  - Respiratory/ARDS
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
+TI  - Flow-to-Compliance Ratio as a Bedside Marker of Strain Rate in Pediatric Acute Respiratory Distress Syndrome: Analysis of Observational Cohort Data From 2022.
+AU  - Cruces P
+AU  - Améstica M
+AU  - Cruces JP
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004074
+AN  - 42980508
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004074
+KW  - Respiratory/ARDS
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
+TI  - Extubation Failure in Pediatric Critical Care: A Secondary Analysis of the 2018-2019 Sedation and Weaning in Children (SandWiCh) Trial.
+AU  - Arthur S
+AU  - Ray S
+AU  - McDowell C
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004075
+AN  - 42987232
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004075
+KW  - Respiratory/ARDS
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
+TI  - Platelet Transfusion Practices in the PICUs: Multicenter, Observational Study, in Türkiye and Northern Cyprus, 2024.
+AU  - Ödek Ç
+AU  - Aydoğdu F
+AU  - Arslan D
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004076
+AN  - 42980514
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004076
+KW  - Misc
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
+TI  - Peripheral IV Catheter Longevity With Ultrasound Guidance in the PICU: Single-Center Retrospective Cohort, 2016-2018.
+AU  - Amorese J
+AU  - Bohn N
+AU  - Ruddy T
+AU  - Snider J
+AU  - Kane M
+AU  - Su E
+JO  - Peripheral IV Catheter Longevity With Ultrasound Guidance in the PICU: Single-Center Retrospective Cohort
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004079
+AN  - 42980507
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004079
+KW  - Misc
+KW  - 2026-W45
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
 TI  - Efficacy of an Ultrasound Guided Intravenous Access Training Program in a Pediatric Cardiac Intensive Care Unit
 AU  - Alvarado AM
 AU  - Englert AA
@@ -58928,6 +59267,20 @@ KW  - section-inferred
 ER  - 
 
 TY  - JOUR
+TI  - Propofol Infusion in a Mixed PICU: Prevalence of Propofol-Related Infusion Syndrome in a Retrospective Cohort, 2019-2022.
+AU  - Burnhill G
+AU  - Cavagnero F
+AU  - Lillie J
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004093
+AN  - 42987224
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004093
+KW  - Misc
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
 TI  - Timing of the Adrenaline Administration in Witnessed Pediatric Out-of-Hospital Cardiac Arrest: Retrospective, National Cohort Study in Japan, Using a 2014-2020 Dataset.
 AU  - Okajima K
 AU  - Amagasa S
@@ -58938,6 +59291,34 @@ DO  - 10.1097/pcc.0000000000004094
 AN  - 42957612
 UR  - https://www.ovid.com/10.1097/PCC.0000000000004094
 KW  - Cardiac CC
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
+TI  - Fluid-Refractory Septic Shock in Children and Milrinone: Outcomes in a Two-Center, Retrospective Cohort in France, 2011-2021.
+AU  - Bonjour G
+AU  - Cailliau E
+AU  - Raimbault S
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004095
+AN  - 42987204
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004095
+KW  - Shock & Sepsis
+KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
+TI  - Prevalence and Outcomes of Refeeding Syndrome in Critically Ill Children: A Retrospective Study in a Tertiary Care Setting.
+AU  - Upanan K
+AU  - Sitthikarnkha P
+AU  - Uppala R
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004101
+AN  - 42980517
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004101
+KW  - Misc
 KW  - 2026-W45
 ER  - 
 
@@ -84918,6 +85299,20 @@ AN  - 42823746
 UR  - https://link.springer.com/10.1186/s13054-026-06357-3
 KW  - Respiratory/ARDS
 KW  - 2026-W40
+ER  - 
+
+TY  - JOUR
+TI  - Differentiated effect of hypothermia versus normothermia after cardiac arrest by neurological status and clinical correlates of ischemic burden.
+AU  - Lileikyte G
+AU  - Marinho LL
+AU  - Lu Y
+JO  - Crit Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06414-x
+AN  - 42972430
+UR  - https://link.springer.com/article/10.1186/s13054-026-06414-x
+KW  - Neurocritical Care
+KW  - 2026-W45
 ER  - 
 
 TY  - JOUR
