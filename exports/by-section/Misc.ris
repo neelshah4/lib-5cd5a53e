@@ -1529,6 +1529,33 @@ KW  - 2026-05
 ER  - 
 
 TY  - JOUR
+TI  - Cefepime and Mortality
+AU  - Sohani ZN
+AU  - Zhong YJ
+AU  - Afshar A
+AU  - Assiri BA
+AU  - Gore G
+AU  - Cheng MP
+AU  - Lieu A
+AU  - Serero J
+AU  - Hamilton F
+AU  - Lawandi A
+AU  - Paul M
+AU  - Yahav D
+AU  - Albuquerque AM
+AU  - Butler-Laporte G
+AU  - McDonald EG
+AU  - Lee TC
+JO  - JAMA Network Open
+PY  - 2026
+DO  - 10.1001/jamanetworkopen.2026.33017
+AN  - 42720951
+UR  - https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2853883
+KW  - Misc
+KW  - 2026-11
+ER  - 
+
+TY  - JOUR
 TI  - Assessment of Brain Injury Using Portable, Low-Field Magnetic Resonance Imaging at the Bedside of Critically Ill Patients
 AU  - Sheth, Kevin N.
 AU  - Mazurek, Mercy H.
@@ -2132,6 +2159,7 @@ AN  - 42841340
 UR  - http://doi.wiley.com/10.1002/14651858.CD009176.pub3
 KW  - Misc
 KW  - 2026-W41
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -7770,8 +7798,8 @@ AN  - 42855608
 UR  - https://link.springer.com/10.1007/s00431-026-07450-z
 KW  - Misc
 KW  - 2026-W41
+KW  - 2026-11
 KW  - borderline
-KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -8365,6 +8393,40 @@ UR  - https://link.springer.com/article/10.1007/s44253-025-00096-z
 KW  - Misc
 KW  - methods-stats
 KW  - 2025-10
+ER  - 
+
+TY  - JOUR
+TI  - Consensus-based recommendations to support implementation of early mobilisation in the paediatric intensive care unit: an ESPNIC position statement
+AU  - Geven BM
+AU  - Stenkjaer RL
+AU  - Shkurka E
+AU  - Zanen – van den Adel T
+AU  - Reed S
+AU  - Rimmer L
+AU  - Manning JC
+AU  - Early Mobilisation expert panel (Author group)
+AU  - Di Nardo M
+AU  - Wiggelinkhuizen M
+AU  - Verbruggen S
+AU  - Bakker H
+AU  - Amigon A
+AU  - Maria Cristina M
+AU  - Tiphaine C
+AU  - González Cortés R
+AU  - Tingay DG
+AU  - Ozturk NY
+AU  - Hoskote A
+AU  - Ledin ER
+AU  - Mattsson J
+AU  - Bjorling G
+AU  - Ista E
+AU  - the European Society of Pediatric and Neonatal Intensive Care
+JO  - Intensive Care Medicine - Paediatric and Neonatal
+PY  - 2026
+DO  - 10.1007/s44253-026-00138-0
+UR  - https://link.springer.com/10.1007/s44253-026-00138-0
+KW  - Misc
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -15376,6 +15438,7 @@ AN  - 42899309
 UR  - https://academic.oup.com/jamiaopen/article/doi/10.1093/jamiaopen/ooag202/8943928
 KW  - Misc
 KW  - 2026-W43
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -18584,6 +18647,7 @@ AN  - 42775993
 UR  - https://www.ovid.com/10.1097/PCC.0000000000004046
 KW  - Misc
 KW  - 2026-W39
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -18613,6 +18677,7 @@ AN  - 42831730
 UR  - https://www.ovid.com/10.1097/PCC.0000000000004059
 KW  - Misc
 KW  - 2026-W41
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -18663,6 +18728,23 @@ KW  - section-inferred
 ER  - 
 
 TY  - JOUR
+TI  - Efficacy of an Ultrasound Guided Intravenous Access Training Program in a Pediatric Cardiac Intensive Care Unit
+AU  - Alvarado AM
+AU  - Englert AA
+AU  - Bell-Reid D
+AU  - Groves AM
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004081
+AN  - 42905049
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004081
+KW  - Misc
+KW  - 2026-W43
+KW  - 2026-11
+KW  - borderline
+ER  - 
+
+TY  - JOUR
 TI  - Development of a PICU-Based Food Shelf to Support Families With Food Insecurity
 AU  - Zweber H
 AU  - Hume JR
@@ -18691,6 +18773,7 @@ AN  - 42987224
 UR  - https://www.ovid.com/10.1097/PCC.0000000000004093
 KW  - Misc
 KW  - 2026-W45
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR

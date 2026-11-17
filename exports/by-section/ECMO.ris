@@ -4382,6 +4382,7 @@ AN  - 42786630
 UR  - https://academic.oup.com/ajrccm/advance-article/doi/10.1093/ajrccm/aamag471/8834146
 KW  - ECMO
 KW  - 2026-W39
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -4411,6 +4412,46 @@ UR  - https://journals.lww.com/ccmjournal/fulltext/9900/vascular_complications_a
 KW  - ECMO
 KW  - general
 KW  - 2024-11
+ER  - 
+
+TY  - JOUR
+TI  - Prognostic implications of complications during veno-arterial extracorporeal membrane oxygenation for cardiogenic shock
+AU  - Rali AS
+AU  - Sarma D
+AU  - Li H
+AU  - Urner M
+AU  - Boonstra PS
+AU  - Alexander PMA
+AU  - Barbaro RP
+AU  - Alviar C
+AU  - Jentzer JC
+AU  - Grandin EW
+AU  - Bacchetta MD
+AU  - Lima B
+AU  - Shah Z
+AU  - Rycus P
+AU  - Tonna JE
+JO  - European Heart Journal: Acute Cardiovascular Care
+PY  - 2026
+DO  - 10.1093/ehjacc/zuag127
+AN  - 42836556
+UR  - https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuag127/8868925
+KW  - ECMO
+KW  - 2026-11
+ER  - 
+
+TY  - JOUR
+TI  - Earlier Versus Later Extracorporeal Cardiopulmonary Resuscitation in Refractory Out-of-Hospital Cardiac Arrest: A Nationwide Sequential Landmark Target Trial Emulation
+AU  - Sim JH
+AU  - Park B
+AU  - Lee H
+JO  - European Heart Journal: Acute Cardiovascular Care
+PY  - 2026
+DO  - 10.1093/ehjacc/zuag132
+AN  - 42926135
+UR  - https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuag132/8997942
+KW  - ECMO
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -5885,8 +5926,8 @@ AN  - 41347778
 UR  - https://www.ovid.com/10.1097/MAT.0000000000002615
 KW  - ECMO
 KW  - 2026-W40
+KW  - 2026-11
 KW  - borderline
-KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -6087,6 +6128,7 @@ AN  - 42247586
 UR  - https://www.ovid.com/10.1097/MAT.0000000000002757
 KW  - ECMO
 KW  - 2026-W40
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -6477,6 +6519,7 @@ AN  - 42864741
 UR  - https://www.ovid.com/10.1097/MAT.0000000000002869
 KW  - ECMO
 KW  - 2026-W42
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -6505,6 +6548,7 @@ AN  - 42912181
 UR  - https://www.ovid.com/10.1097/MAT.0000000000002881
 KW  - ECMO
 KW  - 2026-W43
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -7016,6 +7060,7 @@ AN  - 42635486
 UR  - https://www.ovid.com/10.1097/PCC.0000000000004029
 KW  - ECMO
 KW  - 2026-W36
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -7045,6 +7090,7 @@ AN  - 42831729
 UR  - https://www.ovid.com/10.1097/PCC.0000000000004042
 KW  - ECMO
 KW  - 2026-W41
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -10139,6 +10185,7 @@ AN  - 42693471
 UR  - https://link.springer.com/10.1186/s13054-026-06300-6
 KW  - ECMO
 KW  - 2026-W37
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -10171,6 +10218,36 @@ UR  - https://link.springer.com/10.1186/s13054-026-06334-w
 KW  - ECMO
 KW  - 2026-W38
 KW  - 2026-10
+ER  - 
+
+TY  - JOUR
+TI  - Continuous blood biochemical monitoring in ECMO: from clinically actionable biomarkers to extracorporeal circuit-integrated analytical systems
+AU  - Chen Y
+AU  - Li J
+AU  - Zhang X
+AU  - Zheng F
+AU  - Meng X
+AU  - Wang Z
+AU  - Liu Z
+AU  - Zhao Y
+AU  - Jia D
+AU  - Lu L
+AU  - Sun G
+AU  - Gao S
+AU  - Du S
+AU  - Zhang C
+AU  - Zheng J
+AU  - Fu Y
+AU  - Hu W
+AU  - Liu Y
+AU  - Xue C
+AU  - Fan H
+JO  - Critical Care
+PY  - 2026
+DO  - 10.1186/s13054-026-06362-6
+UR  - https://link.springer.com/10.1186/s13054-026-06362-6
+KW  - ECMO
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -10309,6 +10386,32 @@ UR  - https://icm-experimental.springeropen.com/articles/10.1186/s40635-023-0056
 KW  - ECMO
 KW  - general
 KW  - 2023-11
+ER  - 
+
+TY  - JOUR
+TI  - Pharmacology of vasopressors and inotropes during extracorporeal membrane oxygenation
+AU  - Brinkman HM
+AU  - Ortoleva JP
+AU  - Elliott AG
+AU  - Pisano DV
+AU  - Ripoll JG
+AU  - Martin NJ
+AU  - Seelhammer TG
+AU  - Kraybill MA
+AU  - Elmadhoun O
+AU  - Bottussi A
+AU  - Leone M
+AU  - Wittwer ED
+AU  - Bignami EG
+AU  - D’Andria Ursoleo J
+AU  - Wieruszewski PM
+JO  - Journal of Anesthesia, Analgesia and Critical Care
+PY  - 2026
+DO  - 10.1186/s44158-026-00408-5
+AN  - 42907944
+UR  - https://link.springer.com/article/10.1186/s44158-026-00408-5
+KW  - ECMO
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR

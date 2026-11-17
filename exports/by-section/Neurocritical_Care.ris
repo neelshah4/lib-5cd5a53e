@@ -2757,6 +2757,33 @@ KW  - 2026-W29
 ER  - 
 
 TY  - JOUR
+TI  - Intracranial pressure physiology, monitoring and individualized management in the acute brain injured patient
+AU  - Taccone FS
+AU  - Arabi Y
+AU  - Baggiani M
+AU  - Brasil S
+AU  - Figaji A
+AU  - Gouvea Bogossian E
+AU  - Hawryluk G
+AU  - Mccredie V
+AU  - Moller K
+AU  - Puppo C
+AU  - Robba C
+AU  - Shrestha GS
+AU  - Tokmak F
+AU  - Udy A
+AU  - Wong YL
+AU  - Meyfroidt G
+JO  - Intensive Care Medicine
+PY  - 2026
+DO  - 10.1007/s00134-026-08558-4
+AN  - 42525086
+UR  - https://link.springer.com/10.1007/s00134-026-08558-4
+KW  - Neurocritical Care
+KW  - 2026-11
+ER  - 
+
+TY  - JOUR
 TI  - Respiratory mechanics modifies the impact of ventilator settings on clinical outcome in patients with acute brain injury
 AU  - Grieco DL
 AU  - Stronati A
@@ -3074,8 +3101,8 @@ AN  - 42773251
 UR  - https://link.springer.com/10.1007/s10143-026-04496-3
 KW  - Neurocritical Care
 KW  - 2026-W39
+KW  - 2026-11
 KW  - borderline
-KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -4439,6 +4466,7 @@ AN  - 42873412
 UR  - https://link.springer.com/article/10.1007/s12028-026-02633-w
 KW  - Neurocritical Care
 KW  - 2026-W42
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -4510,6 +4538,7 @@ AN  - 42768270
 UR  - https://link.springer.com/10.1007/s12028-026-02653-6
 KW  - Neurocritical Care
 KW  - 2026-W39
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -4579,8 +4608,8 @@ AN  - 42806266
 UR  - https://link.springer.com/10.1007/s12028-026-02668-z
 KW  - Neurocritical Care
 KW  - 2026-W40
+KW  - 2026-11
 KW  - borderline
-KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -4595,6 +4624,22 @@ AN  - 42864513
 UR  - https://link.springer.com/10.1007/s12028-026-02672-3
 KW  - Neurocritical Care
 KW  - 2026-W42
+ER  - 
+
+TY  - JOUR
+TI  - Optimal Transfusion Thresholds in Patients with Acute Brain Injury: A Bayesian Network Meta-analysis of Randomized Controlled Trials
+AU  - Wang X
+AU  - Fu W
+AU  - Chen W
+AU  - Ma L
+AU  - You C
+JO  - Neurocritical Care
+PY  - 2026
+DO  - 10.1007/s12028-026-02674-1
+AN  - 42864514
+UR  - https://link.springer.com/10.1007/s12028-026-02674-1
+KW  - Neurocritical Care
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -5859,6 +5904,80 @@ KW  - 2026-W20
 ER  - 
 
 TY  - JOUR
+TI  - Mechanical Thrombectomy 24 to 72 Hours after Large-Vessel Ischemic Stroke
+AU  - Yang P
+AU  - Shen H
+AU  - Yi T
+AU  - Xing P
+AU  - Su J
+AU  - Wen C
+AU  - Zhong W
+AU  - Li Q
+AU  - He Y
+AU  - Chen X
+AU  - He S
+AU  - Ren X
+AU  - You S
+AU  - Zhao Y
+AU  - Wang B
+AU  - Zhang Y
+AU  - Chen L
+AU  - Zhu X
+AU  - Zhang M
+AU  - Yu Y
+AU  - Jiang Y
+AU  - Wu Y
+AU  - Wang C
+AU  - Zhang X
+AU  - Yang W
+AU  - Shen F
+AU  - Wang L
+AU  - Huyan M
+AU  - Tian B
+AU  - Chen W
+AU  - Nan G
+AU  - Zhang L
+AU  - Shi H
+AU  - Han J
+AU  - Li T
+AU  - Zhang F
+AU  - Wei M
+AU  - Xu C
+AU  - Peng Y
+AU  - Sun J
+AU  - Wang S
+AU  - Han H
+AU  - Wang H
+AU  - Cai W
+AU  - Zhang M
+AU  - Yin C
+AU  - Cheng G
+AU  - Yin R
+AU  - Zhang Q
+AU  - Xiao G
+AU  - Zhang Y
+AU  - Liu S
+AU  - Li H
+AU  - Zhang L
+AU  - Li Z
+AU  - Zhou Y
+AU  - Zhao R
+AU  - Li Q
+AU  - Majoie CBLM
+AU  - Song L
+AU  - Zhang Y
+AU  - Anderson CS
+AU  - Liu J
+JO  - New England Journal of Medicine
+PY  - 2026
+DO  - 10.1056/nejmoa2609362
+AN  - 42929656
+UR  - http://www.nejm.org/doi/10.1056/NEJMoa2609362
+KW  - Neurocritical Care
+KW  - 2026-11
+ER  - 
+
+TY  - JOUR
 TI  - Impact of extended monitoring-guided intensive care on outcome after severe traumatic brain injury: A prospective multicentre cohort study (PariS-TBI study)
 AU  - Mateo, Joaquim
 AU  - Payen, Didier
@@ -6345,6 +6464,30 @@ KW  - 2026-W39
 ER  - 
 
 TY  - JOUR
+TI  - Effect of delirium monitoring using automated single-channel EEG on ICU length of stay
+AU  - van der A J
+AU  - Wesselius S
+AU  - Sprenger VCQ
+AU  - van der Elsen GMA
+AU  - Jhingoeriesingh SS
+AU  - Pellekoorn E
+AU  - Van Domburg J
+AU  - Van Dongen H
+AU  - Slooter AJC
+AU  - Koetsier P
+AU  - Gerritsen RT
+AU  - Beishuizen B
+AU  - Rinket M
+AU  - Ottens TH
+JO  - European Journal of Anaesthesiology Intensive Care
+PY  - 2026
+DO  - 10.1097/ea9.0000000000000138
+UR  - https://www.ovid.com/10.1097/EA9.0000000000000138
+KW  - Neurocritical Care
+KW  - 2026-11
+ER  - 
+
+TY  - JOUR
 TI  - Randomized Clinical Trial of 20% Mannitol Versus 3% Hypertonic Saline in Children With Raised Intracranial Pressure Due to Acute CNS Infections*
 AU  - Rameshkumar, Ramachandran
 AU  - Bansal, Arun
@@ -6618,6 +6761,7 @@ AN  - 42829213
 UR  - https://bmjpaedsopen.bmj.com/lookup/doi/10.1136/bmjpo-2026-004810
 KW  - Neurocritical Care
 KW  - 2026-W40
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
