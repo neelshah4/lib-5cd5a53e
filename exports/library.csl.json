@@ -83575,7 +83575,7 @@
     ]
    ]
   },
-  "keyword": "ECMO; 2026-W39"
+  "keyword": "ECMO; 2026-W39; 2026-11"
  },
  {
   "id": "10.1016/j.chest.2026.09.023",
@@ -83626,7 +83626,7 @@
     ]
    ]
   },
-  "keyword": "Respiratory/ARDS; 2026-W39; borderline; section-inferred"
+  "keyword": "Respiratory/ARDS; 2026-W39; 2026-11; borderline"
  },
  {
   "id": "10.1016/j.chest.2026.09.086",
@@ -83665,7 +83665,7 @@
     ]
    ]
   },
-  "keyword": "Respiratory/ARDS; 2026-W40; borderline; section-inferred"
+  "keyword": "Respiratory/ARDS; 2026-W40; 2026-11; borderline"
  },
  {
   "id": "10.1016/j.chest.2026.09.095",
@@ -92939,7 +92939,7 @@
     ]
    ]
   },
-  "keyword": "Shock & Sepsis; 2026-W39"
+  "keyword": "Shock & Sepsis; 2026-W39; 2026-11"
  },
  {
   "id": "10.1016/j.jcrc.2026.155752",
@@ -92966,7 +92966,7 @@
     ]
    ]
   },
-  "keyword": "Neurocritical Care; 2026-W39"
+  "keyword": "Neurocritical Care; 2026-W39; 2026-11"
  },
  {
   "id": "10.1016/j.jcrc.2026.155757",
@@ -94273,6 +94273,33 @@
    ]
   },
   "keyword": "ECMO; 2026-07"
+ },
+ {
+  "id": "10.1016/j.jointm.2026.04.002",
+  "type": "article-journal",
+  "title": "Respiratory medicine in the ICU 2026: From physiology to precision care",
+  "author": [
+   {
+    "family": "Xia J"
+   },
+   {
+    "family": "Wu Z"
+   },
+   {
+    "family": "Zhang H"
+   }
+  ],
+  "container-title": "Journal of Intensive Medicine",
+  "DOI": "10.1016/j.jointm.2026.04.002",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2667100X26000952",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "keyword": "Respiratory/ARDS; 2026-11"
  },
  {
   "id": "10.1016/j.jpeds.2016.02.057",
@@ -97350,6 +97377,69 @@
   "keyword": "ECMO; ECPR; 2024-12"
  },
  {
+  "id": "10.1016/j.resuscitation.2024.110475",
+  "type": "article-journal",
+  "title": "Left ventricular energetics in patients receiving veno-arterial extracorporeal membrane oxygenation for extracorporeal cardiopulmonary resuscitation",
+  "author": [
+   {
+    "family": "Kalra R"
+   },
+   {
+    "family": "Gaisendrees C"
+   },
+   {
+    "family": "Alexy T"
+   },
+   {
+    "family": "Kosmopoulos M"
+   },
+   {
+    "family": "Voicu S"
+   },
+   {
+    "family": "Bartos JA"
+   },
+   {
+    "family": "Gurevich SG"
+   },
+   {
+    "family": "Raveendran G"
+   },
+   {
+    "family": "Jaeger D"
+   },
+   {
+    "family": "Koukousaki D"
+   },
+   {
+    "family": "Elliott AM"
+   },
+   {
+    "family": "Bernal AG"
+   },
+   {
+    "family": "Dennis M"
+   },
+   {
+    "family": "Burns B"
+   },
+   {
+    "family": "Yannopoulos D"
+   }
+  ],
+  "container-title": "Resuscitation",
+  "DOI": "10.1016/j.resuscitation.2024.110475",
+  "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0300957224008505",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "keyword": "ECMO; 2026-11"
+ },
+ {
   "id": "10.1016/j.resuscitation.2024.110483",
   "type": "article-journal",
   "title": "Prediction of good neurological outcome after return of circulation following paediatric cardiac arrest: A systematic review and meta-analysis",
@@ -99416,7 +99506,7 @@
     ]
    ]
   },
-  "keyword": "Neurocritical Care; 2026-W40"
+  "keyword": "Neurocritical Care; 2026-W40; 2026-11"
  },
  {
   "id": "10.1016/j.resuscitation.2026.111289",

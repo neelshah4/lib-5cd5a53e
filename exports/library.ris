@@ -29402,6 +29402,7 @@ AN  - 42785423
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0012369226067127
 KW  - ECMO
 KW  - 2026-W39
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -29424,8 +29425,8 @@ AN  - 42790625
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0012369226067139
 KW  - Respiratory/ARDS
 KW  - 2026-W39
+KW  - 2026-11
 KW  - borderline
-KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -29444,8 +29445,8 @@ AN  - 42810428
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0012369226067760
 KW  - Respiratory/ARDS
 KW  - 2026-W40
+KW  - 2026-11
 KW  - borderline
-KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -33064,6 +33065,7 @@ AN  - 42784878
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S088394412600328X
 KW  - Shock & Sepsis
 KW  - 2026-W39
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -33078,6 +33080,7 @@ AN  - 42790099
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0883944126003308
 KW  - Neurocritical Care
 KW  - 2026-W39
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -33679,6 +33682,20 @@ AN  - 42396244
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S2667100X26000320
 KW  - ECMO
 KW  - 2026-07
+ER  - 
+
+TY  - JOUR
+TI  - Respiratory medicine in the ICU 2026: From physiology to precision care
+AU  - Xia J
+AU  - Wu Z
+AU  - Zhang H
+JO  - Journal of Intensive Medicine
+PY  - 2026
+DO  - 10.1016/j.jointm.2026.04.002
+AN  - 42978870
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2667100X26000952
+KW  - Respiratory/ARDS
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR
@@ -34866,6 +34883,32 @@ KW  - 2024-12
 ER  - 
 
 TY  - JOUR
+TI  - Left ventricular energetics in patients receiving veno-arterial extracorporeal membrane oxygenation for extracorporeal cardiopulmonary resuscitation
+AU  - Kalra R
+AU  - Gaisendrees C
+AU  - Alexy T
+AU  - Kosmopoulos M
+AU  - Voicu S
+AU  - Bartos JA
+AU  - Gurevich SG
+AU  - Raveendran G
+AU  - Jaeger D
+AU  - Koukousaki D
+AU  - Elliott AM
+AU  - Bernal AG
+AU  - Dennis M
+AU  - Burns B
+AU  - Yannopoulos D
+JO  - Resuscitation
+PY  - 2025
+DO  - 10.1016/j.resuscitation.2024.110475
+AN  - 39709175
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957224008505
+KW  - ECMO
+KW  - 2026-11
+ER  - 
+
+TY  - JOUR
 TI  - Prediction of good neurological outcome after return of circulation following paediatric cardiac arrest: A systematic review and meta-analysis
 AU  - Scholefield, Barnaby R.
 AU  - Tijssen, Janice
@@ -35749,6 +35792,7 @@ AN  - 42637215
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0300957226003254
 KW  - Neurocritical Care
 KW  - 2026-W40
+KW  - 2026-11
 ER  - 
 
 TY  - JOUR

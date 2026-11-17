@@ -47120,7 +47120,8 @@
   "take": "Narrative ethics review addressing the scenario of a patient on ECMO who no longer qualifies for recovery, transplant, or durable device. The authors critique four rationales sometimes used to justify unilateral ECMO withdrawal over patient/surrogate objection (original device purpose, medical inappropriateness, the withholding-withdrawing equivalency thesis, and resource/distributive-justice arguments), and outline legal considerations and practical conflict-resolution steps.",
   "impact": "hypothesis-generating/framework",
   "digests": [
-   "2026-W39"
+   "2026-W39",
+   "2026-11"
   ],
   "first_seen": "2026-09-27",
   "source": "weekly",
@@ -47156,13 +47157,13 @@
   "section": "Respiratory/ARDS",
   "subtopic": null,
   "tags": [
-   "borderline",
-   "section-inferred"
+   "borderline"
   ],
-  "take": "",
+  "take": "This narrative review covers the cough reflex, why cough is ineffective in ventilated patients, its association with extubation failure and postextubation pneumonia, and the available methods for quantifying cough during weaning.",
   "impact": null,
   "digests": [
-   "2026-W39"
+   "2026-W39",
+   "2026-11"
   ],
   "first_seen": "2026-09-27",
   "source": "weekly",
@@ -47194,13 +47195,13 @@
   "section": "Respiratory/ARDS",
   "subtopic": null,
   "tags": [
-   "borderline",
-   "section-inferred"
+   "borderline"
   ],
-  "take": "",
+  "take": "In 9 adults with ARDS on pressure support in a single-center, single-masked, nonrandomized crossover trial (fixed placebo-then-ondansetron order), IV ondansetron reduced the inspiratory esophageal pressure-time product (mean difference -23 cm H2O/s/min, 95% CI -28 to -18) and minute ventilation, with PaCO2 up 3.2 mm Hg.",
   "impact": null,
   "digests": [
-   "2026-W40"
+   "2026-W40",
+   "2026-11"
   ],
   "first_seen": "2026-10-04",
   "source": "weekly",
@@ -53564,7 +53565,8 @@
   "take": "PRISMA-compliant network meta-analysis of 21 RCTs (7908 patients) comparing hydrocortisone/fludrocortisone regimens in septic shock. Hydrocortisone ≥300 mg/day (OR 0.53, 95% CI 0.29–0.96) and hydrocortisone 200–299 mg/day plus fludrocortisone 50 mcg/day (OR 0.78, 95% CI 0.64–0.96) were both associated with reduced 28-day mortality versus placebo, though higher-dose hydrocortisone also increased superinfection risk.",
   "impact": "confirmatory-to-hypothesis-generating",
   "digests": [
-   "2026-W39"
+   "2026-W39",
+   "2026-11"
   ],
   "first_seen": "2026-09-27",
   "source": "weekly",
@@ -53595,7 +53597,8 @@
   "take": "Single-center retrospective study of 97 patients with hypertensive intracerebral hemorrhage undergoing multimodal neuromonitoring (pressure reactivity index, RAP, mean flow index, cerebral oximetry index) to characterize optimal cerebral perfusion pressure (CPPopt). Autoregulatory indices (PRx, Mx, COx) were closest to zero and intracranial compensatory reserve (RAP) was significantly better when actual CPP was within 5 mmHg of CPPopt (p<0.001); hypoperfusion and elevated ICP caused more severe physiologic derangement than hyperperfusion.",
   "impact": "hypothesis-generating",
   "digests": [
-   "2026-W39"
+   "2026-W39",
+   "2026-11"
   ],
   "first_seen": "2026-09-27",
   "source": "weekly",
@@ -54825,6 +54828,37 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://linkinghub.elsevier.com/retrieve/pii/S2667100X26000320"
+ },
+ {
+  "doi": "10.1016/j.jointm.2026.04.002",
+  "pmid": "42978870",
+  "title": "Respiratory medicine in the ICU 2026: From physiology to precision care",
+  "authors": [
+   "Xia J",
+   "Wu Z",
+   "Zhang H"
+  ],
+  "journal": "Journal of Intensive Medicine",
+  "year": 2026,
+  "pub_date": "2026-10-01",
+  "pub_types": [
+   "journal-article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [],
+  "take": "This annual review of 2025 ICU respiratory research highlights ARDS subphenotype classifiers, bedside effort indices (Pocc, P0.1) for preventing self-inflicted lung injury, and trials showing that driving-pressure-guided PEEP and advanced ventilator modes do not reliably improve outcomes when applied broadly.",
+  "impact": null,
+  "digests": [
+   "2026-11"
+  ],
+  "first_seen": "2026-11-17",
+  "source": "monthly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S2667100X26000952"
  },
  {
   "doi": "10.1016/j.jpeds.2016.02.057",
@@ -56926,6 +56960,49 @@
   "url": "https://www.resuscitationjournal.com/article/S0300-9572(24)00830-X/abstract"
  },
  {
+  "doi": "10.1016/j.resuscitation.2024.110475",
+  "pmid": "39709175",
+  "title": "Left ventricular energetics in patients receiving veno-arterial extracorporeal membrane oxygenation for extracorporeal cardiopulmonary resuscitation",
+  "authors": [
+   "Kalra R",
+   "Gaisendrees C",
+   "Alexy T",
+   "Kosmopoulos M",
+   "Voicu S",
+   "Bartos JA",
+   "Gurevich SG",
+   "Raveendran G",
+   "Jaeger D",
+   "Koukousaki D",
+   "Elliott AM",
+   "Bernal AG",
+   "Dennis M",
+   "Burns B",
+   "Yannopoulos D"
+  ],
+  "journal": "Resuscitation",
+  "year": 2025,
+  "pub_date": "2025-02-01",
+  "pub_types": [
+   "journal-article"
+  ],
+  "section": "ECMO",
+  "subtopic": null,
+  "tags": [],
+  "take": "In 15 adults on VA-ECMO after ECPR, lowering flow from a median 4.0 to 2.0 L/min increased LV end-diastolic volume (85 to 106 mL), LV end-diastolic pressure (14 to 17 mmHg) and LV stroke work on simultaneous left heart catheterization and 3D echocardiography.",
+  "impact": null,
+  "digests": [
+   "2026-11"
+  ],
+  "first_seen": "2026-11-17",
+  "source": "monthly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0300957224008505"
+ },
+ {
   "doi": "10.1016/j.resuscitation.2024.110483",
   "pmid": null,
   "title": "Prediction of good neurological outcome after return of circulation following paediatric cardiac arrest: A systematic review and meta-analysis",
@@ -58512,7 +58589,8 @@
   "take": "Planned analysis of the POCCA study (Outcomes Cohort n = 118 of 163 enrolled children). Day-1 blood biomarkers (NfL, UCH-L1, GFAP, tau) improved model fit over clinical variables in the Outcomes Cohort (LRT p = 0.002) but not in the imputed full cohort (p = 0.07). The penalized regression model had an optimism-corrected AUROC of 0.868 (0.82-0.94), and MRI Injury Score added predictive value (aOR 1.13, 1.03-1.24).",
   "impact": "hypothesis-generating; the authors state external validation is needed before clinical use",
   "digests": [
-   "2026-W40"
+   "2026-W40",
+   "2026-11"
   ],
   "first_seen": "2026-10-04",
   "source": "weekly",
