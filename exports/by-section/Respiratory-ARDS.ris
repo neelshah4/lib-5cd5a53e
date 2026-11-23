@@ -8651,6 +8651,29 @@ KW  - 2026-W46
 ER  - 
 
 TY  - JOUR
+TI  - Effect of PEEP on Diaphragm Is Associated with Lung Recruitability in ARDS: A Physiological Study
+AU  - Zhang J
+AU  - Liu D
+AU  - Liu X
+AU  - Sun H
+AU  - Fan X
+AU  - Qin C
+AU  - Zhang Z
+AU  - Chen S
+AU  - Zhang R
+AU  - Liu X
+JO  - Am J Respir Crit Care Med
+PY  - 2026
+DO  - 10.1093/ajrccm/aamag628
+AN  - 43045670
+UR  - https://academic.oup.com/ajrccm/advance-article/doi/10.1093/ajrccm/aamag628/9081216
+KW  - Respiratory/ARDS
+KW  - 2026-W47
+KW  - borderline
+KW  - section-inferred
+ER  - 
+
+TY  - JOUR
 TI  - Sequential Likelihood Ratios and E-processes in the Analysis of the RENOVATE Trial
 AU  - Zampieri FG
 AU  - Cavalcanti AB
@@ -8910,6 +8933,7 @@ AN  - 42752513
 UR  - https://www.ovid.com/10.1097/ALN.0000000000006373
 KW  - Respiratory/ARDS
 KW  - 2026-W38
+KW  - 2026-W47
 KW  - borderline
 KW  - section-inferred
 ER  - 
@@ -9111,6 +9135,20 @@ AN  - 43018242
 UR  - https://www.ovid.com/10.1097/CCE.0000000000001507
 KW  - Respiratory/ARDS
 KW  - 2026-W46
+ER  - 
+
+TY  - JOUR
+TI  - Novel Breath Segmentation and Predictive Quality Classification Model for Pediatric Bag-Mask Ventilation Using Capnography Waveforms.
+AU  - Hyde EC
+AU  - da Silva LEV
+AU  - Mehta S
+JO  - Crit Care Explor
+PY  - 2026
+DO  - 10.1097/cce.0000000000001509
+AN  - 43049301
+UR  - https://www.ovid.com/10.1097/CCE.0000000000001509
+KW  - Respiratory/ARDS
+KW  - 2026-W47
 ER  - 
 
 TY  - JOUR
@@ -9904,6 +9942,38 @@ AN  - 43012617
 UR  - https://www.ovid.com/10.1097/CCM.0000000000007434
 KW  - Respiratory/ARDS
 KW  - 2026-W46
+ER  - 
+
+TY  - JOUR
+TI  - The Radiographic Lung Edema Score in Pediatric Acute Respiratory Failure: Associations With Systemic Inflammatory Biomarkers and Multiple Organ Dysfunction.
+AU  - Sallee CJ
+AU  - Whitney JE
+AU  - Markovic D
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007444
+AN  - 43049459
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007444
+KW  - Respiratory/ARDS
+KW  - 2026-W47
+ER  - 
+
+TY  - JOUR
+TI  - High-Flow Nasal Cannula Versus Conventional Oxygen Therapy in Adults With De Novo Acute Hypoxemic Respiratory Failure: A Systematic Review and Meta-Analysis With Trial Sequential Analysis
+AU  - Lin P
+AU  - Li X
+AU  - Wang Y
+AU  - Liang Z
+AU  - Wang T
+JO  - Crit Care Med
+PY  - 2026
+DO  - 10.1097/ccm.0000000000007451
+AN  - 43049460
+UR  - https://www.ovid.com/10.1097/CCM.0000000000007451
+KW  - Respiratory/ARDS
+KW  - 2026-W47
+KW  - borderline
+KW  - section-inferred
 ER  - 
 
 TY  - JOUR
@@ -10918,6 +10988,48 @@ AN  - 42987232
 UR  - https://www.ovid.com/10.1097/PCC.0000000000004075
 KW  - Respiratory/ARDS
 KW  - 2026-W45
+ER  - 
+
+TY  - JOUR
+TI  - Residents' Ventilator Management Performance in an Online Pediatric Acute Respiratory Distress Syndrome Case Scenario: Secondary Analysis of the Game-Based Education in Residency Study, 2015-2017.
+AU  - Schütze L
+AU  - Staffa SJ
+AU  - Akhondi-Asl A
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004096
+AN  - 43055591
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004096
+KW  - Respiratory/ARDS
+KW  - 2026-W47
+ER  - 
+
+TY  - JOUR
+TI  - Physiological Impact of Chest Wall Closure in Infants Post-Cardiac Surgery. Implications for Mechanical Ventilation.
+AU  - Rodriguez Guerineau L
+AU  - Reise K
+AU  - Floh A
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004110
+AN  - 43055547
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004110
+KW  - Respiratory/ARDS
+KW  - 2026-W47
+ER  - 
+
+TY  - JOUR
+TI  - The Current State of Ventilator Liberation Practices and Outcomes in the United States-A Report From the Ventilator Liberation For Kids (VentLib4Kids) Collaborative.
+AU  - Loberger JM
+AU  - Napolitano N
+AU  - Gaies M
+JO  - Pediatr Crit Care Med
+PY  - 2026
+DO  - 10.1097/pcc.0000000000004115
+AN  - 43055543
+UR  - https://www.ovid.com/10.1097/PCC.0000000000004115
+KW  - Respiratory/ARDS
+KW  - 2026-W47
 ER  - 
 
 TY  - JOUR

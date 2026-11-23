@@ -35471,6 +35471,38 @@
   "url": "https://link.springer.com/article/10.1007/s00431-026-07596-w"
  },
  {
+  "doi": "10.1007/s00431-026-07634-7",
+  "pmid": "43052408",
+  "title": "Functional echocardiography for management of shock in neonates- a randomized clinical trial.",
+  "authors": [
+   "Mir YA",
+   "Chawla D",
+   "Jain S"
+  ],
+  "journal": "Eur J Pediatr",
+  "year": 2026,
+  "pub_date": "2026-11-18",
+  "pub_types": [
+   "Journal Article",
+   "Randomized Controlled Trial"
+  ],
+  "section": "Shock & Sepsis",
+  "subtopic": null,
+  "tags": [],
+  "take": "This open-label randomized trial in a level III NICU in India enrolled 77 neonates (28-42 weeks) with shock defined by at least two of seven criteria, comparing protocolized functional echocardiography plus clinical assessment against clinical assessment alone. Survival without inotropic support at 72 hours was 73.7% (28/38) vs 33.3% (13/39) (RR 2.21, 95% CI 1.36-3.58; adjusted RR 2.18, 95% CI 1.33-3.59). Hemodynamic stability came earlier in the echo group (median 3 vs 5 hours). Survival to discharge (73.7% vs 59.0%; RR 1.25, 95% CI 0.90-1.73) and severe intraventricular hemorrhage or cystic periventricular leukomalacia did not differ; the trial was not powered for these outcomes.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://link.springer.com/article/10.1007/s00431-026-07634-7"
+ },
+ {
   "doi": "10.1007/s00467-021-05180-y",
   "pmid": null,
   "title": "Survival of infants treated with CKRT: comparing adapted adult platforms with the Carpediem™",
@@ -47344,6 +47376,37 @@
   "url": "https://linkinghub.elsevier.com/retrieve/pii/S001236922606945X"
  },
  {
+  "doi": "10.1016/j.chest.2026.11.009",
+  "pmid": "43057567",
+  "title": "Liberation from Veno-venous Extracorporeal Life Support (VV-ECLS) for Acute Respiratory Distress Syndrome (ARDS): the Liberate VV-ECLS study: an international survey.",
+  "authors": [
+   "Al-Fares A",
+   "Al-Rashed M",
+   "Al-Mumin A"
+  ],
+  "journal": "Chest",
+  "year": 2026,
+  "pub_date": "2026-11-01",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "ECMO",
+  "subtopic": null,
+  "tags": [],
+  "take": "This cross-sectional survey was sent to 765 ELSO-registered centers (July to August 2022); 340 (44%) responded and 209 (61%) used VV-ECLS. Most centers were adult-focused and intensivist-led. Readiness for liberation was most often judged by oxygenation under lung-protective ventilation (92%) and respiratory system compliance (90%); inspiratory effort indices were used by 34%. Progressive sweep-gas reduction was the commonest strategy (40%), trial duration ranged widely (median 120 minutes), and 58% prioritized VV-ECLS liberation before liberation from mechanical ventilation. Only 42% of centers used a formal liberation protocol.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0012369226070558"
+ },
+ {
   "doi": "10.1016/j.chstcc.2023.100010",
   "pmid": null,
   "title": "Effects of Prone Position in Patients With COVID-19 Treated With Extracorporeal Membrane Oxygenation",
@@ -53797,6 +53860,69 @@
   "url": "https://linkinghub.elsevier.com/retrieve/pii/S088394412600376X"
  },
  {
+  "doi": "10.1016/j.jcrc.2026.155801",
+  "pmid": "43044166",
+  "title": "The SUBcutaneous Comprehensive UlTrasonographic (SUBCUT) protocol and Severity of Water and Edema Level Score (SWELS) for dynamic assessment of peripheral edema burden in critically ill patients: a prospective, longitudinal observational study.",
+  "authors": [
+   "Sk P",
+   "Patel N",
+   "Kumar R"
+  ],
+  "journal": "J Crit Care",
+  "year": 2026,
+  "pub_date": "2027-02-01",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Shock & Sepsis",
+  "subtopic": null,
+  "tags": [],
+  "take": "This prospective study scored subcutaneous edema by ultrasound at six bilateral regions (SWELS, range 0-48) on days 1, 3, and 7 in 111 critically ill adults; ICU mortality was 23.4%. Baseline SWELS and cumulative fluid balance were similar between survivors and non-survivors, but by day 3 median SWELS was 24 in non-survivors vs 8 in survivors (unadjusted AUC 0.86 vs 0.65 for cumulative fluid balance). A 5-point rise in day 3 SWELS was independently associated with ICU mortality (sub-distribution HR 1.51, 95% CI 1.22-1.86) and improved a base model of age, sepsis, and SOFA (delta AUC 0.043).",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126003795"
+ },
+ {
+  "doi": "10.1016/j.jcrc.2026.155803",
+  "pmid": "43057195",
+  "title": "Redefining blood pressure targets in refractory septic shock.",
+  "authors": [
+   "Kattan E",
+   "Martin-Loeches I",
+   "Khanna AK"
+  ],
+  "journal": "J Crit Care",
+  "year": 2026,
+  "pub_date": "2027-02-01",
+  "pub_types": [
+   "Journal Article",
+   "Review"
+  ],
+  "section": "Shock & Sepsis",
+  "subtopic": null,
+  "tags": [],
+  "take": "This physiology-based hypothesis article argues that, beyond a mean arterial pressure of roughly 60-65 mmHg, tissue perfusion as reflected by lactate and capillary refill time is independent of arterial pressure in most patients because of lost hemodynamic coherence. The authors propose that the cost of raising pressure rises disproportionately with norepinephrine requirement. They suggest the optimal pressure in refractory septic shock be investigated with time-limited challenges and repeated multimarker assessment of global, regional, and local perfusion, and state that further research is needed.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126003813"
+ },
+ {
   "doi": "10.1016/j.jcrc.2026.155806",
   "pmid": "42981693",
   "title": "Oxygen consumption as a measure of metabolic demand during early rehabilitation and bedside activity in critically ill adults receiving invasive mechanical ventilation: A systematic review and meta-analysis.",
@@ -53834,6 +53960,36 @@
   "url": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126003849"
  },
  {
+  "doi": "10.1016/j.jcrc.2026.155807",
+  "pmid": "43044167",
+  "title": "Cardiovascular physiology of respiratory support in acute cardiac critical illness: A hemodynamic guided approach.",
+  "authors": [
+   "Chacón-Lozsán FJ."
+  ],
+  "journal": "J Crit Care",
+  "year": 2026,
+  "pub_date": "2027-02-01",
+  "pub_types": [
+   "Journal Article",
+   "Review"
+  ],
+  "section": "Cardiac CC",
+  "subtopic": null,
+  "tags": [],
+  "take": "This narrative review proposes a physiology-based framework for heart-lung interactions during respiratory support in acute cardiac critical illness, organized around three hemodynamic phenotypes: left ventricular congestion with afterload excess, left ventricular low output or cardiogenic shock, and right ventricular pressure overload or failure (with pulmonary embolism as an etiology of the last). It describes how high-flow nasal oxygen, CPAP, bilevel noninvasive ventilation, and invasive ventilation alter loading conditions, and how clinical examination, perfusion assessment, hemodynamic monitoring, focused echocardiography, and lung ultrasound can anticipate and reassess those effects. The author states the framework is conceptual and not a validated algorithm.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126003850"
+ },
+ {
   "doi": "10.1016/j.jcrc.2026.155808",
   "pmid": "42976438",
   "title": "Real-world outcomes of continuous infusion of sedative agents in critically ill patients with invasive mechanical ventilation.",
@@ -53863,6 +54019,37 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126003862"
+ },
+ {
+  "doi": "10.1016/j.jcrc.2026.155813",
+  "pmid": "43063662",
+  "title": "Implementing model-informed precision dosing of antibiotics in critically ill patients: a case-study with electronic health record interfacing and comparative evaluation of the Tucuxi software for cefepime therapeutic drug monitoring.",
+  "authors": [
+   "Percevault S",
+   "Thoma Y",
+   "Wallet F"
+  ],
+  "journal": "J Crit Care",
+  "year": 2026,
+  "pub_date": "2027-02-01",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Misc",
+  "subtopic": null,
+  "tags": [],
+  "take": "This feasibility study built an interface between the ICU electronic health record (ICCA) and the Tucuxi model-informed precision dosing software and retrospectively compared Tucuxi with BestDose on 89 cefepime concentrations from 34 ICU patients. The interface imported therapeutic drug monitoring data successfully. At the first monitoring occasion the median trough was 19.2 mg/L with 46% of values above 20 mg/L, and overexposure fell to 29% after the first dosing round. Mean prediction errors (-0.7 vs -1.2 mg/L) and forecasting results were similar between programs, and dosage recommendations agreed except in two cases.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126003916"
  },
  {
   "doi": "10.1016/j.jcrc.2026.155827",
@@ -53896,6 +54083,37 @@
   "url": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126004053"
  },
  {
+  "doi": "10.1016/j.jcrc.2026.155828",
+  "pmid": "43038894",
+  "title": "Capillary refill time at the admission of trauma patients: A prospective, observational study.",
+  "authors": [
+   "Bianchi A",
+   "Bodet E",
+   "Duclos G"
+  ],
+  "journal": "J Crit Care",
+  "year": 2026,
+  "pub_date": "2027-02-01",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Shock & Sepsis",
+  "subtopic": null,
+  "tags": [],
+  "take": "This prospective single-center study in a 20-bed trauma ICU (April 2025 to January 2026) analyzed 196 of 627 screened adults with injury severity score above 15. Admission lactate did not differ significantly between abnormal (CRT 3 s or more) and normal CRT groups (2.6 vs 1.9 mmol/L; p=0.07), so the primary endpoint was not met. CRT and lactate were correlated (r=0.33), and each additional second of CRT was associated with a 15% higher lactate in multivariable analysis (95% CI 1.06-1.25). Among patients with lactate above 2 mmol/L, abnormal CRT was associated with longer vasopressor exposure at day 3 and higher ICU mortality.",
+  "impact": "null on the primary endpoint; hypothesis-generating for crt as a complement to lactate, because the authors label the subgroup findings exploratory",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126004065"
+ },
+ {
   "doi": "10.1016/j.jcrc.2026.155829",
   "pmid": "43025024",
   "title": "Resuscitation strategies incorporating peripheral perfusion targets in septic shock: A systematic review and meta-analysis of randomized controlled trials.",
@@ -53926,6 +54144,38 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126004077"
+ },
+ {
+  "doi": "10.1016/j.jcrc.2026.155832",
+  "pmid": "43057194",
+  "title": "Artificial intelligence tools for generating multimodal intensive care unit journey and discharge summaries: a scoping review.",
+  "authors": [
+   "Johnson GU",
+   "Li X",
+   "Zhang M"
+  ],
+  "journal": "J Crit Care",
+  "year": 2026,
+  "pub_date": "2027-02-01",
+  "pub_types": [
+   "Journal Article",
+   "Review"
+  ],
+  "section": "Misc",
+  "subtopic": null,
+  "tags": [],
+  "take": "This scoping review (Joanna Briggs Institute methodology, PRISMA-ScR) searched five databases and grey literature for AI tools that generate patient summaries of adult ICU stays and included 11 studies. Eight generated text, three produced visual outputs, and one an audio interface; ten were clinician-facing and only one generated summaries for families. Approaches included large language models, rule-based natural language generation, and information extraction. No study implemented a fully multimodal system, and all evaluations used retrospective data, simulations, or prototypes without prospective testing in live workflows.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0883944126004107"
  },
  {
   "doi": "10.1016/j.jelectrocard.2021.02.001",
@@ -59263,6 +59513,99 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://linkinghub.elsevier.com/retrieve/pii/S0300957226024366"
+ },
+ {
+  "doi": "10.1016/j.resuscitation.2026.111390",
+  "pmid": "43039095",
+  "title": "Trends in United States Pediatric In-Hospital Cardiac Arrest Incidence and Mortality in a Nationally Representative Sample, 2009-2022.",
+  "authors": [
+   "Keim G",
+   "O'Halloran A",
+   "Kienzle MF"
+  ],
+  "journal": "Resuscitation",
+  "year": 2026,
+  "pub_date": "2026-11-01",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Cardiac CC",
+  "subtopic": null,
+  "tags": [],
+  "take": "This serial cross-sectional analysis of five Kids' Inpatient Database editions (2009-2022) identified pediatric in-hospital cardiac arrest from CPR procedure codes. Survey-weighted incidence was 1.11 per 1,000 hospitalizations in 2009 and 1.35 by 2022. Among children with a complex chronic condition, incidence rose from 3.26 to 6.60 per 1,000 (6.2% per year, p<0.001), and incidence was higher in the lowest income quartile (1.78 vs 1.04 per 1,000 in 2022). In-hospital mortality after CPR ranged from 34.1% to 40.4%. The authors report that CPR coding at a single hospital can distort national estimates.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0300957226024378"
+ },
+ {
+  "doi": "10.1016/j.resuscitation.2026.111398",
+  "pmid": "43044723",
+  "title": "Commercially available multimodal LLMs for EEG-based prognostication after cardiac arrest.",
+  "authors": [
+   "Monteiro KM",
+   "Pelentritou A",
+   "Gruaz L"
+  ],
+  "journal": "Resuscitation",
+  "year": 2026,
+  "pub_date": "2026-11-01",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Neurocritical Care",
+  "subtopic": null,
+  "tags": [],
+  "take": "This exploratory study gave two commercial multimodal large language models a single 10-second bipolar EEG image from each of 33 comatose patients on day 1 after cardiac arrest and asked for the probability of favorable outcome under five prompting strategies. AUC ranged from 0.86 to 0.99 for ChatGPT and 0.74 to 1.00 for Claude, with a highest accuracy of 93.9% using few-shot prompting; a previously published dedicated deep-learning model reached 100% on the same cohort. Performance depended substantially on prompt design.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0300957226024457"
+ },
+ {
+  "doi": "10.1016/j.resuscitation.2026.111403",
+  "pmid": "43044726",
+  "title": "Early Prehospital Prediction of Neurological Outcome After Out-of-Hospital Cardiac Arrest Derivation and External Validation of the MIRA-29 Score.",
+  "authors": [
+   "Querellou GE",
+   "Tymen R",
+   "Kernevez M"
+  ],
+  "journal": "Resuscitation",
+  "year": 2026,
+  "pub_date": "2026-11-01",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Cardiac CC",
+  "subtopic": null,
+  "tags": [],
+  "take": "The MIRA-29 score was derived and internally validated in 1,099 adults with out-of-hospital cardiac arrest from one dispatch territory over five years (85 patients, 7.7%, had a favorable neurological outcome) and externally validated in 82,696 patients from the French national registry. Machine learning and genetic algorithms optimized a model from low-flow duration, number of shocks, epinephrine dose, and arrest site; age was not retained. In external validation, precision was 0.86, recall 0.88, and specificity for poor neurological prognosis 0.99.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0300957226024500"
  },
  {
   "doi": "10.1016/j.rmed.2021.106555",
@@ -76743,6 +77086,47 @@
   "url": "https://academic.oup.com/ajrccm/advance-article/doi/10.1093/ajrccm/aamag610/9036131"
  },
  {
+  "doi": "10.1093/ajrccm/aamag628",
+  "pmid": "43045670",
+  "title": "Effect of PEEP on Diaphragm Is Associated with Lung Recruitability in ARDS: A Physiological Study",
+  "authors": [
+   "Zhang J",
+   "Liu D",
+   "Liu X",
+   "Sun H",
+   "Fan X",
+   "Qin C",
+   "Zhang Z",
+   "Chen S",
+   "Zhang R",
+   "Liu X"
+  ],
+  "journal": "Am J Respir Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-11-17",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [
+   "borderline",
+   "section-inferred"
+  ],
+  "take": "",
+  "impact": null,
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": false,
+  "url": "https://academic.oup.com/ajrccm/advance-article/doi/10.1093/ajrccm/aamag628/9081216"
+ },
+ {
   "doi": "10.1093/annalsats/aaoag042",
   "pmid": "41734013",
   "title": "Sequential Likelihood Ratios and E-processes in the Analysis of the RENOVATE Trial",
@@ -80298,7 +80682,8 @@
   "take": "",
   "impact": null,
   "digests": [
-   "2026-W38"
+   "2026-W38",
+   "2026-W47"
   ],
   "first_seen": "2026-09-20",
   "source": "weekly",
@@ -82500,6 +82885,69 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://www.ovid.com/10.1097/CCE.0000000000001507"
+ },
+ {
+  "doi": "10.1097/cce.0000000000001509",
+  "pmid": "43049301",
+  "title": "Novel Breath Segmentation and Predictive Quality Classification Model for Pediatric Bag-Mask Ventilation Using Capnography Waveforms.",
+  "authors": [
+   "Hyde EC",
+   "da Silva LEV",
+   "Mehta S"
+  ],
+  "journal": "Crit Care Explor",
+  "year": 2026,
+  "pub_date": "2026-11-01",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [],
+  "take": "This retrospective derivation analyzed capnography waveforms from 85 critically ill children receiving peri-intubation bag-mask ventilation in a quaternary PICU. A rule-based algorithm segmented 6,942 breaths (positive predictive value 0.95, sensitivity 0.86), and deep-learning models classified breaths meeting low-quality criteria (49.5% of breaths) using CO2 alone. The best classifier reached AUROC 0.79 (95% CI 0.66-0.89) and AUPRC 0.75 (95% CI 0.57-0.88) by internal repeated 10-fold cross-validation; no independent validation cohort was used. The authors note CO2-only segmentation may miss attempts with minimal exhaled CO2.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/CCE.0000000000001509"
+ },
+ {
+  "doi": "10.1097/cce.0000000000001520",
+  "pmid": "43043828",
+  "title": "Preoperative Serum Biomarkers Improve Prediction of Poor Postoperative Outcome After Cardiopulmonary Bypass Compared With Clinical Variables in Neonates.",
+  "authors": [
+   "Gardner MM",
+   "Balcarcel D",
+   "Chen F"
+  ],
+  "journal": "Crit Care Explor",
+  "year": 2026,
+  "pub_date": "2026-11-01",
+  "pub_types": [
+   "Journal Article",
+   "Observational Study"
+  ],
+  "section": "Cardiac CC",
+  "subtopic": null,
+  "tags": [],
+  "take": "This prospective single-center cohort measured 37 preoperative plasma biomarkers in 144 neonates undergoing cardiopulmonary bypass for congenital heart disease; 29 (20%) met the ICU-30 composite (death within 30 days, ICU stay over 30 days, or ICU readmission within 30 days). With XGBoost, combined clinical and biomarker data gave an AUROC of 0.74, versus 0.72 for biomarkers alone and 0.67 for clinical data alone; XGBoost outperformed random forest (0.72) and LASSO (0.70). NGAL, TFF3, ADAMTS13, and angiopoietin-2 were the most influential features.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/CCE.0000000000001520"
  },
  {
   "doi": "10.1097/ccm.0000000000000192",
@@ -88294,6 +88742,68 @@
   "url": "https://www.ovid.com/10.1097/CCM.0000000000007442"
  },
  {
+  "doi": "10.1097/ccm.0000000000007443",
+  "pmid": "43049463",
+  "title": "Age-Related Differences in the Organ Donation Process Among Pediatric Brain-Dead Donors: A Nationwide Study in Japan.",
+  "authors": [
+   "Obara T",
+   "Tsukahara K",
+   "Nojima T"
+  ],
+  "journal": "Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-11-18",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Neurocritical Care",
+  "subtopic": null,
+  "tags": [],
+  "take": "This nationwide retrospective cohort included all 100 pediatric brain-dead donors in Japan (July 2010 to March 2024), grouped as younger than 6 years (n=32), 6-14 years (n=48), and 15-17 years (n=20). The median interval from hospital admission to procurement lengthened with younger age (28, 19.5, and 13.5 days; p<0.01), and younger donors were more often managed in children's hospitals. Transplantation was achieved in 99% of donors, with high heart, liver, and kidney rates across ages; lung and pancreas rates rose with donor age. Organ function was generally maintained or improved during donor management, and graft survival did not differ by age.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/CCM.0000000000007443"
+ },
+ {
+  "doi": "10.1097/ccm.0000000000007444",
+  "pmid": "43049459",
+  "title": "The Radiographic Lung Edema Score in Pediatric Acute Respiratory Failure: Associations With Systemic Inflammatory Biomarkers and Multiple Organ Dysfunction.",
+  "authors": [
+   "Sallee CJ",
+   "Whitney JE",
+   "Markovic D"
+  ],
+  "journal": "Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-11-18",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [],
+  "take": "This multicenter retrospective PICU cohort (CAF-PINT study, 2012-2016) scored baseline chest radiographs with the RALE score in 212 children receiving invasive mechanical ventilation for acute respiratory failure. Inter-rater reliability was good (ICC 0.85, 95% CI 0.82-0.87). After adjustment for etiology and severity, higher RALE was associated with fewer 28-day ventilator-free days (sub-distribution HR 0.81 per SD, 95% CI 0.69-0.95), mediated through oxygenation index and, to a smaller degree, PELOD organ dysfunction. Penalized regression linked higher RALE to soluble TREM-1, ICAM-1, and TNFR-1.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/CCM.0000000000007444"
+ },
+ {
   "doi": "10.1097/ccm.0000000000007445",
   "pmid": "43018408",
   "title": "A Telemedicine Intervention for Spontaneous Awakening and Breathing Trials in Small and Large ICUs.",
@@ -88323,6 +88833,42 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://www.ovid.com/10.1097/CCM.0000000000007445"
+ },
+ {
+  "doi": "10.1097/ccm.0000000000007451",
+  "pmid": "43049460",
+  "title": "High-Flow Nasal Cannula Versus Conventional Oxygen Therapy in Adults With De Novo Acute Hypoxemic Respiratory Failure: A Systematic Review and Meta-Analysis With Trial Sequential Analysis",
+  "authors": [
+   "Lin P",
+   "Li X",
+   "Wang Y",
+   "Liang Z",
+   "Wang T"
+  ],
+  "journal": "Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-11-18",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [
+   "borderline",
+   "section-inferred"
+  ],
+  "take": "",
+  "impact": null,
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/CCM.0000000000007451"
  },
  {
   "doi": "10.1097/ccm.0b013e3181c65a12",
@@ -91892,6 +92438,37 @@
   "url": "https://www.ovid.com/10.1097/MAT.0000000000002898"
  },
  {
+  "doi": "10.1097/mat.0000000000002901",
+  "pmid": "43050681",
+  "title": "Precannulation Risk Factors Associated With Hemorrhagic Events During Respiratory Extracorporeal Membrane Oxygenation in Children: A Multicenter Retrospective Study.",
+  "authors": [
+   "Reina R EC",
+   "Acevedo L",
+   "Fernández-Sarmiento J"
+  ],
+  "journal": "ASAIO J",
+  "year": 2026,
+  "pub_date": "2026-11-18",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "ECMO",
+  "subtopic": null,
+  "tags": [],
+  "take": "This retrospective cohort at four Colombian centers (2018-2022) included 106 children on respiratory ECMO; 53 (50.0%) had at least one hemorrhagic complication, 83% of events occurring in the first 7 days. Cannulation-site bleeding (41.5%), intracranial hemorrhage (22.6%), and pulmonary hemorrhage (17.0%) were most frequent. Higher precannulation lactate, lower bicarbonate, prior SARS-CoV-2 infection, adenovirus infection at admission, and longer pre-ECMO ventilation and vasoactive support remained associated with bleeding. Bleeding was associated with higher 28-day mortality (39.6% vs 13.2%; time-dependent HR 4.93, 95% CI 2.09-11.64).",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/MAT.0000000000002901"
+ },
+ {
   "doi": "10.1097/mat.0000000000002903",
   "pmid": "42962225",
   "title": "Iliohypogastric and Ilioinguinal Nerve Block for Awake ECPella Cannulation in Pediatric Patients With Nonpostcardiotomy Cardiogenic Shock.",
@@ -92014,6 +92591,68 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://www.ovid.com/10.1097/MAT.0000000000002911"
+ },
+ {
+  "doi": "10.1097/mat.0000000000002912",
+  "pmid": "43049872",
+  "title": "Extracorporeal Cardiopulmonary Resuscitation and Mortality in Pediatric Medical Venoarterial Extracorporeal Membrane Oxygenation.",
+  "authors": [
+   "Lim SY",
+   "Choi SJ",
+   "Jhang WK"
+  ],
+  "journal": "ASAIO J",
+  "year": 2026,
+  "pub_date": "2026-11-18",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "ECMO",
+  "subtopic": null,
+  "tags": [],
+  "take": "This single tertiary-center retrospective cohort (2010-2025) included 73 children aged 28 days to under 18 years on VA-ECMO for medical indications (58 non-ECPR, 15 ECPR). ECPR was associated with higher PICU mortality in unadjusted analysis (OR 5.23, 95% CI 1.47-18.53) but not after adjustment for pre-ECMO physiology (adjusted OR 1.74, 95% CI 0.37-8.08). Lower pre-ECMO arterial pH remained associated with mortality (adjusted OR 1.87 per 0.1 decrease), and underlying cardiac disease was associated with lower mortality than noncardiac disease in a sensitivity analysis.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/MAT.0000000000002912"
+ },
+ {
+  "doi": "10.1097/mat.0000000000002921",
+  "pmid": "43040606",
+  "title": "Ventricular Assist Devices Effectively Bridge Pediatric Patients to Heart Retransplantation: An ACTION Registry Study.",
+  "authors": [
+   "Lukich S",
+   "Tadros HJ",
+   "Spinner JA"
+  ],
+  "journal": "ASAIO J",
+  "year": 2026,
+  "pub_date": "2026-11-17",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Cardiac CC",
+  "subtopic": null,
+  "tags": [],
+  "take": "This retrospective ACTION registry study identified 24 pediatric transplant recipients supported with a VAD for a median 64 days as a bridge to retransplant candidacy (54%) or to retransplant (46%). Major adverse events were frequent: infection in 75%, bleeding in 42%, renal dysfunction requiring dialysis in 33%, and stroke in 8%. Of the 24, 71% (17) survived to retransplant, with 88% survival at 1 year after retransplant. Device mortality was higher for bridge to candidacy than bridge to retransplant (46% vs 9%; p=0.046). The authors describe it as the first multicenter study of this use.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/MAT.0000000000002921"
  },
  {
   "doi": "10.1097/mcc.0000000000000774",
@@ -100860,6 +101499,37 @@
   "url": "https://www.ovid.com/10.1097/PCC.0000000000004095"
  },
  {
+  "doi": "10.1097/pcc.0000000000004096",
+  "pmid": "43055591",
+  "title": "Residents' Ventilator Management Performance in an Online Pediatric Acute Respiratory Distress Syndrome Case Scenario: Secondary Analysis of the Game-Based Education in Residency Study, 2015-2017.",
+  "authors": [
+   "Schütze L",
+   "Staffa SJ",
+   "Akhondi-Asl A"
+  ],
+  "journal": "Pediatr Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-11-19",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [],
+  "take": "This secondary analysis of the Game-based Education in Residency study examined 125 residents on their first PICU rotation (28 international PICUs) using an online mild-to-moderate PARDS ventilator simulator. Median selections were PEEP 8 cm H2O (low end of the goal range), FiO2 60% (high), and tidal volume 5.36 mL/kg (in range); Pao2 and pH stayed above goal. Progress through the case was associated with greater odds of adherence for PEEP (OR 2.68), FiO2 (OR 2.48), and tidal volume (OR 2.66). Residents did not wean FiO2 or ventilator parameters when Pao2 and pH were above goal.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/PCC.0000000000004096"
+ },
+ {
   "doi": "10.1097/pcc.0000000000004100",
   "pmid": "43012621",
   "title": "The Quiet Struggle: Parental Perspectives on Sibling Well-Being During PICU Admission",
@@ -100990,6 +101660,68 @@
   "url": "https://www.ovid.com/10.1097/PCC.0000000000004104"
  },
  {
+  "doi": "10.1097/pcc.0000000000004108",
+  "pmid": "43055551",
+  "title": "Clinical Factors Associated With Physical Restraint Use in Critically Ill Children: A Secondary Analysis of the PICU Up! Pilot Trial, 2019-2020.",
+  "authors": [
+   "De Armas R",
+   "Blackman I",
+   "Mennie C"
+  ],
+  "journal": "Pediatr Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-11-19",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Misc",
+  "subtopic": null,
+  "tags": [],
+  "take": "This secondary analysis of prospectively collected baseline data from the PICU Up! stepped-wedge trial covered 1,153 children across six US PICUs (May 2019 to March 2020). Physical restraints were used in 216 patients (18.7%) and 9.07% of patient-days. Previous-day restraint was the strongest predictor of restraint (adjusted OR 22.79, 95% CI 16.72-31.07); mechanical ventilation (aOR 2.98), benzodiazepine use (aOR 1.49), opioid use (aOR 1.99), and light sedation (SBS -1; aOR 1.72) were also associated, whereas agitation was not. Of 407 patients receiving neuromuscular blockade, 51 (12.5%) remained restrained.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/PCC.0000000000004108"
+ },
+ {
+  "doi": "10.1097/pcc.0000000000004110",
+  "pmid": "43055547",
+  "title": "Physiological Impact of Chest Wall Closure in Infants Post-Cardiac Surgery. Implications for Mechanical Ventilation.",
+  "authors": [
+   "Rodriguez Guerineau L",
+   "Reise K",
+   "Floh A"
+  ],
+  "journal": "Pediatr Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-11-19",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [],
+  "take": "This prospective single-center physiologic study in a cardiac PICU enrolled 10 infants (median age 32 days, weight 3.1 kg) with delayed sternal closure after congenital heart surgery. Esophageal pressure, transpulmonary pressure, elastance, and hemodynamics were measured across four PEEP and tidal volume conditions before and after closure. Chest closure raised esophageal pressure and, in most conditions, elastance, and made expiratory transpulmonary pressure more negative. Under the open-sternum model assumptions, high tidal volume was most often associated with nondependent inspiratory transpulmonary pressure above 23 cm H2O. Central venous pressure rose after closure while transmural filling pressure was unchanged.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/PCC.0000000000004110"
+ },
+ {
   "doi": "10.1097/pcc.0000000000004112",
   "pmid": "43023816",
   "title": "Electronic Children's Hospital Early Warning Score: Development and Validation of a Novel Machine Learning Algorithm Predicting Critical Deterioration Events in a Retrospective, Single-Center Cohort.",
@@ -101019,6 +101751,130 @@
   "oa": false,
   "has_abstract": true,
   "url": "https://www.ovid.com/10.1097/PCC.0000000000004112"
+ },
+ {
+  "doi": "10.1097/pcc.0000000000004115",
+  "pmid": "43055543",
+  "title": "The Current State of Ventilator Liberation Practices and Outcomes in the United States-A Report From the Ventilator Liberation For Kids (VentLib4Kids) Collaborative.",
+  "authors": [
+   "Loberger JM",
+   "Napolitano N",
+   "Gaies M"
+  ],
+  "journal": "Pediatr Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-11-19",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Respiratory/ARDS",
+  "subtopic": null,
+  "tags": [],
+  "take": "This observational cohort covered 2,315 ventilator courses in 19 US PICUs (13 medical/surgical, 5 cardiovascular, 1 mixed) from July 2023 to June 2024, assessed against the 2023 Pediatric Ventilator Liberation Guidelines. Spontaneous breathing trial exposure had the highest concordance (74.6% median; unit range 49.6-100%) and maximal inspiratory pressure testing the lowest (3.7%). An air leak test was done in 55.5% of courses, and 70.1% of eligible courses received dexamethasone concordant with guidance. Planned post-extubation high-flow nasal cannula was used in 44.3% and bilevel positive airway pressure in 18.6%. Extubation failure (reintubation within 48 hours) occurred in 10.4% (unit range 4.5-19.2%).",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/PCC.0000000000004115"
+ },
+ {
+  "doi": "10.1097/pcc.0000000000004116",
+  "pmid": "43055592",
+  "title": "Serum Renin As a Prognostic Biomarker in Children With Sepsis-Associated Acute Kidney Injury.",
+  "authors": [
+   "Clover-Brown I",
+   "Standage SW",
+   "Ceschia G"
+  ],
+  "journal": "Pediatr Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-11-19",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "Renal",
+  "subtopic": null,
+  "tags": [],
+  "take": "This secondary analysis of a multicenter prospective observational study of pediatric septic shock (10 US PICUs) examined 708 children with early sepsis-associated AKI and day 1 serum for renin measurement. The highest renin tertile (above 247 pg/mL) had fewer severe-AKI-free days (4 vs 5 in the other tertiles), higher day 7 severe AKI (47% vs 32% and 27%), fewer PICU-free days, and higher 28-day mortality. The tertile remained independently associated with these outcomes after adjustment for severity. Worse outcomes in the top tertile appeared in the less severe pSAKI-1 subphenotype but not in pSAKI-2.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/PCC.0000000000004116"
+ },
+ {
+  "doi": "10.1097/pcc.0000000000004121",
+  "pmid": "43055550",
+  "title": "Utility of Renal Replacement Therapy for Infants With Congenital Diaphragmatic Hernia Receiving Extracorporeal Life Support.",
+  "authors": [
+   "Gehle DB",
+   "Anton-Martin P",
+   "Burgwardt NM"
+  ],
+  "journal": "Pediatr Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-11-19",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "ECMO",
+  "subtopic": null,
+  "tags": [],
+  "take": "This multicenter retrospective study used the ELSO registry (2011-2020) to examine 2,815 infants with congenital diaphragmatic hernia on ECLS, of whom 749 (26.6%) received renal replacement therapy. After propensity-score matching (413 pairs) for pre-ECLS severity, RRT was associated with lower survival to discharge (36.3% vs 57.4%; survival OR 0.42, 95% CI 0.32-0.56), longer ECLS duration (15 vs 9.4 days), and more severe on-ECLS AKI (10.9% vs 3.6%). The survival association was significant only in patients undergoing on-ECLS CDH repair. The authors describe RRT as a likely marker of clinical deterioration.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/PCC.0000000000004121"
+ },
+ {
+  "doi": "10.1097/pcc.0000000000004125",
+  "pmid": "43055590",
+  "title": "Long-Term Neurologic Complication and Healthcare Burden in Infants Receiving Extracorporeal Life Support: A Nationwide Population-Based Cohort Study.",
+  "authors": [
+   "Kang M",
+   "Lee D",
+   "Yu H"
+  ],
+  "journal": "Pediatr Crit Care Med",
+  "year": 2026,
+  "pub_date": "2026-11-19",
+  "pub_types": [
+   "Journal Article"
+  ],
+  "section": "ECMO",
+  "subtopic": null,
+  "tags": [],
+  "take": "This retrospective cohort used South Korea's National Health Insurance Service data (2009-2022) to follow 698 infants younger than 1 year who received ECLS. Of these, 212 (30.4%) survived during follow-up (estimated 1-year mortality 67.1%), and 128 survivors (60.4%) developed a neurologic injury, including stroke, hypoxic-ischemic brain injury, cerebral palsy, epilepsy, hearing loss, and developmental delay. Survivors with neurologic injury had longer hospital stays (432.1 vs 182.3 days) and higher cumulative costs; hypoxic-ischemic brain injury carried the highest cost despite lower prevalence.",
+  "impact": "hypothesis-generating",
+  "digests": [
+   "2026-W47"
+  ],
+  "first_seen": "2026-11-22",
+  "source": "weekly",
+  "confidence": 1.0,
+  "verified": true,
+  "oa": false,
+  "has_abstract": true,
+  "url": "https://www.ovid.com/10.1097/PCC.0000000000004125"
  },
  {
   "doi": "10.1097/pcc.0b013e3181b7fa1f",
